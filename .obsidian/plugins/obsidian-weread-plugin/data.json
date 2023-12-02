@@ -46,10 +46,10 @@
     }
   ],
   "noteLocation": "3.微信读书",
-  "dailyNotesLocation": "/",
+  "dailyNotesLocation": "5.博客文章/shuoshuo",
   "insertAfter": "<!-- start of weread -->",
   "insertBefore": "<!-- end of weread -->",
-  "dailyNotesFormat": "YYYY-MM-DD",
+  "dailyNotesFormat": "w[th-]YYYY-MM-DD-[zhou]d",
   "lastCookieTime": 1701520047240,
   "isCookieValid": true,
   "user": "魏家林",
@@ -58,6 +58,6 @@
   "noteCountLimit": -1,
   "subFolderType": "category",
   "fileNameType": "BOOK_NAME-AUTHOR",
-  "dailyNotesToggle": false,
+  "dailyNotesToggle": true,
   "notesBlacklist": ""
 }
