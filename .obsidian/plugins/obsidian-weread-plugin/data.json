@@ -58,6 +58,6 @@
   "noteCountLimit": -1,
   "subFolderType": "category",
   "fileNameType": "BOOK_NAME-AUTHOR",
-  "dailyNotesToggle": true,
+  "dailyNotesToggle": false,
   "notesBlacklist": ""
 }

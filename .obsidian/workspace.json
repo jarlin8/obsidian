@@ -4,36 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "e5e6af9c123347ad",
+        "id": "8481198dab64f85a",
         "type": "tabs",
-        "dimension": 62.37864077669902,
         "children": [
           {
-            "id": "b589d5d074c028b5",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-微信读书",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "bfcf015e254d33b9",
-        "type": "tabs",
-        "dimension": 37.62135922330097,
-        "children": [
-          {
-            "id": "a8d930814a4b73fc",
+            "id": "24264b0c9cb5bf10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.微信读书/历史/华杉讲透《资治通鉴》（共22册）-华杉.md",
+                "file": "5.博客文章/shuoshuo/1.日记索引.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "e95ad9293bd0096f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.博客文章/fendou-posts/1.posts-index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e713b633ade4d960",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-readhub",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ad1e465ed73436e",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-今日热点",
+              "state": {}
             }
           }
         ]
@@ -83,7 +96,7 @@
             }
           },
           {
-            "id": "bbb237ad6da89dae",
+            "id": "f22a48e5b15a304c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "32e94686b08819ed",
@@ -103,15 +117,23 @@
       {
         "id": "b28682efcca4f42a",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 52.312138728323696,
         "children": [
+          {
+            "id": "bc59c7e5f5c53572",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
           {
             "id": "d8ef849168c64b77",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.微信读书/历史/华杉讲透《资治通鉴》（共22册）-华杉.md",
+                "file": "5.博客文章/shuoshuo/1.日记索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.微信读书/历史/华杉讲透《资治通鉴》（共22册）-华杉.md",
+                "file": "5.博客文章/shuoshuo/1.日记索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,100 +168,27 @@
             }
           },
           {
-            "id": "e8ccc82e18780059",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "3.微信读书/历史/华杉讲透《资治通鉴》（共22册）-华杉.md"
-              }
-            }
-          },
-          {
             "id": "57b0077ee4b76d34",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "d91cddc3426cfd6e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
-        "id": "0e1654d6ac871481",
+        "id": "0962e4bb8fdb648a",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 47.687861271676304,
         "children": [
           {
-            "id": "c6227c259ea25247",
+            "id": "e8ccc82e18780059",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "outline",
               "state": {
-                "file": "3.微信读书/历史/华杉讲透《资治通鉴》（共22册）-华杉.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": true,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "path:2.金融",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14725458
-                      }
-                    },
-                    {
-                      "query": "path:1.爱好/历史",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11657298
-                      }
-                    },
-                    {
-                      "query": "path:1.爱好/code",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11657298
-                      }
-                    },
-                    {
-                      "query": "path:1.爱好/英语",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5431378
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": -2.6,
-                  "nodeSizeMultiplier": 1.30798611111111,
-                  "lineSizeMultiplier": 5,
-                  "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 0.5,
-                  "linkDistance": 30,
-                  "scale": 1.47698625036824,
-                  "close": true
-                }
+                "file": "5.博客文章/shuoshuo/1.日记索引.md"
               }
             }
           }
@@ -247,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,13 +213,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a8d930814a4b73fc",
+  "active": "24264b0c9cb5bf10",
   "lastOpenFiles": [
-    "3.微信读书/1.微信读书索引.md",
-    "5.博客文章/shuoshuo/48th-2023-12-02-zhou6.md",
+    "5.博客文章/shuoshuo/2th-2023-01-12-zhou4.md",
     "5.博客文章/shuoshuo/1.日记索引.md",
-    "模板/日记模板.md",
+    "5.博客文章/shuoshuo/48th-2023-12-02-zhou6.md",
     "3.微信读书/历史/华杉讲透《资治通鉴》（共22册）-华杉.md",
+    "模板/日记模板.md",
+    "3.微信读书/1.微信读书索引.md",
     "2.金融/1.AllFinance.md",
     "3.微信读书/个人成长/如何高效学习：1年完成麻省理工4年33门课程的整体性学习法-斯科特·扬.md",
     "3.微信读书/历史",
@@ -302,7 +251,6 @@
     "费曼学习法",
     "5.博客文章/fendou-posts/1.posts-index.md",
     "5.博客文章/3.Funs复利说索引.md",
-    "5.博客文章/2.评测索引.md",
     "attachment/Pasted Image 20231201213220.jpeg",
     "ob/卢曼卡片盒笔记法介绍.png",
     "ob/卢曼卡片盒笔记发标注.png",
