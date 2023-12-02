@@ -1,0 +1,126 @@
+{
+  "frames": [
+    {
+      "url": "https://weread.qq.com/web/shelf/",
+      "displayName": "微信读书",
+      "icon": "book",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "* {\n scrollbar-width: thin;\n scrollbar-color: #48aefc #DFE9EB;\n}\n\n/* Chrome, Edge and Safari */\n*::-webkit-scrollbar {\n width: 10px;\n height: 10px;\n}\n*::-webkit-scrollbar-track {\n border-radius: 5px;\n background-color: #DFE9EB;\n}\n\n*::-webkit-scrollbar-track:hover {\n background-color: #B8C0C2;\n}\n\n*::-webkit-scrollbar-track:active {\n background-color: #B8C0C2;\n}\n\n*::-webkit-scrollbar-thumb {\n border-radius: 5px;\n background-color: #48aefc;\n}\n\n*::-webkit-scrollbar-thumb:hover {\n background-color: #48aefc;\n}\n\n*::-webkit-scrollbar-thumb:active {\n background-color: #48aefc;\n}"
+    },
+    {
+      "url": "https://chat.openai.com/chat",
+      "displayName": "ChatGPT",
+      "icon": "bot",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://www.deepl.com/translator",
+      "displayName": "DeepL",
+      "icon": "languages",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "* {\n scrollbar-width: thin;\n scrollbar-color: #48aefc #DFE9EB;\n}\n\n/* Chrome, Edge and Safari */\n*::-webkit-scrollbar {\n width: 10px;\n height: 10px;\n}\n*::-webkit-scrollbar-track {\n border-radius: 5px;\n background-color: #DFE9EB;\n}\n\n*::-webkit-scrollbar-track:hover {\n background-color: #B8C0C2;\n}\n\n*::-webkit-scrollbar-track:active {\n background-color: #B8C0C2;\n}\n\n*::-webkit-scrollbar-thumb {\n border-radius: 5px;\n background-color: #48aefc;\n}\n\n*::-webkit-scrollbar-thumb:hover {\n background-color: #48aefc;\n}\n\n*::-webkit-scrollbar-thumb:active {\n background-color: #48aefc;\n}"
+    },
+    {
+      "url": "http://150.230.40.230:5244/",
+      "displayName": "Alist网盘",
+      "icon": "cloudy",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "* {\n scrollbar-width: thin;\n scrollbar-color: #48aefc #DFE9EB;\n}\n\n/* Chrome, Edge and Safari */\n*::-webkit-scrollbar {\n width: 10px;\n height: 10px;\n}\n*::-webkit-scrollbar-track {\n border-radius: 5px;\n background-color: #DFE9EB;\n}\n\n*::-webkit-scrollbar-track:hover {\n background-color: #B8C0C2;\n}\n\n*::-webkit-scrollbar-track:active {\n background-color: #B8C0C2;\n}\n\n*::-webkit-scrollbar-thumb {\n border-radius: 5px;\n background-color: #48aefc;\n}\n\n*::-webkit-scrollbar-thumb:hover {\n background-color: #48aefc;\n}\n\n*::-webkit-scrollbar-thumb:active {\n background-color: #48aefc;\n}"
+    },
+    {
+      "url": "https://doocs.github.io/md/",
+      "displayName": "MD-微信公众号",
+      "icon": "message-square",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": true,
+      "customCss": "* {\n scrollbar-width: thin;\n scrollbar-color: #48aefc #DFE9EB;\n}\n\n/* Chrome, Edge and Safari */\n*::-webkit-scrollbar {\n width: 10px;\n height: 10px;\n}\n*::-webkit-scrollbar-track {\n border-radius: 5px;\n background-color: #DFE9EB;\n}\n\n*::-webkit-scrollbar-track:hover {\n background-color: #B8C0C2;\n}\n\n*::-webkit-scrollbar-track:active {\n background-color: #B8C0C2;\n}\n\n*::-webkit-scrollbar-thumb {\n border-radius: 5px;\n background-color: #48aefc;\n}\n\n*::-webkit-scrollbar-thumb:hover {\n background-color: #48aefc;\n}\n\n*::-webkit-scrollbar-thumb:active {\n background-color: #48aefc;\n}"
+    },
+    {
+      "url": "https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5",
+      "displayName": "维基百科",
+      "icon": "database",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "* {\n scrollbar-width: thin;\n scrollbar-color: #48aefc #DFE9EB;\n}\n\n/* Chrome, Edge and Safari */\n*::-webkit-scrollbar {\n width: 10px;\n height: 10px;\n}\n*::-webkit-scrollbar-track {\n border-radius: 5px;\n background-color: #DFE9EB;\n}\n\n*::-webkit-scrollbar-track:hover {\n background-color: #B8C0C2;\n}\n\n*::-webkit-scrollbar-track:active {\n background-color: #B8C0C2;\n}\n\n*::-webkit-scrollbar-thumb {\n border-radius: 5px;\n background-color: #48aefc;\n}\n\n*::-webkit-scrollbar-thumb:hover {\n background-color: #48aefc;\n}\n\n*::-webkit-scrollbar-thumb:active {\n background-color: #48aefc;\n}"
+    },
+    {
+      "url": "https://baike.baidu.com/",
+      "displayName": "百度百科",
+      "icon": "search",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "* {\n scrollbar-width: thin;\n scrollbar-color: #48aefc #DFE9EB;\n}\n\n/* Chrome, Edge and Safari */\n*::-webkit-scrollbar {\n width: 10px;\n height: 10px;\n}\n*::-webkit-scrollbar-track {\n border-radius: 5px;\n background-color: #DFE9EB;\n}\n\n*::-webkit-scrollbar-track:hover {\n background-color: #B8C0C2;\n}\n\n*::-webkit-scrollbar-track:active {\n background-color: #B8C0C2;\n}\n\n*::-webkit-scrollbar-thumb {\n border-radius: 5px;\n background-color: #48aefc;\n}\n\n*::-webkit-scrollbar-thumb:hover {\n background-color: #48aefc;\n}\n\n*::-webkit-scrollbar-thumb:active {\n background-color: #48aefc;\n}"
+    },
+    {
+      "url": "https://pixabay.com/",
+      "displayName": "pixabay图片",
+      "icon": "image",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://www.google.com/",
+      "displayName": "Google",
+      "icon": "search",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://readhub.cn/daily",
+      "displayName": "Readhub",
+      "icon": "book-open",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 0.9,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://tophub.today/",
+      "displayName": "今日热点",
+      "icon": "fire",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 0.9,
+      "forceIframe": false,
+      "customCss": ""
+    }
+  ],
+  "padding": 10
+}

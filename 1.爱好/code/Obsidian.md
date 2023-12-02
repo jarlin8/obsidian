@@ -1,0 +1,8 @@
+[[dataview插件的语法]]
+[[dataview插件的语法#dataview用法示例|用法示例]]
+[[dataview中文文档]]
+[[dataview插件的语法#dataview实操视频|实操视频]]
+[[templater任意位置新建皆按需归类并提示输入名称]]
+[[templater自动加上级文件名并提示输入名称]]
+[[templater自动加链接并应用对应模板]]
+[[templater创建并移动到某个文件夹下]]

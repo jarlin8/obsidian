@@ -1,0 +1,8 @@
+.column-left{
+  float:left;
+  width:50%;
+  background:#0000ff;
+}
+.column-right{
+	background:#ff0000;
+}

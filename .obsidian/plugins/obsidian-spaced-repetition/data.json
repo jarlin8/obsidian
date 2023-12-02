@@ -1,0 +1,49 @@
+{
+  "settings": {
+    "flashcardEasyText": "简单",
+    "flashcardGoodText": "记得",
+    "flashcardHardText": "较难",
+    "flashcardTags": [
+      "#anki"
+    ],
+    "convertFoldersToDecks": false,
+    "cardCommentOnSameLine": true,
+    "burySiblingCards": true,
+    "showContextInCards": true,
+    "flashcardHeightPercentage": 80,
+    "flashcardWidthPercentage": 40,
+    "showFileNameInFileLink": true,
+    "randomizeCardOrder": true,
+    "convertHighlightsToClozes": true,
+    "convertBoldTextToClozes": true,
+    "convertCurlyBracketsToClozes": true,
+    "singleLineCardSeparator": "::",
+    "singleLineReversedCardSeparator": ":::",
+    "multilineCardSeparator": "?",
+    "multilineReversedCardSeparator": "??",
+    "enableNoteReviewPaneOnStartup": true,
+    "tagsToReview": [
+      "#review"
+    ],
+    "noteFoldersToIgnore": [],
+    "openRandomNote": true,
+    "autoNextNote": true,
+    "disableFileMenuReviewOptions": false,
+    "maxNDaysNotesReviewQueue": 365,
+    "initiallyExpandAllSubdecksInTree": false,
+    "baseEase": 250,
+    "lapsesIntervalChange": 0.5,
+    "easyBonus": 1.3,
+    "maximumInterval": 36525,
+    "maxLinkFactor": 1,
+    "showDebugMessages": false
+  },
+  "buryDate": "2022-12-30",
+  "buryList": [
+    "db4979e695acb",
+    "a55d606f7f59",
+    "db4979e695acb",
+    "6bb82fb62d7e2"
+  ],
+  "historyDeck": "anki"
+}

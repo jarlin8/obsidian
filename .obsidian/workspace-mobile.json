@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "b1832c13feb18ed9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3df46a712a29fc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17b0a85f03e078be",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "58dd6fb702776828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/周四@2022-12-29.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d80e34f0ee32757e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cb76bc82b1c1ed01",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "15f03cf2a0d76ec3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "953554b11925019e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c8a2a73aebc7cdff",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "aac1fcaf28040b9c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ec23d1f2e2472931",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "日记/周四@2022-12-29.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5344949dea053015",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "日记/周四@2022-12-29.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "aad6f04178ab2a35",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "日记/周四@2022-12-29.md"
+          }
+        }
+      },
+      {
+        "id": "96b94d788dbec89d",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "17b0a85f03e078be",
+  "lastOpenFiles": [
+    "附件/卢曼卡片盒笔记法介绍.png",
+    "附件/Pasted Image 20221229104226.jpeg",
+    "附件/Pasted image 20221227203945.png",
+    "日记/1.日记索引.md",
+    "日记/周四@2022-12-29.md",
+    "日记/周三@2022-12-28.md",
+    "4.网课笔记/1.网课笔记索引.md"
+  ]
+}

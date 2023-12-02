@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "interfaceFontFamily": ".萍方-简0",
+  "textFontFamily": ".萍方-简0",
+  "monospaceFontFamily": "Arial Narrow",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "style"
+  ]
+}

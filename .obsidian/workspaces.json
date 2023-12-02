@@ -1,0 +1,2734 @@
+{
+  "workspaces": {
+    "看板布局": {
+      "main": {
+        "id": "ac5d607b40113ea1",
+        "type": "split",
+        "children": [
+          {
+            "id": "328176e7956fff4a",
+            "type": "tabs",
+            "dimension": 23.462783171521036,
+            "children": [
+              {
+                "id": "edd60ed01ef0dcea",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2.金融/1.AllFinance.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "b7fc9de4b3d64fad",
+            "type": "tabs",
+            "dimension": 25.5663430420712,
+            "children": [
+              {
+                "id": "3b388c7364d0a52f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1.爱好/历史/1.AllHistory.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "6e714a7ee2cb8be0",
+            "type": "tabs",
+            "dimension": 24.75728155339806,
+            "children": [
+              {
+                "id": "b1b2fbcdc929f89f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1.爱好/code/2.AllCode.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "be4bf6105f50ec32",
+            "type": "tabs",
+            "dimension": 26.21359223300971,
+            "children": [
+              {
+                "id": "3815a1599ec3d2e9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1.爱好/英语/1.AllEnglish.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b2ba770b2486cb70",
+        "type": "split",
+        "children": [
+          {
+            "id": "de370fb34faaa97b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5986c12b367d10c1",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4451a254085f28d4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6318a938bd30729b",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 225.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "32e94686b08819ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "b28682efcca4f42a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d8ef849168c64b77",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "1.爱好/英语/1.AllEnglish.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "4c4a9efa656e04f6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "1.爱好/英语/1.AllEnglish.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "969e048c64412a2d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "e8ccc82e18780059",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "1.爱好/英语/1.AllEnglish.md"
+                  }
+                }
+              },
+              {
+                "id": "57b0077ee4b76d34",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 313.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:查看关系图谱": false,
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "command-palette:打开命令面板": false,
+          "random-note:开始漫游笔记": false,
+          "remotely-save:Remotely Save": false,
+          "templater-obsidian:Templater": false,
+          "templates:插入模板": false
+        }
+      },
+      "active": "3815a1599ec3d2e9",
+      "workspaces-plus:settings-v1": {}
+    },
+    "左右分屏": {
+      "main": {
+        "id": "ac5d607b40113ea1",
+        "type": "split",
+        "children": [
+          {
+            "id": "8f0e3ac7f5c75a41",
+            "type": "tabs",
+            "dimension": 50.89108910891089,
+            "children": [
+              {
+                "id": "fc4879933fde0bdc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2.金融/分析师与交易员.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                },
+                "group": "91c9ccecb15c05e1"
+              }
+            ]
+          },
+          {
+            "id": "d9754b5a44becf6a",
+            "type": "tabs",
+            "dimension": 49.10891089108911,
+            "children": [
+              {
+                "id": "9a5104254576d384",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2.金融/分析师与交易员.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                },
+                "group": "91c9ccecb15c05e1"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b2ba770b2486cb70",
+        "type": "split",
+        "children": [
+          {
+            "id": "de370fb34faaa97b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5986c12b367d10c1",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4451a254085f28d4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6318a938bd30729b",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 225.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "32e94686b08819ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "b28682efcca4f42a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d8ef849168c64b77",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "2.金融/分析师与交易员.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "4c4a9efa656e04f6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "2.金融/分析师与交易员.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "969e048c64412a2d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "e8ccc82e18780059",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "2.金融/分析师与交易员.md"
+                  }
+                }
+              },
+              {
+                "id": "57b0077ee4b76d34",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 313.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:查看关系图谱": false,
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "command-palette:打开命令面板": false,
+          "random-note:开始漫游笔记": false,
+          "remotely-save:Remotely Save": false,
+          "templater-obsidian:Templater": false,
+          "templates:插入模板": false
+        }
+      },
+      "active": "fc4879933fde0bdc",
+      "workspaces-plus:settings-v1": {
+        "description": ""
+      }
+    },
+    "ChatGPT创作": {
+      "main": {
+        "id": "ac5d607b40113ea1",
+        "type": "split",
+        "children": [
+          {
+            "id": "8481198dab64f85a",
+            "type": "tabs",
+            "dimension": 59.78964401294499,
+            "children": [
+              {
+                "id": "663130d3b27c96d7",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chatgpt",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "daab747619f2c6b3",
+            "type": "tabs",
+            "dimension": 40.21035598705502,
+            "children": [
+              {
+                "id": "14cbc4c21346f6f9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2.金融/1.AllFinance.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b2ba770b2486cb70",
+        "type": "split",
+        "children": [
+          {
+            "id": "de370fb34faaa97b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5986c12b367d10c1",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4451a254085f28d4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6318a938bd30729b",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "32e94686b08819ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "b28682efcca4f42a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d8ef849168c64b77",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "2.金融/1.AllFinance.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "4c4a9efa656e04f6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "2.金融/1.AllFinance.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "969e048c64412a2d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "e8ccc82e18780059",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "2.金融/1.AllFinance.md"
+                  }
+                }
+              },
+              {
+                "id": "57b0077ee4b76d34",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 535.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-custom-frames:Open 微信读书": false,
+          "graph:查看关系图谱": false,
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "command-palette:打开命令面板": false,
+          "random-note:开始漫游笔记": false,
+          "remotely-save:Remotely Save": false,
+          "templater-obsidian:Templater": false,
+          "templates:插入模板": false
+        }
+      },
+      "active": "14cbc4c21346f6f9",
+      "workspaces-plus:settings-v1": {}
+    },
+    "DeepL翻译": {
+      "main": {
+        "id": "ac5d607b40113ea1",
+        "type": "split",
+        "children": [
+          {
+            "id": "8481198dab64f85a",
+            "type": "tabs",
+            "dimension": 61.6504854368932,
+            "children": [
+              {
+                "id": "663130d3b27c96d7",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-deepl",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "c660e2dac278e66c",
+            "type": "tabs",
+            "dimension": 38.349514563106794,
+            "children": [
+              {
+                "id": "83943b2fdb6666dd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1.爱好/英语/1.AllEnglish.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b2ba770b2486cb70",
+        "type": "split",
+        "children": [
+          {
+            "id": "de370fb34faaa97b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5986c12b367d10c1",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4451a254085f28d4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6318a938bd30729b",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "32e94686b08819ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "b28682efcca4f42a",
+            "type": "tabs",
+            "dimension": 50,
+            "children": [
+              {
+                "id": "d8ef849168c64b77",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "1.爱好/英语/1.AllEnglish.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "4c4a9efa656e04f6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "1.爱好/英语/1.AllEnglish.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "969e048c64412a2d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "e8ccc82e18780059",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "1.爱好/英语/1.AllEnglish.md"
+                  }
+                }
+              },
+              {
+                "id": "57b0077ee4b76d34",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "0e1654d6ac871481",
+            "type": "tabs",
+            "dimension": 50,
+            "children": [
+              {
+                "id": "c6227c259ea25247",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "1.爱好/英语/1.AllEnglish.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": true,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "path:2.金融",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14725458
+                          }
+                        },
+                        {
+                          "query": "path:1.爱好/历史",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11657298
+                          }
+                        },
+                        {
+                          "query": "path:1.爱好/code",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11657298
+                          }
+                        },
+                        {
+                          "query": "path:1.爱好/英语",
+                          "color": {
+                            "a": 1,
+                            "rgb": 5431378
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": -2.6,
+                      "nodeSizeMultiplier": 1.30798611111111,
+                      "lineSizeMultiplier": 5,
+                      "collapse-forces": false,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 0.5,
+                      "linkDistance": 30,
+                      "scale": 1.47698625036824,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 278.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-custom-frames:Open DeepL": false,
+          "graph:查看关系图谱": false,
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "command-palette:打开命令面板": false,
+          "random-note:开始漫游笔记": false,
+          "remotely-save:Remotely Save": false,
+          "templater-obsidian:Templater": false,
+          "templates:插入模板": false
+        }
+      },
+      "active": "83943b2fdb6666dd",
+      "workspaces-plus:settings-v1": {}
+    },
+    "Alist网课学习": {
+      "main": {
+        "id": "ac5d607b40113ea1",
+        "type": "split",
+        "children": [
+          {
+            "id": "8481198dab64f85a",
+            "type": "tabs",
+            "dimension": 63.51132686084142,
+            "children": [
+              {
+                "id": "663130d3b27c96d7",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-alist网盘",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "8080ca78f5bc2414",
+            "type": "tabs",
+            "dimension": 36.48867313915858,
+            "children": [
+              {
+                "id": "4e21b81d66483f42",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "4.网课笔记/1.网课笔记索引.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b2ba770b2486cb70",
+        "type": "split",
+        "children": [
+          {
+            "id": "de370fb34faaa97b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5986c12b367d10c1",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4451a254085f28d4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6318a938bd30729b",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "32e94686b08819ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "b28682efcca4f42a",
+            "type": "tabs",
+            "dimension": 50,
+            "children": [
+              {
+                "id": "d8ef849168c64b77",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "4.网课笔记/1.网课笔记索引.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "4c4a9efa656e04f6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "4.网课笔记/1.网课笔记索引.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "969e048c64412a2d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "e8ccc82e18780059",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "4.网课笔记/1.网课笔记索引.md"
+                  }
+                }
+              },
+              {
+                "id": "57b0077ee4b76d34",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "0e1654d6ac871481",
+            "type": "tabs",
+            "dimension": 50,
+            "children": [
+              {
+                "id": "c6227c259ea25247",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "4.网课笔记/1.网课笔记索引.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": true,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "path:2.金融",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14725458
+                          }
+                        },
+                        {
+                          "query": "path:1.爱好/历史",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11657298
+                          }
+                        },
+                        {
+                          "query": "path:1.爱好/code",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11657298
+                          }
+                        },
+                        {
+                          "query": "path:1.爱好/英语",
+                          "color": {
+                            "a": 1,
+                            "rgb": 5431378
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": -2.6,
+                      "nodeSizeMultiplier": 1.30798611111111,
+                      "lineSizeMultiplier": 5,
+                      "collapse-forces": false,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 0.5,
+                      "linkDistance": 30,
+                      "scale": 1.47698625036824,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 278.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-custom-frames:Open Alist网盘": false,
+          "graph:查看关系图谱": false,
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "command-palette:打开命令面板": false,
+          "random-note:开始漫游笔记": false,
+          "remotely-save:Remotely Save": false,
+          "templater-obsidian:Templater": false,
+          "templates:插入模板": false
+        }
+      },
+      "active": "4e21b81d66483f42",
+      "workspaces-plus:settings-v1": {}
+    },
+    "微信读书": {
+      "main": {
+        "id": "ac5d607b40113ea1",
+        "type": "split",
+        "children": [
+          {
+            "id": "e5e6af9c123347ad",
+            "type": "tabs",
+            "dimension": 62.37864077669902,
+            "children": [
+              {
+                "id": "b589d5d074c028b5",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-微信读书",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "bfcf015e254d33b9",
+            "type": "tabs",
+            "dimension": 37.62135922330097,
+            "children": [
+              {
+                "id": "a8d930814a4b73fc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3.微信读书/1.微信读书索引.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b2ba770b2486cb70",
+        "type": "split",
+        "children": [
+          {
+            "id": "de370fb34faaa97b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5986c12b367d10c1",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4451a254085f28d4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6318a938bd30729b",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "32e94686b08819ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "b28682efcca4f42a",
+            "type": "tabs",
+            "dimension": 50,
+            "children": [
+              {
+                "id": "d8ef849168c64b77",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "3.微信读书/1.微信读书索引.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "4c4a9efa656e04f6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "3.微信读书/1.微信读书索引.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "969e048c64412a2d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "e8ccc82e18780059",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "3.微信读书/1.微信读书索引.md"
+                  }
+                }
+              },
+              {
+                "id": "57b0077ee4b76d34",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "0e1654d6ac871481",
+            "type": "tabs",
+            "dimension": 50,
+            "children": [
+              {
+                "id": "c6227c259ea25247",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "3.微信读书/1.微信读书索引.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": true,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "path:2.金融",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14725458
+                          }
+                        },
+                        {
+                          "query": "path:1.爱好/历史",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11657298
+                          }
+                        },
+                        {
+                          "query": "path:1.爱好/code",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11657298
+                          }
+                        },
+                        {
+                          "query": "path:1.爱好/英语",
+                          "color": {
+                            "a": 1,
+                            "rgb": 5431378
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": -2.6,
+                      "nodeSizeMultiplier": 1.30798611111111,
+                      "lineSizeMultiplier": 5,
+                      "collapse-forces": false,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 0.5,
+                      "linkDistance": 30,
+                      "scale": 1.47698625036824,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:查看关系图谱": false,
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "command-palette:打开命令面板": false,
+          "random-note:开始漫游笔记": false,
+          "remotely-save:Remotely Save": false,
+          "templater-obsidian:Templater": false,
+          "templates:插入模板": false
+        }
+      },
+      "active": "a8d930814a4b73fc",
+      "workspaces-plus:settings-v1": {}
+    },
+    "百科知识": {
+      "main": {
+        "id": "ac5d607b40113ea1",
+        "type": "split",
+        "children": [
+          {
+            "id": "e5e6af9c123347ad",
+            "type": "tabs",
+            "dimension": 65.37216828478964,
+            "children": [
+              {
+                "id": "76b953201287a5b0",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-百度百科",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ce57d2dd0e32ef19",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-维基百科",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "bfcf015e254d33b9",
+            "type": "tabs",
+            "dimension": 34.627831715210355,
+            "children": [
+              {
+                "id": "a8d930814a4b73fc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1.爱好/历史/1.AllHistory.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b2ba770b2486cb70",
+        "type": "split",
+        "children": [
+          {
+            "id": "de370fb34faaa97b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5986c12b367d10c1",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4451a254085f28d4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6318a938bd30729b",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "32e94686b08819ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "b28682efcca4f42a",
+            "type": "tabs",
+            "dimension": 50,
+            "children": [
+              {
+                "id": "d8ef849168c64b77",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "1.爱好/历史/1.AllHistory.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "4c4a9efa656e04f6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "1.爱好/历史/1.AllHistory.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "969e048c64412a2d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "e8ccc82e18780059",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "1.爱好/历史/1.AllHistory.md"
+                  }
+                }
+              },
+              {
+                "id": "57b0077ee4b76d34",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "0e1654d6ac871481",
+            "type": "tabs",
+            "dimension": 50,
+            "children": [
+              {
+                "id": "c6227c259ea25247",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "1.爱好/历史/1.AllHistory.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": true,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "path:2.金融",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14725458
+                          }
+                        },
+                        {
+                          "query": "path:1.爱好/历史",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11657298
+                          }
+                        },
+                        {
+                          "query": "path:1.爱好/code",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11657298
+                          }
+                        },
+                        {
+                          "query": "path:1.爱好/英语",
+                          "color": {
+                            "a": 1,
+                            "rgb": 5431378
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": -2.6,
+                      "nodeSizeMultiplier": 1.30798611111111,
+                      "lineSizeMultiplier": 5,
+                      "collapse-forces": false,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 0.5,
+                      "linkDistance": 30,
+                      "scale": 1.47698625036824,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-custom-frames:Open 百度百科": false,
+          "graph:查看关系图谱": false,
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "command-palette:打开命令面板": false,
+          "random-note:开始漫游笔记": false,
+          "remotely-save:Remotely Save": false,
+          "templater-obsidian:Templater": false,
+          "templates:插入模板": false
+        }
+      },
+      "active": "ce57d2dd0e32ef19",
+      "workspaces-plus:settings-v1": {}
+    },
+    "码字布局": {
+      "main": {
+        "id": "ac5d607b40113ea1",
+        "type": "split",
+        "children": [
+          {
+            "id": "8481198dab64f85a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "663130d3b27c96d7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1.爱好/历史/墨翟(墨子).md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b2ba770b2486cb70",
+        "type": "split",
+        "children": [
+          {
+            "id": "de370fb34faaa97b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5986c12b367d10c1",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4451a254085f28d4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6318a938bd30729b",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "32e94686b08819ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "b28682efcca4f42a",
+            "type": "tabs",
+            "dimension": 50,
+            "children": [
+              {
+                "id": "d8ef849168c64b77",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "1.爱好/历史/墨翟(墨子).md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "4c4a9efa656e04f6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "1.爱好/历史/墨翟(墨子).md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "969e048c64412a2d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "e8ccc82e18780059",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "1.爱好/历史/墨翟(墨子).md"
+                  }
+                }
+              },
+              {
+                "id": "57b0077ee4b76d34",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "0e1654d6ac871481",
+            "type": "tabs",
+            "dimension": 50,
+            "children": [
+              {
+                "id": "c6227c259ea25247",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "1.爱好/历史/墨翟(墨子).md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": true,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "path:2.金融",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14725458
+                          }
+                        },
+                        {
+                          "query": "path:1.爱好/历史",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11657298
+                          }
+                        },
+                        {
+                          "query": "path:1.爱好/code",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11657298
+                          }
+                        },
+                        {
+                          "query": "path:1.爱好/英语",
+                          "color": {
+                            "a": 1,
+                            "rgb": 5431378
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": -2.6,
+                      "nodeSizeMultiplier": 1.30798611111111,
+                      "lineSizeMultiplier": 5,
+                      "collapse-forces": false,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 0.5,
+                      "linkDistance": 30,
+                      "scale": 1.47698625036824,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 278.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:查看关系图谱": false,
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "command-palette:打开命令面板": false,
+          "random-note:开始漫游笔记": false,
+          "remotely-save:Remotely Save": false,
+          "templater-obsidian:Templater": false,
+          "templates:插入模板": false
+        }
+      },
+      "active": "663130d3b27c96d7",
+      "workspaces-plus:settings-v1": {}
+    },
+    "MEMOS闪念笔记": {
+      "main": {
+        "id": "ac5d607b40113ea1",
+        "type": "split",
+        "children": [
+          {
+            "id": "8481198dab64f85a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "663130d3b27c96d7",
+                "type": "leaf",
+                "state": {
+                  "type": "memos_view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b2ba770b2486cb70",
+        "type": "split",
+        "children": [
+          {
+            "id": "de370fb34faaa97b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5986c12b367d10c1",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4451a254085f28d4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6318a938bd30729b",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "32e94686b08819ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "b28682efcca4f42a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d8ef849168c64b77",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "4c4a9efa656e04f6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "969e048c64412a2d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "e8ccc82e18780059",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "57b0077ee4b76d34",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "bc59c7e5f5c53572",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 278.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "canvas:Create new canvas": false,
+          "graph:查看关系图谱": false,
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "command-palette:打开命令面板": false,
+          "remotely-save:Remotely Save": false,
+          "templater-obsidian:Templater": false,
+          "templates:插入模板": false,
+          "obsidian-memos:Memos": false
+        }
+      },
+      "active": "663130d3b27c96d7",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "/",
+          "4.网课笔记"
+        ]
+      }
+    },
+    "微信公众号写作": {
+      "main": {
+        "id": "ac5d607b40113ea1",
+        "type": "split",
+        "children": [
+          {
+            "id": "e5e6af9c123347ad",
+            "type": "tabs",
+            "dimension": 68.77022653721683,
+            "children": [
+              {
+                "id": "7c91f7a72c16bb54",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-pixabay图片",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8ae44f676507393e",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-google",
+                  "state": {}
+                }
+              },
+              {
+                "id": "7768e781f323e168",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-md-微信公众号",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "bfcf015e254d33b9",
+            "type": "tabs",
+            "dimension": 31.22977346278317,
+            "children": [
+              {
+                "id": "a8d930814a4b73fc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "5.博客文章/wechat-posts/1.公众号文章索引.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b2ba770b2486cb70",
+        "type": "split",
+        "children": [
+          {
+            "id": "de370fb34faaa97b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5986c12b367d10c1",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4451a254085f28d4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6318a938bd30729b",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "32e94686b08819ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "b28682efcca4f42a",
+            "type": "tabs",
+            "dimension": 50,
+            "children": [
+              {
+                "id": "d8ef849168c64b77",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "5.博客文章/wechat-posts/1.公众号文章索引.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "4c4a9efa656e04f6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "5.博客文章/wechat-posts/1.公众号文章索引.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "969e048c64412a2d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "e8ccc82e18780059",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "5.博客文章/wechat-posts/1.公众号文章索引.md"
+                  }
+                }
+              },
+              {
+                "id": "57b0077ee4b76d34",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "0e1654d6ac871481",
+            "type": "tabs",
+            "dimension": 50,
+            "children": [
+              {
+                "id": "c6227c259ea25247",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "5.博客文章/wechat-posts/1.公众号文章索引.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": true,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "path:2.金融",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14725458
+                          }
+                        },
+                        {
+                          "query": "path:1.爱好/历史",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11657298
+                          }
+                        },
+                        {
+                          "query": "path:1.爱好/code",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11657298
+                          }
+                        },
+                        {
+                          "query": "path:1.爱好/英语",
+                          "color": {
+                            "a": 1,
+                            "rgb": 5431378
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": -2.6,
+                      "nodeSizeMultiplier": 1.30798611111111,
+                      "lineSizeMultiplier": 5,
+                      "collapse-forces": false,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 0.5,
+                      "linkDistance": 30,
+                      "scale": 1.47698625036824,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "canvas:Create new canvas": false,
+          "obsidian-memos:Memos": false,
+          "graph:查看关系图谱": false,
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "command-palette:打开命令面板": false,
+          "remotely-save:Remotely Save": false,
+          "templater-obsidian:Templater": false,
+          "templates:插入模板": false
+        }
+      },
+      "active": "a8d930814a4b73fc",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "/"
+        ]
+      }
+    },
+    "Wordpress网站编辑": {
+      "main": {
+        "id": "ac5d607b40113ea1",
+        "type": "split",
+        "children": [
+          {
+            "id": "9a9fbb9cc3cf119d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1b237c03b913f0b0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "5.博客文章/1.外汇索引.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f0708102cd8b3a61",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "5.博客文章/2.评测索引.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3f6aca2bb63a5e5b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "5.博客文章/3.Funs复利说索引.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b2ba770b2486cb70",
+        "type": "split",
+        "children": [
+          {
+            "id": "de370fb34faaa97b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5986c12b367d10c1",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4451a254085f28d4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6318a938bd30729b",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "32e94686b08819ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "b28682efcca4f42a",
+            "type": "tabs",
+            "dimension": 48.26589595375722,
+            "children": [
+              {
+                "id": "bc59c7e5f5c53572",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d8ef849168c64b77",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "5.博客文章/1.外汇索引.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "4c4a9efa656e04f6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "5.博客文章/1.外汇索引.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "969e048c64412a2d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "57b0077ee4b76d34",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "0962e4bb8fdb648a",
+            "type": "tabs",
+            "dimension": 51.73410404624278,
+            "children": [
+              {
+                "id": "e8ccc82e18780059",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "5.博客文章/1.外汇索引.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 305.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "canvas:Create new canvas": false,
+          "graph:查看关系图谱": false,
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "command-palette:打开命令面板": false,
+          "remotely-save:Remotely Save": false,
+          "templater-obsidian:Templater": false,
+          "templates:插入模板": false,
+          "obsidian-memos:Memos": false
+        }
+      },
+      "active": "1b237c03b913f0b0",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "/",
+          "5.博客文章"
+        ]
+      }
+    },
+    "日志日历": {
+      "main": {
+        "id": "ac5d607b40113ea1",
+        "type": "split",
+        "children": [
+          {
+            "id": "8481198dab64f85a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "24264b0c9cb5bf10",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "5.博客文章/shuoshuo/1.日记索引.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e95ad9293bd0096f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "5.博客文章/fendou-posts/1.posts-index.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e713b633ade4d960",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-readhub",
+                  "state": {}
+                }
+              },
+              {
+                "id": "3ad1e465ed73436e",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-今日热点",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b2ba770b2486cb70",
+        "type": "split",
+        "children": [
+          {
+            "id": "de370fb34faaa97b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5986c12b367d10c1",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4451a254085f28d4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6318a938bd30729b",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "32e94686b08819ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "b28682efcca4f42a",
+            "type": "tabs",
+            "dimension": 52.312138728323696,
+            "children": [
+              {
+                "id": "bc59c7e5f5c53572",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d8ef849168c64b77",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "5.博客文章/shuoshuo/1.日记索引.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "4c4a9efa656e04f6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "5.博客文章/shuoshuo/1.日记索引.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "969e048c64412a2d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "57b0077ee4b76d34",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "0962e4bb8fdb648a",
+            "type": "tabs",
+            "dimension": 47.687861271676304,
+            "children": [
+              {
+                "id": "e8ccc82e18780059",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "5.博客文章/shuoshuo/1.日记索引.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 311.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "canvas:Create new canvas": false,
+          "graph:查看关系图谱": false,
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "command-palette:打开命令面板": false,
+          "remotely-save:Remotely Save": false,
+          "templater-obsidian:Templater": false,
+          "templates:插入模板": false,
+          "obsidian-memos:Memos": false
+        }
+      },
+      "active": "24264b0c9cb5bf10",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "/",
+          "5.博客文章/shuoshuo"
+        ]
+      }
+    }
+  },
+  "active": "日志日历"
+}

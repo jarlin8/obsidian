@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "ac5d607b40113ea1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8481198dab64f85a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24264b0c9cb5bf10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.博客文章/shuoshuo/1.日记索引.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e95ad9293bd0096f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.博客文章/fendou-posts/1.posts-index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e713b633ade4d960",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-readhub",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ad1e465ed73436e",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-今日热点",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2ba770b2486cb70",
+    "type": "split",
+    "children": [
+      {
+        "id": "de370fb34faaa97b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5986c12b367d10c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4451a254085f28d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6318a938bd30729b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "32e94686b08819ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "b28682efcca4f42a",
+        "type": "tabs",
+        "dimension": 52.312138728323696,
+        "children": [
+          {
+            "id": "bc59c7e5f5c53572",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d8ef849168c64b77",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5.博客文章/shuoshuo/1.日记索引.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4c4a9efa656e04f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5.博客文章/shuoshuo/1.日记索引.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "969e048c64412a2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "57b0077ee4b76d34",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0962e4bb8fdb648a",
+        "type": "tabs",
+        "dimension": 47.687861271676304,
+        "children": [
+          {
+            "id": "e8ccc82e18780059",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5.博客文章/shuoshuo/1.日记索引.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "graph:查看关系图谱": false,
+      "workspaces:管理工作区布局": false,
+      "switcher:打开快速切换": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false,
+      "templater-obsidian:Templater": false,
+      "templates:插入模板": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "24264b0c9cb5bf10",
+  "lastOpenFiles": [
+    "attachment/Pasted Image 20231201213220.jpeg",
+    "5.博客文章/fendou-posts/1.posts-index.md",
+    "ob/卢曼卡片盒笔记法介绍.png",
+    "ob/卢曼卡片盒笔记发标注.png",
+    "ob/obsidian插件推荐.jpg",
+    "ob/avatar图片.jpg",
+    "ob/README.md",
+    "ob/Pasted image 20221227203945.png",
+    "ob",
+    "attachment/Pasted image 20221227203945.png",
+    "attachment/Pasted Image 20231201104755.jpeg",
+    "attachment/Pasted Image 20231201150236.jpeg",
+    "attachment/README.md",
+    "attachment/obsidian插件推荐.jpg",
+    "5.博客文章/shuoshuo/1.日记索引.md",
+    "5.博客文章/shuoshuo/48th-2023-12-02-zhou6.md",
+    "5.博客文章/funstoutiao/reliable-gold-trading-platform.md",
+    "5.博客文章/fendou-posts/flatsome.md",
+    "5.博客文章/shuoshuo/52th-2022-12-31-zhou6.md",
+    "5.博客文章/shuoshuo/48th-2023-12-01-zhou5.md",
+    "5.博客文章/shuoshuo/48th-2023-11-30-zhou4.md",
+    "3.微信读书/1.微信读书索引.md",
+    "textgenerator/prompts/getTags.md",
+    "5.博客文章/fendou-posts/liangpin-puzi-jiangjia.md",
+    "5.博客文章/fendou-posts/slooger_test.md",
+    "5.博客文章/fendou-posts/skkliuy.md",
+    "5.博客文章/fendou-posts/earn-10000-per-month.md",
+    "1.爱好/英语/1.AllEnglish.md",
+    "1.爱好/code/2.AllCode.md",
+    "1.爱好/历史/苏洵.md",
+    "1.爱好/历史/宋辽金夏.md",
+    "1.爱好/历史/1.AllHistory.md",
+    "2.金融/XAUUSD.md",
+    "2.金融/1.AllFinance.md",
+    "1.爱好/code/Github.md",
+    "5.博客文章/1.外汇索引.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "textgenerator/prompts/trash/default",
+    "textgenerator/prompts/trash",
+    " 💡Brainstorming Ideas for Context Generate Creative Solutions",
+    "textgenerator/prompts",
+    "textgenerator"
+  ]
+}
