@@ -4,53 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "8481198dab64f85a",
+        "id": "e5e6af9c123347ad",
         "type": "tabs",
+        "dimension": 62.37864077669902,
         "children": [
           {
-            "id": "24264b0c9cb5bf10",
+            "id": "b589d5d074c028b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.博客文章/shuoshuo/1.日记索引.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e95ad9293bd0096f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.博客文章/fendou-posts/slooger_test.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e713b633ade4d960",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-readhub",
-              "state": {}
-            }
-          },
-          {
-            "id": "3ad1e465ed73436e",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-今日热点",
+              "type": "custom-frames-微信读书",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "bfcf015e254d33b9",
+        "type": "tabs",
+        "dimension": 37.62135922330097,
+        "children": [
+          {
+            "id": "a8d930814a4b73fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.微信读书/历史/华杉讲透《资治通鉴》（共22册）-华杉.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,14 +81,6 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "df2c360a42f22024",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
@@ -118,23 +96,15 @@
       {
         "id": "b28682efcca4f42a",
         "type": "tabs",
-        "dimension": 52.312138728323696,
+        "dimension": 50,
         "children": [
-          {
-            "id": "bc59c7e5f5c53572",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
           {
             "id": "d8ef849168c64b77",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.博客文章/fendou-posts/slooger_test.md",
+                "file": "3.微信读书/历史/华杉讲透《资治通鉴》（共22册）-华杉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.博客文章/fendou-posts/slooger_test.md",
+                "file": "3.微信读书/历史/华杉讲透《资治通鉴》（共22册）-华杉.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,6 +139,16 @@
             }
           },
           {
+            "id": "e8ccc82e18780059",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3.微信读书/历史/华杉讲透《资治通鉴》（共22册）-华杉.md"
+              }
+            }
+          },
+          {
             "id": "57b0077ee4b76d34",
             "type": "leaf",
             "state": {
@@ -176,20 +156,75 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
-        "id": "0962e4bb8fdb648a",
+        "id": "0e1654d6ac871481",
         "type": "tabs",
-        "dimension": 47.687861271676304,
+        "dimension": 50,
         "children": [
           {
-            "id": "e8ccc82e18780059",
+            "id": "c6227c259ea25247",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "localgraph",
               "state": {
-                "file": "5.博客文章/fendou-posts/slooger_test.md"
+                "file": "3.微信读书/历史/华杉讲透《资治通鉴》（共22册）-华杉.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:2.金融",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    },
+                    {
+                      "query": "path:1.爱好/历史",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11657298
+                      }
+                    },
+                    {
+                      "query": "path:1.爱好/code",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11657298
+                      }
+                    },
+                    {
+                      "query": "path:1.爱好/英语",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431378
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -2.6,
+                  "nodeSizeMultiplier": 1.30798611111111,
+                  "lineSizeMultiplier": 5,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 0.5,
+                  "linkDistance": 30,
+                  "scale": 1.47698625036824,
+                  "close": true
+                }
               }
             }
           }
@@ -197,11 +232,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "canvas:新建白板": false,
+      "obsidian-memos:Memos": false,
+      "obsidian-weread-plugin:Weread": false,
       "graph:查看关系图谱": false,
       "workspaces:管理工作区布局": false,
       "switcher:打开快速切换": false,
@@ -209,12 +247,40 @@
       "command-palette:打开命令面板": false,
       "remotely-save:Remotely Save": false,
       "templater-obsidian:Templater": false,
-      "templates:插入模板": false,
-      "obsidian-memos:Memos": false
+      "templates:插入模板": false
     }
   },
-  "active": "e95ad9293bd0096f",
+  "active": "a8d930814a4b73fc",
   "lastOpenFiles": [
+    "3.微信读书/个人成长/如何高效学习：1年完成麻省理工4年33门课程的整体性学习法-斯科特·扬.md",
+    "3.微信读书/历史/华杉讲透《资治通鉴》（共22册）-华杉.md",
+    "3.微信读书/历史",
+    "3.微信读书/1.微信读书索引.md",
+    "3.微信读书/个人成长/学会写作：自我进阶的高效方法-粥左罗.md",
+    "3.微信读书/思考致富.md",
+    "3.微信读书/费曼学习法.md",
+    "3.微信读书/经济理财/赚钱机器-杜云生.md",
+    "3.微信读书/经济理财/新媒体营销圣经：引诱，引诱，引诱，出击！-加里·维纳查克 张树燕.md",
+    "3.微信读书/经济理财/股市天经：量柱擒涨停-黑马王子.md",
+    "3.微信读书/个人成长",
+    "3.微信读书/经济理财/思考致富-拿破仑·希尔.md",
+    "3.微信读书/经济理财/费曼学习法-尹红心 李伟.md",
+    "3.微信读书/经济理财",
+    "5.博客文章/fendou-posts/slooger_test.md",
+    "如何高效学习：1年完成麻省理工4年33门课程的整体性学习法/如何高效学习：1年完成麻省理工4年33门课程的整体性学习法.md",
+    "赚钱机器/赚钱机器.md",
+    "赚钱机器",
+    "新媒体营销圣经：引诱，引诱，引诱，出击！/新媒体营销圣经：引诱，引诱，引诱，出击！.md",
+    "新媒体营销圣经：引诱，引诱，引诱，出击！",
+    "股市天经：量柱擒涨停/股市天经：量柱擒涨停.md",
+    "股市天经：量柱擒涨停",
+    "学会写作：自我进阶的高效方法/学会写作：自我进阶的高效方法.md",
+    "学会写作：自我进阶的高效方法",
+    "如何高效学习：1年完成麻省理工4年33门课程的整体性学习法",
+    "思考致富/思考致富.md",
+    "思考致富",
+    "费曼学习法/费曼学习法.md",
+    "费曼学习法",
     "5.博客文章/fendou-posts/1.posts-index.md",
     "5.博客文章/shuoshuo/1.日记索引.md",
     "5.博客文章/3.Funs复利说索引.md",
@@ -223,41 +289,16 @@
     "5_Blog/shuoshuo/48th-2023-12-02-zhou6.md",
     "5_Blog/shuoshuo/1.日记索引.md",
     "attachment/Pasted Image 20231201213220.jpeg",
-    "5_Blog/fendou-posts/1.posts-index.md",
     "ob/卢曼卡片盒笔记法介绍.png",
     "ob/卢曼卡片盒笔记发标注.png",
     "ob/obsidian插件推荐.jpg",
     "ob/avatar图片.jpg",
-    "ob/README.md",
     "ob/Pasted image 20221227203945.png",
-    "ob",
     "attachment/Pasted image 20221227203945.png",
     "attachment/Pasted Image 20231201104755.jpeg",
     "attachment/Pasted Image 20231201150236.jpeg",
-    "attachment/README.md",
     "attachment/obsidian插件推荐.jpg",
-    "5_Blog/funstoutiao/reliable-gold-trading-platform.md",
-    "5_Blog/fendou-posts/flatsome.md",
-    "5_Blog/shuoshuo/52th-2022-12-31-zhou6.md",
-    "5_Blog/shuoshuo/48th-2023-12-01-zhou5.md",
-    "5_Blog/shuoshuo/48th-2023-11-30-zhou4.md",
-    "3.微信读书/1.微信读书索引.md",
-    "textgenerator/prompts/getTags.md",
-    "5_Blog/fendou-posts/liangpin-puzi-jiangjia.md",
-    "5_Blog/fendou-posts/slooger_test.md",
-    "5.博客文章/fendou-posts/skkliuy.md",
-    "5_Blog/fendou-posts/earn-10000-per-month.md",
-    "1.爱好/英语/1.AllEnglish.md",
-    "1.爱好/code/2.AllCode.md",
-    "1.爱好/历史/苏洵.md",
-    "1.爱好/历史/宋辽金夏.md",
-    "1.爱好/历史/1.AllHistory.md",
     "未命名 1.canvas",
-    "未命名.canvas",
-    "textgenerator/prompts/trash/default",
-    "textgenerator/prompts/trash",
-    " 💡Brainstorming Ideas for Context Generate Creative Solutions",
-    "textgenerator/prompts",
-    "textgenerator"
+    "未命名.canvas"
   ]
 }

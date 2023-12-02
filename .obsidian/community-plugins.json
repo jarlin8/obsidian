@@ -10,5 +10,6 @@
   "extract-url",
   "obsidian-wrap-with-shortcuts",
   "quickadd",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-weread-plugin"
 ]
