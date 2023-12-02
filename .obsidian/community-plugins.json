@@ -9,5 +9,6 @@
   "templater-obsidian",
   "extract-url",
   "obsidian-wrap-with-shortcuts",
-  "quickadd"
+  "quickadd",
+  "obsidian-git"
 ]
