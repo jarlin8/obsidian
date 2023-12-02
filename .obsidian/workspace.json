@@ -8,14 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "663130d3b27c96d7",
+            "id": "24264b0c9cb5bf10",
             "type": "leaf",
             "state": {
-              "type": "memos_view",
+              "type": "markdown",
+              "state": {
+                "file": "5.博客文章/shuoshuo/1.日记索引.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e95ad9293bd0096f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.博客文章/fendou-posts/slooger_test.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e713b633ade4d960",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-readhub",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ad1e465ed73436e",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-今日热点",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,14 +95,6 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "c17a4fe0914772e8",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
@@ -83,13 +110,23 @@
       {
         "id": "b28682efcca4f42a",
         "type": "tabs",
+        "dimension": 52.312138728323696,
         "children": [
+          {
+            "id": "bc59c7e5f5c53572",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
           {
             "id": "d8ef849168c64b77",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5.博客文章/fendou-posts/slooger_test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5.博客文章/fendou-posts/slooger_test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,36 +161,35 @@
             }
           },
           {
-            "id": "e8ccc82e18780059",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
             "id": "57b0077ee4b76d34",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "0962e4bb8fdb648a",
+        "type": "tabs",
+        "dimension": 47.687861271676304,
+        "children": [
           {
-            "id": "bc59c7e5f5c53572",
+            "id": "e8ccc82e18780059",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "5.博客文章/fendou-posts/slooger_test.md"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +205,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "663130d3b27c96d7",
+  "active": "e95ad9293bd0096f",
   "lastOpenFiles": [
+    "5.博客文章/fendou-posts/1.posts-index.md",
     "5.博客文章/shuoshuo/1.日记索引.md",
     "5.博客文章/3.Funs复利说索引.md",
     "5.博客文章/2.评测索引.md",
@@ -206,7 +244,6 @@
     "1.爱好/历史/苏洵.md",
     "1.爱好/历史/宋辽金夏.md",
     "1.爱好/历史/1.AllHistory.md",
-    "2.金融/XAUUSD.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "textgenerator/prompts/trash/default",
