@@ -8,44 +8,10 @@
         "type": "tabs",
         "children": [
           {
-            "id": "24264b0c9cb5bf10",
+            "id": "663130d3b27c96d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.博客文章/shuoshuo/1.日记索引.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e95ad9293bd0096f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.博客文章/fendou-posts/1.posts-index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e713b633ade4d960",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-readhub",
-              "state": {}
-            }
-          },
-          {
-            "id": "3ad1e465ed73436e",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-今日热点",
+              "type": "memos_view",
               "state": {}
             }
           }
@@ -109,23 +75,13 @@
       {
         "id": "b28682efcca4f42a",
         "type": "tabs",
-        "dimension": 52.312138728323696,
         "children": [
-          {
-            "id": "bc59c7e5f5c53572",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
           {
             "id": "d8ef849168c64b77",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.博客文章/shuoshuo/1.日记索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.博客文章/shuoshuo/1.日记索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,35 +115,36 @@
             }
           },
           {
+            "id": "e8ccc82e18780059",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
             "id": "57b0077ee4b76d34",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "0962e4bb8fdb648a",
-        "type": "tabs",
-        "dimension": 47.687861271676304,
-        "children": [
+          },
           {
-            "id": "e8ccc82e18780059",
+            "id": "bc59c7e5f5c53572",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "5.博客文章/shuoshuo/1.日记索引.md"
-              }
+              "type": "calendar",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 278.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +160,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "24264b0c9cb5bf10",
+  "active": "663130d3b27c96d7",
   "lastOpenFiles": [
+    "5.博客文章/shuoshuo/1.日记索引.md",
+    "5.博客文章/shuoshuo/48th-2023-12-02-zhou6.md",
     "attachment/Pasted Image 20231201213220.jpeg",
     "5.博客文章/fendou-posts/1.posts-index.md",
     "ob/卢曼卡片盒笔记法介绍.png",
@@ -220,8 +178,6 @@
     "attachment/Pasted Image 20231201150236.jpeg",
     "attachment/README.md",
     "attachment/obsidian插件推荐.jpg",
-    "5.博客文章/shuoshuo/1.日记索引.md",
-    "5.博客文章/shuoshuo/48th-2023-12-02-zhou6.md",
     "5.博客文章/funstoutiao/reliable-gold-trading-platform.md",
     "5.博客文章/fendou-posts/flatsome.md",
     "5.博客文章/shuoshuo/52th-2022-12-31-zhou6.md",
