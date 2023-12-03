@@ -4,36 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "e5e6af9c123347ad",
+        "id": "8481198dab64f85a",
         "type": "tabs",
-        "dimension": 62.37864077669902,
         "children": [
           {
-            "id": "b589d5d074c028b5",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-微信读书",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "bfcf015e254d33b9",
-        "type": "tabs",
-        "dimension": 37.62135922330097,
-        "children": [
-          {
-            "id": "a8d930814a4b73fc",
+            "id": "24264b0c9cb5bf10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.微信读书/经济理财/费曼学习法-尹红心 李伟.md",
+                "file": "5.博客文章/shuoshuo/1.日记索引.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "e95ad9293bd0096f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.博客文章/fendou-posts/1.posts-index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e713b633ade4d960",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-readhub",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ad1e465ed73436e",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-今日热点",
+              "state": {}
             }
           }
         ]
@@ -81,12 +94,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "e7176db50927ba1d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "32e94686b08819ed",
@@ -95,15 +117,23 @@
       {
         "id": "b28682efcca4f42a",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 52.312138728323696,
         "children": [
+          {
+            "id": "bc59c7e5f5c53572",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
           {
             "id": "d8ef849168c64b77",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.微信读书/经济理财/费曼学习法-尹红心 李伟.md",
+                "file": "5.博客文章/shuoshuo/1.日记索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.微信读书/经济理财/费曼学习法-尹红心 李伟.md",
+                "file": "5.博客文章/shuoshuo/1.日记索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,16 +168,6 @@
             }
           },
           {
-            "id": "e8ccc82e18780059",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "3.微信读书/经济理财/费曼学习法-尹红心 李伟.md"
-              }
-            }
-          },
-          {
             "id": "57b0077ee4b76d34",
             "type": "leaf",
             "state": {
@@ -155,75 +175,20 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
-        "id": "0e1654d6ac871481",
+        "id": "0962e4bb8fdb648a",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 47.687861271676304,
         "children": [
           {
-            "id": "c6227c259ea25247",
+            "id": "e8ccc82e18780059",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "outline",
               "state": {
-                "file": "3.微信读书/经济理财/费曼学习法-尹红心 李伟.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": true,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "path:2.金融",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14725458
-                      }
-                    },
-                    {
-                      "query": "path:1.爱好/历史",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11657298
-                      }
-                    },
-                    {
-                      "query": "path:1.爱好/code",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11657298
-                      }
-                    },
-                    {
-                      "query": "path:1.爱好/英语",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5431378
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": -2.6,
-                  "nodeSizeMultiplier": 1.30798611111111,
-                  "lineSizeMultiplier": 5,
-                  "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 0.5,
-                  "linkDistance": 30,
-                  "scale": 1.47698625036824,
-                  "close": true
-                }
+                "file": "5.博客文章/shuoshuo/1.日记索引.md"
               }
             }
           }
@@ -231,14 +196,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "canvas:新建白板": false,
       "obsidian-weread-plugin:Weread": false,
-      "obsidian-memos:Memos": false,
       "graph:查看关系图谱": false,
       "workspaces:管理工作区布局": false,
       "switcher:打开快速切换": false,
@@ -246,13 +209,14 @@
       "command-palette:打开命令面板": false,
       "remotely-save:Remotely Save": false,
       "templater-obsidian:Templater": false,
-      "templates:插入模板": false
+      "templates:插入模板": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "a8d930814a4b73fc",
+  "active": "24264b0c9cb5bf10",
   "lastOpenFiles": [
-    "3.微信读书/历史/华杉讲透《资治通鉴》（共22册）-华杉.md",
     "3.微信读书/1.微信读书索引.md",
+    "3.微信读书/历史/华杉讲透《资治通鉴》（共22册）-华杉.md",
     "3.微信读书/经济理财/赚钱机器-杜云生.md",
     "3.微信读书/经济理财/新媒体营销圣经：引诱，引诱，引诱，出击！-加里·维纳查克 张树燕.md",
     "3.微信读书/经济理财/股市天经：量柱擒涨停-黑马王子.md",
