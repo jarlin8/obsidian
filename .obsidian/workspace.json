@@ -49,7 +49,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "32e94686b08819ed",
@@ -213,8 +213,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "24264b0c9cb5bf10",
+  "active": "e713b633ade4d960",
   "lastOpenFiles": [
+    "5.博客文章/shuoshuo/1.日记索引.md",
     "3.微信读书/1.微信读书索引.md",
     "3.微信读书/历史/华杉讲透《资治通鉴》（共22册）-华杉.md",
     "3.微信读书/经济理财/赚钱机器-杜云生.md",
@@ -227,7 +228,6 @@
     "3.微信读书/经济理财/费曼学习法-尹红心 李伟.md",
     "3.微信读书/经济理财",
     "3.微信读书/历史",
-    "5.博客文章/shuoshuo/1.日记索引.md",
     "5.博客文章/shuoshuo/2th-2023-01-12-zhou4.md",
     "5.博客文章/shuoshuo/48th-2023-12-02-zhou6.md",
     "模板/日记模板.md",
