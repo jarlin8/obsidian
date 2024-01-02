@@ -7,7 +7,7 @@ taxonomy:
         - "experience"
 ---
 
-\[ad-1\]
+[ad-1]
 
 ![较高-iq选项的较低选项](https://iqoptionwiki.com/wp-content/uploads/2019/02/higher-lower-option.jpg)
 
@@ -115,4 +115,4 @@ taxonomy:
 IQ Option Wiki提供了许多可以改善交易性能的工具。 你会找到  
 关于如何使用IQ Option Wiki损益计算器
 
-\[ad-2\]
+[ad-2]

@@ -239,7 +239,7 @@ Darwinex注册
 
 Darwinex是一家创新经纪商，利用先进技术为零售和机构规模的交易者和投资者提供交易服务。他们非常关注通过DARWINs管理账户提供的社交方面，交易者可以在其中投资其他策略以收取绩效费。总体交易成本根据绩效而提高，这有助于鼓励负责任的交易。平台非常灵活，FIX API解决方案对更高级的交易者和为初学者提供的MT4有吸引力。交易工具和教材有限
 
-\-[差价合约](https://baike.baidu.com/item/%E5%B7%AE%E4%BB%B7%E5%90%88%E7%BA%A6/1100973)（CFD）是复杂的工具， ![](https://cdn.fendou.la/funstoutiao/2020/12/Darwinex-Logo-1.png)
+-[差价合约](https://baike.baidu.com/item/%E5%B7%AE%E4%BB%B7%E5%90%88%E7%BA%A6/1100973)（CFD）是复杂的工具， ![](https://cdn.fendou.la/funstoutiao/2020/12/Darwinex-Logo-1.png)
 
 #### 最少$500入金
 

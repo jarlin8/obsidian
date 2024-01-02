@@ -127,12 +127,9 @@ taxonomy:
 ......
 
 - 运动战法精要：避敌主力，诱敌深入，集中优势兵力，各个击破。
-    
 - 我们在认识事物的时候，要不急不躁、由表及里、全面观察、由感性到理性、了解事物的演进变化、分清事物彼此间的区别联系、大胆假设、小心求证、循环往复、不断加深对事物的认识。
-    
 - 实践论要义：  
     1）观察事物的外在特性：尽可能多地从不同的侧面观察事物的特性，详细列举事物的外在特性要素。
-    
 
 2) 观察事物的内在特性：探寻事物内在特性，尽可能多地列举事物的特性的各个要素。
 
@@ -338,7 +335,7 @@ taxonomy:
 我一直认为期货市场上生存的重要性要远远超过盈利的重要性，因为若不找到长期生存的办法，那么就难以得到发展。  
 看透了这一本书，在期货市场生存已不成问题，爆仓也就成了不可能之事。
 
-![dachshund](https://img.dgrhw.net/upload/files/huihu/2019/06/19/113231118.png "图片15.png")2\. 基本而全面的技术分析
+![dachshund](https://img.dgrhw.net/upload/files/huihu/2019/06/19/113231118.png "图片15.png")2. 基本而全面的技术分析
 
 推荐书目：《期货市场技术分析》与《日本蜡烛图技术》
 
@@ -348,7 +345,7 @@ taxonomy:
 前者相当于期货市场的《股票趋势技术分析》，可以说是期货市场的技术分析类教科书。  
 后者蜡烛图的分析是根本之作，不得不看。  
 另外，书中也讲了很多将蜡烛图分析法与其他分析方法结合的思想，这一点颇值得探讨。  
-![dachshund](https://img.dgrhw.net/upload/files/huihu/2019/06/19/113431195.png "图片16.png")![dachshund](https://img.dgrhw.net/upload/files/huihu/2019/06/19/113431257.png "图片17.png")3\. 心理分析 
+![dachshund](https://img.dgrhw.net/upload/files/huihu/2019/06/19/113431195.png "图片16.png")![dachshund](https://img.dgrhw.net/upload/files/huihu/2019/06/19/113431257.png "图片17.png")3. 心理分析 
 
 推荐书目：《交易心理分析》与《以交易为生》
 
@@ -358,7 +355,7 @@ taxonomy:
 后一本由亚历山大·埃尔德所著，作者是一位精神分析医生，所以重点从群体与个体心理两个角度探讨了交易。  
 值得一提的是，著名的“三重过滤网交易系统”出自其手、其书。
 
-![dachshund](https://img.dgrhw.net/upload/files/huihu/2019/06/19/113500648.png "图片19.png")![dachshund](https://img.dgrhw.net/upload/files/huihu/2019/06/19/113501414.png "图片18.png")4\. 实战日记
+![dachshund](https://img.dgrhw.net/upload/files/huihu/2019/06/19/113500648.png "图片19.png")![dachshund](https://img.dgrhw.net/upload/files/huihu/2019/06/19/113501414.png "图片18.png")4. 实战日记
 
 推荐书目：《1000%的男人》
 
@@ -367,7 +364,7 @@ taxonomy:
 
 对于此书，尽管翻译得很烂，但是一本难得的实战日记，重视实战的朋友在有了一定的交易经验之后，个人推荐一定要尝试看看这本书，他的思路我觉得非常适合大部分带有一点主观判断的交易者，当然也不仅仅局限于日内，可以衍生到周内、月内、季内甚至年内交易。
 
-![dachshund](https://img.dgrhw.net/upload/files/huihu/2019/06/19/113526179.png "图片20.png")5\. 传记与访谈
+![dachshund](https://img.dgrhw.net/upload/files/huihu/2019/06/19/113526179.png "图片20.png")5. 传记与访谈
 
 推荐书目：《股票作手回忆录》与《金融怪杰》
 

@@ -70,7 +70,7 @@ Bexplus已获得圣文森特和格林纳丁斯金融服务管理局的许可。 
 
 ![## 交易平台](https://cdn.fendou.la/funstoutiao/2020/11/Bexplus-Review-Trading-Platform.jpg "## 交易平台")
 
-\## 交易平台
+## 交易平台
 
 ## 交易平台
 
@@ -80,7 +80,7 @@ Bexplus为交易者提供了一些有用的交易工具，包括由TradingView�
 
 ![## TradingView的图表](https://cdn.fendou.la/funstoutiao/2020/11/Bexplus-Review-Charts-by-Trading-View-728x1024.jpg "## TradingView的图表")
 
-\## TradingView的图表
+## TradingView的图表
 
 ## TradingView的图表
 
@@ -112,7 +112,7 @@ Bexplus仅接受比特币的存款和取款。 联交所的入金地址是防篡
 
 ![## 帐户开设页面](https://cdn.fendou.la/funstoutiao/2020/11/Bexplus-Review-Account-Opening-Page-690x1024.jpg "## 帐户开设页面")
 
-\## 帐户开设页面
+## 帐户开设页面
 
 ## 帐户开设页面
 

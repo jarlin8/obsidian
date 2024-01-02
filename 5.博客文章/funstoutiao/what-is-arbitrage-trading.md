@@ -1,5 +1,5 @@
 ---
-title: "什么叫\"套汇交易\"? 它有哪两种形式?"
+title: "什么叫套汇交易? 它有哪两种形式?"
 post_status: publish
 skip_file: no
 taxonomy:

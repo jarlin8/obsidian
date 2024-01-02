@@ -59,7 +59,7 @@ ETRADE提供强大，先进和灵活的交易平台，供投资者或交易者�
 
 ![Power E * TRADE平台](https://cdn.fendou.la/funstoutiao/2020/10/Power-ETRADE-Platform-1024x671.jpg "Power E * TRADE平台")
 
-Power E \* TRADE平台
+Power E * TRADE平台
 
 Power ETRADE平台
 
@@ -98,7 +98,7 @@ ETRADE网络平台功能包括：
 
 ![Power E * TRADE移动应用](https://cdn.fendou.la/funstoutiao/2020/10/Power-ETRADE-Mobile-App.jpg "Power E * TRADE移动应用")
 
-Power E \* TRADE移动应用
+Power E * TRADE移动应用
 
 Power ETRADE移动应用
 

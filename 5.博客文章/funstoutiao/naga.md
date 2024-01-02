@@ -202,7 +202,7 @@ NAGA提供以白银，黄金和石油交易的商品。保证金要求根据工�
 
 NAGA提供约17种ETF的交易，例如Spdr DJIA ETF Trust，Ishares Msci Emerging Markets ETF，Ishares Msci EAFE Index ETF，Ishares Msci Pac X-JP ETF，Ishares MSCI Spain Capped ETF，Ishares Taiwan Index ETF，Ishares South Korea Index ETF ，Ishares巴西指数ETF等。ETF的保证金要求为20％，还收取0.10％的佣金。除此之外，还有多头/空头掉期和点差费用。
 
-\*保证金要求和点差可能会根据市场情况而变化。
+*保证金要求和点差可能会根据市场情况而变化。
 
 考虑到公司已在欧盟管辖范围内注册，Naga Markets完全遵守这些法规要求，因此对于零售客户而言，杠杆限制如下：
 

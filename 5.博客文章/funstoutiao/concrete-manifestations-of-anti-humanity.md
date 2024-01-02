@@ -49,7 +49,7 @@ taxonomy:
 
 ![](https://cdn.fendou.la/funstoutiao/2020/12/205326655.png)
 
-## 7\. 不愿承认失败
+## 7. 不愿承认失败
 
 古人言，人要脸，树要皮。当一个人能放下面子去赚钱的时候，他就可能会成功；当一个交易员放下面子去承认自己错误时，他离交易[稳定盈利](https://funstoutiao.com/conditions-for-stable-profit.html)也进了一步。每年都会有大量的交易者因为扛单而爆仓，扛单的本质不就是不愿意承认自己的失败吗？
 

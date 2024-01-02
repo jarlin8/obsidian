@@ -99,7 +99,7 @@ ALLIGATORS LIPS — 鳄鱼嘴唇（绿线）。
 
 ![dachshund](https://cdn.fendou.la/funstoutiao/2020/12/175805466.jpg "v2-fbf941a4d115753e367635cb9f118f88_r.jpg")
 
-v2-fbf941a4d115753e367635cb9f118f88\_r.jpg
+v2-fbf941a4d115753e367635cb9f118f88_r.jpg
 
 2.进场选择。（以上涨为例）
 

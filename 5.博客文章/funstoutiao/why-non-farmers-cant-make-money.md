@@ -19,7 +19,7 @@ taxonomy:
 
 ![dachshund](https://cdn.fendou.la/funstoutiao/2020/12/152605630.jpg "timg.jpg")
 
-**1\. 外在原因**
+**1. 外在原因**
 
 平台商每个月大丰收的时间就是非农。
 

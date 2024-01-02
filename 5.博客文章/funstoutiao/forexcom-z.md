@@ -43,10 +43,10 @@ Forex.com嘉盛集团是由美国商品期货交易委员会（CFTC）和美国�
 
 ### 参考文献
 
-\[Tech.co\](https://tech.co/forex-trading-is-it-legal-2020-04)
+[Tech.co](https://tech.co/forex-trading-is-it-legal-2020-04)
 
-\[Investopedia\](https://www.investopedia.com/terms/c/cftc.asp)
+[Investopedia](https://www.investopedia.com/terms/c/cftc.asp)
 
-\[ASIC\](https://asic.gov.au/)
+[ASIC](https://asic.gov.au/)
 
-\[FCA\](https://www.fca.org.uk/) \[ad\_2\]
+[FCA](https://www.fca.org.uk/) 

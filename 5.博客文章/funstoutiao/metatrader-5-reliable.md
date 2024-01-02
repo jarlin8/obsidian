@@ -9,7 +9,7 @@ taxonomy:
         - "foreign-exchange"
 ---
 
-\[caption id="attachment-18972" align="aligncenter" width="513"\]![MetaTrader 5](https://cdn.fendou.la/funstoutiao/2020/11/YLD-FX-Review-MT5-Desktop-Platform.png) MetaTrader 5\[/caption\]
+[caption id="attachment-18972" align="aligncenter" width="513"]![MetaTrader 5](https://cdn.fendou.la/funstoutiao/2020/11/YLD-FX-Review-MT5-Desktop-Platform.png) MetaTrader 5[/caption]
 
 ## MetaTrader 5是非常靠谱的外汇交易软件
 
@@ -29,4 +29,4 @@ taxonomy:
 
 在这种多样性的订单类型和可用执行模式下，交易者可以使用任何适用的交易策略在金融市场获得成功。
 
-\[wbcr-php-snippet id =“ 16687”\]
+[wbcr-php-snippet id =“ 16687”]

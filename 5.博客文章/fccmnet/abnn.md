@@ -9,7 +9,7 @@ taxonomy:
 
 A Forbes investigation has unveiled the Kingdom of Bhutan's clandestine development of a series of Bitcoin mining facilities. Through satellite imagery from Planet Labs, Satellite Vu, and Google Earth, coupled with insights into Bhutan's crypto investments, the publication identified four undisclosed crypto-mining sites.
 
-\[caption id="attachment\_13536" align="alignnone" width="1024"\]![](https://cdn.fendou.la/tuoss/bhutan.jpg) Bhutan is operating secret, state-owned Bitcoin mining facilities\[/caption\]
+[caption id="attachment_13536" align="alignnone" width="1024"]![](https://cdn.fendou.la/tuoss/bhutan.jpg) Bhutan is operating secret, state-owned Bitcoin mining facilities[/caption]
 
 The satellite images expose long, rectangular mining units and discreet data center cooling systems nestled within the dense forests and mountainous landscapes of the Himalayan country. Additionally, high-capacity power lines and transformers, connecting to Bhutan's hydroelectric plants, were observed at these mining locations, as reported by Forbes.
 
