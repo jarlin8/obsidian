@@ -2,7 +2,7 @@
   "commitMessage": "备份时间: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 5,
-  "autoPushInterval": 5,
+  "autoPushInterval": 30,
   "autoPullInterval": 5,
   "autoPullOnBoot": true,
   "disablePush": false,
