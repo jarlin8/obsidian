@@ -11,13 +11,8 @@
             "id": "1b237c03b913f0b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.博客文章/1.外汇索引.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "memos_view",
+              "state": {}
             }
           },
           {
@@ -122,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.博客文章/1.外汇索引.md",
+                "file": "5.博客文章/3.Funs复利说索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.博客文章/1.外汇索引.md",
+                "file": "5.博客文章/3.Funs复利说索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.博客文章/1.外汇索引.md"
+                "file": "5.博客文章/3.Funs复利说索引.md"
               }
             }
           }
@@ -204,9 +199,11 @@
   },
   "active": "1b237c03b913f0b0",
   "lastOpenFiles": [
+    "5.博客文章/1.外汇索引.md",
+    "5.博客文章/welaowei/gain-forex-detail.md",
+    "5.博客文章/shuoshuo/34th-2020-08-20-zhou4.md",
     "5.博客文章/3.Funs复利说索引.md",
     "5.博客文章/2.评测索引.md",
-    "5.博客文章/1.外汇索引.md",
     "5.博客文章/funstoutiao/european-shares-start-new-year-at-23-month.md",
     "5.博客文章/welaowei/294-forex-rank.md",
     "5.博客文章/funstoutiao/101investing.md",
@@ -228,8 +225,6 @@
     "5.博客文章/funstoutiao/which-job-you-do-except-trader.md",
     "5.博客文章/funstoutiao/which-important-for-treatd-emoney.md",
     "5.博客文章/funstoutiao/which-cycle-is-suitable-for-newcomers.md",
-    "5.博客文章/funstoutiao/which-broker-safer-for-xauusd.md",
-    "5.博客文章/funstoutiao/which-broker-low-spreads.md",
     "attachment/Pasted Image 20231203103737.jpeg",
     "3.微信读书/个人成长",
     "3.微信读书/经济理财",
