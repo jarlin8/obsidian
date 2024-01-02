@@ -4,49 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "8481198dab64f85a",
+        "id": "9a9fbb9cc3cf119d",
         "type": "tabs",
         "children": [
           {
-            "id": "24264b0c9cb5bf10",
+            "id": "1b237c03b913f0b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.博客文章/shuoshuo/1.日记索引.md",
+                "file": "5.博客文章/1.外汇索引.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "e95ad9293bd0096f",
+            "id": "8a2a0ebdd05dd8db",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
+            "id": "f0708102cd8b3a61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.博客文章/fendou-posts/1.posts-index.md",
+                "file": "5.博客文章/2.评测索引.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "e713b633ade4d960",
+            "id": "3f6aca2bb63a5e5b",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-readhub",
-              "state": {}
-            }
-          },
-          {
-            "id": "3ad1e465ed73436e",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-今日热点",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5.博客文章/funstoutiao/how-to-set-take-profit-and-stop-loss-in-mt4.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -97,7 +104,7 @@
             }
           },
           {
-            "id": "e7176db50927ba1d",
+            "id": "9c399e09cae4a971",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -118,7 +125,7 @@
       {
         "id": "b28682efcca4f42a",
         "type": "tabs",
-        "dimension": 52.312138728323696,
+        "dimension": 48.26589595375722,
         "children": [
           {
             "id": "bc59c7e5f5c53572",
@@ -134,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.博客文章/fendou-posts/1.posts-index.md",
+                "file": "5.博客文章/1.外汇索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.博客文章/fendou-posts/1.posts-index.md",
+                "file": "5.博客文章/1.外汇索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,12 +183,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "0962e4bb8fdb648a",
         "type": "tabs",
-        "dimension": 47.687861271676304,
+        "dimension": 51.73410404624278,
         "children": [
           {
             "id": "e8ccc82e18780059",
@@ -189,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.博客文章/fendou-posts/1.posts-index.md"
+                "file": "5.博客文章/1.外汇索引.md"
               }
             }
           }
@@ -197,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,44 +222,44 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e95ad9293bd0096f",
+  "active": "8a2a0ebdd05dd8db",
   "lastOpenFiles": [
-    "5.博客文章/fendou-posts/slooger_test.md",
-    "5.博客文章/fendou-posts/1.posts-index.md",
+    "5.博客文章/welaowei/294-forex-rank.md",
+    "5.博客文章/welaowei/fxcm-review.md",
+    "5.博客文章/funstoutiao/xtb.md",
+    "5.博客文章/funstoutiao/ufx.md",
+    "5.博客文章/funstoutiao/rjo.md",
+    "5.博客文章/funstoutiao/gmt.md",
+    "5.博客文章/funstoutiao/tio.md",
+    "5.博客文章/funstoutiao/egm.md",
+    "5.博客文章/funstoutiao/axi.md",
+    "5.博客文章/funstoutiao/alb.md",
+    "5.博客文章/funstoutiao/nsfx.md",
+    "5.博客文章/funstoutiao/naga.md",
+    "5.博客文章/funstoutiao/tmgm.md",
+    "5.博客文章/funstoutiao/okex.md",
+    "5.博客文章/funstoutiao/lynx.md",
+    "5.博客文章/funstoutiao/lmax.md",
+    "5.博客文章/funstoutiao/lmfx.md",
+    "5.博客文章/funstoutiao/luno.md",
+    "5.博客文章/funstoutiao/jafx.md",
+    "5.博客文章/funstoutiao/lblv.md",
+    "5.博客文章/funstoutiao/hycm.md",
+    "5.博客文章/funstoutiao/ifgm.md",
+    "5.博客文章/funstoutiao/hxfx.md",
+    "5.博客文章/funstoutiao/fxtm.md",
+    "5.博客文章/funstoutiao/gkfx.md",
+    "5.博客文章/funstoutiao/fxdd.md",
     "attachment/Pasted Image 20231203103737.jpeg",
-    "5.博客文章/shuoshuo/48th-2023-12-03-zhou0.md",
-    "5.博客文章/shuoshuo/1.日记索引.md",
-    "3.微信读书/1.微信读书索引.md",
-    "3.微信读书/历史/华杉讲透《资治通鉴》（共22册）-华杉.md",
-    "3.微信读书/经济理财/赚钱机器-杜云生.md",
-    "3.微信读书/经济理财/新媒体营销圣经：引诱，引诱，引诱，出击！-加里·维纳查克 张树燕.md",
-    "3.微信读书/经济理财/股市天经：量柱擒涨停-黑马王子.md",
-    "3.微信读书/个人成长/学会写作：自我进阶的高效方法-粥左罗.md",
-    "3.微信读书/个人成长/如何高效学习：1年完成麻省理工4年33门课程的整体性学习法-斯科特·扬.md",
     "3.微信读书/个人成长",
-    "3.微信读书/经济理财/思考致富-拿破仑·希尔.md",
-    "3.微信读书/经济理财/费曼学习法-尹红心 李伟.md",
     "3.微信读书/经济理财",
     "3.微信读书/历史",
-    "5.博客文章/shuoshuo/2th-2023-01-12-zhou4.md",
-    "5.博客文章/shuoshuo/48th-2023-12-02-zhou6.md",
-    "模板/日记模板.md",
-    "2.金融/1.AllFinance.md",
-    "3.微信读书/思考致富.md",
-    "3.微信读书/费曼学习法.md",
-    "如何高效学习：1年完成麻省理工4年33门课程的整体性学习法/如何高效学习：1年完成麻省理工4年33门课程的整体性学习法.md",
-    "赚钱机器/赚钱机器.md",
     "赚钱机器",
-    "新媒体营销圣经：引诱，引诱，引诱，出击！/新媒体营销圣经：引诱，引诱，引诱，出击！.md",
     "新媒体营销圣经：引诱，引诱，引诱，出击！",
-    "股市天经：量柱擒涨停/股市天经：量柱擒涨停.md",
     "股市天经：量柱擒涨停",
-    "学会写作：自我进阶的高效方法/学会写作：自我进阶的高效方法.md",
     "学会写作：自我进阶的高效方法",
     "如何高效学习：1年完成麻省理工4年33门课程的整体性学习法",
-    "思考致富/思考致富.md",
     "思考致富",
-    "费曼学习法/费曼学习法.md",
     "费曼学习法",
     "attachment/Pasted Image 20231201213220.jpeg",
     "ob/卢曼卡片盒笔记法介绍.png",
