@@ -23,7 +23,7 @@ post_excerpt:
 
 ## 阿里云 OSS
 
-### Aliyun OSS
+### Aliyun **OSS**
 
 作者： [Ivan Chou](https://yii.im/)在 wordpress 后台插件库可以直接搜索到，目前使用正常，好像快两年没有更新了。推荐使用 wordpress 插件页面安装的 3.2.7 版本，新版 3.30 在 wordpress5.7 里面出现故障，提示致命错误。
 
@@ -83,9 +83,9 @@ github 仓库地址：[https://github.com/sy-records/aliyun-oss-wordpress](https
 
 该插件将 WordPress 站点图片等多媒体文件直接上传到腾讯云对象存储 COS 中，该插件依赖腾讯云对象存储 COS。
 
-Github 下载节点：[https://github.com/sy-records/wordpress-qcloud-cos/releases/latest](https://github.com/sy-records/wordpress-qcloud-cos/releases/latest)
+**Github 下载节点：**[https://github.com/sy-records/wordpress-qcloud-cos/releases/latest](https://github.com/sy-records/wordpress-qcloud-cos/releases/latest)
 
-Github 项目地址：[https://github.com/sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+**Github 项目地址：**[https://github.com/sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
 
 ### 插件特点
 

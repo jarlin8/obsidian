@@ -73,7 +73,7 @@ URL 搜索适用于直接链接映射字段。如果您没有在上一步映射�
 
 ### 1.解除限制 A
 
-content-egg/application/admin/LicConfig.php 92:107
+**content-egg/application/admin/LicConfig.php** 92:107
 
 ```plain text
 public function licFormat($value)
@@ -88,7 +88,7 @@ return true;
 
 ### 2.解除限制 B
 
-content-egg/application/components/LManager.php 379
+**content-egg/application/components/LManager.php** 379
 
 ```plain text
 public static function isNulled(){
@@ -98,9 +98,9 @@ return false;​
 
 ### 3. 比价模板添加商家 logo ✔
 
-content-egg/templates/block_price_comparison_card.php: 44
+**content-egg/templates/block_price_comparison_card.php: 44**
 
-使用自定义模板解决：block_ComparePrice
+**使用自定义模板解决**：block_ComparePrice
 
 ```plain text
 //原代码
@@ -112,9 +112,9 @@ content-egg/templates/block_price_comparison_card.php: 44
 
 ### 4.top-list 列表添加商家 logo ✔
 
-content-egg/templates/block_top_listing.php:55 行
+**content-egg/templates/block_top_listing.php:55 行**
 
-使用自定义模板解决： block_TopListing
+**使用自定义模板解决**： block_TopListing
 
 ```plain text
 //原代码
@@ -130,7 +130,7 @@ content-egg/templates/block_top_listing.php:55 行
 
 ### 5.单个产品 list 展示 显示商家 logo ✖ 未解决
 
-content-egg/application/templates/blocks/list_row.php：20&7 后面添加图标代码就好
+**content-egg/application/templates/blocks/list_row.php**：20&7 后面添加图标代码就好
 
 ```plain text
 <div class="cegg-no-top-margin cegg-list-logo-title">
@@ -152,7 +152,7 @@ https://www.google.com/s2/favicons?domain=  >>  https://icon.horse/icon/
 
 ### 1.解除限制 A
 
-affiliate-egg/application/admin/LicConfig.php:76
+**affiliate-egg/application/admin/LicConfig.php**:76
 
 ```plain text
 public function licFormat($value)    {
@@ -186,7 +186,7 @@ return true;
 
 ### 2.解除限制 B
 
-affiliate-egg/application/admin/LManager.php:302
+**affiliate-egg/application/admin/LManager.php**:302
 
 ```plain text
 public static function isNulled()​    {​

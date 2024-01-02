@@ -37,7 +37,7 @@ post_excerpt:
 
 ### 4 、最少练习 20 个小时
 
-在学习任何东西的过程中，都会有一个让你有挫败感的障碍需要跨过（frustration barrier），在你跨过这个障碍之前你很难有任何突破和实质性的进步，但是当你一旦超过了这个障碍，一切就像打通了任督二脉一样通常美好，俗称“开窍了”。
+在学习任何东西的过程中，都会有一个让你有挫败感的障碍需要跨过（frustration barrier），在你跨过这个障碍之前你很难有任何突破和实质性的进步，但是当你一旦超过了这个障碍，一切就像打通了任督二脉一样通常美好，俗称“**开窍了**”。
 
 这个“开窍”的时间可能因人而异有长有短，在学习不同的内容的时候也会有不同的效果，但当你一开始见不到效果的时候请一定不要放弃，努力坚持到 20 个小时，坚持到你能投入的最大的时间和精力，然后再看看效果。
 
@@ -111,7 +111,7 @@ post_excerpt:
 
 ### 视频地址
 
-YouTube：[如何在六个月内掌握一门外语 | 克利斯•伦戴尔 | TEDxLingnanUniversity - YouTube](https://www.youtube.com/watch?v=d0yGdNEWdn0&t=99s)
+**YouTube**：[如何在六个月内掌握一门外语 | 克利斯•伦戴尔 | TEDxLingnanUniversity - YouTube](https://www.youtube.com/watch?v=d0yGdNEWdn0&t=99s)
 
 演讲稿字幕版：
 

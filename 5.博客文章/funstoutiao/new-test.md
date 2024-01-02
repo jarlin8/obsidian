@@ -20,7 +20,7 @@ function convertRichTextToMarkdown(richTexts) {
       return `[${text.plain_text}](${text.href})`;
     } else if (text.annotations && text.annotations.code) {
       // 处理内联代码
-      return ``${text.plain_text}``;
+      return `\`${text.plain_text}\``;
     } else {
       // 支持粗体和颜色
       var markdownText = text.plain_text;

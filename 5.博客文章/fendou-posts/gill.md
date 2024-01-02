@@ -71,7 +71,7 @@ custom_fields:
 
 可以按照 [markdown](https://zh.wikipedia.org/wiki/markdown) 语法正常添加链接。最好使用相对链接来引用存储库中的任何帖子，即引用`./faq.md`与链接值相同的目录中的任何帖子。Git it write 会`/faq/`在发布之前将其转换为。通过这样做，降价文件在 github 页面和您的主网站中都正确链接。
 
-示例：  将从相对上一级的文件夹`../guide/doc1.md`中链接一个`doc1.md`文件。`guide`同样`.`可用于当前目录并`/`从存储库的根目录引用文件，即`/folder1/folder2/doc2.md`.
+**示例：**  将从相对上一级的文件夹`../guide/doc1.md`中链接一个`doc1.md`文件。`guide`同样`.`可用于当前目录并`/`从存储库的根目录引用文件，即`/folder1/folder2/doc2.md`.
 
 ## HTML 和 Gutenberg 古腾堡编辑器
 

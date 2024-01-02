@@ -35,4 +35,4 @@ add_action( 'admin_notices', 'flatsome_maintenance_admin_notice' );
 
 * [https://search.google.com/search-console](https://search.google.com/search-console)
 
-* 用户和权限添加 rankmathgoolgeindex@swift-stack-385704.iam.gserviceaccount.com
+* 用户和权限添加 **rankmathgoolgeindex@swift-stack-385704.iam.gserviceaccount.com**

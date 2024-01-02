@@ -38,7 +38,7 @@ define('WP_ALLOW_MULTISITE', true);
 
 > 重要：屏蔽 IP 工具是一项强大的功能，如果使用不当，可能会阻止合法服务或个人。
 
-要在宝塔面板中屏蔽拦截 IP 地址，请导航至安全，选择屏蔽 IP，填入屏蔽 IP 或者 IP 段，点击屏蔽按钮即可添加指定 IP/IP 段至屏蔽列表。
+要在宝塔面板中屏蔽拦截 IP 地址，请导航至**安全**，选择屏蔽 IP，填入屏蔽 IP 或者 IP 段，点击屏蔽按钮即可添加指定 IP/IP 段至屏蔽列表。
 
 在“将 IP 地址添加到屏蔽”模式中，您可以将 IPV4 地址、IPV6 地址和 CIDR（无类域间路由）IP 地址范围添加到阻止列表。CIDR 范围可用于屏蔽 IP 地址的连续范围（例如 127.0.0.1 到 127.0.0.255）。要生成有效的 CIDR 范围，我们建议使用这样的[工具](https://www.ipaddressguide.com/cidr)。
 
@@ -54,7 +54,7 @@ define('WP_ALLOW_MULTISITE', true);
 
 如果您是 Cloudflare 用户，您可以使用 Cloudflare 仪表盘中的“IP Access Rules”工具来屏蔽 IP 地址和 IP 范围。
 
-在 Cloudflare 仪表盘中，导航到Firewall > Tools。
+在 Cloudflare 仪表盘中，导航到**Firewall > Tools**。
 
 要创建新的 IP 访问规则，请添加 IP 地址，选择“Block”操作，选择“This Website”（如果您希望规则适用于所有 Cloudflare 域，则选择“All Websites in Account”），然后单击“Add”。
 
