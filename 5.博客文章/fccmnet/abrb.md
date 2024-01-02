@@ -1,8 +1,10 @@
 ---
 title: "哪个外汇平台返佣比较靠谱"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 哪个外汇平台返佣比较靠谱

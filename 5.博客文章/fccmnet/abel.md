@@ -1,8 +1,10 @@
 ---
 title: "保本外汇平台是真的吗"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 保本外汇平台是一种新兴的投资方式，它可以帮助投资者实现投资目标，同时又不会承担太大的风险。但是，有人质疑保本外汇平台是否真的存在，这是一个值得探讨的问题。

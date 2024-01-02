@@ -1,8 +1,10 @@
 ---
 title: "持仓差与仓差是什么关系 是一个意思吗"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 仓差和持仓差的定义

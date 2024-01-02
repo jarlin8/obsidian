@@ -1,8 +1,10 @@
 ---
 title: "安富外汇客户盈利吗"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 安富外汇是一家专业的外汇交易公司，为客户提供外汇交易服务。它的客户可以通过安富外汇的交易平台进行外汇交易，以获得投资收益。那么，安富外汇的客户能够盈利吗？

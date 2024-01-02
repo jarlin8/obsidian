@@ -1,8 +1,10 @@
 ---
 title: "炒汇初学者会遇到的问题会很多吗"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒汇是一种投资行为，它可以帮助投资者获得更高的收益，但是也有一定的风险。炒汇初学者会遇到很多问题，这些问题可能会影响他们的投资结果。

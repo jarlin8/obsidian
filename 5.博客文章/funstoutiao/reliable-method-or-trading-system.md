@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 五年5倍相当于一年一倍，没有加上复利的话。

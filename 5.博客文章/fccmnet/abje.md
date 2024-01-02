@@ -1,8 +1,10 @@
 ---
 title: "ig外汇交易规则是什么"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ig外汇交易规则是指ig外汇交易所的交易规则，它是ig外汇交易所的核心规则，它规定了ig外汇交易所的交易者在交易过程中必须遵守的规则。ig外汇交易规则是ig外汇交易所的基础，它规定了ig外汇交易所的交易者在交易过程中必须遵守的规则，以确保ig外汇交易所的交易秩序。

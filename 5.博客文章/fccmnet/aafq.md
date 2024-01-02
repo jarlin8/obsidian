@@ -1,8 +1,10 @@
 ---
 title: "新手入门外汇从什么开始认识"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 新手入门外汇从什么开始认识

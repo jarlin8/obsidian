@@ -1,8 +1,10 @@
 ---
 title: "福汇平台安全正规吗"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 福汇平台安全正规吗

@@ -1,8 +1,10 @@
 ---
 title: "上班族在炒黄金时有哪些需要注意的事项"
-date: "2023-03-25"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 上班族在炒黄金时有哪些需要注意的事项

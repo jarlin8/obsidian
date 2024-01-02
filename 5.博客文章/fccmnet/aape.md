@@ -1,8 +1,10 @@
 ---
 title: "外汇交易中货币对的买卖过程是怎样的"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇交易中货币对的买卖过程是怎样的

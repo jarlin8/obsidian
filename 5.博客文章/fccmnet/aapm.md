@@ -1,8 +1,10 @@
 ---
 title: "如何私人做外汇"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是外汇？

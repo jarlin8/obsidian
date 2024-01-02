@@ -1,8 +1,10 @@
 ---
 title: "什么是外汇EA智能交易"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是外汇EA智能交易

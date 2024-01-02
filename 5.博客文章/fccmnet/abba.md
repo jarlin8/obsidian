@@ -1,8 +1,10 @@
 ---
 title: "炒汇新手该如何观察市场?"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒汇是一项具有挑战性的投资活动，新手在进入市场之前，应该先了解市场的情况，以便做出正确的决定。观察市场是炒汇新手的重要环节，以下是一些建议，希望能够帮助新手更好地观察市场。

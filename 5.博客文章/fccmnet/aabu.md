@@ -1,8 +1,10 @@
 ---
 title: "顶部底部获利技巧有哪些看指标吗"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是顶部和底部获利

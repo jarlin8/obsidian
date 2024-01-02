@@ -1,8 +1,10 @@
 ---
 title: "MT4挂单无法成交是什么原因"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MT4挂单无法成交是一个普遍存在的问题，它可能会影响交易者的交易结果。因此，了解其原因对于交易者来说是非常重要的。

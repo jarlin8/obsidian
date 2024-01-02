@@ -1,8 +1,10 @@
 ---
 title: "远期外汇与外汇期货的差别"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 远期外汇是什么？

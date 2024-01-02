@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 第一次的爆仓肯定影像深刻。

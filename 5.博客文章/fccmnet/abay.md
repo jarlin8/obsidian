@@ -1,8 +1,10 @@
 ---
 title: "炒汇新手如何赚钱"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒汇是一种投资方式，可以让投资者以较低的风险获得较高的收益。炒汇新手如何赚钱？本文将为您介绍炒汇新手如何赚钱的方法。

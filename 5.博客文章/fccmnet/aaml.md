@@ -1,8 +1,10 @@
 ---
 title: "学外汇操盘 哪个网站有实时的外汇资讯和专家评论"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 学外汇操盘的第一步：选择一个实时资讯和专家评论的网站

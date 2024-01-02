@@ -1,8 +1,10 @@
 ---
 title: "炒汇风险的表现有哪些"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒汇风险是指投资者在外汇市场中的投资风险，它可以通过多种方式表现出来。

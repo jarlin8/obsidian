@@ -1,8 +1,10 @@
 ---
 title: "Exness外汇杠杆和点差说明"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 Exness外汇杠杆和点差是指在外汇交易中，交易者可以使用的金融工具。杠杆是指交易者可以使用的资金量，而点差则是指交易者在买入和卖出时所需要支付的价格差异。

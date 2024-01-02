@@ -1,8 +1,10 @@
 ---
 title: "MACD指标怎么使用有没有教程"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MACD指标是一种常用的技术分析指标，它可以帮助投资者分析股票的走势，从而做出更好的投资决策。MACD指标的使用非常简单，但是要想更好地利用它，就需要一些教程。

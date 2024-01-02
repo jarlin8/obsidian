@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
   post_tag:
         - "稳定盈利的方法"
         - "稳定盈利的期货大咖如何做到的"

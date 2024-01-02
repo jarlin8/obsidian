@@ -1,8 +1,10 @@
 ---
 title: "炒黄金怎么摸顶触底"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金是一种投资行为，它可以帮助投资者获得财富增值的机会。炒黄金的投资者需要了解如何摸顶触底，以便在市场波动时及时调整投资策略，以获得最大的收益。

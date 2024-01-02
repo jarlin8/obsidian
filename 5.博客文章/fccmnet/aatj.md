@@ -1,8 +1,10 @@
 ---
 title: "欧洲央行利率决议对黄金价格有何影响"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 欧洲央行利率决议对黄金价格有何影响

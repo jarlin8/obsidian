@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 胜率和盈亏比更重注哪个可能会决定你未来的交易方向。

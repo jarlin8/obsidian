@@ -1,8 +1,10 @@
 ---
 title: "要做黄金外汇平台 选择在那个平台做呢"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金外汇平台简介

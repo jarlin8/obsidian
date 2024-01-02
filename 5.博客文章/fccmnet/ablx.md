@@ -1,8 +1,10 @@
 ---
 title: "ecn报价准不准？ecn报价与其他报价方式的区别是什么？"
-date: "2023-03-18"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ECN报价是指电子通讯网络（Electronic Communication Network）报价，它是一种电子交易系统，可以让投资者以最低价格买入或卖出金融工具。ECN报价准不准？答案是肯定的，ECN报价是最准确的报价方式之一，因为它是实时的，可以提供最新的市场价格。

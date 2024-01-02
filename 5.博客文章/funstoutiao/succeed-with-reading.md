@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 虽然我也出版过两本《交易密码》，也自认为干货满满很有价值，但交易者读了市场上各种交易相关书籍，真正能在交易上成功的人却又是极少数。欢迎大家一起来聊聊对于这个问题你的观点和经验。

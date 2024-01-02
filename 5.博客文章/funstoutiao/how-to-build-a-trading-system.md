@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 交易系统是每个交易交易者想长期呆在市场里必须拥有的，就像想活着就必须要呼吸一样。

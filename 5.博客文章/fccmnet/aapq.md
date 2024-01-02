@@ -1,8 +1,10 @@
 ---
 title: "黄金 外汇 期货等哪种更适合投资 想利用晚上时间做投资"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金、外汇、期货等哪种更适合投资？

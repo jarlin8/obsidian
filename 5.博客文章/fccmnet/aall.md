@@ -1,8 +1,10 @@
 ---
 title: "外汇平台开户入金绝对安全的哪个平台最好"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇平台开户入金绝对安全的哪个平台最好？

@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 每个进入汇市的朋友都怀着财务自由的梦想，有的还在坚持做交易，小有收获，有的借着自己的经验和人脉开始做业务另辟蹊径，甚至有一些早已挥泪离开！直至今日，在汇市，你收获了多少，又是如何进入投资这条道路的？

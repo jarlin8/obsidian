@@ -1,8 +1,10 @@
 ---
 title: "制造业PMI指数和非制造业PMI指数哪个更重要？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 制造业PMI指数和非制造业PMI指数都是重要的经济指标，可以提供关于经济活动的重要信息，但它们各自关注的方面不同。

@@ -1,8 +1,10 @@
 ---
 title: "pb算法交易是什么？如何选择股票？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 PB算法交易是一种基于公司市值与净利润比率（Price-to-Book Ratio）的股票交易策略。该策略基于价值投资理念，认为投资者可以通过选择低PB比率的股票来获得长期稳定的投资回报。

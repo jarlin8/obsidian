@@ -1,8 +1,10 @@
 ---
 title: "斐波拉切回归线实战怎么做"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是斐波拉切回归线？

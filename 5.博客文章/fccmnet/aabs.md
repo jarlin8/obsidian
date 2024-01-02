@@ -1,8 +1,10 @@
 ---
 title: "定期结汇怎么个定期法"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是定期结汇?

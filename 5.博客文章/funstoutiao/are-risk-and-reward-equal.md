@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 大多数投资者都相信，你承担的风险越大，你的预期利润就越高。  

@@ -1,8 +1,10 @@
 ---
 title: "外汇平台上的货币交易如何影响全球经济？"
-date: "2023-03-16"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 外汇交易是指在外汇市场上进行的货币交易，它是全球经济的重要组成部分。外汇交易可以影响全球经济的发展，因为它可以影响货币价值、国际贸易和国际投资。

@@ -1,8 +1,10 @@
 ---
 title: "Exness开户流程和条件介绍"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 Exness是一家在线外汇交易商，提供多种交易工具和服务，可以帮助投资者实现他们的投资目标。Exness开户流程和条件是投资者在Exness上进行交易的基础，因此了解这些信息对投资者来说非常重要。

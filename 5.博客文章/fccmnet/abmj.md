@@ -1,8 +1,10 @@
 ---
 title: "ATFX如何符合各国法律法规和监管机构的要求？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ATFX是一家全球性的外汇交易商，为客户提供外汇交易服务。ATFX致力于符合各国法律法规和监管机构的要求，以确保客户的利益得到有效保护。

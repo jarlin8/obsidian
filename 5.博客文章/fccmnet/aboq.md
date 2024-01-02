@@ -1,8 +1,10 @@
 ---
 title: "外汇平台的交易时间是多久？"
-date: "2023-03-16"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 外汇交易是一种全球性的金融市场，它每天都在运作，提供了投资者一个可以买卖外汇的平台。外汇交易的时间是多久？

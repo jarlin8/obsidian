@@ -1,8 +1,10 @@
 ---
 title: "黄金最基本的用途是什么"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金最基本的用途是什么

@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 大家都是问的交易者的问题，我问一下，如果应聘这个行业相关的工作，需要注意些什么？这个想法是否可取？应聘需不需要什么硬性条件？有经验的麻烦帮忙解答一下~

@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 随着中国货币的开放，越来越多的人已经从炒股转行到了炒货币。  

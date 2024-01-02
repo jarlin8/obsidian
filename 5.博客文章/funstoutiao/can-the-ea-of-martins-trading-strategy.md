@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 关于马丁交易策略我有我自己的想法，我认为如果将马丁策略做适当的改良，必将带来丰厚的回报。

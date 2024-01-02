@@ -1,8 +1,10 @@
 ---
 title: "Pivot枢轴点经典应用有哪些？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 Pivot枢轴点是一种经典的技术分析工具，用于确定股票价格走势的支撑位和阻力位。除了用于确定支撑位和阻力位之外，Pivot枢轴点还可以应用于以下几个方面：

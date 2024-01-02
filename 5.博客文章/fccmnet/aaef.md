@@ -1,8 +1,10 @@
 ---
 title: "炒外汇中的趋势线如何解读"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 炒外汇中的趋势线如何解读

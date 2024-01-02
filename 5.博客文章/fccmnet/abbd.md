@@ -1,8 +1,10 @@
 ---
 title: "炒汇是运气重要还是心态重要"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒汇是一种投资行为，它可以帮助投资者获得更高的收益，但也有可能带来更大的风险。因此，炒汇时，运气和心态都是非常重要的因素。

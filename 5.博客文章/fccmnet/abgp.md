@@ -1,8 +1,10 @@
 ---
 title: "mt4交易平台是做什么的为什么要用它"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MT4交易平台是一种外汇交易平台，它是由MetaQuotes软件公司开发的，它可以帮助投资者进行外汇交易。MT4交易平台提供了一个安全、可靠的环境，可以帮助投资者进行外汇交易。它提供了一个完整的交易系统，可以帮助投资者进行外汇交易，并且可以提供实时的市场分析和报价。

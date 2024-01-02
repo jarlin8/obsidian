@@ -1,8 +1,10 @@
 ---
 title: "多空布林线在外汇技术分析中的运用是什么"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 多空布林线在外汇技术分析中的运用是什么

@@ -1,8 +1,10 @@
 ---
 title: "包络线指标ENVELOPES是什么"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 包络线指标（ENVELOPES）是一种技术分析工具，它可以帮助投资者分析股票价格的走势。它是一种基于移动平均线的技术指标，可以帮助投资者判断股票价格是否超出了正常的范围。

@@ -1,8 +1,10 @@
 ---
 title: "新手做外汇套利交易要如何开始"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 新手做外汇套利交易要如何开始

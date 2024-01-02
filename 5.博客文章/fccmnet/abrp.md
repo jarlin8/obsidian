@@ -1,8 +1,10 @@
 ---
 title: "那个外汇交易平台是不滑点的"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 那个外汇交易平台是不滑点的

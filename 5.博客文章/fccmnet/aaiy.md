@@ -1,8 +1,10 @@
 ---
 title: "一个国家的外汇储备是越多越好吗 如果不是 那么中国的外汇(美元)储备维持在多少的量是最恰当的"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 一个国家的外汇储备是越多越好吗？

@@ -1,8 +1,10 @@
 ---
 title: "从境外汇入美金到个人账户都有哪些限制"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 从境外汇入美金到个人账户都有哪些限制

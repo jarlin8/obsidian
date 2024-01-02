@@ -1,8 +1,10 @@
 ---
 title: "正规合法的外汇平台有哪些"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 正规合法的外汇平台有哪些

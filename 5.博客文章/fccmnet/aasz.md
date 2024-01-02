@@ -1,8 +1,10 @@
 ---
 title: "如何有效地规避黄金投资的风险"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 如何有效地规避黄金投资的风险

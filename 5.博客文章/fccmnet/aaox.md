@@ -1,8 +1,10 @@
 ---
 title: "国内投资外汇 应当怎样入门"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 国内投资外汇 应当怎样入门

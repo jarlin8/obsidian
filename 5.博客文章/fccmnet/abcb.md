@@ -1,8 +1,10 @@
 ---
 title: "炒股的手续费是如何计算的"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒股的手续费是指投资者在买卖股票时需要支付的费用，它是由证券公司收取的，是投资者买卖股票的必要费用。炒股的手续费是如何计算的？

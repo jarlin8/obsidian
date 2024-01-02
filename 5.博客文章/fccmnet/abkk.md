@@ -1,8 +1,10 @@
 ---
 title: "fxtm富拓外汇平台出入金方式有哪些"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 FXTM富拓外汇平台是一家全球性的外汇交易商，提供多种出入金方式，以满足客户的不同需求。本文将介绍FXTM富拓外汇平台的出入金方式，以及它们的优缺点。

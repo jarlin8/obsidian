@@ -1,8 +1,10 @@
 ---
 title: "到底在国内有靠谱的外汇平台吗"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 到底在国内有靠谱的外汇平台吗

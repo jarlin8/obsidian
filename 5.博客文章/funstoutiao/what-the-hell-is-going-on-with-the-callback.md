@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 个人理解的回调进场3种方式，不知道哪种相对客观，请大家指教一二

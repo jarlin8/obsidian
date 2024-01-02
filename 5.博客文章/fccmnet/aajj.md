@@ -1,8 +1,10 @@
 ---
 title: "利率期货和外汇期货是什么"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 利率期货和外汇期货是什么

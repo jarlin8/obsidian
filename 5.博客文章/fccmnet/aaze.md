@@ -1,8 +1,10 @@
 ---
 title: "要注意炒黄金骗局吗"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 随着经济的发展，投资黄金已经成为许多投资者的首选。然而，随着投资黄金的增加，炒黄金骗局也在不断增加。因此，投资者在投资黄金时必须特别注意炒黄金骗局。

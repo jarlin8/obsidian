@@ -1,8 +1,10 @@
 ---
 title: "爆仓的主要原因有哪些"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 爆仓是指在金融市场上，投资者因为投资失误或者市场变动而导致账户资产出现负值的情况。爆仓的原因有很多，下面我们就来看看爆仓的主要原因有哪些。

@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 谢邀。麻爪具有多年麻爪经验，为您解答这个问题最合适不过了。不会学习、不想学习的人固然难以做好交易，但是爱好学习、广泛学习也并非交易盈利的充分条件，想要通过交易稳定盈利，学习只是其中一小部分而已。针对题主提出的问题，我做出几个建议，共大家参考。

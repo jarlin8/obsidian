@@ -1,8 +1,10 @@
 ---
 title: "IFX交易平台入金有哪些方式"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 IFX交易平台是一个多功能的交易平台，提供了多种入金方式，可以满足不同客户的需求。本文将介绍IFX交易平台入金的几种方式，以及它们的优缺点。

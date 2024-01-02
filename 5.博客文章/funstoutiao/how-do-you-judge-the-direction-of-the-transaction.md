@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 炒外汇最重要的就是顺势而为，对于外汇交易者来说判断市场的方向尤为重要。

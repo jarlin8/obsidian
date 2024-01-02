@@ -1,8 +1,10 @@
 ---
 title: "请问大家都用什么外汇平台炒外汇福汇外汇好吗"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 请问大家都用什么外汇平台炒外汇福汇外汇好吗

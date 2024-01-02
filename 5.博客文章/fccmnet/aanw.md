@@ -1,8 +1,10 @@
 ---
 title: "哪家外汇平台比较好"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 哪家外汇平台比较好

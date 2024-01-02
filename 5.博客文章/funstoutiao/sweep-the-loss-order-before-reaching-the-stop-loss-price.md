@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 感谢专占体育课的胡老师的邀请。这个问题相对来说比较初级，属于基础知识范畴，我觉得没到止损就扫损可能有这几种情况吧。

@@ -1,8 +1,10 @@
 ---
 title: "股票是零和游戏吗 那期货 外汇 黄金呢"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 股票是零和游戏吗

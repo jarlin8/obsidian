@@ -1,8 +1,10 @@
 ---
 title: "ecn模式的外汇平台都是正规的吗？"
-date: "2023-03-19"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ECN模式的外汇交易平台是一种新兴的交易模式，它可以让投资者以更低的价格进行交易。ECN模式的外汇交易平台可以提供更低的点差，更快的执行速度，更好的流动性，以及更多的交易工具。但是，ECN模式的外汇交易平台是否都是正规的呢？

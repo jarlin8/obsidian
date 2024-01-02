@@ -1,8 +1,10 @@
 ---
 title: "艾略特波浪理论是什么"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 艾略特波浪理论是由美国金融家Ralph Nelson Elliott在20世纪30年代提出的一种技术分析方法。该理论基于波浪形态的变化，试图预测市场价格的走势。

@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 > 现在分析师泛滥，不管是网上社群还是贴吧随处可见，这些分析师真正水平如何，他们靠什么而活?

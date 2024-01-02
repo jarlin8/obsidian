@@ -1,8 +1,10 @@
 ---
 title: "新手怎么提高炒黄金的能力"
-date: "2023-03-25"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 新手怎么提高炒黄金的能力

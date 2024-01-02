@@ -1,8 +1,10 @@
 ---
 title: "反向跟单交易能赚钱吗 怎么做反向跟单交易好"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 反向跟单交易能赚钱吗

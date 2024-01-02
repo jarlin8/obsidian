@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 大量的交易者亏损是一个众所周知的事实，在这里整理几个初学者亏损最常见的原因，希望有帮助。  

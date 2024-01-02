@@ -1,8 +1,10 @@
 ---
 title: "LIBOR利率对外汇交易有什么影响"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 LIBOR（London Interbank Offered Rate）是一种国际上最常用的利率，它是由英国银行间同业拆借市场上的银行之间的利率组成的，它可以反映出市场上的资金成本。LIBOR利率对外汇交易有着重要的影响，它可以影响外汇市场的价格，以及投资者的投资策略。

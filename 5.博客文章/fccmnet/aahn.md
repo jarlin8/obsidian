@@ -1,8 +1,10 @@
 ---
 title: "我想进行外汇黄金交易 哪个交易平台是正规的"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇黄金交易的概述

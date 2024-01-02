@@ -1,8 +1,10 @@
 ---
 title: "外汇交易中镑日货币对据说是匹烈马 它都有哪些特点交易镑日需要注意的问题"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇交易中镑日货币对据说是匹烈马

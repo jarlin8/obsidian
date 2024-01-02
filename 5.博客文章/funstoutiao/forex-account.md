@@ -1,12 +1,12 @@
 ---
-title: "外汇开户流程介绍，开外汇账户需要多少钱"
+title: 外汇开户流程介绍，开外汇账户需要多少钱
 post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "forex-answer" Uh yes
+    - forex-answer
   post_tag:
-        - "forex-account-opening"
+    - forex-account-opening
 ---
 
 1. 投资者提交开户申请资料。

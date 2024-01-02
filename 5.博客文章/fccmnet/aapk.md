@@ -1,8 +1,10 @@
 ---
 title: "外汇和黄金如何通过技术面判断趋势"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇和黄金如何通过技术面判断趋势

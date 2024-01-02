@@ -1,8 +1,10 @@
 ---
 title: "爱华外汇出金有哪些方式"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 爱华外汇出金是指客户将外汇账户中的资金转移到其他账户的过程。爱华外汇出金有多种方式，其中包括银行转账、支付宝转账、微信转账、信用卡转账和支票等。

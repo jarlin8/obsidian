@@ -1,8 +1,10 @@
 ---
 title: "中国目前有几家银行公布外汇汇率 每家银行的外汇汇率一样吗"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 中国目前有几家银行公布外汇汇率？

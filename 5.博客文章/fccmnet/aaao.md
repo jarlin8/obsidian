@@ -1,8 +1,10 @@
 ---
 title: "斐波那契回调在外汇交易中如何应用"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 斐波那契回调在外汇交易中如何应用

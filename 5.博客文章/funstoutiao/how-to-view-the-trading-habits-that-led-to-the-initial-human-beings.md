@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 “抄底摸高”和“顺势而为”是两种并行的交易思路，在现实生活中，90%的人都喜欢选择“抄底摸高”，剩余10%的人，也是经过大量的训练和思维矫正后，才会选择“顺势而为”。为什么我们天生就喜欢“抄底摸高”呢？

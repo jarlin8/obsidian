@@ -1,8 +1,10 @@
 ---
 title: "炒外汇周K线的运用技巧是怎么样的"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 炒外汇周K线的运用技巧是怎么样的

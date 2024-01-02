@@ -1,8 +1,10 @@
 ---
 title: "黄金 暴跌是什么原因"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 黄金暴跌是指黄金价格在短时间内大幅下跌，这种情况在过去几年中发生的频率越来越高。黄金暴跌的原因有很多，但最重要的是经济因素和投资者情绪。

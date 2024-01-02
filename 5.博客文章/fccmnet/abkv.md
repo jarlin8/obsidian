@@ -1,8 +1,10 @@
 ---
 title: "FBS外汇平台的正规性和靠谱度"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 FBS外汇平台是一家在全球范围内提供外汇交易服务的经纪商，它的正规性和靠谱度是外汇投资者最关心的问题。FBS外汇平台的正规性和靠谱度可以从以下几个方面来考察：

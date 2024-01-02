@@ -1,8 +1,10 @@
 ---
 title: "在玩外汇 哪个平台的点差最小"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 在玩外汇 哪个平台的点差最小

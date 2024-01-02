@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 有个汇友跟我说：多看周线图。我去看了觉得还是有点模糊，跪求大佬帮我具体讲述一下！或者是还有没有其他的办法去判断？我再也不想听群里的分析师说：现在跟要随趋势做单！现在处于区间震荡，逢低做多！新手真的挺苦恼的，希望各位汇友不要笑我话我嘿嘿。

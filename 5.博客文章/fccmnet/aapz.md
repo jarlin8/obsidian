@@ -1,8 +1,10 @@
 ---
 title: "炒外汇挣的是谁的钱"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 炒外汇挣的是谁的钱

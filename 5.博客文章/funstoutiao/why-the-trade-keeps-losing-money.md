@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 感谢Xman的邀请。交易一直亏损的原因是什么？原因有很多，比如重仓，不止损，不懂这，不会那，总结来看就是交易技术差。当然还存在第二种情况，但是第二种情况少见，文章后半部分我再说。

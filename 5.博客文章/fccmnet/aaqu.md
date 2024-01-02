@@ -1,8 +1,10 @@
 ---
 title: "纸黄金和现货黄金的区别都有哪些"
-date: "2023-03-25"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 纸黄金和现货黄金的区别都有哪些

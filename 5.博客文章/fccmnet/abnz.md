@@ -1,8 +1,10 @@
 ---
 title: "ACY稀万怎么样，ACY稀万国际正规吗？"
-date: "2023-03-16"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ACY稀万是一家专注于外汇交易的综合性金融服务公司，拥有多年的行业经验，为客户提供安全、可靠的交易服务。ACY稀万的宗旨是为客户提供最优质的服务，以满足客户的需求。

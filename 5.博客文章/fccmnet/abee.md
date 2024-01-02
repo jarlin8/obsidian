@@ -1,8 +1,10 @@
 ---
 title: "暴利回报的商业EA程序能用吗"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 EA（专家顾问）程序是一种自动化的交易系统，它可以帮助投资者自动执行交易，从而获得更高的收益。最近，有许多投资者开始使用EA程序来获得暴利回报。但是，这种EA程序能用吗？

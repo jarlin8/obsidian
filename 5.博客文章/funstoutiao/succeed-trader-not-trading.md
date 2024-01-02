@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 做了10年的全职交易了，认识的行业者也挺多了，不到5%的人可以做到盈利，其中很多是做了5-7年，甚至更久的。  

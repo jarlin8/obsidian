@@ -1,8 +1,10 @@
 ---
 title: "黄金投资都要掌握哪些操盘技巧"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金投资都要掌握哪些操盘技巧

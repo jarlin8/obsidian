@@ -1,8 +1,10 @@
 ---
 title: "GDP数据发布时，如何制定有效的交易策略"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 GDP数据发布时，如何制定有效的交易策略

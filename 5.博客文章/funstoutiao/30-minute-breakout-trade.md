@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 感谢lionheart的邀请。题主这个问题是问到底突破瞬间进场还是说等收盘站住了再进场，其实你内心中真正想的是，这个到底是真突破还是假突破的问题。

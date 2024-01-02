@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 很多交易员都身怀“绝技”，有的擅长趋势跟踪，追涨杀跌；有的专注于中长线，千年等一回，净值翻几番；有的也喜欢重仓，以小资本博大收益。

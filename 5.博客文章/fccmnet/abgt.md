@@ -1,8 +1,10 @@
 ---
 title: "MT4价位警报怎么设置警报"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MT4价位警报是一种非常有用的工具，它可以帮助投资者在价格发生变化时及时发出警报，以便投资者可以及时采取行动。MT4价位警报的设置非常简单，只需要几步就可以完成。

@@ -1,8 +1,10 @@
 ---
 title: "黄金项链什么时候买比较划算"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金项链什么时候买比较划算

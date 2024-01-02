@@ -1,8 +1,10 @@
 ---
 title: "mt4成功出金后多久到账"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MT4成功出金后多久到账？

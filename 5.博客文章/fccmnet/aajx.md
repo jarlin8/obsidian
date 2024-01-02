@@ -1,8 +1,10 @@
 ---
 title: "请问外汇交易员是真的还是骗局"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 请问外汇交易员是真的还是骗局

@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 既然散户靠自己分析90%要亏钱，那如果我每次分析完，下单确认前一秒，却反着做单，那会不会就长期盈利了？

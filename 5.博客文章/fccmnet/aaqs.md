@@ -1,8 +1,10 @@
 ---
 title: "作为一个初学者 如何学习股票 期货 外汇和基金投资"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 作为一个初学者 如何学习股票、期货、外汇和基金投资

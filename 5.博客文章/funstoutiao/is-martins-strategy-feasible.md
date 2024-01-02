@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 到底什么是马丁格尔策略？怎么将它用于货币或者其他金融市场交易呢？

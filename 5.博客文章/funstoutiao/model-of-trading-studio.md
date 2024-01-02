@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 我跟朋友合伙做了一年的资管，后面全盘垮掉，有没有同行一起交流下？本人还想再试一次，试之前先来问问大家的建议和经历

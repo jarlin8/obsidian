@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 what are you 说啥呢？找死也不是你这么个找死法吧。别人重仓好歹方向还对了，只是死在行情回调的路上；你逆势进场是准备直接嗝屁？

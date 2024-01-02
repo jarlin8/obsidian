@@ -1,8 +1,10 @@
 ---
 title: "全球外汇经纪商排行榜前十里面FXTM富拓排行第几"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 全球外汇经纪商排行榜前十里面FXTM富拓排行第几

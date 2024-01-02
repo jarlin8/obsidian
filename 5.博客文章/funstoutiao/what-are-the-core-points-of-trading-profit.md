@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 现在做交易的，大部分人都做趋势，想知道除了趋势你们的其他交易理念是什么？

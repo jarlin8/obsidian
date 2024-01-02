@@ -1,8 +1,10 @@
 ---
 title: "点差低的外汇交易平台有哪些有推荐吗"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 点差低的外汇交易平台有哪些有推荐吗

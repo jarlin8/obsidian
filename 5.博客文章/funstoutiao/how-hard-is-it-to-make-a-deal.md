@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 懂交易的人觉得做交易这件事情很简单，不懂交易的人觉得几乎是天底下最难的事。  

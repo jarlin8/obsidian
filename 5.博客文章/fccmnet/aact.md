@@ -1,8 +1,10 @@
 ---
 title: "除了亚洲外汇市场 还有哪几个外汇市场"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 亚洲外汇市场是怎么样的？

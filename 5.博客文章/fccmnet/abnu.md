@@ -1,8 +1,10 @@
 ---
 title: "ADS达汇外汇怎样开户？"
-date: "2023-03-16"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ADS达汇外汇是一家专业的外汇交易服务提供商，拥有多年的行业经验，为客户提供安全、可靠的外汇交易服务。ADS达汇外汇的开户流程简单易懂，只需要几步就可以完成。

@@ -1,8 +1,10 @@
 ---
 title: "风险控制的意识和计划对交易影响大吗"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 风险控制的意识和计划对交易影响大吗

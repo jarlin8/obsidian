@@ -1,8 +1,10 @@
 ---
 title: "Exness入金方式和最低金额"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 Exness是一家在线外汇交易商，提供多种入金方式和最低金额，以满足不同客户的需求。Exness提供的入金方式包括信用卡、借记卡、网上银行、电汇、支付宝、微信支付等。

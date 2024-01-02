@@ -1,8 +1,10 @@
 ---
 title: "ATFX如何采取有效措施保证客户资金安全？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ATFX是一家全球性的外汇交易商，致力于为客户提供安全、可靠的交易服务。为了保证客户资金安全，ATFX采取了一系列有效措施。

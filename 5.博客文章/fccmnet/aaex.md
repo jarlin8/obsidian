@@ -1,8 +1,10 @@
 ---
 title: "像FXTM富拓外汇这样的正规大平台应该合法吧"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是FXTM富拓外汇？

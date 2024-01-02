@@ -1,8 +1,10 @@
 ---
 title: "炒股的人可以炒外汇吗"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒股的人可以炒外汇吗？这是一个很多投资者都想知道的问题。答案是肯定的，炒股的人可以炒外汇。但是，在炒外汇之前，投资者需要了解外汇市场的特点，以及外汇交易的风险。

@@ -1,8 +1,10 @@
 ---
 title: "为什么很多人都认为做外汇是骗子"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 为什么很多人都认为做外汇是骗子

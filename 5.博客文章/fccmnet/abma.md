@@ -1,8 +1,10 @@
 ---
 title: "axitrader平台怎么样？axitrader平台安全吗？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 AxiTrader是一家在澳大利亚和英国注册的外汇交易商，提供外汇、差价合约和其他金融产品的交易服务。AxiTrader的平台提供了一个安全可靠的交易环境，支持多种交易工具，包括MetaTrader 4和MetaTrader 5，以及AxiTrader的自有交易平台AxiTrader Pro。

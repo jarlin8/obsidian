@@ -1,8 +1,10 @@
 ---
 title: "黄金TD手续费能低到多少"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 黄金TD手续费能低到多少

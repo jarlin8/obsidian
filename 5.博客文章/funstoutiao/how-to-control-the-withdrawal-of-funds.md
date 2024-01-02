@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 都说建议投资者每次交易的资金不超过账户资金的2%，也就是建议最大回撤率设定在2%以内，但是在实际操作中却很少能控制这么低啊！想问一下各位的回撤率是以固定周期来算还是以每次交易时间来算的？以及大家的回撤率一般是多少？

@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 在这纷纷扰扰的金融投机市场里，有这么一群人，他们宛如空气一般充斥在交易世界的每个角落里。他们是：做分析咨询的、喊单带单的、卖（指标、政策、系统、EA甚至AI）的、操盘的、资管的......他们究竟都是一群什么样的人呢？ **​我们来找找看：**

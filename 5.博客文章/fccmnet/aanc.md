@@ -1,8 +1,10 @@
 ---
 title: "请问 银行做远期外汇交易 银行的盈利点是什么"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 银行的远期外汇交易简介

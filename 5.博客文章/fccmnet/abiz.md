@@ -1,8 +1,10 @@
 ---
 title: "IMSFX艾汇平台开户流程是什么"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 艾汇国际金融市场（IMSFX）是一家专业的外汇交易商，提供外汇、贵金属、原油等多种金融产品的交易服务。艾汇平台拥有安全可靠的交易系统，支持多种交易账户类型，提供实时的市场行情和分析，以及专业的客户服务。

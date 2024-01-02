@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 市场中有两种截然相反的交易策略，一种是左侧交易，另一种是右侧交易。  

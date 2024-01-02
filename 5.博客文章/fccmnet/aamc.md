@@ -1,8 +1,10 @@
 ---
 title: "投资公司招聘外汇操盘手 要求入金开户考核 是否是骗局"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 投资公司招聘外汇操盘手 要求入金开户考核 是否是骗局

@@ -1,8 +1,10 @@
 ---
 title: "国内炒纽约黄金期货有什么方法"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒纽约黄金期货是一种投资方式，可以帮助投资者获得更高的收益。炒纽约黄金期货的投资者可以从国内的期货市场中获得更多的投资机会。

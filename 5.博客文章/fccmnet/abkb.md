@@ -1,8 +1,10 @@
 ---
 title: "GDP数据发布时，如何避免投资风险"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 GDP数据发布时，投资者面临着许多风险，因此，如何避免投资风险是一个重要的问题。GDP数据发布时，投资者可以采取一些措施来减少投资风险，以便获得更好的投资回报。

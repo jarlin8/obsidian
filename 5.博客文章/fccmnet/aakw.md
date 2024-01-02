@@ -1,8 +1,10 @@
 ---
 title: "炒外汇怎么赚钱 我听别人说真的能赚钱吗"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 了解炒外汇

@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 感觉现在的交易群不如几年前的纯粹了，我加了一些交易群想要交流学习，每次说完话必有业务员加我（不带重样的），但业务员的行为真的很令人反感，难道某个平台的业务员越多，就能说明那个平台实力越强，越能让人信服吗？

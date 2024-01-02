@@ -1,8 +1,10 @@
 ---
 title: "爆仓是什么意思"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 爆仓是指在金融市场上，投资者因为投资失误或者市场波动而导致资产价值急剧下降，从而被迫卖出资产以收回投资成本的行为。爆仓的发生，往往会导致市场价格的暴跌，从而影响市场的稳定性。

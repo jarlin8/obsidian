@@ -1,8 +1,10 @@
 ---
 title: "大非农和小非农的区别是什么"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 大非农和小非农的区别是什么

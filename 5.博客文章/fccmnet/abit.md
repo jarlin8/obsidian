@@ -1,8 +1,10 @@
 ---
 title: "KDJ指标中的随机指标怎么理解"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 KDJ指标是一种常用的技术分析指标，它是由美国股市分析师George Lane发明的，它是基于随机指标（RSI）的变种。KDJ指标是一种趋势跟踪指标，它可以帮助投资者判断股票的买卖时机。KDJ指标由三个线组成：K线、D线和J线。K线是随机指标（RSI）的变种，它反映了股票的趋势变化；D线是K线的指数移动平均线，它反映了股票的趋势变化；J线是K线和D线的乘积，它反映了股票的趋势变化。

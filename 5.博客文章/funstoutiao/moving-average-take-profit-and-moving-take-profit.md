@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 比如说，我是做短线30分钟图的，我交易的时候是看着均线死叉止盈呢？还是突破结构回踩止盈好呢？突破回踩怎么解？

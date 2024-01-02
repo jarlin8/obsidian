@@ -1,8 +1,10 @@
 ---
 title: "投资黄金白银应该做什么心理准备"
-date: "2023-03-25"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 投资黄金白银应该做什么心理准备

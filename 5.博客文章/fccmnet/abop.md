@@ -1,8 +1,10 @@
 ---
 title: "在外汇平台上可以进行哪些类型的交易？"
-date: "2023-03-16"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 外汇交易平台是一个全球性的金融市场，它提供了一个可以进行外汇交易的场所。外汇交易平台提供了多种类型的交易，包括外汇交易、贵金属交易、期货交易和其他金融工具的交易。

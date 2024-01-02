@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 判断一次的盈亏是五十，入场，止盈，止损，都判断对一次的概率只有不到13%，每次的判断都是五十。 所以你见到了飘单的胜率高，因为判断一次，还不认输。 这么低级的概率问题竟然搞不明白，有资格进入这个高端精英的游戏里么。

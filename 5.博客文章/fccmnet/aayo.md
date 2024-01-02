@@ -1,8 +1,10 @@
 ---
 title: "国际黄金期货交易规则包括哪些"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 国际黄金期货交易规则是指在国际黄金期货市场上进行交易时，双方交易者必须遵守的一系列规则。这些规则旨在确保双方交易者的权益，保护市场的公平性，并确保市场的稳定性。

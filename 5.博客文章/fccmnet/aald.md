@@ -1,8 +1,10 @@
 ---
 title: "中国大概什么时候会开放外汇保证金交易"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 中国大概什么时候会开放外汇保证金交易

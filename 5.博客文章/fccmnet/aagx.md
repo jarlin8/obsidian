@@ -1,8 +1,10 @@
 ---
 title: "外汇交易收益率能达到1个月10%么"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇交易收益率能达到1个月10%么

@@ -1,8 +1,10 @@
 ---
 title: "炒外汇为什么会亏接二连三爆仓究竟是为什么为什么获利平台不让出金"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 炒外汇是一项高风险的投资

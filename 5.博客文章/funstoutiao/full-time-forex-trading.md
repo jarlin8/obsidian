@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 题主说的这个学业范畴还是比较大的，我想了想，想分三种情况说明吧。

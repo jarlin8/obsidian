@@ -1,8 +1,10 @@
 ---
 title: "MasterForex外汇平台开户需要什么资料"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MasterForex外汇平台是一个专业的外汇交易平台，提供多种外汇交易服务，包括外汇交易、贵金属交易、期货交易等。在开户之前，您需要准备一些资料，以便完成注册。

@@ -1,8 +1,10 @@
 ---
 title: "外汇平台上的交易能否产生稳定的利润？"
-date: "2023-03-16"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 外汇交易是一种投资行为，它可以帮助投资者获得收益，但也有可能产生损失。外汇交易平台上的交易能否产生稳定的利润？这是一个值得探讨的问题。

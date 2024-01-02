@@ -1,8 +1,10 @@
 ---
 title: "国际黄金期货开户怎么开"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 国际黄金期货开户是一种投资行为，它可以帮助投资者获得更多的收益。但是，在开户之前，投资者需要了解一些基本的知识，以便能够更好地投资。

@@ -1,8 +1,10 @@
 ---
 title: "和基外汇这个平台靠谱吗"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是和基外汇？

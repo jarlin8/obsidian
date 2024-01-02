@@ -1,8 +1,10 @@
 ---
 title: "本人想进军外汇市场 有什么靠谱的平台 预计资金最多1万美金"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 本人想进军外汇市场 有什么靠谱的平台

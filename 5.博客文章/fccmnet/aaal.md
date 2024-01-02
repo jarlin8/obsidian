@@ -1,8 +1,10 @@
 ---
 title: "风险资本是什么意思"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是风险资本？

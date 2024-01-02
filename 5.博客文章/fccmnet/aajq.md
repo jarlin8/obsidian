@@ -1,8 +1,10 @@
 ---
 title: "大量外汇入个人账户会带来怎样的问题如何操作才比较安全"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 大量外汇入个人账户会带来怎样的问题如何操作才比较安全

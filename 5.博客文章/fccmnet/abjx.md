@@ -1,8 +1,10 @@
 ---
 title: "gkfx捷凯支持哪些出入金方式"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 捷凯金融（GKFX）是一家全球性的外汇交易商，提供外汇交易、差价合约（CFD）和其他金融产品的交易服务。捷凯金融支持多种出入金方式，以满足客户的不同需求。

@@ -1,8 +1,10 @@
 ---
 title: "炒黄金减少亏损有什么方法"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金减少亏损有什么方法

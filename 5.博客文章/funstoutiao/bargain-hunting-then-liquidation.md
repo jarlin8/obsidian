@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 > 当了四年的韭菜，交了四年的学费，好不容易摸到赚钱的门路，今天抄底原油，美股，5连爆，本金都爆没了，心态已经崩了，有同样的经历的么？我是该出局，还是振作起来继续下去，渺茫?

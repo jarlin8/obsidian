@@ -1,8 +1,10 @@
 ---
 title: "出金哪个银行比较好汇丰和工银亚洲哪个好用"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 出金哪个银行比较好？汇丰和工银亚洲哪个好用？

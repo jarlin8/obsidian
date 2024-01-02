@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 几乎每个交易员在踏入汇市时，都会学习技术，建立自己的交易系统，按照自己的交易系统开单，没有就等待。  

@@ -1,8 +1,10 @@
 ---
 title: "还有人记得 第一次做外汇爆仓是什么感觉吗"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 还有人记得第一次做外汇爆仓是什么感觉吗

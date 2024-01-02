@@ -1,8 +1,10 @@
 ---
 title: "adsmt4手机版安卓软件怎么用？"
-date: "2023-03-16"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 adsmt4手机版安卓软件是一款专为安卓手机用户提供的多功能管理软件，它可以帮助用户管理手机上的文件、应用程序、系统设置等，让用户更加轻松地操作手机。本文将介绍adsmt4手机版安卓软件的使用方法，帮助用户更好地使用这款软件。

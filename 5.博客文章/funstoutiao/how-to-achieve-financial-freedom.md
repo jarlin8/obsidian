@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 我感觉我们在投资市场上，就像黄土高原上的一根草，大部分时间被风吹日晒，很疲惫，但是一场大雨就可以变得滋润了。  

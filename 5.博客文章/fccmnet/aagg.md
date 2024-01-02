@@ -1,8 +1,10 @@
 ---
 title: "为什么有些人做外汇投资交易老是亏钱"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 为什么有些人做外汇投资交易老是亏钱

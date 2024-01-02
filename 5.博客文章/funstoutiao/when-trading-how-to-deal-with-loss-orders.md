@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 看到很多人都喜欢晒盈利单，大获全胜，止盈晒单一搜就是一大堆，微信群/QQ群也是。

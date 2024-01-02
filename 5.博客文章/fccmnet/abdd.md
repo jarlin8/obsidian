@@ -1,8 +1,10 @@
 ---
 title: "不锈钢期货上市时间是什么时候"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 不锈钢期货是一种金融工具，它可以帮助投资者在不锈钢价格变动的情况下进行投资。不锈钢期货的上市时间是指它在交易所上市的时间，这个时间可能会因不同的交易所而有所不同。

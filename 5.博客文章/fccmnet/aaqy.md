@@ -1,8 +1,10 @@
 ---
 title: "银行能否存放实物黄金"
-date: "2023-03-25"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 1.黄金存储的历史背景

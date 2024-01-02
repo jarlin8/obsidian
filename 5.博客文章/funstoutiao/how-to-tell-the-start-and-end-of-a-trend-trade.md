@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 趋势交易是大多数人使用的交易系统，也见到很多分析师有简单介绍，但是更多的都是行情出来之后才给出的分析，这种事后之话，看着很有道理，自己做起来还是一脸懵，所以很希望能看到一个系统的分享，谢谢！

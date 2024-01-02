@@ -1,8 +1,10 @@
 ---
 title: "外汇市场拥有巨大的交易规模 会对外汇交易带来哪些特点"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇市场拥有巨大的交易规模 会对外汇交易带来哪些特点

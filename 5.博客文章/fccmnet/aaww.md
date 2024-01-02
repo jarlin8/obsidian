@@ -1,8 +1,10 @@
 ---
 title: "黄金期货开户及交易平台哪家比较好"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金期货开户及交易平台哪家比较好

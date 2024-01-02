@@ -1,8 +1,10 @@
 ---
 title: "5000元可以进行简单的投资么 比如炒外汇"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 5000元可以进行简单的投资么 比如炒外汇

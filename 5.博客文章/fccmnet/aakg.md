@@ -1,8 +1,10 @@
 ---
 title: "爆仓是什么意思 我见外汇平台都有这个"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 爆仓是什么意思 我见外汇平台都有这个

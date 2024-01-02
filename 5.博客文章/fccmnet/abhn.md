@@ -1,8 +1,10 @@
 ---
 title: "MetaTrader5和MetaTrader4的区别是什么"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MetaTrader5和MetaTrader4是两款最受欢迎的外汇交易平台，它们都有自己的优势和功能，但它们之间也有一些明显的区别。本文将详细介绍MetaTrader5和MetaTrader4的区别。

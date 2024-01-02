@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
   post_tag:
         - "支撑位和压力位怎么看"
         - "支撑位和压力位怎么看是什么意思"

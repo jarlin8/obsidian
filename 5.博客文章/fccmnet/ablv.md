@@ -1,8 +1,10 @@
 ---
 title: "ecn撮合交易有哪些优势和风险？"
-date: "2023-03-19"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ECN撮合交易是一种电子交易系统，它可以让投资者以最低的价格买入或卖出证券。ECN撮合交易的优势在于它可以提供投资者更低的交易成本，更快的交易速度，更高的交易量，以及更多的交易机会。

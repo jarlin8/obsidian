@@ -1,8 +1,10 @@
 ---
 title: "为什么FXTM富拓外汇平台比AETOS艾拓思外汇平台好"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 为什么FXTM富拓外汇平台比AETOS艾拓思外汇平台好？

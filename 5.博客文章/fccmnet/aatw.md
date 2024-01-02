@@ -1,8 +1,10 @@
 ---
 title: "哪些期货市场对现货黄金影响比较大"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 哪些期货市场对现货黄金影响比较大 

@@ -1,8 +1,10 @@
 ---
 title: "适合初学者没有资金限制又稳定的黄金外汇交易平台有哪些"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 适合新手黄金外汇交易平台是什么

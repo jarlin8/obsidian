@@ -1,8 +1,10 @@
 ---
 title: "意志消沉怎么办 最近外汇赔惨 几斤一无所有 怎么办"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 意志消沉怎么办

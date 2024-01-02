@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 感谢Xman的邀请。趋势的确立如何提前知道？很遗憾，没有方法能提前知道。

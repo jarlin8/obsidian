@@ -1,8 +1,10 @@
 ---
 title: "新手学习外汇怎么做好"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 新手学习外汇怎么做好

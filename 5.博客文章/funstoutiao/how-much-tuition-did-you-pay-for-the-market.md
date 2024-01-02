@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 新手入汇，免不了要交“学费”，有些是经验不足，有些是错信他人，那么问题来了，交易到现在，你为市场交了多少“学费”？

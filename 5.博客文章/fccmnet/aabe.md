@@ -1,8 +1,10 @@
 ---
 title: "多账户管理系统和跟单系统到底有什么不同"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 多账户管理系统和跟单系统到底有什么不同

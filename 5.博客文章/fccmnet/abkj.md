@@ -1,8 +1,10 @@
 ---
 title: "FXTM出入金是否收取手续费"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 FXTM出入金是一家在线外汇交易和投资服务提供商，它为客户提供了一系列的出入金服务，以满足客户的不同需求。FXTM出入金服务的主要目的是为客户提供安全、快捷、可靠的出入金服务，以满足客户的不同需求。

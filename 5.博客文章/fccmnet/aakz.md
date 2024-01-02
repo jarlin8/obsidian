@@ -1,8 +1,10 @@
 ---
 title: "外汇风险对冲有哪些具体操作"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇风险对冲有哪些具体操作

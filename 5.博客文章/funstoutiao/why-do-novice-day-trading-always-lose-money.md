@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 很多交易者因恐惧持仓过夜的风险，纷纷转投日内交易，却一直交易一直亏……这个现象怎么解？也不是不了解日内交易的规则啊

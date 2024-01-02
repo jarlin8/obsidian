@@ -1,8 +1,10 @@
 ---
 title: "新手炒外汇选择哪家平台靠谱"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 新手炒外汇选择哪家平台靠谱

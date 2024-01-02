@@ -1,8 +1,10 @@
 ---
 title: "保证金炒外汇有哪些优势"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 保证金炒外汇是一种投资方式，它可以让投资者以较少的资金投资外汇市场，从而获得更多的收益。保证金炒外汇的优势在于，它可以让投资者以较少的资金投资外汇市场，从而获得更多的收益。

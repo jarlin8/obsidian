@@ -1,8 +1,10 @@
 ---
 title: "在外汇市场上买卖外汇到底是用什么支付的"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 在外汇市场上买卖外汇到底是用什么支付的

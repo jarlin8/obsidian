@@ -1,8 +1,10 @@
 ---
 title: "moneybookers使用方便吗"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 Moneybookers是一种在线支付服务，它可以让用户在线支付和接收资金。它是一种快速、安全和可靠的支付方式，可以让用户在线购物、支付账单、发送和接收资金。Moneybookers的使用方便吗？答案是肯定的。

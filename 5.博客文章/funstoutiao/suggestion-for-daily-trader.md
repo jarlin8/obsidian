@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 在交易市场中，像青蛙望着池塘中的倒影，易陷入局限视角。曾经滋润的春夏，终究要面对冬天的考验。犹如猴子捞月，行情瞬息万变，需要有自己独特的交易风格，小仓位操作，顺势而为是关键。

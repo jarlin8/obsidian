@@ -1,8 +1,10 @@
 ---
 title: "为什么中国禁止外汇保证金交易"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是外汇保证金交易

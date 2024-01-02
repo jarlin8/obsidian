@@ -1,8 +1,10 @@
 ---
 title: "AlParsai关于MT4和EA的访谈谁有？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 AlParsai是一家专注于外汇交易的公司，它提供了一系列的交易工具，包括MT4和EA。MT4是一款外汇交易平台，它可以帮助投资者进行外汇交易，而EA是一种自动交易系统，可以帮助投资者自动执行交易。

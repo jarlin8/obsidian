@@ -1,8 +1,10 @@
 ---
 title: "外汇交易中怎样有效辨别行情是真突破 还是假突破"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇交易中怎样有效辨别行情是真突破 还是假突破

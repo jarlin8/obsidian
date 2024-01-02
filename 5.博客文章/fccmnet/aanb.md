@@ -1,8 +1,10 @@
 ---
 title: "炒外汇和股票真的可以赚很多钱"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 炒外汇和股票真的可以赚很多钱

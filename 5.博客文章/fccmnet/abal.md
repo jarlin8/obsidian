@@ -1,8 +1,10 @@
 ---
 title: "炒黄金杠杆多少比较合适"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金杠杆多少比较合适？这是一个普遍存在的问题，也是投资者在进行炒黄金投资时需要考虑的重要因素。

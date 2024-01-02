@@ -1,8 +1,10 @@
 ---
 title: "澳大利亚GDP数据怎样解读"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 澳大利亚的GDP数据是衡量一个国家经济状况的重要指标，它可以反映出一个国家的经济发展水平。澳大利亚的GDP数据可以通过多种方式来解读，以便更好地了解澳大利亚的经济状况。

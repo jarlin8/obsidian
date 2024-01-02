@@ -1,8 +1,10 @@
 ---
 title: "是否可以外汇为生 开设基金或策略管理公司"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇市场概述

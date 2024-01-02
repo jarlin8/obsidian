@@ -1,8 +1,10 @@
 ---
 title: "Exness中国交易时间和注意事项"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 Exness是一家在线外汇交易商，为客户提供外汇交易服务。Exness中国交易时间和注意事项是指客户在Exness中国交易时应遵守的规则和注意事项。

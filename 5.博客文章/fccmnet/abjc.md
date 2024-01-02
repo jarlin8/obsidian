@@ -1,8 +1,10 @@
 ---
 title: "ig外汇平台靠谱吗"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ig外汇平台是一家英国的外汇交易商，拥有超过十五年的历史，在全球拥有超过一百万的客户。它提供了一个安全可靠的交易环境，拥有一流的客户服务，并且提供了一系列的交易工具，可以满足不同类型的投资者的需求。

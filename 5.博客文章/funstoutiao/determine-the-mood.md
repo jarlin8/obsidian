@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 市场情绪这个概念并没有一个固定的标准，市场中更是有人认为情绪才是交易者进场的最大推手。对当前市场的看法，黄金是多是空，都是由交易者自己的情绪决定的。可以说是，情绪决定我们的交易行为。

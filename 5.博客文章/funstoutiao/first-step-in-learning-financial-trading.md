@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 小白初入金融行业，总会有各种各样的人过来给出自己的经验，平台商认为要先寻找一家好的经纪商，有经验的交易员觉得第一步要想学习基础知识，还有人认为要先上手做模拟盘，培养“盘感”……众说纷纭，作为过来人的你，当初你学习交易的第一步是做了什么呢？

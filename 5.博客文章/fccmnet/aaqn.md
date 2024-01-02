@@ -1,8 +1,10 @@
 ---
 title: "全球外汇交易是统一的市场吗"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是全球外汇交易？

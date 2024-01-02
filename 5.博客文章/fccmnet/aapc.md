@@ -1,8 +1,10 @@
 ---
 title: "银行的资金头寸 外汇头寸到底是什么"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 银行的资金头寸 外汇头寸到底是什么

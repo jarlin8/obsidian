@@ -1,8 +1,10 @@
 ---
 title: "企业红筹上市中可能遇到的外汇监管问题有哪些呢"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 企业红筹上市中可能遇到的外汇监管问题有哪些呢

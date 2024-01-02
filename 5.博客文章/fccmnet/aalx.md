@@ -1,8 +1,10 @@
 ---
 title: "外汇交易中喊单老师是不是骗人的"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是外汇喊单老师？

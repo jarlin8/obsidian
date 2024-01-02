@@ -1,8 +1,10 @@
 ---
 title: "初学者怎样炒外汇"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 初学者怎样炒外汇？

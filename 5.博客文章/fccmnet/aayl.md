@@ -1,8 +1,10 @@
 ---
 title: "国内炒黄金正规平台有哪些"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 随着经济的发展，越来越多的人开始关注投资，而炒黄金是一种投资方式，受到了许多投资者的青睐。但是，在国内，炒黄金的正规平台却不多，那么，国内炒黄金正规平台有哪些呢？

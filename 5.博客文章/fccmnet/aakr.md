@@ -1,8 +1,10 @@
 ---
 title: "外汇日内交易看1h 还是4h 或者30m"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇日内交易看1h, 4h还是30m?

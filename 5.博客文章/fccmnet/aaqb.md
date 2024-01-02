@@ -1,8 +1,10 @@
 ---
 title: "你认为股票外汇等金融产品依靠交易系统可能长久稳定的盈利吗"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 股票外汇等金融产品交易系统的盈利能否长久稳定？

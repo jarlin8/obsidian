@@ -1,8 +1,10 @@
 ---
 title: "布雷顿森林体系为何最终崩溃呢"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 布雷顿森林体系是一种政治经济体系，它曾经在中世纪欧洲得到广泛应用，但最终却崩溃了。那么，布雷顿森林体系为何最终崩溃呢？

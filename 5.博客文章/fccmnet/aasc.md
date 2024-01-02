@@ -1,8 +1,10 @@
 ---
 title: "市场风险情绪是不是重新上升"
-date: "2023-03-25"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 市场风险情绪是不是重新上升

@@ -1,8 +1,10 @@
 ---
 title: "MT4的交易密码在哪里修改"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MetaTrader 4（MT4）是一款由MetaQuotes Software Corporation开发的外汇交易平台，它提供了一个安全可靠的交易环境，可以帮助投资者实现他们的投资目标。MT4的交易密码是投资者在使用MT4交易平台时的重要凭证，它可以帮助投资者保护自己的账户安全，防止他人盗用账户。因此，投资者在使用MT4交易平台时，应该定期更改交易密码，以确保账户安全。那么，MT4的交易密码在哪里修改呢？

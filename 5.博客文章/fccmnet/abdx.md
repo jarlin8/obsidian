@@ -1,8 +1,10 @@
 ---
 title: "比特币现金的影响和特点是什么"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 比特币现金（Bitcoin Cash）是一种基于区块链技术的加密货币，它是比特币（Bitcoin）的一个分支，于2017年8月1日正式发布。比特币现金的出现，给比特币带来了一些新的影响和特点。

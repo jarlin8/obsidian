@@ -1,8 +1,10 @@
 ---
 title: "ICMarkets有哪些交易软件吗"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ICMarkets是一家在澳大利亚注册的外汇交易商，提供多种交易软件，以满足不同客户的需求。它提供了多种交易软件，包括MetaTrader 4，MetaTrader 5，cTrader，WebTrader，Mobile Trader和API交易软件。

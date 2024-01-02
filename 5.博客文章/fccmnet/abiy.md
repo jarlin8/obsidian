@@ -1,8 +1,10 @@
 ---
 title: "jfx外汇平台出入金风险高吗"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 外汇交易平台JFX是一个受到许多投资者青睐的外汇交易平台，它提供了一个安全、可靠的交易环境，可以帮助投资者实现财富增值。但是，在使用JFX外汇交易平台时，出入金风险是否较高？

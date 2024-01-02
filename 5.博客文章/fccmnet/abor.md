@@ -1,8 +1,10 @@
 ---
 title: "外汇平台提供哪些支持服务？"
-date: "2023-03-16"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 外汇平台是一种金融服务，它可以帮助投资者进行外汇交易。它们提供了一系列的支持服务，以帮助投资者更好地管理他们的投资。

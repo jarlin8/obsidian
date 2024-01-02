@@ -1,8 +1,10 @@
 ---
 title: "FXCM港股平台开户流程和限制条件"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 FXCM港股平台开户流程和限制条件

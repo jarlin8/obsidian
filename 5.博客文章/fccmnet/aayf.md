@@ -1,8 +1,10 @@
 ---
 title: "黄金、美元、股市、债市、贵金属和大宗商品之间有哪些逻辑关系"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 黄金、美元、股市、债市、贵金属和大宗商品之间有哪些逻辑关系

@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 金融市场中每时每刻都充斥着大量的信息，如何才能在这些信息中提取出真正有价值的东西？

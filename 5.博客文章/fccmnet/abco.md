@@ -1,8 +1,10 @@
 ---
 title: "常见的风险管理都是怎么形成的"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 风险管理是一种组织管理的重要组成部分，它的目的是确保组织的资源得到有效利用，以实现最大的收益。它的主要目的是预防和控制组织可能面临的风险，以确保组织的长期可持续发展。

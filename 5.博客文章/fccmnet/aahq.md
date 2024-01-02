@@ -1,8 +1,10 @@
 ---
 title: "网上那些外汇维权真的假的"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是外汇维权

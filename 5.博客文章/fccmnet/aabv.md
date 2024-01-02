@@ -1,8 +1,10 @@
 ---
 title: "掉期外汇买卖是什么能举个例子吗"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 掉期外汇买卖是什么能举个例子吗

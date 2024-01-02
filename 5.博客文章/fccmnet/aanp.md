@@ -1,8 +1,10 @@
 ---
 title: "怎么理解「外汇储备导致人民币货币增加」"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是外汇储备？

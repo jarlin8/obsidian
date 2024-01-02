@@ -1,8 +1,10 @@
 ---
 title: "如何做外汇平台的一级代理"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是外汇平台的一级代理

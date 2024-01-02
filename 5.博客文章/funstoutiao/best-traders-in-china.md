@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 要数国内最牛的交易员都有谁？估计提到股票市场，大家想到的就是但斌、徐翔、赵老歌等人；而期货市场里面，前四把交椅当然非“期货四绝”（分别东邪—葛卫东；西狂—林广茂；南帝—叶庆均；北丐—傅海棠）莫属。

@@ -1,8 +1,10 @@
 ---
 title: "国际黄金价格会不会上涨"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 国际黄金价格是否会上涨，是一个令人关注的问题。黄金作为一种金融资产，其价格受到多种因素的影响，因此，预测国际黄金价格的变化是一项复杂的任务。

@@ -1,8 +1,10 @@
 ---
 title: "成功的外汇投资者都有哪些共同的品质"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 成功的外汇投资者都有哪些共同的品质

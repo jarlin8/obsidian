@@ -1,8 +1,10 @@
 ---
 title: "黄金石油期货好做吗"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金石油期货好做吗？这是一个常见的问题

@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
   交易里跟随趋势，可是等趋势出来再跟随行情已经走了很长一段了。有时盈利变成了止损，被震荡多空反复止损。甚至多在最高点空在最低点。怎么办呢？

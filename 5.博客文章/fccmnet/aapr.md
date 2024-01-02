@@ -1,8 +1,10 @@
 ---
 title: "未来想做外汇交易员 怎么开始"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 未来想做外汇交易员怎么开始

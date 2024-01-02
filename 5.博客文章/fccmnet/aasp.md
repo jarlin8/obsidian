@@ -1,8 +1,10 @@
 ---
 title: "上海期货交易所的黄金白银原油可以买吗"
-date: "2023-03-25"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 上海期货交易所的黄金白银原油可以买吗

@@ -1,8 +1,10 @@
 ---
 title: "什么是EA智能交易 什么是外汇EA软件 外汇EA工作原理是什么"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是EA智能交易

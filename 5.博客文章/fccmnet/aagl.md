@@ -1,8 +1,10 @@
 ---
 title: "XM外汇平台怎么样"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## XM外汇平台怎么样

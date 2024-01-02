@@ -1,8 +1,10 @@
 ---
 title: "炒黄金怎么控制仓位好"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金是一种投资行为，它可以帮助投资者获得财富，但也有风险。因此，投资者在炒黄金时，应该如何控制仓位，以降低风险，获得更好的投资回报？

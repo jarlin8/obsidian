@@ -1,8 +1,10 @@
 ---
 title: "澳汇外汇可以交易哪些品种"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 澳汇外汇是一家专业的外汇交易服务提供商，提供多种外汇交易服务，包括外汇交易、外汇投资和外汇投资等。澳汇外汇提供的外汇交易服务，可以满足不同客户的需求，提供多种外汇交易品种。

@@ -1,8 +1,10 @@
 ---
 title: "想开一个外汇账户求推荐哪个交易平台更好做一些"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 想开一个外汇账户求推荐哪个交易平台更好做一些

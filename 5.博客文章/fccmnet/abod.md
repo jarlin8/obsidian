@@ -1,8 +1,10 @@
 ---
 title: "ace爱信集团外汇短线交易是真的吗，可不可信？"
-date: "2023-03-16"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 Ace爱信集团外汇短线交易是真的吗，可不可信？

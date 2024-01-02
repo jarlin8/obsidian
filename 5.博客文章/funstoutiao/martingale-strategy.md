@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 马丁策略最初是一种赌博的方式，是用“双倍押注”的方式来赢回本金。  

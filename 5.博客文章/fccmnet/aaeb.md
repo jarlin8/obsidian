@@ -1,8 +1,10 @@
 ---
 title: "炒外汇赚的是谁的钱我亏的钱又到哪去了"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 炒外汇赚的是谁的钱，我亏的钱又到哪去了？

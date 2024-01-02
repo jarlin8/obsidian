@@ -1,8 +1,10 @@
 ---
 title: "多空指标BBI是怎么运用的"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 多空指标BBI是什么

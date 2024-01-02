@@ -1,8 +1,10 @@
 ---
 title: "做外汇代理需要向公司交代理费几万块吗"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 做外汇代理需要向公司交代理费几万块吗？

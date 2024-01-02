@@ -1,8 +1,10 @@
 ---
 title: "艾略特波浪理论的5-3浪形态怎么理解？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 艾略特波浪理论认为，市场的价格走势是由一系列特定的波浪形态组成的。其中，5-3浪形态是艾略特波浪理论中最基本的形态之一，通常用于预测价格的走势。

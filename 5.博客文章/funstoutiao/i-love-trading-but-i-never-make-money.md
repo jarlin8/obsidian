@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 看到这个问题，心中毫无思绪，不禁回首当年。曾几何时，我也是这么一种状态。交易始终没有赚钱，而且自己也不想就这样放弃一直坚持的交易事业，或许是对命运的不甘，或许是没有重头开始的勇气吧。还好，一切都过来了，一切也是最好的安排。

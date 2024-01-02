@@ -1,8 +1,10 @@
 ---
 title: "反转形态该如何识别"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是反转形态？

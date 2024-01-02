@@ -1,8 +1,10 @@
 ---
 title: "富拓外汇有什么优点"
-date: "2023-03-31"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是富拓外汇？

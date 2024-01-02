@@ -1,8 +1,10 @@
 ---
 title: "影响黄金价格走势的因素有哪些"
-date: "2023-03-25"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 影响黄金价格走势的因素有哪些

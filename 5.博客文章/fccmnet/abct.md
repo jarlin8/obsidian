@@ -1,8 +1,10 @@
 ---
 title: "操盘有哪些经验可以学习"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 操盘是一种投资活动，它可以帮助投资者获得更多的收益。操盘的成功与否取决于投资者的投资经验和投资技巧。因此，投资者需要学习一些操盘经验，以便更好地投资。

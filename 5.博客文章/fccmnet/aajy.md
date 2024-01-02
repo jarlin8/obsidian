@@ -1,8 +1,10 @@
 ---
 title: "外汇稳定盈利有吗"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇稳定盈利有吗

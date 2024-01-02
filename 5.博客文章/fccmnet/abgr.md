@@ -1,8 +1,10 @@
 ---
 title: "MT4交易产品对照表上有什么产品"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MetaTrader 4（MT4）是一款由MetaQuotes Software Corporation开发的外汇交易平台，它提供了一系列的交易产品，可以满足不同投资者的需求。MT4交易产品对照表上有什么产品？

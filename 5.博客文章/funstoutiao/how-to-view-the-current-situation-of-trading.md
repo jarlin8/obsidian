@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 谢邀，题主的问题好大，今天就来浅谈一下关于题主的问题，如有不对欢迎指正。

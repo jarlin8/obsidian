@@ -1,8 +1,10 @@
 ---
 title: "求一套靠谱的外汇短线交易系统"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是外汇短线交易？

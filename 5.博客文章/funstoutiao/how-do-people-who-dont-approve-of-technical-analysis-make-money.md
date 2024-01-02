@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 这是一直困惑我的问题，要是在趋势中还好，基本面、肉眼可以判断趋势，但如果遇到震荡呢？在趋势形成之前呢？那些平时不靠技术的朋友们是如何做交易并能获利的？可以用仓位控制，止损，但数次试单止损，我都不确定你能不能熬到趋势启动的那一天。。。

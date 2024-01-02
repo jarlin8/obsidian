@@ -1,8 +1,10 @@
 ---
 title: "贵金属和黄金哪个贵"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 贵金属和黄金是两种不同的金属，它们都有自己的价值，但是哪一种更贵？让我们来看看它们之间的区别。

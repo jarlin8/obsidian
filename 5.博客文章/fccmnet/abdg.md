@@ -1,8 +1,10 @@
 ---
 title: "捕捉外汇短线价差可以盈利吗"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 外汇短线价差指的是在短时间内，外汇市场中两种货币的价格差异。这种价格差异可以用来捕捉利润，但是要想获得利润，投资者需要了解外汇市场的运作方式，以及如何捕捉外汇短线价差。

@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 在回答题主这个问题之前，我想问下题主是很想做数据行情，或只是好奇。

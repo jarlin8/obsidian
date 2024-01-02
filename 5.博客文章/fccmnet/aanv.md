@@ -1,8 +1,10 @@
 ---
 title: "外汇交易 如何稳定盈利"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇交易 如何稳定盈利

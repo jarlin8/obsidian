@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 交易深似海，一直交易一直爽交易给我们的生活带来的变化不是一星半点，有从身无分文一夜暴富的；也有每日如履薄冰，享受着孤独的；还有从容应对，扎实记录，走向巅峰的。  

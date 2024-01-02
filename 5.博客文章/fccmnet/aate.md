@@ -1,8 +1,10 @@
 ---
 title: "如何炒纸黄金可以规避风险"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 纸黄金投资的风险

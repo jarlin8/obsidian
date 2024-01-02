@@ -1,8 +1,10 @@
 ---
 title: "ATFX在全球哪些国家和地区开展业务？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ATFX是一家全球性的外汇交易商，为客户提供外汇交易、差价合约交易和其他金融产品的交易服务。ATFX在全球范围内开展业务，为客户提供优质的服务。

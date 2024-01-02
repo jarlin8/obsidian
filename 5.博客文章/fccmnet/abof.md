@@ -1,8 +1,10 @@
 ---
 title: "ace爱信集团是合法的吗？"
-date: "2023-03-16"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 Ace爱信集团是一家跨国企业，主要从事金融服务、信息技术、咨询服务等业务。它的业务遍及全球，在全球拥有超过50个分支机构，拥有超过20万名员工。Ace爱信集团的业务范围广泛，涉及金融服务、信息技术、咨询服务等多个领域。

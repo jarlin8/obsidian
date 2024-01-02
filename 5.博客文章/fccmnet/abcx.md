@@ -1,8 +1,10 @@
 ---
 title: "财政政策调整对外汇走势的影响是怎样的"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 中国的财政政策调整对外汇走势有着重要的影响。财政政策调整可以影响外汇市场的供求关系，从而影响外汇走势。

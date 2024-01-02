@@ -1,8 +1,10 @@
 ---
 title: "KDJ指标为什么受欢迎"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 KDJ指标是一种常用的技术分析指标，它可以帮助投资者分析股票市场的走势，从而帮助投资者做出更好的投资决策。KDJ指标的受欢迎程度可以从它的特点来看，它具有许多优点，使它成为投资者的首选。

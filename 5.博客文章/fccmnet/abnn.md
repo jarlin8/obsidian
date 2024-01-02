@@ -1,8 +1,10 @@
 ---
 title: "Secret Bitcoin mining facilities discovered in Bhutan's remote mountain kingdom"
-date: "2023-03-16"
-categories: 
-  - "news"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "news"
 ---
 
 A Forbes investigation has unveiled the Kingdom of Bhutan's clandestine development of a series of Bitcoin mining facilities. Through satellite imagery from Planet Labs, Satellite Vu, and Google Earth, coupled with insights into Bhutan's crypto investments, the publication identified four undisclosed crypto-mining sites.

@@ -1,8 +1,10 @@
 ---
 title: "人民币为什么不能自由兑换外币 为什么要进行外汇管制"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 人民币为什么不能自由兑换外币

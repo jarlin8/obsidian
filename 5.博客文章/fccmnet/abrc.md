@@ -1,8 +1,10 @@
 ---
 title: "国际外汇投资是骗局吗"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 国际外汇投资是骗局吗？详解外汇投资的风险和机遇

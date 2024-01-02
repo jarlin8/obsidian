@@ -1,8 +1,10 @@
 ---
 title: "黄金延期业务需要如何操作"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是黄金延期业务?

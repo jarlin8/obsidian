@@ -1,8 +1,10 @@
 ---
 title: "炒黄金也会被强制平仓吗"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金也会被强制平仓吗？答案是肯定的。炒黄金是一种投资行为，它的风险也是不可忽视的。因此，为了保护投资者的利益，金融监管机构会对炒黄金市场进行监管，并采取一些措施来限制风险。

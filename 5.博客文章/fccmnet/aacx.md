@@ -1,8 +1,10 @@
 ---
 title: "出口押汇是什么意思跟进口押汇有区别吗"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是出口押汇？

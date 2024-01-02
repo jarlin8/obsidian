@@ -1,8 +1,10 @@
 ---
 title: "中国外汇储备减少时 之前用于购买外汇而发行的人民币会进行怎样的处理"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 中国外汇储备减少时 之前用于购买外汇而发行的人民币会进行怎样的处理

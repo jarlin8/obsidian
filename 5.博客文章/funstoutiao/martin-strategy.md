@@ -10,7 +10,7 @@ taxonomy:
         - "收益率"
         - "比率"
         - "moving-average"
-        - "practical-information"
+        - "ganhuo"
         - "交易方法"
         - "交易"
         - "交易者"

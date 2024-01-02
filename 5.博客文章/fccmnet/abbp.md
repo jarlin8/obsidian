@@ -1,8 +1,10 @@
 ---
 title: "炒汇核心技术要领是什么"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒汇是一种金融投资行为，它的核心技术要领是把握市场走势，把握汇率变化，以及把握投资机会。

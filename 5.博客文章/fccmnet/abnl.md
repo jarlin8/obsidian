@@ -1,8 +1,10 @@
 ---
 title: "AETOS平台怎么样，AETOS外汇可信吗？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 AETOS是一家在澳大利亚注册的外汇经纪商，拥有超过十年的历史，为全球客户提供外汇交易服务。AETOS平台拥有一流的交易环境，提供多种交易工具，包括外汇、贵金属、原油和指数等，可以满足不同客户的需求。

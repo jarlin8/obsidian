@@ -1,8 +1,10 @@
 ---
 title: "炒汇多年应该有什么样的经验和心得"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒汇多年应该有什么样的经验和心得？炒汇是一项非常复杂的投资活动，需要投资者具备良好的投资经验和心得，才能取得良好的投资回报。那么，炒汇多年应该有什么样的经验和心得呢？

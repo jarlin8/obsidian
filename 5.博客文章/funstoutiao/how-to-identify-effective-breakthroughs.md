@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 有效突破都是事后来看的，突破的时候谁也不能百分百保证这次突破一定成功，所以如何确认有效突破是无解的。  

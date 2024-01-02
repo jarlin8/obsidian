@@ -1,8 +1,10 @@
 ---
 title: "投资实物黄金需要准备什么"
-date: "2023-03-25"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是实物黄金投资

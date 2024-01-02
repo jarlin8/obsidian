@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 谢邀。这位题主虽然只说了聊聊两句话，但是已经说明了很多问题。如果你问的是投资市场能否挣钱，我可以明确的告诉你，肯定能挣钱，如果你问的是你在投资市场里能否挣到钱，我可以更明确的告诉你，肯定挣不到。

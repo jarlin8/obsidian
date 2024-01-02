@@ -1,8 +1,10 @@
 ---
 title: "外汇占款下降背后反映的是什么经济问题"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇占款下降背后反映的是什么经济问题？

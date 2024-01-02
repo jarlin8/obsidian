@@ -1,8 +1,10 @@
 ---
 title: "从事职业交易需要具备什么条件"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 从事职业交易需要具备什么条件

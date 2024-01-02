@@ -1,8 +1,10 @@
 ---
 title: "FXTM外汇平台安全吗"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ### FXTM外汇平台安全吗

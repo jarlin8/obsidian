@@ -1,8 +1,10 @@
 ---
 title: "GDP数据发布时，如何把握投资机会"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 近年来，随着经济的发展，GDP数据发布已经成为投资者关注的焦点。GDP数据发布时，投资者如何把握投资机会，是一个值得深思的问题。

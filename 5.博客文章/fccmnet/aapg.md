@@ -1,8 +1,10 @@
 ---
 title: "做外汇时 你们都遇到过哪些骗子"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 做外汇时 你们都遇到过哪些骗子

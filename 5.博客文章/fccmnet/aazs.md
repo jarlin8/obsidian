@@ -1,8 +1,10 @@
 ---
 title: "炒黄金需要什么技术"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金是一种投资行为，它可以帮助投资者获得更高的收益。然而，炒黄金也是一项技术活动，需要投资者具备一定的技术知识和技能才能够成功。

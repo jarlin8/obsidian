@@ -1,8 +1,10 @@
 ---
 title: "黄金投资入门有什么要学的"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金投资入门有什么要学的

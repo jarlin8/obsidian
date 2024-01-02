@@ -1,8 +1,10 @@
 ---
 title: "外汇和黄金都有哪些联系"
-date: "2023-03-25"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是外汇和黄金

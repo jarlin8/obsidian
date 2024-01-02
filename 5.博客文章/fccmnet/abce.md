@@ -1,8 +1,10 @@
 ---
 title: "超短线交易要点是什么"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 超短线交易是一种投资策略，它可以帮助投资者在短时间内获得较高的收益。超短线交易的要点是：

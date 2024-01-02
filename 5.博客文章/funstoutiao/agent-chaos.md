@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 进入市场肯定就对IB不陌生吧，说不定有些汇友就是被IB“坑”进来的。  

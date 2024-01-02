@@ -1,8 +1,10 @@
 ---
 title: "哪个黄金交易平台合法正规安全"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 哪个黄金交易平台合法正规安全？

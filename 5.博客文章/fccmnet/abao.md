@@ -1,8 +1,10 @@
 ---
 title: "炒黄金的基本知识有哪些"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金是一种投资行为，它可以帮助投资者获得更高的收益，但也有一定的风险。因此，在进行炒黄金之前，投资者需要了解炒黄金的基本知识，以便更好地把握投资机会，降低投资风险。

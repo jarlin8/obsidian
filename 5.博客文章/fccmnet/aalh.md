@@ -1,8 +1,10 @@
 ---
 title: "期货和外汇哪个靠谱怎么对比"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是期货

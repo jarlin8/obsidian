@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 我不知道你把这个所谓的“N型”时看做一种交易方式，还是据结构判断来进行短线交易的模型。

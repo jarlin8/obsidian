@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 我在交易的時候常用支撐與阻力來判斷市場的走勢，但就是不明白不管是突破還是反彈，為什麼價格到了這些點位就會有反應？是因為人相信所以才好用？還是因為好用人才相信呢？

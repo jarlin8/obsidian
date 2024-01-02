@@ -1,8 +1,10 @@
 ---
 title: "外汇市场上xauusd eurusd gbpusd等之间的变动有关联吗"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇市场上xauusd eurusd gbpusd等之间的变动有关联吗

@@ -1,8 +1,10 @@
 ---
 title: "毕业后炒外汇失败亏钱觉得自己很失败应该怎么办"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 毕业后炒外汇失败亏钱觉得自己很失败应该怎么办

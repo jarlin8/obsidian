@@ -1,8 +1,10 @@
 ---
 title: "SAXO外汇平台如何代理返佣"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 Saxo外汇平台是一个全球性的外汇交易平台，它提供了一个安全、可靠的环境，让投资者可以轻松地进行外汇交易。Saxo外汇平台提供了一种叫做“代理返佣”的服务，它可以帮助投资者节省交易成本，并获得更多的收益。

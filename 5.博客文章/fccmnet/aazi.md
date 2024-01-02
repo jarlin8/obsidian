@@ -1,8 +1,10 @@
 ---
 title: "炒黄金怎么设置止盈"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金是一种投资行为，它可以帮助投资者获得收益，但也有风险。因此，投资者在炒黄金时，必须设置止盈，以降低风险。

@@ -1,8 +1,10 @@
 ---
 title: "B-Book是什么意思？B仓与A仓有什么区别？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 B-Book是一种记录交易的方式，它是一种虚拟账户，用于记录投资者的交易信息，包括买入和卖出的股票、期货、外汇等金融产品。B-Book的优势在于它可以让投资者更加便捷地记录交易信息，而且可以更快地获取交易结果。

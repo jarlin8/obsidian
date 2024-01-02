@@ -1,8 +1,10 @@
 ---
 title: "外汇亏损后 心好累 普通人真的适合炒外汇么"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇亏损后 心好累

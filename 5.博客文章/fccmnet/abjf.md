@@ -1,8 +1,10 @@
 ---
 title: "ig外汇保证金怎么计算"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 IG外汇保证金是指在IG外汇交易中，投资者需要支付的一种保证金，用于抵押他们的交易。保证金是一种金融工具，可以帮助投资者控制他们的交易风险，并确保他们有足够的资金来支付他们的交易损失。

@@ -1,8 +1,10 @@
 ---
 title: "成为一名成功的外汇交易者需要什么技能"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 成为一名成功的外汇交易者需要什么技能

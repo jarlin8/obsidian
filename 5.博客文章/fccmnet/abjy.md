@@ -1,8 +1,10 @@
 ---
 title: "gkfx捷凯出入金是否方便快捷"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 捷凯金融（GKFX）是一家英国的外汇交易商，提供外汇交易、差价合约（CFD）和其他金融产品的交易服务。捷凯金融提供的出入金服务是否方便快捷？

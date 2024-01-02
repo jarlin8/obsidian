@@ -1,8 +1,10 @@
 ---
 title: "资金安全的英国外汇交易平台有哪些推荐国内的呢"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 资金安全的英国外汇交易平台有哪些推荐国内的呢

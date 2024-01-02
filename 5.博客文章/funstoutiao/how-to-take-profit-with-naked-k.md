@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 使用的交易技术是《实战交易思维》，基于价格行为基础的一种交易方式。  

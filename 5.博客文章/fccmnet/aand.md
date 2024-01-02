@@ -1,8 +1,10 @@
 ---
 title: "国内如何开设账户进行外汇交易"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 国内如何开设账户进行外汇交易

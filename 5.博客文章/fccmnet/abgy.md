@@ -1,8 +1,10 @@
 ---
 title: "MT4的主密码、只读密码有什么区别"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MT4的主密码和只读密码是MetaTrader 4（MT4）交易平台的两种安全设置，它们之间有着明显的区别。MT4的主密码是用户登录MT4交易平台的唯一凭证，它是用户的身份认证，只有输入正确的主密码，用户才能登录MT4交易平台，并进行交易操作。

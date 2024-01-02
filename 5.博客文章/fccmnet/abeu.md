@@ -1,8 +1,10 @@
 ---
 title: "巴克莱银行也是炒外汇的吗"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 巴克莱银行是一家英国的银行，它是英国最大的银行之一，也是世界上最大的银行之一。它提供了各种金融服务，包括储蓄、投资、信贷、保险、外汇等。那么，巴克莱银行也是炒外汇的吗？

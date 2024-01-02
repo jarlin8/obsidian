@@ -1,8 +1,10 @@
 ---
 title: "FXTM富拓外汇平台有监管吗是不是正规平台"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 FXTM富拓外汇平台有监管吗是不是正规平台

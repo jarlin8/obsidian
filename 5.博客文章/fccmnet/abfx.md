@@ -1,8 +1,10 @@
 ---
 title: "XM外汇的最小交易手数是多少"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 XM外汇是一家在线外汇交易商，它提供了一系列的交易服务，包括外汇交易、贵金属交易、原油交易等。XM外汇的最小交易手数是多少？

@@ -1,8 +1,10 @@
 ---
 title: "地缘政治对黄金价格的影响大吗"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 地缘政治对黄金价格的影响大吗？这是一个有争议的问题，有人认为地缘政治对黄金价格有重大影响，而另一些人则认为地缘政治对黄金价格的影响不大。

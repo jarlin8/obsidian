@@ -1,8 +1,10 @@
 ---
 title: "FXTM富拓外汇平台点差高吗"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## FXTM富拓外汇平台点差高吗

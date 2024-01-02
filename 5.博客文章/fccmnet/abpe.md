@@ -1,8 +1,10 @@
 ---
 title: "外汇平台上是否可以进行免费的模拟交易？"
-date: "2023-03-16"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 外汇平台上是否可以进行免费的模拟交易？

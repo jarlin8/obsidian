@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 有哪些话是看起来好像很有道理，无可反驳的样子，但其实就是并不是这样子的！

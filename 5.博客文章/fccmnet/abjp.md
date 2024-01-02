@@ -1,8 +1,10 @@
 ---
 title: "HYCM兴业是正规合法的经纪商吗"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 HYCM兴业是一家在欧洲和亚洲地区拥有多年历史的外汇交易经纪商，它的客户遍及全球。它是否是一家正规合法的经纪商？

@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 **题主，要说货币界的大神，金融巨鳄索罗斯敢认第二，没有人敢认第一；要说货币界发生过的大事，当然也离不开索罗斯的身影。而近几十年来最重要的货币大事，莫过于索罗斯的成名之战：狙击英镑，成为“打垮了英格兰银行的人”！**

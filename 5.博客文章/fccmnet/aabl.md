@@ -1,8 +1,10 @@
 ---
 title: "对冲锁单的技巧有哪些"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是冲锁单？

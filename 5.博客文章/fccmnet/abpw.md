@@ -1,8 +1,10 @@
 ---
 title: "外汇交易中最常见的三个错误！"
-date: "2022-12-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 外汇交易中最常见的三个错误是：

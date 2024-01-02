@@ -1,8 +1,10 @@
 ---
 title: "MetaTrader5为什么流行不起来呢"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MetaTrader5是一款外汇交易软件，它拥有强大的交易功能，可以帮助投资者进行外汇交易。然而，MetaTrader5并不像MetaTrader4那样流行起来，为什么呢？

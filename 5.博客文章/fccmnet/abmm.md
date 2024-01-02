@@ -1,8 +1,10 @@
 ---
 title: "tickmill返佣金吗，tickmill实时返佣是什么意思？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 Tickmill是一家外汇经纪商，提供外汇、CFD等交易产品。Tickmill提供返佣金计划，即为参与该计划的客户提供交易返佣金。

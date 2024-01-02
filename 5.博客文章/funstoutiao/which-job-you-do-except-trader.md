@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 投资理财大概是最没有身份界限的职业了，无论尊卑贵贱、无论贫穷富有，只要有心有胆量就能入行做。  

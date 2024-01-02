@@ -1,8 +1,10 @@
 ---
 title: "对冲交易和保值交易是一个意思吗"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 对冲交易和保值交易的定义

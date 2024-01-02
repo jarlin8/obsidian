@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 根据你的做单周期，必不可少的一个技术工具是什么？可以具体说一下吗？

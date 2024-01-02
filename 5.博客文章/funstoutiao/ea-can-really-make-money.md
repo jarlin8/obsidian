@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 随着科技和社会的进步，人工智能技术越来越走进我们的生活中。自从AlphaGo围棋以绝对的优势战胜了世界排名第一的柯洁，是不是感觉人类真的会向电影中讲的那样最终会沦陷在自己的手中。但是，今天的话题并不是人工智能，而是交易的EA。

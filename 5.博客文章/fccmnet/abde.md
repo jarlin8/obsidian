@@ -1,8 +1,10 @@
 ---
 title: "不同时间周期的外汇图表有什么优势"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 外汇图表是外汇交易者的重要工具，它们可以帮助交易者更好地理解市场趋势，并做出更明智的交易决策。不同时间周期的外汇图表有不同的优势，可以帮助交易者更好地分析市场。

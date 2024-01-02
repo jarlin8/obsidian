@@ -1,8 +1,10 @@
 ---
 title: "如何看待外管局发布的《国家外汇管理局有关负责人就改进个人外汇信息申报管理答记者问》"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 如何看待外管局发布的《国家外汇管理局有关负责人就改进个人外汇信息申报管理答记者问》

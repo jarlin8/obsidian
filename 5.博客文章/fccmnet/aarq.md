@@ -1,8 +1,10 @@
 ---
 title: "外汇黄金交易技巧新手如何快速掌握"
-date: "2023-03-25"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇黄金交易技巧新手如何快速掌握

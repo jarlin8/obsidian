@@ -1,8 +1,10 @@
 ---
 title: "黄金交易平台靠谱吗"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 黄金交易平台靠谱吗：深入了解交易平台的公信力

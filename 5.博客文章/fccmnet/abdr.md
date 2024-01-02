@@ -1,8 +1,10 @@
 ---
 title: "波浪的形态划分是怎么样的"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 波浪的形态划分是怎么样的？波浪是海洋和湖泊中最常见的现象，它们的形态多种多样，可以根据其形态特征进行划分。

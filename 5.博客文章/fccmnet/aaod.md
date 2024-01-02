@@ -1,8 +1,10 @@
 ---
 title: "是否可以外汇为生"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 是否可以外汇为生

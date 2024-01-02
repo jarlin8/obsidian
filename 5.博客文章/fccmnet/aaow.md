@@ -1,8 +1,10 @@
 ---
 title: "用6万本金去炒外汇 一年赚到60万的概率有多大"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 用6万本金去炒外汇 一年赚到60万的概率有多大

@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 如果自己构建的一套交易系统经常失效造成亏损的话，要放弃这套系统换其他的吗？是否有稳定盈利的交易系统呢？

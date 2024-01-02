@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 这个问题问得很大，每个人对待交易的理解也不同，最后可能会产生谁也不服谁的结果，我就谈谈我自己的理解吧。

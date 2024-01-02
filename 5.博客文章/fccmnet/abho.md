@@ -1,8 +1,10 @@
 ---
 title: "MDF外汇靠谱吗"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MDF外汇是一家著名的外汇交易公司，它提供了一系列的外汇交易服务，包括外汇交易、外汇投资和外汇投资策略。MDF外汇的客户群体涵盖了世界各地的投资者，他们可以通过MDF外汇的平台进行外汇交易。MDF外汇的客户可以通过其网站获取最新的外汇行情，并可以根据自己的投资策略进行交易。

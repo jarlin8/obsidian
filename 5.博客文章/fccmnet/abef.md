@@ -1,8 +1,10 @@
 ---
 title: "保值交易就是交易不会亏损的意思吗"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 保值交易是指在交易过程中，双方都能够获得某种形式的收益，而不会受到损失。这种交易方式可以帮助双方获得更多的收益，而不会受到损失。

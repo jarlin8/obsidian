@@ -1,8 +1,10 @@
 ---
 title: "中国神级的操盘手为什么不做外汇"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 中国神级的操盘手为什么不做外汇

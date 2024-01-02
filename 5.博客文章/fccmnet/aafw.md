@@ -1,8 +1,10 @@
 ---
 title: "外汇投资被骗亏损该怎么办 是认栽还是追回呢"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇投资失利该怎么办？

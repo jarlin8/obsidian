@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 研究交易记录其实并没有什么用，你研究他的操作手法还差不多，还有交易经验。

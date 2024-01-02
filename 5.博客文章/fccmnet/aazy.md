@@ -1,8 +1,10 @@
 ---
 title: "炒黄金如何追单"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金是一种投资行为，它可以帮助投资者获得更高的收益。然而，炒黄金也有一定的风险，因此投资者在炒黄金时需要特别注意。本文将介绍如何追单炒黄金，以便投资者可以更好地控制风险，获得更高的收益。

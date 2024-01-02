@@ -1,8 +1,10 @@
 ---
 title: "MT4/MT5平台如何透过FIXAPI进行外汇交易"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MetaTrader 4/5（MT4/MT5）是一款由MetaQuotes Software Corporation开发的外汇交易平台，它提供了一个完整的交易环境，包括交易软件、技术分析工具、实时行情、交易信号、自动交易等功能。MT4/MT5平台可以通过FIX API（Financial Information Exchange Application Programming Interface）进行外汇交易。FIX API是一种用于在金融机构之间进行数据交换的应用程序编程接口，它可以提供实时的外汇行情、交易信号和交易执行等功能。

@@ -1,8 +1,10 @@
 ---
 title: "现货黄金交易平台有好的推荐吗"
-date: "2023-03-25"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是现货黄金交易平台？

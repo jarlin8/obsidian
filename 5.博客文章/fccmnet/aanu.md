@@ -1,8 +1,10 @@
 ---
 title: "炒外汇开户 哪里有好的外汇代理商"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 HTML Headings:

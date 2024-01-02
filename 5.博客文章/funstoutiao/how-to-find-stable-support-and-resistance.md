@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 “稳定”，我认为在货币交易市场不存在什么样的技术是稳定的，稳定一词本身就需要用时间去定义，它是一个比较虚的概念。多长时间的稳定，算是我们认为上的稳定呢。因此，我认为交易市场的稳定都是有时间的，有条件的。

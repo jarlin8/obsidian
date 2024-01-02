@@ -1,8 +1,10 @@
 ---
 title: "选择哪一个交易平台能够快速出金的"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是交易平台快速出金？

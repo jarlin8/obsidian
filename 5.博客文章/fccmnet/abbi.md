@@ -1,8 +1,10 @@
 ---
 title: "怎么才能更容易赚钱"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 在当今社会，赚钱是一个重要的话题，每个人都想要更容易地赚钱。但是，要想赚钱，你必须有一个计划，并且要有耐心和毅力。

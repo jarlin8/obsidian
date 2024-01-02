@@ -1,8 +1,10 @@
 ---
 title: "如何判断外汇平台"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 如何判断外汇平台

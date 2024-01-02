@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 黄金是伴随着人类社会长期存在的一种商品，这种商品的特点是来源稀少，并在人类社会发展充当了一般等价物，最终形成了天然的货币。  

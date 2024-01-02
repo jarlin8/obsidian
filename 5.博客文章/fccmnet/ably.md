@@ -1,8 +1,10 @@
 ---
 title: "BestScalperEA是什么？它适合哪些交易者？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 BestScalperEA是一款外汇交易软件，它可以帮助交易者自动执行交易，从而节省时间和精力。它可以自动执行交易，并且可以根据市场情况自动调整交易策略，从而提高交易效率。

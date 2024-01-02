@@ -1,8 +1,10 @@
 ---
 title: "黄金现货分析方法学习难吗"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金现货分析方法学习难吗

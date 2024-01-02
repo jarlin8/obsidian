@@ -1,8 +1,10 @@
 ---
 title: "程式交易员如何提高获利能力"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 程式交易员如何提高获利能力

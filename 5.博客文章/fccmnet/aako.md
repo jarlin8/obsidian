@@ -1,8 +1,10 @@
 ---
 title: "信用卡 国外使用 每年超过5万美元 是否与个人每年5万的外汇额度冲突"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 信用卡国外使用每年超过5万美元与个人每年5万的外汇额度是否冲突

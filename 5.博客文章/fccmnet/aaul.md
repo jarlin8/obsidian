@@ -1,8 +1,10 @@
 ---
 title: "黄金延期交易的风险可以避免吗"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金延期交易的风险可以避免吗

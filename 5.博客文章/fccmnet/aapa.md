@@ -1,8 +1,10 @@
 ---
 title: "如何辨别外汇平台的真伪"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 如何辨别外汇平台的真伪

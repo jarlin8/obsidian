@@ -1,8 +1,10 @@
 ---
 title: "爱华外汇平台正规么"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 爱华外汇平台是一家专业的外汇交易平台，拥有多年的行业经验，为客户提供安全、可靠的外汇交易服务。爱华外汇平台正规么？

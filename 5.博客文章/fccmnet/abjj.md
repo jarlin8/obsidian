@@ -1,8 +1,10 @@
 ---
 title: "ICMarkets外汇交易效果好吗"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ICMarkets是一家在澳大利亚和欧洲许可的外汇交易商，它提供了一个安全可靠的交易环境，可以帮助投资者实现他们的投资目标。ICMarkets的外汇交易效果如何？

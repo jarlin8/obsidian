@@ -1,8 +1,10 @@
 ---
 title: "一个普通人成为职业操盘手的几率有多大"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 一个普通人成为职业操盘手的几率有多大

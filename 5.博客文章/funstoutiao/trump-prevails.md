@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 这是个大话题。如果详细的去说，这要跟美国自身从独立革命以来，逐渐加重的阶级矛盾有最根本的诱因，简单来说，美国中下阶级民众对美国精英阶层的失望和反抗。

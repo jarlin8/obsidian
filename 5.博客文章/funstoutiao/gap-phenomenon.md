@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 感谢Xman的邀请。任何关于行情确定性的走势问题，都是无法证明其正确的，同样也无法证明其错误，所以跳空现象究竟是否会回补，不知道。

@@ -1,8 +1,10 @@
 ---
 title: "MetaTrader5和MetaTrader4哪个更好用"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MetaTrader5和MetaTrader4是两款常用的外汇交易软件，它们都有自己的优点和缺点，因此，哪个更好用取决于您的需求。

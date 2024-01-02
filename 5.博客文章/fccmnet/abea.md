@@ -1,8 +1,10 @@
 ---
 title: "比特币暴涨了会影响外汇市场吗"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 比特币是一种虚拟货币，它的价格受到全球市场的影响，最近几年比特币价格暴涨，引起了全球市场的关注。那么，比特币暴涨会对外汇市场产生什么影响呢？

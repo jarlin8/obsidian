@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 要说外汇市场步入正轨以前，乱，是正常现象，不管是英国、美国、日本都经历过这么一个阶段，越是乱越要治，就会有管理者出现。  

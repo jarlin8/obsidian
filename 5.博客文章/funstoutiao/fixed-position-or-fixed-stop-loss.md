@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 看到这个问题，我表示我都想哭了。怎么会有这么奇葩的问题？也不知道题主这脑袋瓜子是怎么想的。仓位和止损这原本就是两个方面的东西，非要放到一起比较，怎么比较？打个比方说吧，这就好比拿人跟石头比，问人和石头哪个好？举个例子，不抬杠。

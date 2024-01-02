@@ -1,8 +1,10 @@
 ---
 title: "现货黄金平台哪个好"
-date: "2023-03-25"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 HTML Headings:

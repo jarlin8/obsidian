@@ -1,8 +1,10 @@
 ---
 title: "炒外汇者如何分析行情走势"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 炒外汇者如何分析行情走势

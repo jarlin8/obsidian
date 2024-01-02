@@ -1,8 +1,10 @@
 ---
 title: "关于外汇技术分析的问题 诚心诚意向前辈请教。"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 关于外汇技术分析的问题 诚心诚意向前辈请教。

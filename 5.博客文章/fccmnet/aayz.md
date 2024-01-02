@@ -1,8 +1,10 @@
 ---
 title: "炒现货黄金要交税吗"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒现货黄金要交税吗？这是一个很多投资者都想知道的问题。答案是肯定的，炒现货黄金是要交税的。

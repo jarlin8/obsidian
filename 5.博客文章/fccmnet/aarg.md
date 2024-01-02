@@ -1,8 +1,10 @@
 ---
 title: "现货黄金投资要注意哪些风险"
-date: "2023-03-25"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 现货黄金投资要注意哪些风险

@@ -1,8 +1,10 @@
 ---
 title: "国外知名外汇论坛有哪些"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 国外知名外汇论坛介绍

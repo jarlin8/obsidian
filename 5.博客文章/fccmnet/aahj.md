@@ -1,8 +1,10 @@
 ---
 title: "国际期货和外汇什么平台比较好优势是什么"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 国际期货和外汇平台比较

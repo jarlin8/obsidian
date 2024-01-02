@@ -1,8 +1,10 @@
 ---
 title: "炒黄金亏了怎么办"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金亏了怎么办？炒黄金是一种投资行为，它可以带来良好的收益，但也可能带来损失。因此，当投资者炒黄金亏损时，他们应该采取什么措施来减少损失？

@@ -1,8 +1,10 @@
 ---
 title: "LWR慢速威廉指标是什么"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 LWR慢速威廉指标是一种技术指标，它可以帮助投资者识别股票市场的趋势，以便做出更好的投资决策。LWR慢速威廉指标是由美国投资顾问威廉·拉斯特（William O'Neil）发明的，他认为，投资者可以通过观察股票市场的趋势来确定最佳的投资机会。

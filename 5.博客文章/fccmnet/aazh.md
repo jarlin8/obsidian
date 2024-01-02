@@ -1,8 +1,10 @@
 ---
 title: "炒黄金怎样开户"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金是一种投资方式，可以帮助投资者获得更高的收益。但是，在炒黄金之前，投资者需要先开立一个账户，以便进行交易。因此，本文将介绍如何开立炒黄金账户。

@@ -1,8 +1,10 @@
 ---
 title: "为什么我们会被骗？揭示金融欺诈心理的深层原因"
-date: "2022-07-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 金融欺诈是指以欺骗手段获取财产或非法牟利的行为，它的发生原因非常复杂。以下是一些可能导致人们易受金融欺诈的心理因素：

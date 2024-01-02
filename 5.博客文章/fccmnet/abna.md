@@ -1,8 +1,10 @@
 ---
 title: "ATFX有哪些吸引人的优惠活动和奖励计划？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ATFX是一家在全球范围内提供外汇交易服务的金融服务公司，它提供了一系列吸引人的优惠活动和奖励计划，以满足不同客户的需求。

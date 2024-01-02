@@ -1,8 +1,10 @@
 ---
 title: "如果现在想进入外汇行业 可靠吗"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇交易的概念

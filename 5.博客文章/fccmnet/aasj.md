@@ -1,8 +1,10 @@
 ---
 title: "石油和黄金的关系怎样"
-date: "2023-03-25"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 石油和黄金的关系怎样

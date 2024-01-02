@@ -1,8 +1,10 @@
 ---
 title: "ICMarkets外汇平台点差高吗"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ICMarkets外汇平台是一家在澳大利亚和欧洲设有分支机构的外汇交易商，提供多种外汇交易服务。它的点差是否高，取决于您的交易类型和市场条件。

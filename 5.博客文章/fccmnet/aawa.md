@@ -1,8 +1,10 @@
 ---
 title: "黄金投资短线赚钱技巧是什么"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是短线黄金投资？

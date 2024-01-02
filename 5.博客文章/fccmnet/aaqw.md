@@ -1,8 +1,10 @@
 ---
 title: "引起黄金期货价格波动的因素有哪些"
-date: "2023-03-25"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 引起黄金期货价格波动的因素有哪些

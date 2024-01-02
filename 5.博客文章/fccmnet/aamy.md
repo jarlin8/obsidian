@@ -1,8 +1,10 @@
 ---
 title: "我被某公司骗去抄外汇 结果被骗了一万美金 想去警察局报案 有用吗"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 我被某公司骗去抄外汇 结果被骗了一万美金 想去警察局报案 有用吗

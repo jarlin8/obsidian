@@ -1,8 +1,10 @@
 ---
 title: "炒黄金有点差吗"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金有点差吗？这是一个很有趣的问题，因为它涉及到金融市场的风险和收益。炒黄金是一种投资，它可以帮助投资者获得收益，但也可能带来风险。

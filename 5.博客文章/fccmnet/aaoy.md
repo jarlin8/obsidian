@@ -1,8 +1,10 @@
 ---
 title: "如果想炒外汇 选那些平台比较好 有没有正规的 经过审核或者监督的呀"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是外汇

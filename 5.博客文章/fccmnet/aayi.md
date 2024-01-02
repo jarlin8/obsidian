@@ -1,8 +1,10 @@
 ---
 title: "国内黄金交易平台有哪些特点"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 随着经济的发展，越来越多的人开始关注黄金投资，因此国内黄金交易平台也变得越来越受欢迎。国内黄金交易平台有哪些特点呢？

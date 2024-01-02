@@ -1,8 +1,10 @@
 ---
 title: "什么是外汇 外汇保证金"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 什么是外汇 外汇保证金

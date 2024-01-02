@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 感谢Xman的邀请。为什么不建议抓反转，原因很简单，因为我们判断不出来是否反转。

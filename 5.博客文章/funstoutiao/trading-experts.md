@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 我初作交易的时候还不到二十岁，所以说我在生活与交易的成长之路是同步的。  

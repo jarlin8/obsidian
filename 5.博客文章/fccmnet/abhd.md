@@ -1,8 +1,10 @@
 ---
 title: "MT4炒外汇是骗局吗MT4炒汇"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MT4炒外汇是一种投资方式，它可以帮助投资者以最低的风险获得最大的收益。MT4炒汇是一种技术性的投资，它可以帮助投资者以最低的风险获得最大的收益。MT4炒外汇是否是一个骗局？

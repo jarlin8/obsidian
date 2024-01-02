@@ -1,8 +1,10 @@
 ---
 title: "美国非农数据对黄金投资有什么影响"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 美国非农数据对黄金投资有什么影响

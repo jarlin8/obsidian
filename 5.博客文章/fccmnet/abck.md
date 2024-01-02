@@ -1,8 +1,10 @@
 ---
 title: "常用图表指标中的MACD有什么作用"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MACD（指数平滑移动平均线）是一种常用的技术分析指标，它可以帮助投资者分析股票市场的趋势，以及股票价格的变化。MACD是一种趋势指标，它可以帮助投资者判断股票价格的走势，以及股票市场的趋势。

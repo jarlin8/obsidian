@@ -1,8 +1,10 @@
 ---
 title: "ATFX支持哪些丰富多样的交易品种和市场？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ATFX是一家全球性的在线外汇交易商，为客户提供丰富多样的交易品种和市场。它拥有一个全球性的客户群，提供多种外汇交易服务，包括外汇、贵金属、原油和全球指数。ATFX支持多种交易品种和市场，以满足客户的不同需求。

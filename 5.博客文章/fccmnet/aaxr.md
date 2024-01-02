@@ -1,8 +1,10 @@
 ---
 title: "黄金交易所开户需要哪些流程"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金交易所开户需要哪些流程

@@ -1,8 +1,10 @@
 ---
 title: "GKFX捷凯外汇代理商可以获得哪些收益"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 GKFX捷凯外汇代理商是一家全球性的外汇交易商，为客户提供外汇交易服务。GKFX捷凯外汇代理商拥有一支专业的团队，为客户提供优质的服务，并且拥有一个安全可靠的交易环境。GKFX捷凯外汇代理商可以为客户提供多种收益，以满足客户的不同需求。

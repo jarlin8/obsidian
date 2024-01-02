@@ -1,8 +1,10 @@
 ---
 title: "ATFX的主要客户群体有哪些特点？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ATFX是一家全球性的外汇交易商，为客户提供外汇交易、金融衍生品交易和全球市场投资服务。ATFX的主要客户群体是全球投资者，他们拥有不同的投资经验和风险偏好。ATFX的客户群体有以下几个特点：

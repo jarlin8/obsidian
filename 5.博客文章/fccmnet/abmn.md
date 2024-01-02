@@ -1,8 +1,10 @@
 ---
 title: "ATFX如何严格遵守隐私和数据安全方面的规定？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ATFX是一家全球性的金融服务提供商，致力于为客户提供安全可靠的交易服务。为了确保客户的隐私和数据安全，ATFX采取了一系列的措施来严格遵守隐私和数据安全方面的规定。

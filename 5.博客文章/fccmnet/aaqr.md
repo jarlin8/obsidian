@@ -1,8 +1,10 @@
 ---
 title: "新手怎样学习外汇交易 有哪些建议"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 新手怎样学习外汇交易 有哪些建议

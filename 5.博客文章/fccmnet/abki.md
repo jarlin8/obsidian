@@ -1,8 +1,10 @@
 ---
 title: "fxtm富拓外汇平台是否正规可靠"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 富拓外汇（FXTM）是一家在全球范围内提供外汇交易服务的经纪商，它的客户遍及全球100多个国家，拥有超过200万客户。FXTM是一家被多个国家监管机构认可的外汇经纪商，它的客户可以放心交易，因为它拥有完善的安全保障体系。

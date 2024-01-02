@@ -1,8 +1,10 @@
 ---
 title: "Tickmill VS IC Markets"
-date: "2022-07-16"
-categories: 
-  - "reviews"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "reviews"
 ---
 
 IC Markets是一家全球外汇和差价合约经纪商。该公司在全球范围内受到金融监管机构的监管，包括顶级ASIC。Tickmill是一家低成本的外汇和差价合约经纪商。它受到多个金融监管机构的监管，包括顶级FCA。IC Markets 和Tickmill 怎么选？简单点：看中交易成本选Tickmill，在乎交易环境和客服体验选IC Markets。

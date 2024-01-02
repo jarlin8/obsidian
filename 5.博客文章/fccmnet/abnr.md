@@ -1,8 +1,10 @@
 ---
 title: "ADS是什么意思?ADS与债券是一样的吗"
-date: "2023-03-16"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ADS是什么意思？ADS与债券是一样的吗？

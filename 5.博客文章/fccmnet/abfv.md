@@ -1,8 +1,10 @@
 ---
 title: "xm外汇利息会很贵吗"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 外汇利息是指外汇交易中的利息支出，它是指外汇交易者在持有外汇货币时所产生的利息支出。外汇利息可以是正的，也可以是负的，这取决于外汇交易者所持有的货币的利率。

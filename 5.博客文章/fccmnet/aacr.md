@@ -1,8 +1,10 @@
 ---
 title: "传说中的股票小阳线具体指的是"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 传说中的股票小阳线具体指的是什么？

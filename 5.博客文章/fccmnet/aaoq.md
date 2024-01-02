@@ -1,8 +1,10 @@
 ---
 title: "推荐几本炒外汇入门的书"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 推荐几本炒外汇入门的书

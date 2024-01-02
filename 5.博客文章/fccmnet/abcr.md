@@ -1,8 +1,10 @@
 ---
 title: "操作外汇严重亏损怎么办"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 外汇投资是一种风险投资，投资者可能会遭受严重的损失。操作外汇严重亏损是投资者最害怕的事情，但是，如果投资者能够正确地处理，他们可以减少损失，并有机会恢复损失。

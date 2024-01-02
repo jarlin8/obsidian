@@ -1,8 +1,10 @@
 ---
 title: "澳大利亚有哪些数据会影货币价值"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 澳大利亚是一个全球金融中心，其货币澳元（AUD）也是一种全球货币。澳大利亚的货币价值受到许多因素的影响，其中最重要的是数据。本文将讨论澳大利亚有哪些数据会影响货币价值。

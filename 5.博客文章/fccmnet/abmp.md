@@ -1,8 +1,10 @@
 ---
 title: "pmi指数是什么意思？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 PMI指数是采购经理人指数（Purchasing Managers' Index）的缩写，是一种经济指标，用于衡量制造业和非制造业的采购活动情况和经济活动的扩张或收缩程度。PMI指数是由市场调研公司编制的经济指标，是全球范围内被广泛使用的经济指标之一。

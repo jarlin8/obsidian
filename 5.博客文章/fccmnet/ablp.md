@@ -1,8 +1,10 @@
 ---
 title: "ECN交易模式是什么意思？"
-date: "2023-03-19"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ECN交易模式是指电子通讯网络（Electronic Communication Network）交易模式，它是一种电子交易系统，可以让投资者和市场参与者直接进行交易。ECN交易模式是一种技术性的交易模式，它可以让投资者和市场参与者直接进行交易，而不需要经过经纪商或其他中间商。ECN交易模式的优势在于，它可以提供投资者更好的交易价格，更快的交易速度，更低的交易成本，以及更高的交易效率。

@@ -1,8 +1,10 @@
 ---
 title: "MT4平台的优势在哪里有什么特色"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MT4平台是一款非常流行的外汇交易平台，它拥有众多优势，可以满足不同类型的交易者的需求。MT4平台的优势在于它的易用性、安全性、可定制性和可扩展性。

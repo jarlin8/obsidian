@@ -1,8 +1,10 @@
 ---
 title: "黄金投机的特点和优势是什么"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金投机的特点

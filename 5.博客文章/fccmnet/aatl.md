@@ -1,8 +1,10 @@
 ---
 title: "欧元汇率走势会如何影响黄金价格"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 欧元汇率走势会如何影响黄金价格？

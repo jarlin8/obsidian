@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 假设我安排100个分析师来分析行情，然后收集大家的交易思路，按照少数人服从多数人的原则进行投票，按照支持率最高的思路做单（每一个交易思路都固定止盈和止损），大家觉得这样可以吗？总不能胜率还不到 50% 吧？所以感觉理论上应该是可行的，但是为什么很少见到这种操作？

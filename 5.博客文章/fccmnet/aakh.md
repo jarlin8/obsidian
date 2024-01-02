@@ -1,8 +1,10 @@
 ---
 title: "哪些正规的外汇交易平台在做代理"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 哪些正规的外汇交易平台在做代理

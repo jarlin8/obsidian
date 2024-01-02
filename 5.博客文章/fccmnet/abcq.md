@@ -1,8 +1,10 @@
 ---
 title: "差价合约（CFD）是什么意思"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 差价合约（CFD）是一种金融衍生品，它可以让投资者以较低的成本参与金融市场，从而获得潜在的收益。它的名字源自“差价合约”，它是一种合约，允许投资者以较低的成本参与金融市场，从而获得潜在的收益。

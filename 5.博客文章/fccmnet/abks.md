@@ -1,8 +1,10 @@
 ---
 title: "fca监管的含义和优势分析"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 金融市场的发展和改革，使得金融服务更加便捷，但也带来了一定的风险。为了确保金融市场的稳定，英国金融行为监管局（FCA）被设立，以监管金融服务提供者的行为。

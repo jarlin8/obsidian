@@ -1,8 +1,10 @@
 ---
 title: "炒黄金新手应警惕哪些误区"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金是一种投资行为，它可以帮助投资者获得财富，但也有一定的风险。炒黄金新手应该警惕哪些误区？

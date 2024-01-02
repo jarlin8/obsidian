@@ -1,8 +1,10 @@
 ---
 title: "OBOS指标技术分析的要点是什么？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 OBOS（Overbought/Oversold）指标是一种常用的技术分析指标，它用于判断股票的超买和超卖情况。以下是OBOS指标技术分析的要点：

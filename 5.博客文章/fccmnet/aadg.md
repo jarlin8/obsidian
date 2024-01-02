@@ -1,8 +1,10 @@
 ---
 title: "持仓差 增仓 减仓三者之间是什么关系"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 持仓差 增仓 减仓三者之间是什么关系

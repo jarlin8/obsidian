@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 外汇市场有很多突如其来的变故会让人变得措手不及，比如我之前在面对黑天鹅的时候还想着扛单不想止损，但是存在很多风险问题，像隔夜跳空高低开这样的风险，请问大家都是如何应对的呢？

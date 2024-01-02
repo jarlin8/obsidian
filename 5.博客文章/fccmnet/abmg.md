@@ -1,8 +1,10 @@
 ---
 title: "ATFX的历史和发展经历了哪些阶段？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ATFX是一家在全球范围内提供外汇交易服务的金融服务公司，它的历史可以追溯到2014年，当时它成立于英国伦敦。ATFX的发展经历了几个阶段，包括：

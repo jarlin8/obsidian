@@ -1,8 +1,10 @@
 ---
 title: "ACE爱信集团是做什么的，ace爱信集团外汇靠谱吗？"
-date: "2023-03-16"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ACE爱信集团是一家专注于外汇交易的金融服务公司，致力于为客户提供最优质的服务。ACE爱信集团拥有一支专业的团队，他们拥有丰富的经验，能够为客户提供最优质的服务。ACE爱信集团提供的服务包括外汇交易、贵金属交易、期货交易、股票交易等。

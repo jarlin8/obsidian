@@ -1,8 +1,10 @@
 ---
 title: "FCA监管牌照的种类和等级比较"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 FCA监管牌照是英国金融行为监管局（FCA）颁发的许可证，它允许金融机构在英国境内开展业务。FCA监管牌照的种类和等级比较是一个重要的话题，因为它可以帮助投资者了解他们可以从哪些金融机构获得服务，以及这些服务的质量。

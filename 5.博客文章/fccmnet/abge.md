@@ -1,8 +1,10 @@
 ---
 title: "RocoForex外汇平台如何代理返佣"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 RocoForex外汇平台是一家专业的外汇交易平台，提供多种外汇交易服务，包括外汇交易、贵金属交易、期货交易等。RocoForex外汇平台拥有完善的客户服务体系，为客户提供优质的服务，并且提供多种返佣服务，以满足客户的不同需求。

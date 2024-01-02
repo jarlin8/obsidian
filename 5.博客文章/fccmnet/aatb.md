@@ -1,8 +1,10 @@
 ---
 title: "如何精确判断黄金支撑位和阻力位"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 如何精确判断黄金支撑位和阻力位？

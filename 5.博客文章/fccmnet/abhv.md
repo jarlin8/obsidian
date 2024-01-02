@@ -1,8 +1,10 @@
 ---
 title: "MACD技术指标是不是很常用有"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MACD技术指标是一种常用的技术指标，它可以帮助投资者分析股票市场的走势，从而做出更好的投资决策。MACD指标是由技术分析师Gerald Appel在1979年发明的，它是一种趋势跟踪指标，可以帮助投资者分析股票市场的走势，从而做出更好的投资决策。

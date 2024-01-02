@@ -1,8 +1,10 @@
 ---
 title: "炒汇新手生存的法则是什么"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒汇是一种投资行为，它可以帮助投资者获得更高的收益，但也有很大的风险。炒汇新手如果想要成功，就必须遵守一些法则。

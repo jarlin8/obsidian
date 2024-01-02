@@ -1,8 +1,10 @@
 ---
 title: "黄金储备有什么意义"
-date: "2023-03-25"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金储备有什么意义

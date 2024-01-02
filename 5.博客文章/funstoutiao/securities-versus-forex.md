@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 过去我做股票交易时，几乎每年都能赚钱，但自从转行做汇市交易以来，几乎每年都亏损。很多人都说，货币交易比股票更难，那到底难在哪里呢？

@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 我来说一个，无计划交易是最愚蠢的交易行为，跟着自己的想法走，进场出场随便来，也不做好止盈止损，这应该是最无脑的行为了吧！

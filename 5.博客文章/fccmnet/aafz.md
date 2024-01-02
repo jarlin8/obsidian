@@ -1,8 +1,10 @@
 ---
 title: "外汇黄金交易中的资金管理问题"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇黄金交易中的资金管理问题

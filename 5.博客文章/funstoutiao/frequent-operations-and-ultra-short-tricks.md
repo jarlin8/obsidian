@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 我之前对短线交易是嗤之以鼻的，不过近期我越来越认同短线交易，因为短线交易是有节奏的，但短线交易，操作上又太频繁，频繁了又容易错，我也知道频繁操作不好，但我总想快速盈利，各位大神，我该如何继续交易

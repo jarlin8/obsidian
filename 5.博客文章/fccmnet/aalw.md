@@ -1,8 +1,10 @@
 ---
 title: "外汇跟单模式还有哪些优质平台分享"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是外汇跟单模式

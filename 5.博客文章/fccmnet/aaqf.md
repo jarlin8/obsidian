@@ -1,8 +1,10 @@
 ---
 title: "大牛们在期货和外汇上的资金管理或仓位管理方面有哪些有效的或独特的经验"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 大牛们在期货和外汇上的资金管理或仓位管理方面有哪些有效的或独特的经验

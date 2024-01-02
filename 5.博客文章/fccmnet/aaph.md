@@ -1,8 +1,10 @@
 ---
 title: "国内和国际上的原油 黄金白银还有外汇交易有什么不同"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 国内和国际原油交易的不同

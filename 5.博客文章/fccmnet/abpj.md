@@ -1,8 +1,10 @@
 ---
 title: "在外汇平台上如何进行分析和决策？"
-date: "2023-03-15"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 在外汇平台上如何进行分析和决策？

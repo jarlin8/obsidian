@@ -1,8 +1,10 @@
 ---
 title: "如何选择靠谱的外汇平台"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 如何选择靠谱的外汇平台？

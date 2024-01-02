@@ -1,8 +1,10 @@
 ---
 title: "投资移民的那些钱是怎么汇到国外的国家每年不是有外汇管制吗"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是投资移民？

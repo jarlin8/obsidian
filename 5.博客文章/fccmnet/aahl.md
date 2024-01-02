@@ -1,8 +1,10 @@
 ---
 title: "外汇止盈设置常用什么技术指标"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇止盈设置常用什么技术指标

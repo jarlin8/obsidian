@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 我们在每日的客户咨询里，经常回答客户的这样一些问题，例如“你对今晚的数据如何看待”、“你认为在某某消息出来之后行情走势会有什么样的变化”之类的问题。

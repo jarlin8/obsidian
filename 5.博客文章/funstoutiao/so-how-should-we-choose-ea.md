@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 市面上真的没有靠谱的EA吗？如果用EA做单需要注意些什么呢？ 

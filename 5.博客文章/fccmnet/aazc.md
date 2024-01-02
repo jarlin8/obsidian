@@ -1,8 +1,10 @@
 ---
 title: "炒黄金追单有什么技巧"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金追单是一种投资策略，它可以帮助投资者获得更高的收益。炒黄金追单的技巧是投资者在追踪一个趋势时，在趋势发生变化时，及时调整投资组合，以获得最大的收益。

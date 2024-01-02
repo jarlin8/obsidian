@@ -1,8 +1,10 @@
 ---
 title: "炒汇短线交易的技巧有哪些合适的"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒汇短线交易是一种投资技术，它可以帮助投资者在短时间内获得较高的收益。炒汇短线交易的技巧有很多，但是要想取得成功，投资者需要掌握一些合适的技巧。

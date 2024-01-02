@@ -1,8 +1,10 @@
 ---
 title: "炒汇爆仓后能怎么应对"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒汇爆仓是指投资者在外汇市场上投资时，由于汇率变动而导致账户资金不足以支付投资者的交易费用，从而导致账户被强制平仓的情况。炒汇爆仓后，投资者可以采取以下措施来应对：

@@ -1,8 +1,10 @@
 ---
 title: "波浪理论还适用现在的外汇市场吗"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 波浪理论是一种技术分析方法，它可以帮助投资者预测外汇市场的走势。它是由美国投资顾问和作家理查德·贝尔曼（Richard D. Wyckoff）在20世纪20年代提出的，他认为，外汇市场的走势可以用一系列的波浪形状来描述。

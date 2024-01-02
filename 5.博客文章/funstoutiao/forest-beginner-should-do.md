@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 日线图作为你交易的方向标，日线图是阳线，那就回调做多，阴线的话就回调做空。  

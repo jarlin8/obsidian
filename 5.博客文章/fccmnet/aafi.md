@@ -1,8 +1,10 @@
 ---
 title: "没有手续费银联出入金没有最低入金限制评价高的平台"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 没有手续费银联出入金没有最低入金限制评价高的平台

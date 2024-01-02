@@ -1,8 +1,10 @@
 ---
 title: "MT4的报警功能怎么使用有例子吗"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MetaTrader 4（MT4）是一款专业的交易平台，它提供了一系列的报警功能，可以帮助投资者更好地管理自己的交易。本文将介绍MT4的报警功能，以及如何使用它们，并举例说明。

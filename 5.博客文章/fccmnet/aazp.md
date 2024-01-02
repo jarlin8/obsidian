@@ -1,8 +1,10 @@
 ---
 title: "炒黄金盈利方法多不多"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金是一种投资方式，它可以帮助投资者获得更高的收益。但是，要想获得更高的收益，投资者需要了解炒黄金的盈利方法。

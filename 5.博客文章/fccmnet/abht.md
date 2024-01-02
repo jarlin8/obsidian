@@ -1,8 +1,10 @@
 ---
 title: "MACD使用技巧有哪些"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MACD（指数平滑移动平均线）是一种常用的技术分析工具，它可以帮助投资者分析股票、期货、外汇等金融市场的行情。它的使用技巧有很多，下面就来介绍一些常用的MACD使用技巧。

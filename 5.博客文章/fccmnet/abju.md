@@ -1,8 +1,10 @@
 ---
 title: "GOMarkets高汇外汇平台是否合法安全"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 GOMarkets高汇外汇平台是一家在澳大利亚和新西兰注册的金融服务提供商，专注于外汇交易。它提供了一个安全的交易环境，可以帮助投资者实现他们的投资目标。但是，投资者们是否应该相信GOMarkets高汇外汇平台是合法安全的？

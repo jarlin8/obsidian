@@ -1,8 +1,10 @@
 ---
 title: "新手炒现货黄金有什么讲究"
-date: "2023-03-25"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 新手炒现货黄金有什么讲究

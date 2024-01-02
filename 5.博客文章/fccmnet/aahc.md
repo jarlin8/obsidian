@@ -1,8 +1,10 @@
 ---
 title: "外汇交易种类有哪几类个人外汇理财投资选择哪个品种好"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇交易种类

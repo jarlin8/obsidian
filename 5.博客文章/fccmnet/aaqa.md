@@ -1,8 +1,10 @@
 ---
 title: "外汇交易员一天的工作是怎样的 会被计算机替代吗"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇交易员一天的工作是怎样的？

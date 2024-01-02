@@ -1,8 +1,10 @@
 ---
 title: "炒汇短线高手的经验是怎么样的"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒汇短线高手的经验是怎么样的？炒汇短线投资是一种高风险的投资，但也有很多投资者获得了巨大的收益。炒汇短线高手的经验是怎么样的？

@@ -1,8 +1,10 @@
 ---
 title: "KVB国际外汇市场稳定吗"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 KVB国际外汇市场是一个全球性的金融市场，它涉及到货币的买卖，以及货币对之间的交易。KVB国际外汇市场的稳定性是一个重要的话题，因为它可以影响到投资者的投资决策。

@@ -1,8 +1,10 @@
 ---
 title: "道氏理论有什么缺陷"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 道氏理论简介

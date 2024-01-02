@@ -1,8 +1,10 @@
 ---
 title: "股市亏了 想做外汇 比较适合新手的外汇平台有"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 股市亏了，想做外汇？这几个外汇平台适合新手！

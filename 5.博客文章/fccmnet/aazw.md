@@ -1,8 +1,10 @@
 ---
 title: "炒黄金外汇有风险吗"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金外汇有风险吗？答案是肯定的，炒黄金外汇有风险，但是风险可以通过正确的投资策略来降低。

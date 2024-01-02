@@ -1,8 +1,10 @@
 ---
 title: "ecn撮合交易是怎么进行的？"
-date: "2023-03-19"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ECN撮合交易是一种电子交易系统，它可以让买家和卖家在一个中央市场上进行交易。ECN撮合交易的过程是，买家和卖家都会在ECN系统中提交订单，ECN系统会根据买家和卖家的订单信息，将买家和卖家的订单进行撮合，以实现交易。

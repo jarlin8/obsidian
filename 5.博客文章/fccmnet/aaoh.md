@@ -1,8 +1,10 @@
 ---
 title: "关于外汇交易的本质与流程"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇交易概述

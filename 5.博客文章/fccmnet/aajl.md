@@ -1,8 +1,10 @@
 ---
 title: "外汇交易（保证金）真的很难赚钱吗"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是外汇交易（保证金）？

@@ -1,8 +1,10 @@
 ---
 title: "非经济学专业如何系统学习各国经济数据对外汇汇率的影响"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 非经济学专业如何系统学习各国经济数据对外汇汇率的影响

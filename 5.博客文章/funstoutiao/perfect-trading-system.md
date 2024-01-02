@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 那我就分享一下我的机械交易系统：做机械重复式的交易者！什么才是机械重复式交易系统，下面是机械交易系统。

@@ -1,8 +1,10 @@
 ---
 title: "MT4和MT5交易平台有什么区别"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MetaTrader 4（MT4）和MetaTrader 5（MT5）是两款最受欢迎的交易平台，它们都是由MetaQuotes软件公司开发的。MT4和MT5之间有许多不同之处，这些不同之处可以帮助投资者和交易者更好地了解这两款交易平台，以便他们能够根据自己的需求选择最适合的交易平台。

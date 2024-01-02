@@ -1,8 +1,10 @@
 ---
 title: "外汇平台可以提供哪些交易工具？"
-date: "2023-03-15"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 外汇平台可以提供哪些交易工具？

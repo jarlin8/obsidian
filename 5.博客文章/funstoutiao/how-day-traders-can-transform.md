@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 优秀的投资者都会经历一个从日内短线到中线波段的过程，只要过渡过去了，交易境界就上升了一个层次。

@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 1. 建立正确的交易理念，正确的逻辑，对交易深刻的认识，对盈利真相正确的认知，抛掉那些不切实际的想法，在胜率和盈亏比之间找到一个能最终正期望的平衡点，加上严格的风险控制，然后加上量的累计，无论是趋势长线，还是日内波段，找到适合自己的操作模式。  

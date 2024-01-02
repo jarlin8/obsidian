@@ -1,8 +1,10 @@
 ---
 title: "参加工作做外汇交易，有出路吗"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 外汇交易是一种投资行为，它涉及到买卖不同国家的货币，以获得汇率变化的收益。参加工作做外汇交易，有出路吗？答案是肯定的。

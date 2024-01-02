@@ -1,8 +1,10 @@
 ---
 title: "趋势跟踪在外汇里面是不是失效了"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 趋势跟踪在外汇里面是不是失效了

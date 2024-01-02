@@ -1,8 +1,10 @@
 ---
 title: "当你股票亏钱时，这5个方法帮你保持耐心和决心！"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 当股票交易遇到波动和挑战时，保持耐心和决心是非常重要的。以下是一些建议，可以帮助您保持耐心和决心：

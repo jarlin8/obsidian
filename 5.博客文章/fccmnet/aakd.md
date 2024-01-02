@@ -1,8 +1,10 @@
 ---
 title: "在外汇黄金交易中 何谓心态"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 在外汇黄金交易中 何谓心态

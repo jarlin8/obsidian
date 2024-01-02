@@ -1,8 +1,10 @@
 ---
 title: "HYCM兴业开户需要满足什么条件"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 HYCM兴业是一家在线外汇交易商，提供多种交易工具和服务，为客户提供安全可靠的交易环境。开户是客户开始交易的第一步，因此，了解开户所需的条件是非常重要的。

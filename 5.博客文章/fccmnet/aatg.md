@@ -1,8 +1,10 @@
 ---
 title: "如果美联储加息你们会买黄金吗"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 美联储加息将如何影响黄金市场

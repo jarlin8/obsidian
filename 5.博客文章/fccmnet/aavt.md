@@ -1,8 +1,10 @@
 ---
 title: "黄金投资控制风险有什么好方法"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金投资控制风险有什么好方法

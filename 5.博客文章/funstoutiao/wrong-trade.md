@@ -4,12 +4,12 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
   post_tag:
         - "trading-system"
         - "short-term-trading"
         - "forex-qa"
-        - "practical-information"
+        - "ganhuo"
         - "知乎汇乎"
         - "forex-currency-pair"
         - "外汇干货"

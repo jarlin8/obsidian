@@ -1,8 +1,10 @@
 ---
 title: "GOMarkets高汇受到哪些机构的监管和保护"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 GOMarkets高汇是一家在澳大利亚和新西兰注册的金融服务提供商，为客户提供外汇交易、差价合约交易和其他金融产品。GOMarkets高汇受到多个机构的监管和保护，以确保客户的资金安全和交易安全。

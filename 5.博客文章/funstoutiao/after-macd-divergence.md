@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 - 背离出现后激进者可以用反转K线形态来进场，稳妥者可用突破趋势线或通道来进场。

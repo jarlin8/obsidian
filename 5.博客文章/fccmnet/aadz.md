@@ -1,8 +1,10 @@
 ---
 title: "炒外汇赚钱吗 炒外汇与股票哪个更靠谱"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 炒外汇赚钱吗？

@@ -1,8 +1,10 @@
 ---
 title: "三万亿外汇储备属于每个人吗"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 三万亿外汇储备属于每个人吗

@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 ![dachshund](https://cdn.fendou.la/funstoutiao/2020/12/131841112.png)

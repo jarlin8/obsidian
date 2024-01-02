@@ -1,8 +1,10 @@
 ---
 title: "成为专业交易者还需要什么因素"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 成为专业交易者还需要什么因素

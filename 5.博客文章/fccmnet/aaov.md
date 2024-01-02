@@ -1,8 +1,10 @@
 ---
 title: "外汇交易员为了了解基本面信息 通常从哪些渠道获取信息 他们会观察股市和债市吗"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇交易员为了了解基本面信息通常从哪些渠道获取信息

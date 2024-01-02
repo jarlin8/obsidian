@@ -1,8 +1,10 @@
 ---
 title: "抄底必知的K线形态有哪些"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 K线图是股票市场中最常用的技术分析工具，它可以帮助投资者更好地分析股票的走势，从而更好地把握投资机会。K线图的形态可以帮助投资者判断股票的走势，从而把握抄底的机会。那么，抄底必知的K线形态有哪些呢？

@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 如题，既然是觉得指标都已经烂大街了，就说明打心底对于指标开始产生了不信任感了。但是要知道交易市场上的技术，不仅仅包含技术指标，可以说技术指标只是个做交易的时候的一种参考工具而已。所以两者并不能完全划等号的。

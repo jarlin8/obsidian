@@ -1,8 +1,10 @@
 ---
 title: "MetaTrader4是正规平台吗有什么证据"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MetaTrader4（MT4）是一款由MetaQuotes Software Corporation开发的外汇交易平台，它是一款专业的交易软件，可以帮助投资者进行外汇交易。MT4的可靠性和安全性一直受到投资者的高度认可，但是有人质疑MT4是否是一个正规的平台，有什么证据可以证明它的正规性？

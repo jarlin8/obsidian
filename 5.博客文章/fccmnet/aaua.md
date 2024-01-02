@@ -1,8 +1,10 @@
 ---
 title: "伦敦金与黄金T+D比有优势吗"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 伦敦金与黄金T+D比有优势吗

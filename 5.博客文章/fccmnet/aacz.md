@@ -1,8 +1,10 @@
 ---
 title: "持仓盈亏怎么计算 持仓盈亏计算公式是什么"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 持仓盈亏怎么计算？

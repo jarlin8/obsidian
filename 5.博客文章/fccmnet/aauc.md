@@ -1,8 +1,10 @@
 ---
 title: "黄金作为货币有什么缺点"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金作为货币有什么缺点

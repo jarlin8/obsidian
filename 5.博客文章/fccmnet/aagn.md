@@ -1,8 +1,10 @@
 ---
 title: "关于外汇交叉盘的问题"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇交叉盘是什么？

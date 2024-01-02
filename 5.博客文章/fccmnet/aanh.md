@@ -1,8 +1,10 @@
 ---
 title: "亏了1500美金 还要坚持做黄金外汇现货交易员吗"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 亏了1500美金 还要坚持做黄金外汇现货交易员吗

@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 题主，趋势跟踪是不是一个伪命题，这个我倒不想先说。我要指出的是，题主你的这个问题其实根本就是个伪命题！

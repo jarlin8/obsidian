@@ -1,8 +1,10 @@
 ---
 title: "艾拓思黄金行情走势怎么样了"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 近期，艾拓思黄金行情走势受到了关注。黄金作为一种重要的投资品种，其价格走势对投资者来说具有重要的意义。因此，了解艾拓思黄金行情走势变化，对投资者来说是非常重要的。

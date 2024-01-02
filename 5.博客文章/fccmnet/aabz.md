@@ -1,8 +1,10 @@
 ---
 title: "道氏理论是如何形成的"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 道氏理论的源流

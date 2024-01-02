@@ -1,8 +1,10 @@
 ---
 title: "MT4的内置外汇VPS功能好用吗"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MT4是一款外汇交易软件，它拥有一系列强大的功能，其中包括内置的外汇VPS功能。VPS（虚拟专用服务器）是一种计算机服务，可以提供稳定的网络连接，以及更高的安全性和可靠性。那么，MT4的内置外汇VPS功能好用吗？

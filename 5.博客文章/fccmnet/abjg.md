@@ -1,8 +1,10 @@
 ---
 title: "IFX美股平台开户要求和步骤是什么"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 IFX美股平台开户要求和步骤是什么？

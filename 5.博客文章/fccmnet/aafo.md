@@ -1,8 +1,10 @@
 ---
 title: "国内外汇平台被整顿了吗哪还有平台可以做吗"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 国内外汇平台被整顿了吗？

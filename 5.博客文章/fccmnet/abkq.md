@@ -1,8 +1,10 @@
 ---
 title: "ForexinControlEA回撤控制方法介绍"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ForexinControlEA回撤控制方法介绍

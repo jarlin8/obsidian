@@ -1,8 +1,10 @@
 ---
 title: "ATFX的交易费用和点差如何计算和收取？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ATFX是一家全球性的外汇交易商，它提供多种交易账户，每个账户都有不同的交易费用和点差。ATFX的交易费用和点差是如何计算和收取的呢？

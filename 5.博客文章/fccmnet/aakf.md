@@ -1,8 +1,10 @@
 ---
 title: "美元加息 人民币贬值 外汇兑换开始收紧 黄金在这种情况下能否实现保值"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 美元加息 人民币贬值 外汇兑换开始收紧 黄金在这种情况下能否实现保值

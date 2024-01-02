@@ -1,8 +1,10 @@
 ---
 title: "初创外汇平台需要注意哪几方面"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 初创外汇平台需要注意哪几方面

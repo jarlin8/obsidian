@@ -1,8 +1,10 @@
 ---
 title: "外汇平台可以用哪些货币进行交易？"
-date: "2023-03-15"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 外汇平台是一种流行的货币交易方式。通过合适的平台，您可以交易来自世界各地的各种货币。在本文中，我们将讨论可以在外汇平台上交易的不同货币。

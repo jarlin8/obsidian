@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 散户，即小额投资者、个人投资者，数量占到整个市场的80%以上。听说汇乎上的散户不少，老夫想问问大家，做交易散户多年，你有什么特别的经验感受？

@@ -1,8 +1,10 @@
 ---
 title: "fxcm福汇返佣政策和操作指南"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 福汇返佣政策和操作指南是FXCM福汇的一项重要服务，它可以帮助客户获得最大的投资回报。福汇返佣政策是一种投资者可以从交易中获得收益的方式，它可以帮助投资者获得更多的收益。

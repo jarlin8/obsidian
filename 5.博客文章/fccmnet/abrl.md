@@ -1,8 +1,10 @@
 ---
 title: "我做外汇亏了很多钱怎么办怎样才能赚回来"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 我做外汇亏了很多钱怎么办怎样才能赚回来

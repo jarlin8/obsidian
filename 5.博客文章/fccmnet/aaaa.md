@@ -1,8 +1,10 @@
 ---
 title: "该如何选择外汇VPS"
-date: "2023-03-31"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 该如何选择外汇VPS

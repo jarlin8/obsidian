@@ -1,8 +1,10 @@
 ---
 title: "MT4炒外汇是否可靠为什么"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MT4炒外汇是一种流行的外汇交易平台，它可以帮助投资者进行外汇交易。MT4炒外汇是否可靠？这是一个值得探讨的问题。

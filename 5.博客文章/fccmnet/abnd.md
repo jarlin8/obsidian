@@ -1,8 +1,10 @@
 ---
 title: "ATFX支持哪些高效便捷的交易平台和工具？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ATFX是一家全球性的外汇交易商，为客户提供多种交易工具和平台，以满足客户的不同需求。ATFX支持多种高效便捷的交易平台和工具，包括MetaTrader 4（MT4），MetaTrader 5（MT5），cTrader，WebTrader，Mobile Trader，以及ATFX自主开发的ATFX Trader。

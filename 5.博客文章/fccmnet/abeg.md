@@ -1,8 +1,10 @@
 ---
 title: "保证金交易资金管理的原则是什么"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 保证金交易资金管理是一种金融投资活动，它的原则是投资者在进行交易时，必须支付一定比例的保证金，以确保投资者能够按照交易协议完成交易。保证金交易资金管理的原则主要有以下几点：

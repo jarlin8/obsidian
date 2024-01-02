@@ -1,8 +1,10 @@
 ---
 title: "哪些因素决定外汇走势 怎样选择外汇交易"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 哪些因素决定外汇走势

@@ -1,8 +1,10 @@
 ---
 title: "有没有不错的外汇EA策略或者开发团队"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是外汇EA策略或者开发团队？

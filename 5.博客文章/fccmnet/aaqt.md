@@ -1,8 +1,10 @@
 ---
 title: "返佣比较高的外汇交易平台"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是返佣比较高？

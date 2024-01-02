@@ -1,8 +1,10 @@
 ---
 title: "有外汇交易平台排名吗"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 有外汇交易平台排名吗

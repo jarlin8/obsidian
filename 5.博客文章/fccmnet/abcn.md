@@ -1,8 +1,10 @@
 ---
 title: "常说的高频交易有什么优势吗"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 高频交易是指交易者在短时间内进行大量交易，以获取更多的收益。它是一种投资策略，可以帮助投资者获得更多的收益。高频交易有许多优势，可以帮助投资者获得更多的收益。

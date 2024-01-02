@@ -1,8 +1,10 @@
 ---
 title: "如何才能代理外汇交易平台 需要什么条件"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 如何才能代理外汇交易平台，需要什么条件？

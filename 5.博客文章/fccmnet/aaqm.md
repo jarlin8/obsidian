@@ -1,8 +1,10 @@
 ---
 title: "银行网银中的外汇交易属于哪个外汇市场"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 银行网银中的外汇交易属于哪个外汇市场

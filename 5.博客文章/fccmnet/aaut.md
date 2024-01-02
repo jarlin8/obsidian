@@ -1,8 +1,10 @@
 ---
 title: "黄金网上交易平台是靠谱的吗"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金网上交易平台是靠谱的吗？

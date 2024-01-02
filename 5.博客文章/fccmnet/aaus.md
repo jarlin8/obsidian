@@ -1,8 +1,10 @@
 ---
 title: "黄金为什么被称为天然货币"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金为什么被称为天然货币

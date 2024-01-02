@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 自前年来，国家管理局已经关闭非法网站将近1000家，其中关闭了926家，清退了29家，移交公安4家。  

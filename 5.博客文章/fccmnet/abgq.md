@@ -1,8 +1,10 @@
 ---
 title: "MT4交易平台是什么有什么功能"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MT4交易平台是一种外汇交易平台，它是由MetaQuotes软件公司开发的，是一种用于外汇交易的软件。它是一种全球最受欢迎的外汇交易平台，可以满足不同类型的交易者的需求。MT4交易平台提供了一系列的功能，可以帮助交易者更好地实现他们的投资目标。

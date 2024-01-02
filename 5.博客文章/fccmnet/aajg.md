@@ -1,8 +1,10 @@
 ---
 title: "个人炒外汇怎样开户"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 个人炒外汇怎样开户

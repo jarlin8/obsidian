@@ -1,8 +1,10 @@
 ---
 title: "MACD指标实战技巧有哪些"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MACD指标是一种常用的技术分析工具，它可以帮助投资者分析股票市场的走势，从而做出更好的投资决策。MACD指标的实战技巧有很多，下面我们就来看看这些技巧有哪些。

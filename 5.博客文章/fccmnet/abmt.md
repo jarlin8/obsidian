@@ -1,8 +1,10 @@
 ---
 title: "OTC市场是怎么样的？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 OTC市场是指场外交易市场，也被称为非交易所市场。在OTC市场中，交易双方直接进行协商和交易，没有像证券交易所那样的中央交易所来撮合交易。OTC市场是一种比较灵活和自由的市场，交易的品种和方式很多，包括股票、债券、外汇、商品、衍生品等。

@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 举个简单的例子，**市场上的价格是跳动的，而且绝对是无序的**，虽说价格无规律，但是这个观点却是金融市场上万年不变的规律，加入我们知道这个规律，是否能运用到交易中去，比如对裸K交易者来说，他们只看价格，那这个规律对他们来说有没有帮助？

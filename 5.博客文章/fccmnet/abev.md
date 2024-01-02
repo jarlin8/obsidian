@@ -1,8 +1,10 @@
 ---
 title: "澳洲投资外汇汇出的额度有限制吗"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 澳洲是一个全球金融中心，投资者可以在这里购买和出售外汇，以获得投资收益。但是，投资者是否受到澳洲投资外汇汇出的额度限制？

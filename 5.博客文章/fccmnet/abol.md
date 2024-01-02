@@ -1,8 +1,10 @@
 ---
 title: "23到35岁的人要如何投资实现资产增值？"
-date: "2023-03-16"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 23到35岁的人要如何投资实现资产增值？

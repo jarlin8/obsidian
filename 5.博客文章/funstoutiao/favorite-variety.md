@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 **做了十年交易，感觉各个品种就像性格不同的小姑娘，喜欢哪个就看你自己的口味了。  

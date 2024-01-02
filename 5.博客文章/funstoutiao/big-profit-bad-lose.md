@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 最大收益率是3天翻了36倍，最大代价是一周爆了4个账户!

@@ -1,8 +1,10 @@
 ---
 title: "炒国际黄金如何开户"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 随着国际黄金市场的发展，越来越多的投资者开始关注炒国际黄金的投资机会。炒国际黄金是一种投资行为，它可以帮助投资者获得更高的收益，但是在开始投资之前，投资者需要了解如何开户。

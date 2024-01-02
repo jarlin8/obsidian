@@ -1,8 +1,10 @@
 ---
 title: "外汇保证金短线交易确实有成功过的人吗"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇保证金短线交易确实有成功过的人吗

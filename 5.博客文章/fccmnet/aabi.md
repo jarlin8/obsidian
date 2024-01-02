@@ -1,8 +1,10 @@
 ---
 title: "兑换美元现钞和现汇有区别吗 只为保值哪个更合适"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 兑换美元现钞和现汇有区别吗？

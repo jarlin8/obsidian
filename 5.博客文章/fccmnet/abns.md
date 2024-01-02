@@ -1,8 +1,10 @@
 ---
 title: "ads美股开户怎么开？美股开户难吗？"
-date: "2023-03-16"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 美股开户是一个越来越受欢迎的投资方式，但是很多人不知道如何开户，美股开户难吗？本文将为您介绍ads美股开户的步骤，以及美股开户的难易程度。

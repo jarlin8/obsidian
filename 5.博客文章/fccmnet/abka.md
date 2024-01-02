@@ -1,8 +1,10 @@
 ---
 title: "GDP数据发布时，如何把握市场趋势"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 GDP数据发布时，如何把握市场趋势

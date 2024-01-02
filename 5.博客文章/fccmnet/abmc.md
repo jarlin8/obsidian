@@ -1,8 +1,10 @@
 ---
 title: "ATFX怎么样？为什么选择ATFX交易外汇？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ATFX是一家英国金融服务公司，提供外汇交易服务。它拥有超过10年的行业经验，为客户提供安全、可靠的交易环境。ATFX拥有一流的交易平台，支持多种交易工具，可以满足不同类型的客户的需求。ATFX的客户可以享受到专业的投资建议和技术支持，以及实时的市场分析和报价。

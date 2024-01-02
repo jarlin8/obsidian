@@ -1,8 +1,10 @@
 ---
 title: "服务比较好的外汇平台有哪些"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 服务比较好的外汇平台有哪些

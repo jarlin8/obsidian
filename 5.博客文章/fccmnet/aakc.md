@@ -1,8 +1,10 @@
 ---
 title: "请教一下万致这个外汇平台怎么样"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 万致这个外汇平台怎么样

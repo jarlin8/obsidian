@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 价格走势方法是什么意思？价格走势是对行情运行的具体描述，再加上一个名词方法，让人费解。可能你要问的是分析价格走势的方法吧，这个当然会包括一些步骤和内容，不过整体上还是太泛化。

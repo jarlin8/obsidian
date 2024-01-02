@@ -1,8 +1,10 @@
 ---
 title: "持仓价格比成本价格低怎么办 怎么处理好"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是持仓价格比成本价格低？

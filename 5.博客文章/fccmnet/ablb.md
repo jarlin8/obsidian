@@ -1,8 +1,10 @@
 ---
 title: "Exness平台监管和评价分析"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 Exness是一家在线外汇交易平台，它提供了一个安全可靠的交易环境，可以帮助投资者实现他们的投资目标。Exness的监管和评价分析是非常重要的，因为它可以确保投资者的资金安全，并确保他们的投资收益。

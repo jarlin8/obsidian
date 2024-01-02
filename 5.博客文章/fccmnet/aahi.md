@@ -1,8 +1,10 @@
 ---
 title: "外汇交叉盘交易是如何实现的 与直盘的关系是什么呢"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇交叉盘交易是如何实现的

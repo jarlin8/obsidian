@@ -1,8 +1,10 @@
 ---
 title: "炒汇爆仓都有哪几种技巧"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒汇爆仓是一种投资策略，它可以帮助投资者获得更高的收益。炒汇爆仓的技巧有很多，但是最重要的是要了解市场的走势，以及如何利用市场的走势来获得更高的收益。

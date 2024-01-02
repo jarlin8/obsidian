@@ -1,8 +1,10 @@
 ---
 title: "求推荐关于外汇基本面的靠谱书籍"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇基本面

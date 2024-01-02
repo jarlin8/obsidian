@@ -1,8 +1,10 @@
 ---
 title: "炒汇如何让资金翻倍"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒汇是一种投资活动，它可以帮助投资者获得更高的收益。炒汇的投资者可以利用外汇市场的价格波动来获取收益，但是要想让资金翻倍，投资者需要有一定的技巧和经验。

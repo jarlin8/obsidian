@@ -1,8 +1,10 @@
 ---
 title: "点差和隔夜利息哪个成本高"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 点差和隔夜利息哪个成本高

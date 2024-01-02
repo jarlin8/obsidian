@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 当你在说瓶颈时，你在说什么？我认为瓶颈并不是你困在一个地方出不来了，或停在一个阶段不再上升了，那叫困境或者停滞。  

@@ -1,8 +1,10 @@
 ---
 title: "黄金Td是什么意思"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 黄金TD是什么意思？

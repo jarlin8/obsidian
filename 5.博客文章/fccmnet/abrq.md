@@ -1,8 +1,10 @@
 ---
 title: "那些外汇喊单的所谓专家们 真的盈利那么容易吗"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 那些外汇喊单的所谓专家们 真的盈利那么容易吗

@@ -1,8 +1,10 @@
 ---
 title: "多重时间框架分析怎么做比较合适"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 多重时间框架分析怎么做比较合适

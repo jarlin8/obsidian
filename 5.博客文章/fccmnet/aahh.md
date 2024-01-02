@@ -1,8 +1,10 @@
 ---
 title: "国内外汇做保证金交易的成本低 入金低的外汇平台有哪些"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 国内外汇做保证金交易的成本低 入金低的外汇平台有哪些

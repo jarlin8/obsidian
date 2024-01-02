@@ -1,8 +1,10 @@
 ---
 title: "从哪些方面可以提升外汇操盘能力"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 从哪些方面可以提升外汇操盘能力

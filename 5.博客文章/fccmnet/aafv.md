@@ -1,8 +1,10 @@
 ---
 title: "大家知道网上现在有个 董事汇外汇套利吗是不是骗人"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 大家知道网上现在有个董事汇外汇套利吗是不是骗人

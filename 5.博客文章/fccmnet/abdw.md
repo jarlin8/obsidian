@@ -1,8 +1,10 @@
 ---
 title: "必须了解的外汇账户知识有哪些"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 外汇账户是一种金融工具，可以帮助投资者进行国际投资。它可以让投资者在不同的国家和地区进行交易，以获得最大的投资回报。外汇账户的知识是投资者必须掌握的，以便能够有效地进行投资。

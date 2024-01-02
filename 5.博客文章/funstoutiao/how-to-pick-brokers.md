@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 如何选择外汇平台？emm……用一句歌词来暂且回复：是谁出的问题那么的难，全部都是正确答案。

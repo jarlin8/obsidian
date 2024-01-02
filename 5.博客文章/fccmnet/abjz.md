@@ -1,8 +1,10 @@
 ---
 title: "gkfx杠杆比例可以自由调整吗"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 GKFX杠杆比例是指在外汇交易中，投资者可以使用的资金和保证金的比例。GKFX杠杆比例可以自由调整吗？答案是肯定的，GKFX杠杆比例可以自由调整。

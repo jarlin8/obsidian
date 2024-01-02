@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 我们有时要观察市场正在发生的不寻常情况，然后处理交易单，这一刻的决策就很重要了，遇到浮亏是割肉还是扛单？遇到反转是及时出场还是观望持有？还有更多突发的情况，当遇到这些意外时，你做出选择那一刻的判断力是从何而来的？可以具体说明一下吗？

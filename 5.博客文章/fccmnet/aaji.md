@@ -1,8 +1,10 @@
 ---
 title: "关于外汇标价方法的定义 直接标价法到底是什么"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇标价方法的定义

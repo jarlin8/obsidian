@@ -1,8 +1,10 @@
 ---
 title: "可以辞职在家炒外汇吗"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 随着经济的发展，人们对赚钱的渴望越来越强烈。越来越多的人开始试图通过外汇交易来获得更高的收益。同时，还有一些人正在考虑辞职在家炒外汇。那么，这种做法可行吗？

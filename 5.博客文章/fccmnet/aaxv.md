@@ -1,8 +1,10 @@
 ---
 title: "黄金短线的六大交易法则是哪些"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 # 黄金短线的六大交易法则是哪些

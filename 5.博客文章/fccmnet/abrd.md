@@ -1,8 +1,10 @@
 ---
 title: "在哪个外汇交易平台炒外汇"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 在哪个外汇交易平台炒外汇

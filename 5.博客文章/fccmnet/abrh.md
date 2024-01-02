@@ -1,8 +1,10 @@
 ---
 title: "外汇大资金为何不在收市时砸盘"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇大资金为何不在收市时砸盘

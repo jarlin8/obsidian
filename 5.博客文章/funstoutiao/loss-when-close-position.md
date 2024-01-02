@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 题主，并不是你一个人有这样的想法，我相信大部分投资者都曾有过这样的想法，买的时候担心买高了，卖的时候又怕卖低了，总感觉每一次都跟千万资产擦肩而过，而实际上呢？只能打哈哈了。

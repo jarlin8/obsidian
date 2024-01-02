@@ -1,8 +1,10 @@
 ---
 title: "操盘手都是怎么交易的"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 操盘手是投资者的一种职业，他们负责管理投资者的资金，以获得最大的收益。操盘手的主要工作是分析市场，并做出有利的投资决策。操盘手的交易方式可以分为两类：技术分析和基本面分析。

@@ -1,8 +1,10 @@
 ---
 title: "PTFX外汇平台合法吗"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## PTFX外汇平台合法吗？

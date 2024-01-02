@@ -1,8 +1,10 @@
 ---
 title: "什么是外汇期权外汇期权是什么意思"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是外汇期权？

@@ -1,8 +1,10 @@
 ---
 title: "做外汇五年了 还是亏 怎么办"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 做外汇五年了还是亏怎么办

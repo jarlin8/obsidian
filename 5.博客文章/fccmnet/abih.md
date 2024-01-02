@@ -1,8 +1,10 @@
 ---
 title: "K线形态分析的三乌鸦是什么"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 K线形态分析是一种技术分析方法，它可以帮助投资者更好地了解股票市场的走势。K线形态分析的三乌鸦是指三根K线形态，它们可以帮助投资者预测股票市场的走势。

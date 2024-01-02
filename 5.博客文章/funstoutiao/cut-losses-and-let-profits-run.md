@@ -1,10 +1,10 @@
 ---
-title: "“截断亏损让利润奔跑”，这句话难道本身没有问题吗?"
+title: 截断亏损让利润奔跑，这句话难道没有问题吗?
 post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+    - ganhuo
 ---
 
 在外汇市场上，你根本无法确定自己交易的结果会亏多少次，以及市场走势会跑多远。针对趋势交易来说，这句话是十分符合实际的。

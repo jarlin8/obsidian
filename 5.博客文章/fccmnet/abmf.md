@@ -1,8 +1,10 @@
 ---
 title: "ATFX的愿景和使命是什么？有哪些核心价值？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ATFX是一家全球性的外汇交易商，致力于为客户提供最优质的交易服务。ATFX的愿景是成为全球最受尊敬的外汇交易商，为客户提供最优质的交易服务，并且提供最具竞争力的交易环境。ATFX的使命是为客户提供最优质的交易服务，并且提供最具竞争力的交易环境，以满足客户的需求。

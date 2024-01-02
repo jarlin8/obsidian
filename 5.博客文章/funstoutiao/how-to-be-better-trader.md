@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 欲通过交易赚钱，需做好交易这件事；如何做好交易这件事，需要思考市场为什么会波动，以怎样的方式波动（即市场波动的始末）？看待市场的角度网络上有很多，基本面、技术面、政策面、消息面、资金面、群体行为面……，这么多面如何取舍，如何权衡。  

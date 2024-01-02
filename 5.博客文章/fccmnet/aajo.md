@@ -1,8 +1,10 @@
 ---
 title: "一个新手去学习外汇需要注意什么呢"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 一个新手去学习外汇需要注意什么呢

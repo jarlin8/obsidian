@@ -1,8 +1,10 @@
 ---
 title: "人民币升值真的会影响外汇储备量么"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 人民币升值真的会影响外汇储备量么

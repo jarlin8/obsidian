@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 此问题在开始之初很多人都不明白，还记得17年在公司操盘的时候也问了指导老师这个问题，老师的原话是

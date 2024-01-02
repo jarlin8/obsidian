@@ -1,8 +1,10 @@
 ---
 title: "非农数据是如何影响黄金价格的"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 非农数据是指与农业无关的经济指标，如就业、物价指数、工业生产等，它们可以反映经济的健康状况，因此对黄金价格有着重要的影响。

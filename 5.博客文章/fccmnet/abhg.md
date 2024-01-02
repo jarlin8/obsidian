@@ -1,8 +1,10 @@
 ---
 title: "msci指数是什么意思"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MSCI指数是一种由美国MSCI公司提供的投资指数，它可以帮助投资者评估投资组合的表现。MSCI指数是一种市场指数，它可以帮助投资者了解市场的表现，以及投资组合的表现。MSCI指数是一种投资指数，它可以帮助投资者评估投资组合的表现，以及投资组合的表现。

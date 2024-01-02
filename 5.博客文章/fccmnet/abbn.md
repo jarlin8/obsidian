@@ -1,8 +1,10 @@
 ---
 title: "炒汇技巧关于技术分析有哪些经验"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 技术分析是投资者在炒汇市场中的一种重要工具，它可以帮助投资者分析市场趋势，从而做出更明智的投资决策。炒汇技巧关于技术分析有哪些经验？

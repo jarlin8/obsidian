@@ -1,8 +1,10 @@
 ---
 title: "非贸易外汇及非贸易外汇管理是什么意思"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是非贸易外汇？

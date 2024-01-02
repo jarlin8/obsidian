@@ -1,8 +1,10 @@
 ---
 title: "国际黄金现货有什么优势"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 国际黄金现货是指在国际市场上可以买卖的黄金，它是一种金融工具，可以帮助投资者实现投资目标。国际黄金现货具有许多优势，其中最重要的是它的流动性和可靠性。

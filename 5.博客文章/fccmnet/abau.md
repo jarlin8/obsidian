@@ -1,8 +1,10 @@
 ---
 title: "操作黄金为什么会亏损甚至爆仓"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 操作黄金是一种投资行为，它可以帮助投资者获得更高的收益，但也有可能亏损甚至爆仓。那么，操作黄金为什么会亏损甚至爆仓呢？

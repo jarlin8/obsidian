@@ -1,8 +1,10 @@
 ---
 title: "炒黄金的时间段哪个比较合适交易"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金的时间段哪个比较合适交易？炒黄金是一种投资行为，它可以帮助投资者获得更高的收益，但是要想获得更高的收益，就必须要选择合适的时间段进行交易。

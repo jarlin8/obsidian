@@ -1,8 +1,10 @@
 ---
 title: "成功的外汇交易者有哪些基本素养"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 成功的外汇交易者有哪些基本素养

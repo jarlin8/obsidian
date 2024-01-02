@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 交易圈中，注定会有多数人亏损。 如果希望靠交易赚钱，必定这是一份非常难做的生意，更不要谈以交易为生了。 关注你提出的几个问题，以下是我的观点。

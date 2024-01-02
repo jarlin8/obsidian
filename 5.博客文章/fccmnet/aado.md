@@ -1,8 +1,10 @@
 ---
 title: "成功外汇交易者的交易习惯都有哪些"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 成功外汇交易者的交易习惯都有哪些

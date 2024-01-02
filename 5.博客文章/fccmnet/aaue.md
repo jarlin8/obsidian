@@ -1,8 +1,10 @@
 ---
 title: "黄金走势图对黄金投资很重要吗"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金走势图对黄金投资很重要吗

@@ -1,8 +1,10 @@
 ---
 title: "外汇平台KVB昆仑国际怎么样"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇平台KVB昆仑国际怎么样

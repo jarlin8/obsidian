@@ -1,8 +1,10 @@
 ---
 title: "为何有人知道某外汇平台是黑平台 还在上面玩呢"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 HTML Headings:

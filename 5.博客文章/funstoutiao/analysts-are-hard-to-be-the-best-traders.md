@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 分析师和交易员最大的差别是，分析师永远都是对的，交易员要时刻面对是否错了，分析师不用体会持单的痛苦，他只会告诉你点位到了，不用体会止损时候的难受，只会告诉你，下单肯定能赚回来。

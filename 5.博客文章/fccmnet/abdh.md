@@ -1,8 +1,10 @@
 ---
 title: "剥头皮是什么意思"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 剥头皮是一个俗语，指的是一种欺骗行为，通常是指欺骗他人以获取某种利益。这个词源于中国古代的一个故事，讲述的是一个欺诈者试图欺骗一个乡下人，以获取他的钱财。

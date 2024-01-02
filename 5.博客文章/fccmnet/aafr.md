@@ -1,8 +1,10 @@
 ---
 title: "大家做外汇交易日内或短线的一个月大概能盈利几个点呢"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 大家做外汇交易日内或短线的一个月大概能盈利几个点呢

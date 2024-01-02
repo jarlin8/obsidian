@@ -1,8 +1,10 @@
 ---
 title: "KVB外汇投资有什么优势"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 KVB外汇投资是一种投资方式，它可以帮助投资者从外汇市场获得收益。KVB外汇投资有许多优势，其中最重要的是，它可以帮助投资者获得更高的收益。

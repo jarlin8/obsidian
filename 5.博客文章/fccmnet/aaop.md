@@ -1,8 +1,10 @@
 ---
 title: "微信好友推荐的外汇对冲平台可以6万赚40多万 是骗人的吗"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 微信好友推荐的外汇对冲平台可以6万赚40多万 是骗人的吗

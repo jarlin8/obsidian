@@ -1,8 +1,10 @@
 ---
 title: "k线组合有没有比较复杂的走势"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 K线组合是投资者用来分析股票价格走势的一种技术分析工具。它可以帮助投资者更好地理解股票的走势，从而做出更明智的投资决策。K线组合有没有比较复杂的走势？答案是肯定的。

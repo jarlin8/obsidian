@@ -1,8 +1,10 @@
 ---
 title: "剥头皮交易方式是不是最合适的"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 剥头皮交易方式是一种投资者可以以较低的价格购买股票的方式，它可以让投资者在股票价格上获得更多的收益。但是，剥头皮交易方式是否真的是最合适的？

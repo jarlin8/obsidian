@@ -1,8 +1,10 @@
 ---
 title: "ecn外汇交易商有什么优势？"
-date: "2023-03-19"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ECN外汇交易商是一种新兴的外汇交易模式，它为投资者提供了更多的优势。ECN外汇交易商的优势主要体现在以下几个方面：

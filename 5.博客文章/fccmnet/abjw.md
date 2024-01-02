@@ -1,8 +1,10 @@
 ---
 title: "GKFX捷凯外汇平台如何申请成为代理商"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 捷凯外汇（GKFX）是一家全球性的外汇交易平台，拥有超过十年的历史，在全球拥有超过十万名客户。捷凯外汇提供了一个安全、可靠的交易环境，为客户提供了多种交易工具，包括外汇、股票、期货、商品和指数等。

@@ -1,8 +1,10 @@
 ---
 title: "炒国际黄金在哪开户的"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒国际黄金是一种投资方式，它可以帮助投资者获得更高的收益。但是，在开始炒国际黄金之前，投资者需要先在哪里开户？

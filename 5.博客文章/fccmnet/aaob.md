@@ -1,8 +1,10 @@
 ---
 title: "外汇占款减少是否足以导致国内基础货币供给下降"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇占款减少是否足以导致国内基础货币供给下降

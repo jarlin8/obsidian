@@ -1,8 +1,10 @@
 ---
 title: "纽约黄金期货交割日是什么时候"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 纽约的黄金期货交割日是什么

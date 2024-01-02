@@ -1,8 +1,10 @@
 ---
 title: "黄金走势图k线怎么看"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金走势图K线怎么看？

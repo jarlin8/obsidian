@@ -1,8 +1,10 @@
 ---
 title: "为什么中国的外汇储备会越来越多"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是外汇储备

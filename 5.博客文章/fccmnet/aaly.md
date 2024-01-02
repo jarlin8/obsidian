@@ -1,8 +1,10 @@
 ---
 title: "IB盈透做私人外汇怎么样"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## IB盈透做私人外汇怎么样

@@ -1,8 +1,10 @@
 ---
 title: "炒汇新手入门学习要看什么内容"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒汇是一种投资行为，可以帮助投资者获得更高的收益。炒汇新手入门学习要看什么内容？下面我们将介绍炒汇新手入门学习的内容。

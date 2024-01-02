@@ -1,8 +1,10 @@
 ---
 title: "外汇市场上的在岸人民币和离岸人民币的区别在哪里 可以互相转换吗"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇市场上的在岸人民币和离岸人民币的区别在哪里 可以互相转换吗

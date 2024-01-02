@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 > 每个月要还花呗.信用卡.车贷.水电费.网费.车油钱等，工资一个月2100元，炒汇收入负数，我是不是给大家拖后腿了，丢了炒汇人的脸了？我已经坚持2年了，真的好累，怎么活？我觉得交易我能行可是又不敢辞掉2千一月的工作，**大家觉得我该不该辞职，专心做交易?**

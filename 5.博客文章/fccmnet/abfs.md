@@ -1,8 +1,10 @@
 ---
 title: "zulutrade是正规平台吗"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 Zulutrade是一个在线交易平台，它提供了一种新的方式来进行外汇交易，它可以帮助投资者以更低的风险投资外汇市场。但是，有人担心Zulutrade是否是一个正规的平台，因为它的操作方式与传统的外汇交易有所不同。

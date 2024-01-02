@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 新人刚做交易不久，正在学习如何构建交易体系，如果提问有不对之处请指正，有大佬可以分享一下构建交易系统的要点和注意点吗？

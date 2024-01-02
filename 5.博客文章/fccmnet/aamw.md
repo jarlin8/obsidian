@@ -1,8 +1,10 @@
 ---
 title: "是哪些因素决定外汇汇率"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 是哪些因素决定外汇汇率

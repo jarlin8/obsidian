@@ -1,8 +1,10 @@
 ---
 title: "爱耳德射线指标ELDER-RAY是什么"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 爱耳德射线指标ELDER-RAY是一种用于分析股票市场的技术指标，它由Alexander Elder博士发明，他是一位著名的投资学家和技术分析师。ELDER-RAY指标是一种基于价格和成交量的技术指标，它可以帮助投资者识别股票市场中的趋势，以及股票的买卖点。

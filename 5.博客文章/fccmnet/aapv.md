@@ -1,8 +1,10 @@
 ---
 title: "外汇储备是如何获得的"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇储备是如何获得的？

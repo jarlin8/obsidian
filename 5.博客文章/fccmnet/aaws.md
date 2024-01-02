@@ -1,8 +1,10 @@
 ---
 title: "黄金期货开户哪家比较安全"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金期货开户哪家比较安全？

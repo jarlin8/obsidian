@@ -1,8 +1,10 @@
 ---
 title: "ace爱信集团外汇平台是有监管的吗？"
-date: "2023-03-16"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 Ace爱信集团外汇平台是有监管的吗？这是一个重要的问题，因为它可以帮助投资者确定他们是否应该在Ace爱信集团外汇平台上进行交易。

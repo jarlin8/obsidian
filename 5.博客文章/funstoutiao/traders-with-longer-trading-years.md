@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 虽然说这并不一定是定论，但是交易的时间越长，经历的越多，确实更容易理解风险。

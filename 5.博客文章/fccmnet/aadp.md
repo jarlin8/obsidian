@@ -1,8 +1,10 @@
 ---
 title: "成功投资外汇需要什么诀窍"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是外汇投资？

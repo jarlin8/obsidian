@@ -1,8 +1,10 @@
 ---
 title: "ACE爱信集团是不是正规合法的外汇交易平台？"
-date: "2023-03-16"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ACE爱信集团是一家在线外汇交易平台，它提供了一系列的外汇交易服务，包括外汇交易、外汇投资和外汇投资策略。ACE爱信集团的宗旨是为客户提供安全、可靠、高效的外汇交易服务。

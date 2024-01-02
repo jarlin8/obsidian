@@ -1,8 +1,10 @@
 ---
 title: "如何建立自己的外汇交易系统"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 如何建立自己的外汇交易系统

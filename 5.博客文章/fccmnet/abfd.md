@@ -1,8 +1,10 @@
 ---
 title: "澳大利亚的利率水平如何"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 澳大利亚的利率水平一直是澳大利亚经济发展的重要指标，它可以反映出澳大利亚经济的健康状况。澳大利亚的利率水平一般比其他发达国家低，但近年来有所上升。

@@ -1,8 +1,10 @@
 ---
 title: "zulutrade都有哪些入金方式"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 Zulutrade是一个在线外汇交易平台，它提供了一系列的交易工具，可以帮助投资者进行外汇交易。Zulutrade提供了多种入金方式，以满足不同投资者的需求。

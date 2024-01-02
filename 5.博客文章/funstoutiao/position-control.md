@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 就是说，如何在浮盈的时候不嘚瑟，然后淡定加仓？这个嘛，不好说，首先加仓跟心态有一定关系，但也不是完全看心态。再者，就算是飘飘然又能怎么样呢，飘就飘呗，又不是把浮盈的账户直接飘没了。

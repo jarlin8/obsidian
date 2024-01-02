@@ -1,8 +1,10 @@
 ---
 title: "K线形态的头肩底有什么作用"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 K线形态是投资者和交易者在分析股票价格走势时最常用的技术分析工具之一。K线形态的头肩底是一种特殊的K线形态，它可以帮助投资者和交易者更好地分析股票价格走势，从而更好地把握投资机会。

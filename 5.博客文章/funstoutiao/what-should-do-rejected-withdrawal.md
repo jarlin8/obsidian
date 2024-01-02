@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 你遇到过平台无法出金的状况吗？疫情期间很多平台都延迟出金，像大通金融等一些大平台资金都出现周转困难的情况。  

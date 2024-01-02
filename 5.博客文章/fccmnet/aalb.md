@@ -1,8 +1,10 @@
 ---
 title: "国际大型对冲基金用的什么外汇平台"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 国际大型对冲基金用的什么外汇平台

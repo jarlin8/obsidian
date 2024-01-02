@@ -1,8 +1,10 @@
 ---
 title: "现货 外汇那个平台比较好"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 现货外汇那个平台比较好

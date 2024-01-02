@@ -1,8 +1,10 @@
 ---
 title: "ICMarkets产品风险大吗"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ICMarkets是一家在澳大利亚和全球范围内提供外汇交易服务的经纪商。它提供了一系列的交易工具，包括外汇、贵金属、原油和其他金融工具。它的客户可以使用其交易平台进行交易，并可以使用其客户支持服务获得帮助。

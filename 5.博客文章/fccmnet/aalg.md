@@ -1,8 +1,10 @@
 ---
 title: "八年职业外汇交易员来解答各种问题 应聘失败了 喝点酒来解解闷"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 八年职业外汇交易员来解答各种问题 应聘失败了 喝点酒来解解闷

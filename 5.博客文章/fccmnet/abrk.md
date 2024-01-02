@@ -1,8 +1,10 @@
 ---
 title: "外汇跟单到底怎么样是否真能挣到钱"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇跟单到底怎么样是否真能挣到钱

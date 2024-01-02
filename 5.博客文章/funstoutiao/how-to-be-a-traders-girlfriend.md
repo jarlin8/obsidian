@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 目前男朋友全职交易两个多月，做交易也是从这次疫情之后开始，投的钱不多，但是我感觉他的精神状况都有点不对了，有时一个人抽烟，我不许他抽，他就偷偷的抽，有时候又很亢奋，我虽然不懂，但是我还是想支持他，我应该学做交易吗？ps：他应该没看到我发的???（看见了也没事，哼）

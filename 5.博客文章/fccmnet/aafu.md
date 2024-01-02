@@ -1,8 +1,10 @@
 ---
 title: "外汇反向跟单赚钱吗 朋友说开了个公司 有10多个交易员 一天能赚1万多 帮忙分析下"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇反向跟单赚钱吗

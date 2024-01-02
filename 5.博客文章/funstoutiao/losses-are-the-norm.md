@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 一个是交易模式有待优化和提升，意外盈利说明你的操作策略准确率偏低；

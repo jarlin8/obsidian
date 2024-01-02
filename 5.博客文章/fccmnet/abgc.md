@@ -1,8 +1,10 @@
 ---
 title: "SAR抛物线转向指标有用吗"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 SAR抛物线转向指标（Parabolic SAR）是一种常用的技术分析工具，它可以帮助投资者判断股票价格的走势，从而帮助投资者做出更好的投资决策。SAR抛物线转向指标是一种趋势跟踪指标，它可以帮助投资者判断股票价格的走势，从而帮助投资者做出更好的投资决策。那么，SAR抛物线转向指标有用吗？

@@ -1,8 +1,10 @@
 ---
 title: "现货白银原油与股票期货外汇的分析方法一样吗"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 现货白银原油与股票期货外汇的分析方法一样吗——从基本面与技术面角度分析

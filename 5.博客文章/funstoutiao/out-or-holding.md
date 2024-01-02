@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 > 在交易中，下单以后发现行情与自己的预期走势相反的情况下，如何快速止损出局或者将损失降到最低? 如果是你，你会怎么做？ 或者有没有人分享一下自己的操作经验呢？

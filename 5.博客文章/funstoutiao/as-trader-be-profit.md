@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 首先肯定是要构建自己的交易规则，说的高大上一点就是交易系统体系，说白了就是我们对于市场的认知，例如对于市场走势的判断，如何准确的辨别市场趋势方向，市场结构，关键的入场点位，止损风控的设置等等，让自己的操作有理有据！

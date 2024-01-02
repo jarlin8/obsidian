@@ -1,8 +1,10 @@
 ---
 title: "有人做交易 只用技术分析稳盈3年以上 每年赚80% 回撤不超15%吗"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是技术分析？

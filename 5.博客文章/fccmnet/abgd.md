@@ -1,8 +1,10 @@
 ---
 title: "RSI指标背离和CCI指标的背离有不同吗"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 RSI指标背离和CCI指标的背离有不同吗？这是一个很有趣的问题，因为它们都是技术分析中常用的指标。RSI指标和CCI指标都是用来衡量市场行情的技术指标，它们都可以帮助投资者判断市场的走势。但是，它们的背离有什么不同呢？

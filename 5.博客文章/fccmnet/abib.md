@@ -1,8 +1,10 @@
 ---
 title: "常见的k线形态组合有哪些"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 K线图是股票市场中最常用的技术分析工具，它可以帮助投资者更好地分析股票的走势。K线图由许多不同的K线形态组合组成，每种K线形态都有其独特的含义，可以帮助投资者更好地分析股票的走势。

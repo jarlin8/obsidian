@@ -1,8 +1,10 @@
 ---
 title: "贵金属td和黄金td的区别是什么"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 贵金属td和黄金td是两种不同的投资工具，它们之间有着明显的区别。贵金属td是指投资者可以通过购买贵金属td来投资贵金属，而黄金td则是指投资者可以通过购买黄金td来投资黄金。

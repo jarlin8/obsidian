@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 散户当然可以赚大钱，但是可能只有百分之几甚至更低，大部分都会死掉或者伤了元气离场了，你觉得很多散户能赚大钱估计就是幸存者偏差，只看到了做到的人。

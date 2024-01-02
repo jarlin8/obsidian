@@ -1,8 +1,10 @@
 ---
 title: "银行纸黄金怎么投资比较好"
-date: "2023-03-25"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是银行纸黄金？

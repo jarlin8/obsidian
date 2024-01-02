@@ -1,8 +1,10 @@
 ---
 title: "为什么外汇PAMM账户是个不错的选择"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 # 为什么外汇PAMM账户是个不错的选择

@@ -1,8 +1,10 @@
 ---
 title: "fxcm福汇对赌模式的风险提示"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 福汇对赌模式是一种投资策略，它可以帮助投资者在外汇市场中获得收益。然而，它也有一定的风险，因此投资者在使用福汇对赌模式之前，应该了解其风险提示。

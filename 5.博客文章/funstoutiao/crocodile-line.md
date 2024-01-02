@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 鳄鱼交易策略是比尔·威廉姆斯对复杂的多头策略 "盈利 "的简化版。鳄鱼线指标实际上就是结合鳄鱼指标、动量震荡指标（AO指标）和分形指标来寻找买卖信号然后进行交易。[技术指标](https://funstoutiao.com/investment-portfolio.html)

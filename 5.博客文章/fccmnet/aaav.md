@@ -1,8 +1,10 @@
 ---
 title: "防范外汇交易爆仓的方法有哪些"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 防范外汇交易爆仓的方法有哪些

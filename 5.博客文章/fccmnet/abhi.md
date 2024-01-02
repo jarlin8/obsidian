@@ -1,8 +1,10 @@
 ---
 title: "moneybookers是什么"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 Moneybookers是一种在线支付服务，它可以帮助您安全、快速地进行国际货币交易。它是一种电子支付系统，可以让您在网上购买和支付，而无需提供信用卡或银行账户信息。Moneybookers可以帮助您安全地支付和接收资金，而无需担心账户安全问题。

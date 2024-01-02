@@ -1,8 +1,10 @@
 ---
 title: "黄金行情接下来趋势怎样"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金行情接下来趋势怎样

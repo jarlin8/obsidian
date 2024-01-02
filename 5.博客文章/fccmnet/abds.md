@@ -1,8 +1,10 @@
 ---
 title: "波段交易的外汇操作是不是很难"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 随着外汇市场的发展，越来越多的投资者开始关注外汇交易，其中波段交易是一种比较流行的交易方式。但是，有些投资者认为波段交易的外汇操作很难，是不是真的呢？

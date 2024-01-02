@@ -1,8 +1,10 @@
 ---
 title: "ATFX提供哪些产品和服务？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ATFX是一家全球性的外汇交易商，拥有超过十年的行业经验，为客户提供外汇交易、差价合约交易、贵金属交易等服务。ATFX提供的产品和服务包括：

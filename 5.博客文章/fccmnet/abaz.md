@@ -1,8 +1,10 @@
 ---
 title: "炒汇新手交易的致命伤是什么"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒汇新手交易的致命伤是什么？炒汇是一种高风险的投资行为，新手很容易受到伤害。炒汇新手交易的致命伤是什么？本文将从三个方面来讨论这个问题：缺乏知识、缺乏经验和缺乏资金。

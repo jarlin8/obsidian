@@ -1,8 +1,10 @@
 ---
 title: "国内有没有正规合法的外汇交易平台"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 国内外汇市场的发展与现状

@@ -1,8 +1,10 @@
 ---
 title: "如何炒期货黄金是最合适的"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是期货黄金？

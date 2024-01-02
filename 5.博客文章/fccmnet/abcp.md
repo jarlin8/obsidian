@@ -1,8 +1,10 @@
 ---
 title: "产能利用率(CapacityUtilization)是什么指标"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 产能利用率是指企业在一定时期内，实际生产的产品数量占其最大生产能力的比例。它是衡量企业生产效率的重要指标，反映了企业生产经营的效率水平。

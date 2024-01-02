@@ -1,8 +1,10 @@
 ---
 title: "复活节外汇休市几天 复活节外汇休市吗"
-date: "2023-03-31"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 复活节外汇休市几天？

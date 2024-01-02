@@ -1,8 +1,10 @@
 ---
 title: "有大神能介绍下外汇套息吗"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是外汇套息？

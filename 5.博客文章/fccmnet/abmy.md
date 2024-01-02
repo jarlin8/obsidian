@@ -1,8 +1,10 @@
 ---
 title: "ATFX有哪些实用精彩的教育资源和培训服务？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ATFX是一家全球性的外汇交易商，提供多种实用的教育资源和培训服务，以帮助客户更好地了解外汇市场，提高交易技能。

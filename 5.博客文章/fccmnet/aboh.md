@@ -1,8 +1,10 @@
 ---
 title: "A-Book是什么意思？跟B-Book有区别吗？"
-date: "2023-03-16"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 A-Book和B-Book是投资领域的两个术语，它们都指的是投资者的投资策略。A-Book和B-Book之间有一定的区别，但它们都是投资者的重要工具。

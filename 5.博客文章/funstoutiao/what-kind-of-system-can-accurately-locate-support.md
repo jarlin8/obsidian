@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 精准定位趋势和支撑阻力，多数时候是不现实的，因为这本身就是个概率事件。

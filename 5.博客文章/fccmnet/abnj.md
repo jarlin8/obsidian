@@ -1,8 +1,10 @@
 ---
 title: "AO-动能指标是什么？动能指标还有其他的吗？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 AO动能指标是一种技术指标，它可以帮助投资者判断股票市场的趋势。它是由技术分析师Bill Williams开发的，他认为，股票市场的趋势可以通过计算股票价格的动能来判断。AO动能指标是一种计算股票价格动能的技术指标，它可以帮助投资者判断股票市场的趋势。

@@ -1,8 +1,10 @@
 ---
 title: "大型外汇经纪商有哪些优势"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 大型外汇经纪商有哪些优势

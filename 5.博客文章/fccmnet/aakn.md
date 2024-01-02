@@ -1,8 +1,10 @@
 ---
 title: "在外汇市场中 怎么去判断一款ea的好坏"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 在外汇市场中怎么去判断一款EA的好坏

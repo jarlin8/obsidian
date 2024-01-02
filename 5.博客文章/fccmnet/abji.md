@@ -1,8 +1,10 @@
 ---
 title: "IFX爱福斯外汇平台开户要求"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 IFX爱福斯外汇平台开户要求

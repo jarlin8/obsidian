@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 当这些认为交易就是赌博的人，像是在拉斯维加斯的轮盘赌一样时，对外汇市场交易也抱有很大的期望的这些人，他们才是真的赌徒。  

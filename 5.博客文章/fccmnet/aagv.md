@@ -1,8 +1,10 @@
 ---
 title: "拓利外汇平台安全吗滑点吗点差高吗"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 拓利外汇平台安全吗

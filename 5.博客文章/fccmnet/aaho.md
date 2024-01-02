@@ -1,8 +1,10 @@
 ---
 title: "做黄金外汇平时看啥网站比较好呢"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 做黄金外汇平时看啥网站比较好呢

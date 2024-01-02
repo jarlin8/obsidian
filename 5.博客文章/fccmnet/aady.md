@@ -1,8 +1,10 @@
 ---
 title: "炒外汇资金为什么要托管"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 炒外汇资金为什么要托管

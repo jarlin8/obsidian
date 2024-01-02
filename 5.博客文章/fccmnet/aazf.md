@@ -1,8 +1,10 @@
 ---
 title: "炒黄金专业术语有哪些"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金是一种投资行为，它可以帮助投资者获得收益，但也有一定的风险。炒黄金的专业术语是投资者必须掌握的，以便更好地理解市场，并做出正确的投资决策。

@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 有位微信好友跟我说过一句很经典的话，他说：做交易最大的痛苦是明明知道自己很优秀，却又证明不了。

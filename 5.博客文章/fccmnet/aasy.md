@@ -1,8 +1,10 @@
 ---
 title: "散户能买国际现货黄金吗"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 散户能买国际现货黄金吗

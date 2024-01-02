@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 ![](https://cdn.fendou.la/funstoutiao/2020/12/204819825.jpg)

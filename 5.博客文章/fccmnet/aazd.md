@@ -1,8 +1,10 @@
 ---
 title: "炒黄金赚钱方式有哪些"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金赚钱是一种受欢迎的投资方式，它可以帮助投资者获得更高的收益。炒黄金的投资者可以通过买卖黄金来获取收益，但是要想获得更高的收益，投资者需要了解炒黄金的方法和技巧。

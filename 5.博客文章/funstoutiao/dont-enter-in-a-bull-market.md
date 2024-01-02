@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 比如说有段时间黄金狂涨，平台商都叫我开户去做黄金，但是涨的很厉害，只有一个人叫我不要去做，说不要在牛市的时候进场，不然会死得很惨，就怕遇到大家突然都开始抛了，那就被割韭菜了。

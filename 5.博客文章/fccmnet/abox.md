@@ -1,8 +1,10 @@
 ---
 title: "外汇平台的交易周期是多长？"
-date: "2023-03-16"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 外汇交易是一种投资行为，它可以帮助投资者获得收益。外汇交易是通过外汇平台进行的，因此，外汇平台的交易周期是多长？

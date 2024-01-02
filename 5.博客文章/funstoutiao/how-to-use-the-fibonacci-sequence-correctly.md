@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 关于什么是斐波那契指标呢以及它为什么有效果，我就不啰嗦了，这个在汇乎上有一大把的答案。我主要是想尽量从一个交易者的角度去思考怎么用好这个指标。由于斐波那契数列分类众多，我就以常用的斐波那契回调线和扩展线为切入点吧（其他的还真没用过）。

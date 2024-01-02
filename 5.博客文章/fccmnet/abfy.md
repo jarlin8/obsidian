@@ -1,8 +1,10 @@
 ---
 title: "XM外汇的最低入金是多少钱"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 XM外汇是一家在全球范围内提供外汇交易服务的知名经纪商，它的服务覆盖了全球超过200个国家和地区，拥有超过2,000万客户。XM外汇的最低入金是多少钱？

@@ -1,8 +1,10 @@
 ---
 title: "炒黄金的心态重要吗"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金的心态重要吗？答案是肯定的。炒黄金是一项非常复杂的投资活动，它需要投资者具备良好的心态，以便在投资过程中做出正确的决定。

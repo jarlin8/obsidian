@@ -1,8 +1,10 @@
 ---
 title: "白标平台就不能成为全标吗"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 白标平台是一种新型的投资模式，它可以帮助投资者获得更多的投资机会，并且可以更好地控制投资风险。但是，有人认为白标平台不能成为全标，这是否正确呢？

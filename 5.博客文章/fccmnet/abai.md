@@ -1,8 +1,10 @@
 ---
 title: "炒黄金和炒股票哪个更容易"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金和炒股票，这两种投资方式都有其独特的优势和风险，但是哪种更容易？

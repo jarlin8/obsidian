@@ -1,8 +1,10 @@
 ---
 title: "黄金投资爆仓的原因是什么"
-date: "2023-03-25"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金投资爆仓的原因是什么

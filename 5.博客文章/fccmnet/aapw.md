@@ -1,8 +1,10 @@
 ---
 title: "怎么看外汇准备金率调整为0%"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇准备金率为什么会被调整到0%？

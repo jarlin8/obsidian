@@ -1,8 +1,10 @@
 ---
 title: "二元期权有黑幕吗"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是二元期权？

@@ -1,8 +1,10 @@
 ---
 title: "Lastlook在外汇交易中有什么作用"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 最近，Lastlook在外汇交易中变得越来越受欢迎。它是一种新型的外汇交易工具，可以帮助交易者更好地掌握市场动态，更快地做出交易决策。

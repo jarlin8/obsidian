@@ -1,8 +1,10 @@
 ---
 title: "黄金投资常识有哪些比较简单"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金投资常识有哪些比较简单

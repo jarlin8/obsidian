@@ -1,8 +1,10 @@
 ---
 title: "怎么看待阿根廷减持人民币外汇储备"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 怎么看待阿根廷减持人民币外汇储备

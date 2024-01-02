@@ -1,8 +1,10 @@
 ---
 title: "炒黄金每天都要平仓吗"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金投资是一种流行的投资方式，它可以帮助投资者获得良好的收益。但是，有些投资者会问，炒黄金每天都要平仓吗？

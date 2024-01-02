@@ -1,8 +1,10 @@
 ---
 title: "外汇交易系统中止损止盈点的设定有哪些技巧或者原则"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇交易系统中止损止盈点的设定有哪些技巧或者原则

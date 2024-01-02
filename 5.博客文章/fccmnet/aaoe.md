@@ -1,8 +1,10 @@
 ---
 title: "老爸沉迷玩外汇三年了 输了十几万了 实在是劝不动 怎么整"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 老爸沉迷外汇交易三年了

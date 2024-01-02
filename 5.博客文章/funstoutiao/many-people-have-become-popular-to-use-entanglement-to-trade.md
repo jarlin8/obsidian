@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 最近在了解缠论这门技术，看到网上好多人都在一股脑的吹捧。不过学起来感觉还是比较费劲的，有点难懂，准备放弃了。

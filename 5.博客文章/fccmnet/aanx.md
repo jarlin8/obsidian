@@ -1,8 +1,10 @@
 ---
 title: "个人结汇金额受5万元美元限额 如超过限额有哪些途径可以在一年内入账"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 个人结汇金额受5万元美元限额 如超过限额有哪些途径可以在一年内入账

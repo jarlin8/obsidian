@@ -1,8 +1,10 @@
 ---
 title: "ICMarkets外汇平台有什么优点"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ICMarkets外汇平台是一个专业的外汇交易平台，拥有超过十年的历史，为全球客户提供最优质的服务。它拥有一系列优点，使它成为全球外汇交易者的首选。

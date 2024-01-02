@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 我们知道，交易到最后比拼的其实就是心态，所以如何提升交易心态是一个重要的循序渐进的问题，不能有一夜速成的念头。

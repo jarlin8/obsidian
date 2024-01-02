@@ -1,8 +1,10 @@
 ---
 title: "博金派网络科技有限公司是虚假外汇交易平台吗"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 博金派网络科技有限公司简介

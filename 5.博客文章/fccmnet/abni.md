@@ -1,8 +1,10 @@
 ---
 title: "ATFX是一家什么样的公司？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ATFX是一家全球性的外汇交易和投资服务提供商，致力于为客户提供最优质的交易体验。ATFX成立于2014年，总部位于英国伦敦，在全球拥有超过20个办事处，为客户提供外汇交易、差价合约交易、指数交易、贵金属交易等服务。

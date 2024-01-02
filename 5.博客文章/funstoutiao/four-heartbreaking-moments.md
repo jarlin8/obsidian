@@ -4,10 +4,10 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
   post_tag:
         - "forex-qa"
-        - "practical-information"
+        - "ganhuo"
         - "知乎汇乎"
         - "外汇干货"
 ---

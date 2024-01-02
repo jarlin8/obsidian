@@ -1,8 +1,10 @@
 ---
 title: "黄金投资的资金安全要怎么保障"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金投资的资金安全要怎么保障？

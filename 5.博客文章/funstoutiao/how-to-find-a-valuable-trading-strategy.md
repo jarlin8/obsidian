@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 新人进来，就交易系统这一块完全找不到头绪，请问一个有价值的交易策略是如何形成的？包括什么？能分享一下你们的交易策略吗？

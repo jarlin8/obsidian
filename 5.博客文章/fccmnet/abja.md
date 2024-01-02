@@ -1,8 +1,10 @@
 ---
 title: "ikon外汇平台合法吗"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ikon外汇平台是一家在线外汇交易平台，它提供了一系列的外汇交易服务，包括外汇交易、外汇投资和外汇投资等。许多投资者都想知道ikon外汇平台是否合法。

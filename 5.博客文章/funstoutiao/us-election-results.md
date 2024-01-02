@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 惊喜确实算不上，只不过是大局未定，一切皆有可能。而且现在也只能从民调上窥探一二。

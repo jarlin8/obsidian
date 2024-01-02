@@ -1,8 +1,10 @@
 ---
 title: "KDJ指标钝化怎么处理"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 KDJ指标是一种常用的技术分析指标，它可以帮助投资者判断股票市场的趋势，以及股票的买卖时机。KDJ指标的钝化是指KDJ指标的指标线变得模糊，无法准确反映市场趋势，这时就需要处理KDJ指标的钝化问题。

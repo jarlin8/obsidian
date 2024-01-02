@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 我认为一个人的成功不是看他登上顶峰的高度，首要看他跌到谷底的反弹力；做外汇何尝不是如此呢，哪里失利哪里爬起来，一时赔本并不可怕，可怕的是爆仓，这样你就丧失了翻本的本钱！！！

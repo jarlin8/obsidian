@@ -1,8 +1,10 @@
 ---
 title: "炒黄金哪个平台好"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金是一种投资方式，它可以帮助投资者获得更高的收益。但是，在选择炒黄金的平台时，投资者需要考虑很多因素，以确保他们的投资安全有效。

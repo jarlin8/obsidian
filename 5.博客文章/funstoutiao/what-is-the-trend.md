@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 趋势是由什么决定？是散户，机构，基金？又或是管理层和政府？还是资金或成交量？

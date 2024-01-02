@@ -1,8 +1,10 @@
 ---
 title: "股票期货外汇基金和国内现货的区别"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 股票期货外汇基金和国内现货的区别

@@ -1,8 +1,10 @@
 ---
 title: "icmarkets平台有手续费吗"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 icmarkets是一家在澳大利亚注册的外汇交易商，它提供多种交易工具，包括外汇、贵金属、原油和指数。它的客户可以使用其MetaTrader 4和MetaTrader 5交易平台进行交易。icmarkets的客户可以使用多种交易工具，包括外汇、贵金属、原油和指数，以及多种交易策略，如ECN、STP和DMA。

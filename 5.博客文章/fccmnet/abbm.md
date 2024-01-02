@@ -1,8 +1,10 @@
 ---
 title: "炒汇技巧如何巧用中期均线来操作"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 中期均线是投资者在炒汇市场中最常用的技术指标之一，它可以帮助投资者判断市场的趋势，并且可以帮助投资者更好地把握投资机会。本文将介绍如何巧妙地利用中期均线来操作炒汇。

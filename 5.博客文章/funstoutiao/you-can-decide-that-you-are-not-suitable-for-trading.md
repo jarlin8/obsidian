@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 我做交易两年，一直都是亏损的，每次觉得要不然就放弃吧，但是大家都说这很正常，都是亏损的，所以就一直坚持着。最近的黄金让我心态又崩了，一直在怀疑自己到底适不适合做交易，来问下大家，亏到什么样的状态就基本可以放弃了？

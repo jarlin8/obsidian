@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 小白进场，最近刚接触平台的一些模式，百度了这些平台模式的特点，感觉还是理不太清楚……

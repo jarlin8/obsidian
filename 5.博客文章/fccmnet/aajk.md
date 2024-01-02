@@ -1,8 +1,10 @@
 ---
 title: "在外汇平台亏损了怎么办"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 了解外汇交易平台风险

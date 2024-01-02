@@ -1,8 +1,10 @@
 ---
 title: "黄金投资怎么管理资金"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金投资怎么管理资金

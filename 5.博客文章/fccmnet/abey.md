@@ -1,8 +1,10 @@
 ---
 title: "澳汇外汇平台是英国监管吗"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 澳汇外汇平台是一家在英国注册的外汇交易商，它提供外汇交易服务，以及其他金融产品和服务。澳汇外汇平台是否受英国监管？答案是肯定的。

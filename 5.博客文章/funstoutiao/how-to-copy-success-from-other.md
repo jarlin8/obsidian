@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 复制前人的成功经验，是一个具有普遍性的学习理念和方法，交易学习也不例外；但是从复制学习到交易实盘获利，绝非一蹴而就的；那么问题来了，如果很幸运遇到了成功的交易者，如何从他的交易经验里复制成功？复制学习一定能获利吗？

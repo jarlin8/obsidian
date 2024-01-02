@@ -1,8 +1,10 @@
 ---
 title: "ECN经纪商可靠吗？"
-date: "2023-03-19"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ECN经纪商是一种金融服务提供商，它们为客户提供交易服务，包括外汇交易、股票交易和期货交易等。ECN经纪商的主要作用是为客户提供安全、可靠的交易环境，以及更低的交易成本。ECN经纪商的可靠性是投资者在选择ECN经纪商时最关心的问题。

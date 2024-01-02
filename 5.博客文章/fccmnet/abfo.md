@@ -1,8 +1,10 @@
 ---
 title: "艾拓思和fxcm哪个比较好一些"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 艾拓思和FXCM都是世界上最大的外汇交易商，它们都提供了一系列的交易服务，包括外汇交易、期货交易、股票交易等。两家公司都有自己的优势和劣势，因此，要回答“艾拓思和FXCM哪个比较好一些”的问题，需要仔细比较它们的服务。

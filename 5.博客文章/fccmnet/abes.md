@@ -1,8 +1,10 @@
 ---
 title: "白标搭建的基本情况是怎么样的"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 白标搭建是一种技术，它可以帮助企业更好地管理和控制其网络环境。它可以帮助企业更好地管理和控制其网络环境，从而提高企业的效率和安全性。白标搭建的基本情况是什么呢？

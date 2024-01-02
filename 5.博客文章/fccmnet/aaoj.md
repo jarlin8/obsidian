@@ -1,8 +1,10 @@
 ---
 title: "如果大家都把每年5万美元的外汇额度兑换出来放在家里 会发生什么"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 如果大家都把每年5万美元的外汇额度兑换出来放在家里 会发生什么

@@ -1,8 +1,10 @@
 ---
 title: "ADS是只能在美国进行是吗?"
-date: "2023-03-16"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ADS（美国股票交易所）是一家美国股票交易所，它提供了一个安全、可靠的交易平台，可以让投资者在美国股票市场上进行交易。ADS的交易活动主要集中在美国，但它也提供了一些国际交易服务，可以让投资者在全球范围内进行交易。

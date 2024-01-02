@@ -1,8 +1,10 @@
 ---
 title: "炒汇技术派的三大误区分别是什么"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒汇技术派的三大误区

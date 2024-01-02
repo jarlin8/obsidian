@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 赠金活动几乎是现在所有平台都会搞的活动之一，对于这里面的赠金活动有什么讲究吗？作为交易者又该如何从那么多的交易上中选择适合自己的，并且避免上当受骗呢？

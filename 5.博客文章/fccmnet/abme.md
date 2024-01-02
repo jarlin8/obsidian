@@ -1,8 +1,10 @@
 ---
 title: "ArmadaEA交易系统是什么？有哪些功能和优点？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ArmadaEA交易系统是一款专为外汇交易者打造的自动交易软件，它可以帮助投资者自动执行交易，从而节省时间和精力，提高投资者的收益。ArmadaEA交易系统拥有多种功能和优点，其中包括：

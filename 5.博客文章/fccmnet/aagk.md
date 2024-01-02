@@ -1,8 +1,10 @@
 ---
 title: "外汇和微交易到底是投资还是骗局"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇和微交易到底是投资还是骗局？

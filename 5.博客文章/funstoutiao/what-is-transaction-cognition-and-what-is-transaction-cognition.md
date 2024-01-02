@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 交易认知不就是对交易的认识吗？这个每个人都不一样，不好说这些认知具体是什么。

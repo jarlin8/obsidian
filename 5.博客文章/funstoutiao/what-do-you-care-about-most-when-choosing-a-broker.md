@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 就我自己而言，最在意的还是老生常谈的问题，资金安全性。没错，我确实很害怕不给出金，甚至黑掉你的本金。可能有很多人觉得我小题大做，觉得虽然出金问题不少，但整体还好。

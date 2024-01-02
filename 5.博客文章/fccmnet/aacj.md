@@ -1,8 +1,10 @@
 ---
 title: "从众交易可以盈利吗怎么做从众交易"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是从众交易？

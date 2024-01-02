@@ -1,8 +1,10 @@
 ---
 title: "外国客户向我公司账户支付美元 银行自动兑换成人民币用的是什么价格"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外国客户向我公司账户支付美元 银行自动兑换成人民币用的是什么价格

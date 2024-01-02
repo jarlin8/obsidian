@@ -1,8 +1,10 @@
 ---
 title: "黄金ETF和现货黄金之间的区别是什么"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 黄金，作为全球最主要的贵金属之一，一直以来都备受投资者的青睐。金条、金币、黄金ETF以及现货黄金都是普遍的黄金投资方式。其中，黄金ETF和现货黄金是相对比较常见的两种。本文将为大家介绍黄金ETF和现货黄金之间有何区别。

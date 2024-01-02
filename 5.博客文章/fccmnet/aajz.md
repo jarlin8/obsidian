@@ -1,8 +1,10 @@
 ---
 title: "外汇代理返佣比较高的平台"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇代理返佣比较高的平台介绍

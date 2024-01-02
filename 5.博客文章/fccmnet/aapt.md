@@ -1,8 +1,10 @@
 ---
 title: "外汇交易中 都有哪些短平快策略的进场信号"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇交易中 都有哪些短平快策略的进场信号

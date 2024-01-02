@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 维加斯通道十分简便，只需两条均线即可构建。我们一般将此通道应用于1小时周期，采用EMA144和EMA169这两条均线。形成后的效果如下图所示。在MT4上，用户可以直接显示此通道，无需额外添加。

@@ -1,8 +1,10 @@
 ---
 title: "初次入市者的炒汇者必知哪些知识"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 初次入市者的炒汇者必知哪些知识

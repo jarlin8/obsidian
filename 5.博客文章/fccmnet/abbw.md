@@ -1,8 +1,10 @@
 ---
 title: "炒汇炒期货被骗了如何维护权益"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒汇炒期货是一种投资行为，也是一种投资风险。虽然它可以带来较高的收益，但也有可能被骗。因此，如果投资者被骗，他们应该如何维护自己的权益呢？

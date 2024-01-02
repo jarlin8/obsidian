@@ -1,8 +1,10 @@
 ---
 title: "MT4上如何多个EA同时运行"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MetaTrader 4（MT4）是一款流行的外汇交易平台，它支持多个EA同时运行，以满足不同的交易需求。本文将介绍如何在MT4上多个EA同时运行。

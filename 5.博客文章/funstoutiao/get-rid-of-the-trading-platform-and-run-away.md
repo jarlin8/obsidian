@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 近年来，零售外汇市场的竞争变得越来越激烈，平台也是越来越多。  

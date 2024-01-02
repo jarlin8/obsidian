@@ -1,8 +1,10 @@
 ---
 title: "外汇交易者挑选外汇平台要注意的细节有哪些"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇交易者挑选外汇平台要注意的细节有哪些

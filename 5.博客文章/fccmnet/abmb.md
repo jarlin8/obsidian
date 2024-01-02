@@ -1,8 +1,10 @@
 ---
 title: "AUSforex澳汇外汇平台出入金方式有哪些？如何操作？"
-date: "2023-03-17"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 AUSforex澳汇外汇平台出入金方式有哪些？如何操作？

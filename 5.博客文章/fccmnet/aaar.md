@@ -1,8 +1,10 @@
 ---
 title: "非农外汇挂单交易有什么技巧"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是非农外汇挂单交易

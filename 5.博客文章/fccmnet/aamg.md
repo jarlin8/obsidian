@@ -1,8 +1,10 @@
 ---
 title: "普顿外汇我的家人投了四万多 怎么才能要回来"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 普顿外汇我的家人投了四万多 怎么才能要回来？

@@ -1,8 +1,10 @@
 ---
 title: "波浪理论的缺陷是什么"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 波浪理论是一种投资理论，它基于股票市场的波动性，认为股票价格会在一定的周期内上涨和下跌，从而可以预测股票的未来走势。虽然波浪理论有一定的可行性，但它也有一些缺陷。

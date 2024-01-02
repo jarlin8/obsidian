@@ -1,8 +1,10 @@
 ---
 title: "KVB开户能返佣吗"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 KVB开户能返佣吗？这是一个很多投资者都想知道的问题。KVB是一家在线外汇交易商，它提供了一系列的交易服务，包括外汇交易、期货交易、股票交易等。KVB的客户可以通过其网站或移动应用程序进行交易。

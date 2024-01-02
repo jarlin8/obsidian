@@ -1,8 +1,10 @@
 ---
 title: "如何分析黄金价格的影响因素"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金价格分析

@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 之前在今日头条的时候，除去和交易相关的问题，粉丝问我最多的问题就是关于交易平台，如何选择合规的平台，还要兼顾交易成本和交易环境等等？

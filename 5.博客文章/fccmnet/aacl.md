@@ -1,8 +1,10 @@
 ---
 title: "从事外汇行业多年会有什么样的心得"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 从事外汇行业多年会有什么样的心得

@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 交易是门投资的游戏，作为小散户，真诚发问，如何能让有限的资金发挥它最大的价值呢？怎么样才能做到最快最大的盈利？

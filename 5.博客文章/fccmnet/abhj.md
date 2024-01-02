@@ -1,8 +1,10 @@
 ---
 title: "MetaTrader5有什么基本原理怎么学习"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MetaTrader5是一款外汇交易软件，它可以帮助投资者进行外汇交易，并且提供了一系列的分析工具，可以帮助投资者进行更好的投资决策。MetaTrader5有一些基本原理，学习这些原理可以帮助投资者更好地使用MetaTrader5。

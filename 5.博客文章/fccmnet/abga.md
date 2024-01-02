@@ -1,8 +1,10 @@
 ---
 title: "XM外汇代理需要什么条件?"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 XM外汇代理是一种金融服务，它可以帮助客户在外汇市场上进行交易。XM外汇代理可以为客户提供安全、可靠的交易环境，并且可以提供专业的投资建议。XM外汇代理的服务可以帮助客户更好地把握市场机会，获得更多的收益。

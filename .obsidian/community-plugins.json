@@ -1,5 +1,4 @@
 [
-  "remotely-save",
   "obsidian-memos",
   "workspaces-plus",
   "calendar",
@@ -10,6 +9,6 @@
   "extract-url",
   "obsidian-wrap-with-shortcuts",
   "quickadd",
-  "obsidian-git",
-  "obsidian-weread-plugin"
+  "obsidian-weread-plugin",
+  "obsidian-git"
 ]

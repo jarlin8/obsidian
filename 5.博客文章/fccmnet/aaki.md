@@ -1,8 +1,10 @@
 ---
 title: "外汇中常被影线扫 即使我方向判断对了 有时很难避免 影线究竟是市场做了什么才形成的呢"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇中的影线

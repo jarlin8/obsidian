@@ -1,8 +1,10 @@
 ---
 title: "对于外汇初学者 哪个货币对比较好做"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 对于外汇初学者 哪个货币对比较好做

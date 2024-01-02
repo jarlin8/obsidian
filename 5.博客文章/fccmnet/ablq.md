@@ -1,8 +1,10 @@
 ---
 title: "ECN和STP的定义和特征是什么？"
-date: "2023-03-19"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 电子通信网络（ECN）和直接交易执行（STP）是两种不同的交易执行模式，它们都是在外汇市场中使用的。ECN和STP的定义和特征是什么？本文将对此进行详细介绍。

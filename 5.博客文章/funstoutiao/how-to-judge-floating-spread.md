@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 基本上点差反应了市场上，同一时刻买卖的差价，高买低卖，高低价格就是一瞬间同时买卖等量同种货币折损的钱，这就是点差。  

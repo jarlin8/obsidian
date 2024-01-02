@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 我曾邮件向香港交易所咨询过，交易所只收手续费，香港交易所的大恒指手续费成本大约13港币每手，没有所谓的点差和滑点，而mt4平台却0手续费，有点差和滑点。

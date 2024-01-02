@@ -1,8 +1,10 @@
 ---
 title: "外汇平台上是否存在隐藏费用？"
-date: "2023-03-16"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 外汇平台上是否存在隐藏费用？

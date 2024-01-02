@@ -1,8 +1,10 @@
 ---
 title: "MACD金叉买进信号有哪些"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MACD金叉买进信号是投资者在股票市场中最常用的技术分析工具之一，它可以帮助投资者更好地判断股票的走势，从而更好地把握投资机会。MACD金叉买进信号是指MACD指标线从下向上穿过零轴线，形成金叉，这时候表明股价将出现上涨趋势，投资者可以买进股票。

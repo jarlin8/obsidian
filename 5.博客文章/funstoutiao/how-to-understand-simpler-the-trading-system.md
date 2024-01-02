@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 这里的简单是指什么程度？又或者这里的简单不是我所想的用几个指标就好了，那么你们怎么看这句话？

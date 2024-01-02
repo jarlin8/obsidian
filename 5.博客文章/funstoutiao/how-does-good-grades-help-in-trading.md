@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 最近看到一个问题说，做交易跟学生时期的数学息息相关，所以想问一下各位大家身边厉害的交易员学习成绩都如何？如果学习成绩好，对交易又有什么帮助呢？

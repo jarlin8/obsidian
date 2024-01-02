@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 感谢calm的邀请。交易这件事，总有人更愿意把它披上神秘的面纱。

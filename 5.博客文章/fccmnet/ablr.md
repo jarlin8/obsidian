@@ -1,8 +1,10 @@
 ---
 title: "ECN和STP要怎么区分开来？"
-date: "2023-03-19"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ECN和STP是两种不同的交易模式，它们都是由外汇经纪商提供的，但它们之间有很多不同之处。ECN和STP的区别在于它们的交易模式，它们的交易费用，以及它们的交易环境。

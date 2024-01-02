@@ -1,8 +1,10 @@
 ---
 title: "从技术面看基本面的影响是可行的吗"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 从技术面看基本面的影响是可行的吗

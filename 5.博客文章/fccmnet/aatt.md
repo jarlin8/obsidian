@@ -1,8 +1,10 @@
 ---
 title: "国际黄金跟国内黄金有区别吗"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 国际黄金和国内黄金有什么不同？

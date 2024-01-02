@@ -1,8 +1,10 @@
 ---
 title: "MetaTrader5桥接的功能有哪些"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 MetaTrader5桥接是一种技术，可以将MetaTrader5（MT5）交易平台与其他交易系统连接起来，以实现自动交易。它可以帮助交易者更好地管理他们的交易，并有助于提高交易效率。

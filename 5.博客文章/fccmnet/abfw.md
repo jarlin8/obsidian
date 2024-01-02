@@ -1,8 +1,10 @@
 ---
 title: "xm外汇公司口碑很好吗"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 XM外汇公司是一家在全球范围内提供外汇交易服务的知名公司，它的口碑如何呢？

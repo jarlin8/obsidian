@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 进如汇市以来你的交易之路顺利吗？是否遇到过大的挫折？是怎么克服的？

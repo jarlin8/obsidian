@@ -1,8 +1,10 @@
 ---
 title: "爱尔兰央行CBI有什么产品"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 爱尔兰央行（Central Bank of Ireland，CBI）是爱尔兰的中央银行，负责爱尔兰的货币政策、金融稳定和金融服务。CBI提供了一系列产品和服务，以满足爱尔兰金融市场的需求。

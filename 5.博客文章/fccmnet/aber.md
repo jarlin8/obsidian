@@ -1,8 +1,10 @@
 ---
 title: "白标公司外汇监管与牌照终极指南有吗"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 白标公司是一家专业的外汇交易和投资服务提供商，为客户提供外汇交易、投资和资产管理服务。白标公司的外汇监管和牌照是客户可以信赖的重要因素。

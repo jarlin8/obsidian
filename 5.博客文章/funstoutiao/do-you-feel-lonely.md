@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 看趋势做分析到深更半夜，亏损了无人问津，盈利了无人喝彩，是好是坏都只有自己明白，你孤独吗？你享受孤独吗？

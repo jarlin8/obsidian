@@ -1,8 +1,10 @@
 ---
 title: "外汇到底能不能稳定盈利需要具备什么条件"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇到底能不能稳定盈利需要具备什么条件

@@ -1,8 +1,10 @@
 ---
 title: "炒黄金止损有什么作用"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金止损有什么作用？炒黄金止损是指在投资者投资黄金时，设定一个最大损失的限度，以防止投资者的损失过大。炒黄金止损有很多作用，下面我们就来看看它的作用有哪些。

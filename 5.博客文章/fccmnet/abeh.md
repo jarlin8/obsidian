@@ -1,8 +1,10 @@
 ---
 title: "保证金交易适合做长线交易还是短线交易"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 保证金交易是一种投资方式，它可以让投资者以较少的资金投资股票、期货、外汇等金融市场，从而获得较高的收益。那么，保证金交易适合做长线交易还是短线交易呢？

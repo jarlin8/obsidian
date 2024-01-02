@@ -1,8 +1,10 @@
 ---
 title: "炒黄金会有不出金的情况吗"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金是一种投资行为，它可以帮助投资者获得收益，但也有可能出现不利的情况。那么，炒黄金会有不出金的情况吗？

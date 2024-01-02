@@ -1,8 +1,10 @@
 ---
 title: "英国FCA监管的的优势是什么及受其监管"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 英国FCA监管的的优势是什么及受其监管

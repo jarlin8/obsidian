@@ -1,8 +1,10 @@
 ---
 title: "避险货币通常有哪几种"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 避险货币是指在全球金融市场中，由于政治、经济或货币政策等因素，投资者认为具有更高安全性的货币。避险货币通常有美元、欧元、日元、英镑、瑞士法郎等几种。

@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 之前我听别人说144MA很好用，但是我在15分钟图上，有时候很好用，有时候又不好用，那么对于均线应该怎么选择，另外还有人说小一些的MA就在小周期上，那么多大的MA适合多大的周期，大佬们有没有自己的心得？

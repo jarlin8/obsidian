@@ -1,8 +1,10 @@
 ---
 title: "全球央行黄金储备为什么越来越多"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 什么是央行黄金储备？

@@ -1,8 +1,10 @@
 ---
 title: "超买超卖指标OBO是怎么运用的"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 超买超卖指标OBO（Overbought/Oversold）是一种技术分析工具，它可以帮助投资者判断股票价格是否超买或超卖。它可以帮助投资者更好地把握市场走势，从而更好地把握投资机会。

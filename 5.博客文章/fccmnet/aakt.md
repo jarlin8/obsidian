@@ -1,8 +1,10 @@
 ---
 title: "人民币汇率与外汇储备什么关系"
-date: "2023-03-28"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 人民币汇率与外汇储备什么关系

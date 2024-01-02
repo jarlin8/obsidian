@@ -1,8 +1,10 @@
 ---
 title: "可以全职炒外汇、炒黄金吗"
-date: "2023-03-23"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 随着经济的发展，外汇和黄金交易成为了一种新的投资方式，许多人都想知道，可以全职炒外汇和炒黄金吗？

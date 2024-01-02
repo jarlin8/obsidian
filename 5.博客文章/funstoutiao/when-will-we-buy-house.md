@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 \[caption id="attachment-13293" align="aligncenter" width="640"\]![](https://cdn.fendou.la/funstoutiao/2019/06/house-1.jpg) 买不买房呢？\[/caption\]

@@ -1,8 +1,10 @@
 ---
 title: "如何选择黄金交易平台"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 选择黄金交易平台的重要性

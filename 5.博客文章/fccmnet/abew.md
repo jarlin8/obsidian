@@ -1,8 +1,10 @@
 ---
 title: "澳元货币特征以及影响澳元的因素是什么"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 澳元是澳大利亚的货币，也是世界上最受欢迎的货币之一。它的特征和影响澳元的因素有很多，本文将对此进行详细介绍。

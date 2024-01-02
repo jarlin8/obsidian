@@ -1,8 +1,10 @@
 ---
 title: "炒汇如何选择开户银行"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒汇是一种投资行为，它可以帮助投资者获得更高的收益，但也有一定的风险。因此，在炒汇之前，投资者需要考虑如何选择开户银行。

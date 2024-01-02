@@ -1,8 +1,10 @@
 ---
 title: "ECN交易模式的优势和缺点是什么？"
-date: "2023-03-19"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ECN交易模式是一种电子通讯网络（ECN），它是一种电子交易系统，可以让投资者和交易者在一个安全的网络环境中进行交易。ECN交易模式的优势和缺点是什么？

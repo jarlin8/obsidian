@@ -1,8 +1,10 @@
 ---
 title: "中国为什么采用现行的外汇储备政策 有哪些更好的选择"
-date: "2023-03-26"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 中国为什么采用现行的外汇储备政策？

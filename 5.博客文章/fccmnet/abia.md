@@ -1,8 +1,10 @@
 ---
 title: "k线应用技巧怎么学习"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 K线图是股票市场中最常用的分析工具之一，它可以帮助投资者更好地了解市场趋势，从而做出更明智的投资决策。学习K线应用技巧可以帮助投资者更好地分析市场，从而更好地把握投资机会。

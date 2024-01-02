@@ -1,8 +1,10 @@
 ---
 title: "散户怎样购买外汇期权 我想做空人民币"
-date: "2023-03-27"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 散户怎样购买外汇期权 我想做空人民币

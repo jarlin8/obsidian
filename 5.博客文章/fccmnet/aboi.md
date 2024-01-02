@@ -1,8 +1,10 @@
 ---
 title: "A-Book、B-Book哪种订单好？"
-date: "2023-03-16"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 A-Book和B-Book是两种不同的订单类型，它们都有自己的优点和缺点，因此，在选择哪种订单类型时，投资者需要考虑自己的风险承受能力和投资目标。

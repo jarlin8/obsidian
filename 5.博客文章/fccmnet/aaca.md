@@ -1,8 +1,10 @@
 ---
 title: "道琼斯指数与美股指数的关系是什么"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 道琼斯指数与美股指数的关系是什么

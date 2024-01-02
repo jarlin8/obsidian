@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 2010年的时候，我从非洲回来，当时的生意为我积攒了一些资本（大几百万），从回国的时候开始做交易，当时的想法天真得可笑，觉得只要自己努力学习交易，就可以准确地预测市场行情。  

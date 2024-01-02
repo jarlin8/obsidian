@@ -1,8 +1,10 @@
 ---
 title: "ECN和MM外汇交易平台的区别很大吗？"
-date: "2023-03-19"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 外汇交易平台ECN和MM之间的区别很大吗？答案是肯定的。ECN和MM是两种不同的外汇交易平台，它们之间有很大的差异。

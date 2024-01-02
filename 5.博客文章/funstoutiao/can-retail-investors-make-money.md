@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 taxonomy:
   category:
-        - "practical-information"
+        - "ganhuo"
 ---
 
 我发现我们散户做交易都喜欢跟大机构对着干，这是为什么呢？既然是大机构，那一般都是盈利的，那我们模仿他们的做单手法不照样也能跟着赚钱吗？

@@ -1,8 +1,10 @@
 ---
 title: "炒黄金有哪个软件"
-date: "2023-03-22"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 炒黄金是一种投资行为，它可以帮助投资者获得更高的收益。炒黄金的投资者需要使用一些软件来帮助他们实现投资目标。本文将介绍炒黄金的软件，以及它们的优点和缺点。

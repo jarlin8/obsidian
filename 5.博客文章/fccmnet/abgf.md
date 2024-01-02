@@ -1,8 +1,10 @@
 ---
 title: "RocoForex美股平台开户流程有哪些"
-date: "2023-03-21"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 RocoForex美股平台开户流程是投资者进入美股市场的第一步，也是最重要的一步。RocoForex美股平台提供了一系列的开户流程，以确保投资者能够安全、高效地进入美股市场。

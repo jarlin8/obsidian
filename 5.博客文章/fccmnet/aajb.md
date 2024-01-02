@@ -1,8 +1,10 @@
 ---
 title: "外汇市场中持续盈利多久才能说明一个人的技术确实过硬呢"
-date: "2023-03-29"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 外汇市场中持续盈利多久才能说明一个人的技术确实过硬呢

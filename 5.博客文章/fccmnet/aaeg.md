@@ -1,8 +1,10 @@
 ---
 title: "炒外汇之前需要了解哪些东西"
-date: "2023-03-30"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 炒外汇之前需要了解哪些东西

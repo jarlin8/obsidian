@@ -1,8 +1,10 @@
 ---
 title: "FXTM受到哪些机构的监管"
-date: "2023-03-20"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 FXTM是一家在线外汇交易和投资服务提供商，它的客户遍及全球。FXTM的客户可以享受到最高水平的安全性和保护，这是因为FXTM受到多个机构的监管。

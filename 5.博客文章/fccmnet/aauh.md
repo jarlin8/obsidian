@@ -1,8 +1,10 @@
 ---
 title: "黄金长期来看对通胀作用怎么样"
-date: "2023-03-24"
-categories: 
-  - "faq"
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - "faq"
 ---
 
 ## 黄金长期来看对通胀作用怎么样
