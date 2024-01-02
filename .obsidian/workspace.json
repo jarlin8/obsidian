@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "5.博客文章/2.Host评测索引.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.博客文章/2.Host评测索引.md",
+                "file": "5.博客文章/3.复利说Funs索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.博客文章/2.Host评测索引.md",
+                "file": "5.博客文章/3.复利说Funs索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.博客文章/2.Host评测索引.md"
+                "file": "5.博客文章/3.复利说Funs索引.md"
               }
             }
           }
@@ -224,15 +224,20 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "f0708102cd8b3a61",
+  "active": "5986c12b367d10c1",
   "lastOpenFiles": [
-    "5.博客文章/hostlaowei/best-web-hosting.md",
     "5.博客文章/2.Host评测索引.md",
+    "5.博客文章/funstoutiao/12-trader.md",
+    "5.博客文章/3.复利说Funs索引.md",
+    "5.博客文章/hostlaowei/best-web-hosting.md",
+    "5.博客文章/ssggnet/forex.md",
+    "5.博客文章/ssggnet/forced-强制平仓.md",
+    "5.博客文章/ssggnet/account-for-foreign-futures.md",
+    "5.博客文章/ssggnet/0-1-advanced.md",
     "5.博客文章/4.FCCM索引.md",
     "5.博客文章/fccmnet/abfh.md",
     "5.博客文章/hostlaowei/best-vps-hosting.md",
     "5.博客文章/1.开户通索引.md",
-    "5.博客文章/3.复利说Funs索引.md",
     "5.博客文章/funstoutiao/101investing.md",
     "5.博客文章/README.md",
     "5.博客文章/welaowei/hk-ebank.md",
@@ -245,13 +250,8 @@
     "5.博客文章/funstoutiao/cut-losses-and-let-profits-run.md",
     "5.博客文章/funstoutiao/forex-account.md",
     "5.博客文章/funstoutiao/khwezi-trade-review-2020.md",
-    "5.博客文章/funstoutiao/12-trader.md",
     "5.博客文章/funstoutiao/do-you-feel-lonely.md",
     "5.博客文章/funstoutiao/3-same-strategy.md",
-    "5.博客文章/funstoutiao/gartner-hype-cycle.md",
-    "5.博客文章/funstoutiao/us-economy-surprise-again-2024.md",
-    "5.博客文章/funstoutiao/new-test.md",
-    "5.博客文章/funstoutiao/xm-has-mt5-software.md",
     "attachment/Pasted Image 20231203103737.jpeg",
     "3.微信读书/个人成长",
     "3.微信读书/经济理财",
