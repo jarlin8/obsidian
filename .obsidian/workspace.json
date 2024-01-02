@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "32e94686b08819ed",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.博客文章/shuoshuo/1.日记索引.md",
+                "file": "5.博客文章/fendou-posts/1.posts-index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.博客文章/shuoshuo/1.日记索引.md",
+                "file": "5.博客文章/fendou-posts/1.posts-index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -188,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.博客文章/shuoshuo/1.日记索引.md"
+                "file": "5.博客文章/fendou-posts/1.posts-index.md"
               }
             }
           }
@@ -213,8 +214,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e713b633ade4d960",
+  "active": "e95ad9293bd0096f",
   "lastOpenFiles": [
+    "5.博客文章/fendou-posts/slooger_test.md",
+    "5.博客文章/fendou-posts/1.posts-index.md",
+    "attachment/Pasted Image 20231203103737.jpeg",
+    "5.博客文章/shuoshuo/48th-2023-12-03-zhou0.md",
     "5.博客文章/shuoshuo/1.日记索引.md",
     "3.微信读书/1.微信读书索引.md",
     "3.微信读书/历史/华杉讲透《资治通鉴》（共22册）-华杉.md",
@@ -234,7 +239,6 @@
     "2.金融/1.AllFinance.md",
     "3.微信读书/思考致富.md",
     "3.微信读书/费曼学习法.md",
-    "5.博客文章/fendou-posts/slooger_test.md",
     "如何高效学习：1年完成麻省理工4年33门课程的整体性学习法/如何高效学习：1年完成麻省理工4年33门课程的整体性学习法.md",
     "赚钱机器/赚钱机器.md",
     "赚钱机器",
@@ -249,7 +253,6 @@
     "思考致富",
     "费曼学习法/费曼学习法.md",
     "费曼学习法",
-    "5.博客文章/fendou-posts/1.posts-index.md",
     "attachment/Pasted Image 20231201213220.jpeg",
     "ob/卢曼卡片盒笔记法介绍.png",
     "ob/卢曼卡片盒笔记发标注.png",
@@ -259,7 +262,6 @@
     "attachment/Pasted image 20221227203945.png",
     "attachment/Pasted Image 20231201104755.jpeg",
     "attachment/Pasted Image 20231201150236.jpeg",
-    "attachment/obsidian插件推荐.jpg",
     "未命名 1.canvas",
     "未命名.canvas"
   ]

@@ -1,10 +1,13 @@
 ---
-title: 如何在家里做到高效学习？
+title: 如何在家里做到高效学习?
 post_status: publish
-post_date: 2023-12-01 01:01:15
+skip_file: no
 taxonomy:
-  category: 工作日志
-  post_tag: 吉时
+  category:
+        - log
+  post_tag:
+
+post_excerpt: 
 ---
 自主学习的动力，一般来源于两种：
 

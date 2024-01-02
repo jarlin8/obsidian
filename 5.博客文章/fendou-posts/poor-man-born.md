@@ -1,21 +1,23 @@
 ---
-title: "一个人没有出息的九大根源！"
+title: 一个人没有出息的九大根源！
 post_status: publish
-post_date: 2022-05-20
+skip_file: no
 taxonomy:
   category:
-    - 杂谈系列
----
+        - everyday
+  post_tag:
 
+post_excerpt: 
+---
 前些日子，《人民日报》的官微发布了一条哈佛大学分析一个人没有出息的九大根源。
 
 很多观看了研究视频的人们，纷纷在下方留言说是翻版的自己，答案真是扎心了。
 
-![](https://cdn.fendou.la/fendou/2020/03/2a1fb500a4f0131d2927b3600bb3bbb3.jpeg)![](https://cdn.fendou.la/fendou/2020/03/0ad22333d8f700239dc9a9b12dba2061.jpeg)
+![Image](https://cdn.fendou.la/fendou/2020/03/2a1fb500a4f0131d2927b3600bb3bbb3.jpeg)
 
 ## 一、犹豫不决
 
-![](https://cdn.fendou.la/fendou/2020/03/987879f9cb6ccc3558f27408efff4aab.png)
+![Image](https://cdn.fendou.la/fendou/2020/03/987879f9cb6ccc3558f27408efff4aab.png)
 
 比鲁莽更糟糕的是犹豫不决。
 
@@ -25,7 +27,7 @@ taxonomy:
 
 ## 二、拖延
 
-![](https://cdn.fendou.la/fendou/2020/03/e29a7f144ac467b0ec69087f02cffdd1.png)
+![Image](https://cdn.fendou.la/fendou/2020/03/e29a7f144ac467b0ec69087f02cffdd1.png)
 
 计划很丰满，执行很骨感。
 
@@ -45,11 +47,11 @@ taxonomy:
 
 ## 三、三分钟热度
 
-![](https://cdn.fendou.la/fendou/2020/03/ff838069cf495cc87edf759269840e21.png)
+![Image](https://cdn.fendou.la/fendou/2020/03/ff838069cf495cc87edf759269840e21.png)
 
 世界上有 80%的失败都源于半途而废。
 
-"三分钟热度”的人不过是从来没有体验到坚持做一件事成功后带来的喜悦，因为坚持的过程总是枯燥又充满挫折的，人的天性又是好逸恶劳。
+“三分钟热度”的人不过是从来没有体验到坚持做一件事成功后带来的喜悦，因为坚持的过程总是枯燥又充满挫折的，人的天性又是好逸恶劳。
 
 “每一年伊始笔记本的前几页都写满了宏伟的计划，后面几乎都是空白……”
 
@@ -61,7 +63,7 @@ taxonomy:
 
 ## 四、害怕拒绝
 
-![](https://cdn.fendou.la/fendou/2020/03/8fbfdcca3c13878e26588ec10216824a.png)
+![Image](https://cdn.fendou.la/fendou/2020/03/8fbfdcca3c13878e26588ec10216824a.png)
 
 厚重而脆弱的自尊。
 
@@ -77,7 +79,7 @@ taxonomy:
 
 ## 五、自我设限
 
-![](https://cdn.fendou.la/fendou/2020/03/989366943161bd5b761563d8e43957e7.png)
+![Image](https://cdn.fendou.la/fendou/2020/03/989366943161bd5b761563d8e43957e7.png)
 
 这会杀死自己的潜能力。
 
@@ -95,7 +97,7 @@ taxonomy:
 
 ## 六、逃避现实
 
-![](https://cdn.fendou.la/fendou/2020/03/179d7e743fd0cb0ed786ac1636d89589.png)
+![Image](https://cdn.fendou.la/fendou/2020/03/179d7e743fd0cb0ed786ac1636d89589.png)
 
 白日梦患者逃避现实的人有 5 个特征。
 
@@ -113,7 +115,7 @@ taxonomy:
 
 ## 七、总找借口
 
-![](https://cdn.fendou.la/fendou/2020/03/9f430785e24e6119d1e5c4ab7444b8df.png)
+![Image](https://cdn.fendou.la/fendou/2020/03/9f430785e24e6119d1e5c4ab7444b8df.png)
 
 “错不在我”，人一旦犯了错，第一反应常常是自我辩护。
 
@@ -125,7 +127,7 @@ taxonomy:
 
 ## 八、恐惧
 
-![](https://cdn.fendou.la/fendou/2020/03/cc74447c566f4aff526a7822d5484c7b.png)
+![Image](https://cdn.fendou.la/fendou/2020/03/cc74447c566f4aff526a7822d5484c7b.png)
 
 他们在工作中总有这样的感受：害怕被领导批评、害怕别人觉得自己无能、害怕被别人知道自己的缺点、在意他人的评价、害怕犯错、害怕自己的付出得不到回报。
 
@@ -135,7 +137,7 @@ taxonomy:
 
 ## 九、拒绝学习
 
-![](https://cdn.fendou.la/fendou/2020/03/7638104853f7f94d6ebd26c0e5c0840b.png)
+![Image](https://cdn.fendou.la/fendou/2020/03/7638104853f7f94d6ebd26c0e5c0840b.png)
 
 你不是寂寞，只是不想学习。
 
@@ -147,4 +149,4 @@ taxonomy:
 
 看完上面没出息的九大根源，你觉得自己中了几条，评论区或点赞说说呗。
 
-![](https://cdn.fendou.la/fendou/2020/03/01683cef470f36714d5be0b8b29bfbc2.jpeg)
+![Image](https://cdn.fendou.la/fendou/2020/03/01683cef470f36714d5be0b8b29bfbc2.jpeg)

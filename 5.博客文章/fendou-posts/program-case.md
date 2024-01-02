@@ -1,19 +1,23 @@
 ---
-title: "PHP&Linux服务器配置基本笔记"
+title: PHP&Linux 服务器配置基本笔记
 post_status: publish
-post_date: 2022-08-24
+skip_file: no
 taxonomy:
   category:
-    - 靠谱项目
+        - project
+  post_tag:
+        - code
+        - php
+        - redis
+post_excerpt: 
 ---
-
 ## PHP 安装 Redis 扩展
 
-https://www.gwern.net/index开始在 PHP 中使用 Redis 前，我们需要确保已经安装了 redis 服务，且你的机器上能正常使用 PHP。 接下来让我们安装 PHP redis 驱动，下载地址为:[https://github.com/phpredis/phpredis/](https://github.com/phpredis/phpredis/)
+[https://www.gwern.net/index 开始在](https://www.gwern.net/index%E5%BC%80%E5%A7%8B%E5%9C%A8) PHP 中使用 Redis 前，我们需要确保已经安装了 redis 服务，且你的机器上能正常使用 PHP。 接下来让我们安装 PHP redis 驱动，下载地址为:[https://github.com/phpredis/phpredis/](https://github.com/phpredis/phpredis/)
 
 ## oneinstack 中的 igbinary 编译问题
 
-```
+```php
  C:UsershankOneDrive - teleworm桌面oneinstackincluderedis.sh （匹配2次）
     行 50:   if [ -e "${php_install_dir}/bin/phpize" ]; then
     行 60:     ${php_install_dir}/bin/phpize
@@ -23,7 +27,7 @@ https://www.gwern.net/index开始在 PHP 中使用 Redis 前，我们需要确�
 
 ### 下载并安装
 
-```
+```php
 git clone https://github.com/phpredis/phpredis.git
 cd phpredis
 phpize
@@ -65,12 +69,13 @@ define('WP_REDIS_DISABLED', getenv('WP_REDIS_DISABLED') ?: false);
 
 在网上查询了许多的资料都是直接在`php.ini`文件中添加`extension=redis.so`.当我添加之后会出现错误:
 
-```
+```php
 PHP Warning: PHP Startup: Unable to load dynamic library 'redis.so'
 (tried: /usr/lib64/php/modules/redis.so (/usr/lib64/php/modules/redis.so: ....
 ```
 
-不要在 php.ini 里加入`extension=redis.so`这行，可在 php.d(`whereis php.d`查看在哪)文件夹下创建新文件 redis.ini，在 redis.ini 里加入`extension=redis.so`这行.  
+不要在 php.ini 里加入`extension=redis.so`这行，可在 php.d(`whereis php.d`查看在哪)文件夹下创建新文件 redis.ini，在 redis.ini 里加入`extension=redis.so`这行.
+
 重启 php
 
 ### 查看 PHP 启动了哪些扩展和服务
@@ -81,13 +86,11 @@ PHP Warning: PHP Startup: Unable to load dynamic library 'redis.so'
 
 argon: Theme Footer (footer.php):5
 
-```
-<div>Theme <a href="https://github.com/solstice23/argon-theme" target="_blank"><strong>Argon</strong></a><?php if (get_option('argon_hide_footer_author') != 'true') {echo " By solstice23"; }?></div>
-```
+`<div>Theme <a href="https://github.com/solstice23/argon-theme" target="_blank"><strong>Argon</strong></a><?php if (get_option('argon_hide_footer_author') != 'true') {echo " By solstice23"; }?></div>`
 
 argon: Theme Functions (functions.php):2007
 
-```
+```php
 //检测页面底部版权是否被修改
 function alert_footer_copyright_changed(){ ?>
     <div class='notice notice-warning is-dismissible'>
@@ -105,23 +108,24 @@ check_footer_copyright();
 
 argontheme.js:2611
 
-```
+```php
 /*Console*/
 !function(){...}();
 ```
 
 ## 主题顶部 ajax 搜索添加
 
-```
+```php
 // argon: Theme Header (header.php):421
 <div id="banner_container" class="banner-container container text-center">
-<?php echo do_shortcode('[wpdreams_ajaxsearchpro id=1]'); ?>
+// <?php echo do_shortcode('[wpdreams_ajaxsearchpro id=1]'); ?> 
+// 禁止解析 造成代码无法展示
 </div>
 ```
 
 ## 禁用 wp-emoji-release.min.js
 
-```
+```php
 // Disable the emoji's
 function disable_emojis() {
  remove_action( 'wp_head', 'print_emoji_detection_script', 7 );
@@ -171,13 +175,11 @@ return $urls;
 
 ### 忘记后台密码？
 
-```
-// 一般在路径./cache/config.jason里面 token="#$%******"
-```
+`// 一般在路径./cache/config.jason里面 token="#$%******"`
 
 ### nginx 配置反向代理
 
-```
+```php
 端口：33001
 // 自行安装 docker和pm2
 // cd到根目录 bash install.sh 报错 npm comand not found
@@ -189,19 +191,19 @@ return $urls;
 
 ### 官方子域
 
-- CloudFlare：test1.jsdelivr.net
+* CloudFlare：test1.jsdelivr.net
 
-- CloudFlare：testingcf.jsdelivr.net
+* CloudFlare：testingcf.jsdelivr.net
 
-- Fastly：fastly.jsdelivr.net
+* Fastly：fastly.jsdelivr.net
 
-- GCORE：gcore.jsdelivr.net
+* GCORE：gcore.jsdelivr.net
 
-- originfastly.jsdelivr.net
+* originfastly.jsdelivr.net
 
 ### 针对 GH 的反向代理
 
-```
+```php
 #针对/gh目录的反代
 location /gh
 {
@@ -223,16 +225,16 @@ proxy_set_header REMOTE-HOST $remote_addr;
 
 原代码以及替换后的代码
 
-```
-		echo '<span class="meta-date">';
-		echo '<time datetime="';
-		echo get_the_date('Y-m-d');
-		echo ' ' . get_the_time('H:i:s');
-		echo '">';
-		time_ago( $time_type ='posts' );
-		echo '</time></span>';
-	-----------
+```php
+        echo '<span class="meta-date">';
+        echo '<time datetime="';
+        echo get_the_date('Y-m-d');
+        echo ' ' . get_the_time('H:i:s');
+        echo '">';
+        time_ago( $time_type ='posts' );
+        echo '</time></span>';
+    -----------
        echo '<span class="meta-date">';
         echo '<time title="' . __('发布于') . ' ' . get_the_time('Y-n-d G:i:s') . ' | ' . __('编辑于',) . ' ' . get_the_modified_time('Y-n-d G:i:s') . '">' . get_the_modified_time('Y-n-d G:i') . '</time>';
-		echo '</span>';
+        echo '</span>';
 ```

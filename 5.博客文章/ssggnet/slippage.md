@@ -1,17 +1,17 @@
 ---
-title: "跳空缺口和滑点是什么意思？"
+title: 跳空缺口和滑点是什么意思？
 post_status: publish
-post_date: "2021-03-06"
+skip_file: no
 taxonomy:
- category:
-  - "forex-com"
- post_tag:
-  - "atfx"
-  - "forex-com"
-  - "跳空缺口"
+  category:
+        - forex-com
+  post_tag:
+        - 外汇平台
+post_excerpt: 
 ---
+![Image](https://cdn.fendou.la/tuoss/gap-slippage.png)
 
-![嘉盛集团的跳空缺口](https://cdn.fendou.la/tuoss/gap-slippage.png)
+嘉盛集团的跳空缺口
 
 ### 什么是跳空缺口?
 
@@ -19,8 +19,9 @@ taxonomy:
 
 ### 什么时间可能出现跳空缺口:
 
-- 当公布经济数据时- 特别是如果数据中包含市场不期望的数据
-- 发布重大新闻事件时，尤其是全球性新闻和/或意外新闻。周末或假日后恢复交易时 – 尤其是在此期间有重大新闻公布
+* 当公布经济数据时- 特别是如果数据中包含市场不期望的数据
+
+* 发布重大新闻事件时，尤其是全球性新闻和/或意外新闻。周末或假日后恢复交易时 – 尤其是在此期间有重大新闻公布
 
 ### 为什么它们很重要?
 
@@ -34,11 +35,15 @@ taxonomy:
 
 ### 向上跳空 (EUR/JPY, 1 小时)
 
-![向上跳空](https://cdn.fendou.la/tuoss/UnderstandingMarketGaps.png)
+![Image](https://cdn.fendou.la/tuoss/UnderstandingMarketGaps.png)
 
-### 向下跳空 （AUD/USD，1 小时）
+向上跳空
 
-![向下跳空](https://cdn.fendou.la/tuoss/UnderstandingMarketGapsAUDUSD.png)
+### 向下跳空 （AUD/USD，1小时）
+
+![Image](https://cdn.fendou.la/tuoss/UnderstandingMarketGapsAUDUSD.png)
+
+向下跳空
 
 ### 什么是滑点?
 
