@@ -11,8 +11,13 @@
             "id": "1b237c03b913f0b0",
             "type": "leaf",
             "state": {
-              "type": "memos_view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5.博客文章/1.开户通索引.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -21,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.博客文章/2.评测索引.md",
+                "file": "5.博客文章/2.Host评测索引.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,14 +39,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.博客文章/3.Funs复利说索引.md",
-                "mode": "source",
+                "file": "5.博客文章/3.复利说Funs索引.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "5fb5687578a6a7f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.博客文章/4.FCCM索引.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,6 +105,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "505144636f8b2928",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -117,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.博客文章/3.Funs复利说索引.md",
+                "file": "5.博客文章/2.Host评测索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.博客文章/3.Funs复利说索引.md",
+                "file": "5.博客文章/2.Host评测索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.博客文章/3.Funs复利说索引.md"
+                "file": "5.博客文章/2.Host评测索引.md"
               }
             }
           }
@@ -185,6 +212,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "remotely-save:Remotely Save": false,
       "obsidian-weread-plugin:Weread": false,
       "graph:查看关系图谱": false,
       "workspaces:管理工作区布局": false,
@@ -193,20 +221,25 @@
       "command-palette:打开命令面板": false,
       "templater-obsidian:Templater": false,
       "templates:插入模板": false,
-      "obsidian-memos:Memos": false,
-      "remotely-save:Remotely Save": false
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "1b237c03b913f0b0",
+  "active": "f0708102cd8b3a61",
   "lastOpenFiles": [
-    "5.博客文章/1.外汇索引.md",
+    "5.博客文章/hostlaowei/best-web-hosting.md",
+    "5.博客文章/2.Host评测索引.md",
+    "5.博客文章/4.FCCM索引.md",
+    "5.博客文章/fccmnet/abfh.md",
+    "5.博客文章/hostlaowei/best-vps-hosting.md",
+    "5.博客文章/1.开户通索引.md",
+    "5.博客文章/3.复利说Funs索引.md",
+    "5.博客文章/funstoutiao/101investing.md",
+    "5.博客文章/README.md",
+    "5.博客文章/welaowei/hk-ebank.md",
     "5.博客文章/welaowei/gain-forex-detail.md",
     "5.博客文章/shuoshuo/34th-2020-08-20-zhou4.md",
-    "5.博客文章/3.Funs复利说索引.md",
-    "5.博客文章/2.评测索引.md",
     "5.博客文章/funstoutiao/european-shares-start-new-year-at-23-month.md",
     "5.博客文章/welaowei/294-forex-rank.md",
-    "5.博客文章/funstoutiao/101investing.md",
     "5.博客文章/wechat-posts/1.公众号文章索引.md",
     "1.爱好/英语/1.AllEnglish.md",
     "5.博客文章/funstoutiao/cut-losses-and-let-profits-run.md",
@@ -219,12 +252,6 @@
     "5.博客文章/funstoutiao/us-economy-surprise-again-2024.md",
     "5.博客文章/funstoutiao/new-test.md",
     "5.博客文章/funstoutiao/xm-has-mt5-software.md",
-    "5.博客文章/funstoutiao/xauusd-note.md",
-    "5.博客文章/funstoutiao/wrong-trade.md",
-    "5.博客文章/funstoutiao/world-war-i-german-debt-crisis.md",
-    "5.博客文章/funstoutiao/which-job-you-do-except-trader.md",
-    "5.博客文章/funstoutiao/which-important-for-treatd-emoney.md",
-    "5.博客文章/funstoutiao/which-cycle-is-suitable-for-newcomers.md",
     "attachment/Pasted Image 20231203103737.jpeg",
     "3.微信读书/个人成长",
     "3.微信读书/经济理财",

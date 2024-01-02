@@ -2532,8 +2532,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "5.博客文章/1.外汇索引.md",
-                    "mode": "source",
+                    "file": "5.博客文章/1.开户通索引.md",
+                    "mode": "preview",
                     "backlinks": false,
                     "source": false
                   }
@@ -2545,8 +2545,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "5.博客文章/2.评测索引.md",
-                    "mode": "source",
+                    "file": "5.博客文章/2.Host评测索引.md",
+                    "mode": "preview",
                     "backlinks": false,
                     "source": false
                   }
@@ -2558,14 +2558,28 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "5.博客文章/3.Funs复利说索引.md",
-                    "mode": "source",
+                    "file": "5.博客文章/3.复利说Funs索引.md",
+                    "mode": "preview",
                     "backlinks": false,
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "5fb5687578a6a7f9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "5.博客文章/4.FCCM索引.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical"
@@ -2641,7 +2655,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "5.博客文章/1.外汇索引.md",
+                    "file": "5.博客文章/3.复利说Funs索引.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -2658,7 +2672,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "5.博客文章/1.外汇索引.md",
+                    "file": "5.博客文章/3.复利说Funs索引.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -2697,7 +2711,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "5.博客文章/1.外汇索引.md"
+                    "file": "5.博客文章/3.复利说Funs索引.md"
                   }
                 }
               }
@@ -2709,7 +2723,7 @@
       },
       "left-ribbon": {
         "hiddenItems": {
-          "canvas:新建白板": false,
+          "remotely-save:Remotely Save": false,
           "obsidian-weread-plugin:Weread": false,
           "graph:查看关系图谱": false,
           "workspaces:管理工作区布局": false,
@@ -2721,7 +2735,7 @@
           "obsidian-memos:Memos": false
         }
       },
-      "active": "1b237c03b913f0b0",
+      "active": "3f6aca2bb63a5e5b",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "5.博客文章"
