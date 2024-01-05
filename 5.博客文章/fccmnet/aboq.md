@@ -1,7 +1,10 @@
 ---
 title: "外汇平台的交易时间是多久？"
 post_status: publish
+post_date: 2023-06-20 04:23:53
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

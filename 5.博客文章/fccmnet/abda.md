@@ -1,7 +1,10 @@
 ---
 title: "布雷顿森林体系的主要内容是什么"
 post_status: publish
+post_date: 2023-11-04 23:45:16
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

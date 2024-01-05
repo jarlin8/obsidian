@@ -1,7 +1,10 @@
 ---
 title: "为什么做外汇总是亏损"
 post_status: publish
+post_date: 2023-07-11 01:13:51
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "在做技术分析时画趋势线或斐波那契线是怎么画的？一般采用什么级别的周期?"
 post_status: publish
+post_date: 2023-11-15 09:26:16
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

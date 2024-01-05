@@ -1,7 +1,10 @@
 ---
 title: "外汇交易亏钱怎么办，为什么老是亏钱?"
 post_status: publish
+post_date: 2023-10-17 06:26:12
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

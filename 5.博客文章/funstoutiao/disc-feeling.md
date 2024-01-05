@@ -1,7 +1,10 @@
 ---
 title: "据我所知，很多交易高手更多的会根据盘感，这种感觉怎么培养?"
 post_status: publish
+post_date: 2023-12-21 03:54:12
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

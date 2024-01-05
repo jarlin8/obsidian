@@ -1,7 +1,10 @@
 ---
 title: "高手都是怎么看盘的?"
 post_status: publish
+post_date: 2023-10-17 04:43:00
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

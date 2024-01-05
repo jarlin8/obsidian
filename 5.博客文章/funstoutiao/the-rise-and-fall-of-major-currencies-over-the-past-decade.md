@@ -1,7 +1,10 @@
 ---
 title: "外汇实战技巧-过去十年重要货币涨跌循环"
 post_status: publish
+post_date: 2023-10-02 06:56:00
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forexbook"

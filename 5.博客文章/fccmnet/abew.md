@@ -1,7 +1,10 @@
 ---
 title: "澳元货币特征以及影响澳元的因素是什么"
 post_status: publish
+post_date: 2023-07-03 10:51:25
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

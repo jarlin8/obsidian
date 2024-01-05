@@ -1,7 +1,10 @@
 ---
 title: "为什么分析师很难成为最好的交易员?"
 post_status: publish
+post_date: 2023-08-11 18:56:19
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

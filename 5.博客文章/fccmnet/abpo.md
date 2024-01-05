@@ -1,7 +1,10 @@
 ---
 title: "如何选择一家适合自己的外汇平台？"
 post_status: publish
+post_date: 2023-08-05 16:22:38
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

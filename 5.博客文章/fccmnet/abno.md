@@ -1,7 +1,10 @@
 ---
 title: "ads外汇实时新闻怎么样了？"
 post_status: publish
+post_date: 2023-11-30 00:54:11
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

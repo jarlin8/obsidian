@@ -1,7 +1,10 @@
 ---
 title: "外汇储备是怎么来的：全面解析中国的外汇储备"
 post_status: publish
+post_date: 2023-11-19 13:39:40
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

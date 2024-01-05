@@ -1,7 +1,10 @@
 ---
 title: "最常见的出场方法有几种？各是什么?"
 post_status: publish
+post_date: 2023-12-20 01:09:07
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

@@ -1,7 +1,10 @@
 ---
 title: "布雷顿森林体系的结束：自由资本主义市场的诞生（1971）"
 post_status: publish
+post_date: 2023-11-22 10:18:18
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forexbook"

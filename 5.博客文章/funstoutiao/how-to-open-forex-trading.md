@@ -1,7 +1,10 @@
 ---
 title: "如何开通外汇交易的个人户名？步骤是什么？"
 post_status: publish
+post_date: 2023-12-24 09:52:56
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

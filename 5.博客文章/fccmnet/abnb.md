@@ -1,7 +1,10 @@
 ---
 title: "ATFX的交易费用和点差如何计算和收取？"
 post_status: publish
+post_date: 2023-08-23 07:55:32
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

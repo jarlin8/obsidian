@@ -1,7 +1,10 @@
 ---
 title: "外汇市场为什么是交易市场中体量最大的"
 post_status: publish
+post_date: 2023-11-09 09:52:50
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

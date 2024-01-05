@@ -1,7 +1,10 @@
 ---
 title: "比特币现金的影响和特点是什么"
 post_status: publish
+post_date: 2023-07-31 14:18:38
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

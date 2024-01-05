@@ -1,7 +1,10 @@
 ---
 title: "xm外汇利息会很贵吗"
 post_status: publish
+post_date: 2023-09-02 00:14:57
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

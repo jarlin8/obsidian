@@ -1,7 +1,10 @@
 ---
 title: "作为「交易员」，你有哪些约束自己的交易纪律?"
 post_status: publish
+post_date: 2023-11-03 19:12:40
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

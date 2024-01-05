@@ -1,7 +1,10 @@
 ---
 title: "做交易风险与回报是对等的吗?"
 post_status: publish
+post_date: 2023-11-11 05:30:39
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

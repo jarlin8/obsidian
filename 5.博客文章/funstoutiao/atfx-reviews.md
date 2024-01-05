@@ -1,7 +1,10 @@
 ---
 title: "ATFX外汇平台安全测评"
 post_status: publish
+post_date: 2023-09-27 11:53:04
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "toutiao-basic"

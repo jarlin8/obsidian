@@ -1,7 +1,10 @@
 ---
 title: "外汇平台提供哪些交易策略？"
 post_status: publish
+post_date: 2023-09-15 13:59:28
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

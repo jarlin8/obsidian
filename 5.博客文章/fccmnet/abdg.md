@@ -1,7 +1,10 @@
 ---
 title: "捕捉外汇短线价差可以盈利吗"
 post_status: publish
+post_date: 2023-10-28 14:57:04
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

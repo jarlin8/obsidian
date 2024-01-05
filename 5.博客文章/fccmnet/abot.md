@@ -1,7 +1,10 @@
 ---
 title: "外汇平台上的杠杆比例是多少？"
 post_status: publish
+post_date: 2023-11-28 14:44:48
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

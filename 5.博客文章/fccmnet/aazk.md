@@ -1,7 +1,10 @@
 ---
 title: "炒黄金怎么控制仓位好"
 post_status: publish
+post_date: 2023-10-12 17:18:20
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

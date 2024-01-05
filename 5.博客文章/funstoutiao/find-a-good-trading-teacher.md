@@ -1,7 +1,10 @@
 ---
 title: "一个好的交易“导师”，能帮你省下多少学费?"
 post_status: publish
+post_date: 2023-10-09 07:04:56
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

@@ -1,7 +1,10 @@
 ---
 title: "如何建立自己的外汇交易系统"
 post_status: publish
+post_date: 2023-12-14 07:36:08
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

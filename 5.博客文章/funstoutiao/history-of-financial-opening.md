@@ -1,7 +1,10 @@
 ---
 title: "通过全球各国金融开放历史看中国大陆目前的乱象，是黎明前的黑暗?"
 post_status: publish
+post_date: 2023-08-04 11:53:13
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

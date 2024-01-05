@@ -1,7 +1,10 @@
 ---
 title: "资金管理的两大模式对比:马丁格尔策略Vs反马丁策略"
 post_status: publish
+post_date: 2023-11-24 09:31:14
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "experience"

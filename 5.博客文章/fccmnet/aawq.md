@@ -1,7 +1,10 @@
 ---
 title: "黄金期货开户条件有哪些"
 post_status: publish
+post_date: 2023-06-21 22:33:52
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

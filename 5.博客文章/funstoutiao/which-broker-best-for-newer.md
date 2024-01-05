@@ -1,7 +1,10 @@
 ---
 title: "准备开个外汇账户哪个平台比较适合新手"
 post_status: publish
+post_date: 2023-12-01 06:37:51
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

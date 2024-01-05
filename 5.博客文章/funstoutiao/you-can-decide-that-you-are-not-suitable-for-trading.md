@@ -1,7 +1,10 @@
 ---
 title: "亏损到什么状态就可以判定自己不适合做交易，达到及时止损?"
 post_status: publish
+post_date: 2023-07-25 08:10:13
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

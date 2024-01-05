@@ -1,7 +1,10 @@
 ---
 title: "为什么都说不要在牛市的时候进场？会有什么风险吗？如果有风险，又该如何规避?"
 post_status: publish
+post_date: 2023-10-23 08:08:16
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

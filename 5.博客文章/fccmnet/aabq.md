@@ -1,7 +1,10 @@
 ---
 title: "选择正规的外汇交易平台需要哪些技巧"
 post_status: publish
+post_date: 2023-06-25 21:35:03
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

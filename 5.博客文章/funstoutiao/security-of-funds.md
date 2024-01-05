@@ -1,7 +1,10 @@
 ---
 title: "是不是入金的时候不使用第三方通道而使用外币转账会让资金更安全，尤其是在维权的时候?"
 post_status: publish
+post_date: 2023-08-10 21:27:29
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

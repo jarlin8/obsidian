@@ -1,7 +1,10 @@
 ---
 title: "学习成绩好对交易有什么帮助和利益吗?"
 post_status: publish
+post_date: 2023-12-28 20:37:53
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

@@ -1,7 +1,10 @@
 ---
 title: "交流外汇交易策略"
 post_status: publish
+post_date: 2023-09-29 05:36:20
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

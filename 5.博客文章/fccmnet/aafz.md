@@ -1,7 +1,10 @@
 ---
 title: "外汇黄金交易中的资金管理问题"
 post_status: publish
+post_date: 2023-10-12 00:24:47
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

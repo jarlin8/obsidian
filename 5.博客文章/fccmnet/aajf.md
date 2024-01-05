@@ -1,7 +1,10 @@
 ---
 title: "交易量在外汇交易中指的是什么为什么不作为重要指标使用"
 post_status: publish
+post_date: 2023-10-21 09:12:06
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

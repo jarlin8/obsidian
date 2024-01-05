@@ -1,7 +1,10 @@
 ---
 title: "人们为什么喜欢买黄金"
 post_status: publish
+post_date: 2023-12-10 12:49:18
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

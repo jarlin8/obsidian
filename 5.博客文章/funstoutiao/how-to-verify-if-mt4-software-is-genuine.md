@@ -1,7 +1,10 @@
 ---
 title: "如何验证MT4软件是不是正版？"
 post_status: publish
+post_date: 2023-11-02 16:08:30
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

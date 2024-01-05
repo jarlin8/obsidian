@@ -1,7 +1,10 @@
 ---
 title: "如何评价中国的外汇交易平台"
 post_status: publish
+post_date: 2023-10-01 10:42:25
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

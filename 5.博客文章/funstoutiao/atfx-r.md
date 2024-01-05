@@ -1,7 +1,10 @@
 ---
 title: "ATFX手续费是怎么收取"
 post_status: publish
+post_date: 2023-08-31 04:59:09
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

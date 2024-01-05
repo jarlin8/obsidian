@@ -1,7 +1,10 @@
 ---
 title: "如何回避外汇欺诈陷阱？外汇欺诈陷阱有哪些？"
 post_status: publish
+post_date: 2023-12-30 22:21:45
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -1,7 +1,10 @@
 ---
 title: "黄金持仓量和成交量有什么关系"
 post_status: publish
+post_date: 2023-08-24 10:59:53
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

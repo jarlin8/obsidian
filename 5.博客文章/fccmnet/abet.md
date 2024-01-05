@@ -1,7 +1,10 @@
 ---
 title: "把握趋势交易的诀窍是什么"
 post_status: publish
+post_date: 2023-08-21 06:25:02
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

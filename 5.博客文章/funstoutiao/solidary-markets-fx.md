@@ -1,7 +1,10 @@
 ---
 title: "Solidary Markets FX交易平台开户测评"
 post_status: publish
+post_date: 2023-07-30 19:05:09
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "toutiao-basic"

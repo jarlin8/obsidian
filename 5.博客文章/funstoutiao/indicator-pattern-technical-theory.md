@@ -1,7 +1,10 @@
 ---
 title: "为什么指标形态技术理论都懂，但还是感觉很迷茫?"
 post_status: publish
+post_date: 2023-10-18 10:38:09
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

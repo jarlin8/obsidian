@@ -1,7 +1,10 @@
 ---
 title: "Infinox评测：如何在3个交易平台上轻松赚钱？"
 post_status: publish
+post_date: 2023-11-08 22:56:04
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "toutiao-basic"

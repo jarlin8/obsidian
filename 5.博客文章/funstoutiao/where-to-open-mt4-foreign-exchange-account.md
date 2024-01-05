@@ -1,7 +1,10 @@
 ---
 title: "mt4外汇开户在哪开，需要注意哪些问题？"
 post_status: publish
+post_date: 2023-10-20 18:52:50
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

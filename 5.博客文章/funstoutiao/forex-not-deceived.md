@@ -1,7 +1,10 @@
 ---
 title: "外汇投资怎样才能不被骗？"
 post_status: publish
+post_date: 2023-08-27 14:32:18
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

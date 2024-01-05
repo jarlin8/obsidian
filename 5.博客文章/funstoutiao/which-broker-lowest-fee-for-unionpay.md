@@ -1,7 +1,10 @@
 ---
 title: "哪家外汇平台的银联出入金汇率差最低"
 post_status: publish
+post_date: 2023-12-03 06:53:10
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

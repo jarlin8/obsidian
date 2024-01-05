@@ -1,7 +1,10 @@
 ---
 title: "炒黄金赚钱方式有哪些"
 post_status: publish
+post_date: 2023-10-16 19:37:49
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

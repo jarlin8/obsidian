@@ -1,7 +1,10 @@
 ---
 title: 20 小时学习法#如何在 6 个月内学会一门外语
 post_status: publish
+post_date: 2023-07-16 07:21:21
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - smartbook

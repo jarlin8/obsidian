@@ -1,7 +1,10 @@
 ---
 title: "炒汇新手入门学习要看什么内容"
 post_status: publish
+post_date: 2023-08-02 16:00:24
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

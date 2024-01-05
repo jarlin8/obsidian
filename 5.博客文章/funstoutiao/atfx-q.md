@@ -1,7 +1,10 @@
 ---
 title: "ATFX怎么样对比其他平台有竞争优势吗"
 post_status: publish
+post_date: 2023-06-29 04:57:45
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

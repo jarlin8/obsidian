@@ -1,7 +1,10 @@
 ---
 title: "多头平仓和空头平仓有什么区别"
 post_status: publish
+post_date: 2023-06-27 18:13:17
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

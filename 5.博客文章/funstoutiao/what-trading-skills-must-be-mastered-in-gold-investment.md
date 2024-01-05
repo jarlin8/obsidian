@@ -1,7 +1,10 @@
 ---
 title: "黄金投资都要掌握哪些操盘技巧？"
 post_status: publish
+post_date: 2023-09-20 03:08:30
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

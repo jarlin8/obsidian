@@ -1,7 +1,10 @@
 ---
 title: "成功的外汇交易者有哪些基本素养"
 post_status: publish
+post_date: 2023-10-31 04:38:31
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

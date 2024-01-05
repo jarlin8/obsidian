@@ -1,7 +1,10 @@
 ---
 title: "欧元交易的知识都有哪些？我们应该怎么学习？"
 post_status: publish
+post_date: 2023-06-28 11:11:51
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

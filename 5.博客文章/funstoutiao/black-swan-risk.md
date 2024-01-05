@@ -1,7 +1,10 @@
 ---
 title: "有什么有效方法应对这种黑天鹅式的风险呢?"
 post_status: publish
+post_date: 2023-10-01 19:21:42
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

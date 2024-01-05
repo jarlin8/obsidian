@@ -1,7 +1,10 @@
 ---
 title: "Forex.com嘉盛集团 FXTM这两个平台哪个好"
 post_status: publish
+post_date: 2023-12-27 06:04:52
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -1,7 +1,10 @@
 ---
 title: "金融市场到底能不能被预测?"
 post_status: publish
+post_date: 2023-11-21 18:46:38
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

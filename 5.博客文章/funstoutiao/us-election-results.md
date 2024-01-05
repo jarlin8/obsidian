@@ -1,7 +1,10 @@
 ---
 title: "大胆预测一下。您觉得11月美国大选前，还会出现什么意想不到的惊喜呢?"
 post_status: publish
+post_date: 2023-07-12 22:59:49
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

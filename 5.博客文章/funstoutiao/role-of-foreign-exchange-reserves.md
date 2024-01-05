@@ -1,7 +1,10 @@
 ---
 title: "外汇储备的作用是什么？外汇储备排名怎么样？"
 post_status: publish
+post_date: 2023-10-03 02:05:44
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -1,7 +1,10 @@
 ---
 title: "City Index外汇交易平台开户测评"
 post_status: publish
+post_date: 2023-07-18 11:47:11
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "toutiao-basic"

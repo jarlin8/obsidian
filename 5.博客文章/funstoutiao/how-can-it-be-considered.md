@@ -1,7 +1,10 @@
 ---
 title: "怎么样才算具备了稳定盈利的能力?"
 post_status: publish
+post_date: 2023-12-14 14:47:32
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

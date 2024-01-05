@@ -1,7 +1,10 @@
 ---
 title: "2invest为交易平台开户测评"
 post_status: publish
+post_date: 2023-11-27 10:43:44
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "toutiao-basic"

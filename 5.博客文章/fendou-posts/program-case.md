@@ -1,7 +1,10 @@
 ---
 title: PHP&Linux 服务器配置基本笔记
 post_status: publish
+post_date: 2023-11-15 09:52:26
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - project

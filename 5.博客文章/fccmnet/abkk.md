@@ -1,7 +1,10 @@
 ---
 title: "fxtm富拓外汇平台出入金方式有哪些"
 post_status: publish
+post_date: 2023-09-13 11:35:18
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

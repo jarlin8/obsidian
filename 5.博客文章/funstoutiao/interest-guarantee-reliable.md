@@ -1,7 +1,10 @@
 ---
 title: "金融交易保本保息靠谱吗?"
 post_status: publish
+post_date: 2023-09-14 13:15:19
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

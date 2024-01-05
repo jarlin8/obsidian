@@ -1,7 +1,10 @@
 ---
 title: "黄金理财产品的特点是什么"
 post_status: publish
+post_date: 2023-12-21 00:10:10
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

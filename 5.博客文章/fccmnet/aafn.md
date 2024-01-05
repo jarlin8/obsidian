@@ -1,7 +1,10 @@
 ---
 title: "做外汇和黄金的朋友 能不能简单的介绍一下自己的交易方法啊"
 post_status: publish
+post_date: 2023-11-18 19:33:48
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

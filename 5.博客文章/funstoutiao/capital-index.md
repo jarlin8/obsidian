@@ -1,7 +1,10 @@
 ---
 title: "Capital Index外汇交易平台开户测评"
 post_status: publish
+post_date: 2023-12-05 12:03:52
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "toutiao-basic"

@@ -1,7 +1,10 @@
 ---
 title: "系统交易是怎么做的？有人教一下吗？"
 post_status: publish
+post_date: 2023-07-24 04:14:11
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

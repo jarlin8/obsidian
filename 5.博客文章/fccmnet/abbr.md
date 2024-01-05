@@ -1,7 +1,10 @@
 ---
 title: "炒汇多年应该有什么样的经验和心得"
 post_status: publish
+post_date: 2023-10-08 06:34:22
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

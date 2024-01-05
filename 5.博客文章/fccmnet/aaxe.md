@@ -1,7 +1,10 @@
 ---
 title: "黄金能保值是为什么"
 post_status: publish
+post_date: 2023-09-26 09:11:08
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "交易员在每个阶段需要着重解决什么问题?"
 post_status: publish
+post_date: 2023-11-13 15:38:57
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

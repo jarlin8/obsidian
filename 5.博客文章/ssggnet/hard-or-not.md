@@ -1,7 +1,10 @@
 ---
 title: 外汇交易到底难不难？嘉盛集团的成功交易者如何看？
 post_status: publish
+post_date: 2023-06-25 00:48:37
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - forex-com

@@ -1,7 +1,10 @@
 ---
 title: "货币政策如何影响外汇交易？"
 post_status: publish
+post_date: 2023-12-15 17:53:00
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

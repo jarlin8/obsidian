@@ -1,7 +1,10 @@
 ---
 title: "作为交易员，交易的精髓是什么，该怎么理解的?"
 post_status: publish
+post_date: 2023-07-21 00:50:37
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

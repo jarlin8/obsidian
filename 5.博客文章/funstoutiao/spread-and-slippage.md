@@ -1,7 +1,10 @@
 ---
 title: "mt4mt5有点差和滑点，也就是买入卖出成本这么高，为什么它还是主流的交易软件?"
 post_status: publish
+post_date: 2023-10-23 03:48:31
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

@@ -1,7 +1,10 @@
 ---
 title: "A-Book是什么意思？跟B-Book有区别吗？"
 post_status: publish
+post_date: 2023-08-20 09:17:54
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

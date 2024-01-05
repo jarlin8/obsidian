@@ -1,7 +1,10 @@
 ---
 title: "在交易的时候经常后悔怎么办？有什么解决办法？"
 post_status: publish
+post_date: 2023-12-30 01:22:48
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

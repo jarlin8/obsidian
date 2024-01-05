@@ -1,7 +1,10 @@
 ---
 title: "请问下外汇套利是怎么操作的"
 post_status: publish
+post_date: 2023-11-26 15:22:45
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

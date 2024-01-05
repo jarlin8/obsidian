@@ -1,7 +1,10 @@
 ---
 title: "交易年限越长的交易员是不是就更厉害?"
 post_status: publish
+post_date: 2023-10-24 09:36:10
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

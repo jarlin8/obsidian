@@ -1,7 +1,10 @@
 ---
 title: "可以全职炒外汇、炒黄金吗"
 post_status: publish
+post_date: 2023-09-24 03:05:35
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

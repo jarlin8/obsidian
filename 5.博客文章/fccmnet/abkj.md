@@ -1,7 +1,10 @@
 ---
 title: "FXTM出入金是否收取手续费"
 post_status: publish
+post_date: 2023-07-14 16:33:02
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

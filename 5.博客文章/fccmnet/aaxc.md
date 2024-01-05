@@ -1,7 +1,10 @@
 ---
 title: "黄金期货价格对股票的影响是什么"
 post_status: publish
+post_date: 2023-10-08 18:19:29
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

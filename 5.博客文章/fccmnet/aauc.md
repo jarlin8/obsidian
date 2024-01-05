@@ -1,7 +1,10 @@
 ---
 title: "黄金作为货币有什么缺点"
 post_status: publish
+post_date: 2023-07-03 20:37:07
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

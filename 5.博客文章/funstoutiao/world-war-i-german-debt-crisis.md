@@ -1,7 +1,10 @@
 ---
 title: "12750亿元！工农中建交邮储六大国有银行出手救地产？"
 post_status: publish
+post_date: 2023-07-03 15:28:19
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "toutiao"

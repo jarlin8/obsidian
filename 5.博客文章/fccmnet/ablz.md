@@ -1,7 +1,10 @@
 ---
 title: "B-Book是什么意思？B仓与A仓有什么区别？"
 post_status: publish
+post_date: 2023-07-08 21:02:20
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

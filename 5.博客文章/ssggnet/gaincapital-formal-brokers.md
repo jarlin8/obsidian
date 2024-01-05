@@ -1,7 +1,10 @@
 ---
 title: 嘉盛集团是正规的外汇交易平台吗，受到监管吗？
 post_status: publish
+post_date: 2023-12-08 05:20:17
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - forex-com

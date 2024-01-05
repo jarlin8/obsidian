@@ -1,7 +1,10 @@
 ---
 title: "外汇跟单模式还有哪些优质平台分享"
 post_status: publish
+post_date: 2023-10-15 13:09:48
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

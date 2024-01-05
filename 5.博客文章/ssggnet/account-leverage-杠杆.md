@@ -1,7 +1,10 @@
 ---
 title: 嘉盛集团的外汇账户杠杆是多少？保证金与杠杆的关系
 post_status: publish
+post_date: 2023-08-01 21:50:27
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - forex-com

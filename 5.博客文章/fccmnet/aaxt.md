@@ -1,7 +1,10 @@
 ---
 title: "黄金交易入门要怎么做"
 post_status: publish
+post_date: 2023-10-02 04:53:21
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

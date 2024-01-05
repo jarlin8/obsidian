@@ -1,7 +1,10 @@
 ---
 title: "你认为股票外汇等金融产品依靠交易系统可能长久稳定的盈利吗"
 post_status: publish
+post_date: 2023-11-02 01:07:23
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

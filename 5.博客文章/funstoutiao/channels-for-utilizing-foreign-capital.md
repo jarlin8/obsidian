@@ -1,7 +1,10 @@
 ---
 title: "我国利用外资的渠道有哪些?"
 post_status: publish
+post_date: 2023-10-27 23:09:34
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forexbook"

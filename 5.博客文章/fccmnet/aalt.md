@@ -1,7 +1,10 @@
 ---
 title: "是否可以外汇为生 开设基金或策略管理公司"
 post_status: publish
+post_date: 2023-12-02 23:55:22
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

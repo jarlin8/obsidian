@@ -1,7 +1,10 @@
 ---
 title: "放弃学业全职做外汇交易有前途吗?"
 post_status: publish
+post_date: 2023-08-08 21:45:06
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

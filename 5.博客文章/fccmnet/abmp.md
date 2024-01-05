@@ -1,7 +1,10 @@
 ---
 title: "pmi指数是什么意思？"
 post_status: publish
+post_date: 2023-07-11 13:20:07
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

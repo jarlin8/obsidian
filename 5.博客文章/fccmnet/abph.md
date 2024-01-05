@@ -1,7 +1,10 @@
 ---
 title: "外汇平台提供哪些交易软件？"
 post_status: publish
+post_date: 2023-06-20 15:15:23
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "网上社群随处可见的交易分析师真正水平如何，他们靠什么而活?"
 post_status: publish
+post_date: 2023-10-12 18:00:50
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

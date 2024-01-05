@@ -1,7 +1,10 @@
 ---
 title: "Forex.com嘉盛集团炒外汇合法吗"
 post_status: publish
+post_date: 2023-11-05 00:52:18
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

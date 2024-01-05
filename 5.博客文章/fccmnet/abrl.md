@@ -1,7 +1,10 @@
 ---
 title: "我做外汇亏了很多钱怎么办怎样才能赚回来"
 post_status: publish
+post_date: 2023-09-01 11:55:46
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "外汇交易如何运用低成本，实现爆利?"
 post_status: publish
+post_date: 2023-08-15 16:30:12
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

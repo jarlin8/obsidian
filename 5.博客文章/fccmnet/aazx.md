@@ -1,7 +1,10 @@
 ---
 title: "炒黄金投资有什么好经验分享"
 post_status: publish
+post_date: 2023-09-23 05:46:57
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

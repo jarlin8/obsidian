@@ -1,7 +1,10 @@
 ---
 title: "10年来规模最大财政紧缩，英国高通胀何去何从？"
 post_status: publish
+post_date: 2023-11-22 07:23:05
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "toutiao"

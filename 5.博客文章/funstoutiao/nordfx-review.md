@@ -1,7 +1,10 @@
 ---
 title: "NordFX测评-是正规平台吗？"
 post_status: publish
+post_date: 2023-07-13 06:40:43
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "toutiao-basic"

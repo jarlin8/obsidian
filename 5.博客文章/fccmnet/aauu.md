@@ -1,7 +1,10 @@
 ---
 title: "黄金外汇投资理财怎么玩"
 post_status: publish
+post_date: 2023-11-27 03:02:42
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

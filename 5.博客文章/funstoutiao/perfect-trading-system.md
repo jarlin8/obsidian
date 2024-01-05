@@ -1,7 +1,10 @@
 ---
 title: "怎样才算完美的交易系统?或者说是否存在者所谓完美的交易系统?"
 post_status: publish
+post_date: 2023-07-16 23:28:35
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

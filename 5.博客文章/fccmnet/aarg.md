@@ -1,7 +1,10 @@
 ---
 title: "现货黄金投资要注意哪些风险"
 post_status: publish
+post_date: 2023-12-16 21:08:26
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

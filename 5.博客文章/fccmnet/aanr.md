@@ -1,7 +1,10 @@
 ---
 title: "稳定盈利的外汇交易员有哪些一定要遵守的原则"
 post_status: publish
+post_date: 2023-10-16 11:51:06
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

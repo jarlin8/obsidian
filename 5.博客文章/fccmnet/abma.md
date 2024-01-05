@@ -1,7 +1,10 @@
 ---
 title: "axitrader平台怎么样？axitrader平台安全吗？"
 post_status: publish
+post_date: 2023-07-27 13:00:46
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

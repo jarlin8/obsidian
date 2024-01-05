@@ -1,7 +1,10 @@
 ---
 title: "炒黄金外汇开户最低投资额是多少"
 post_status: publish
+post_date: 2023-06-29 13:17:01
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

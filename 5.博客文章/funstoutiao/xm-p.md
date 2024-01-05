@@ -1,7 +1,10 @@
 ---
 title: "XM怎么样对比其他平台有竞争优势吗"
 post_status: publish
+post_date: 2023-09-02 03:33:14
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

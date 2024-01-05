@@ -1,7 +1,10 @@
 ---
 title: "领峰贵金属现货黄金交易规则有哪些？"
 post_status: publish
+post_date: 2023-12-25 20:29:50
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

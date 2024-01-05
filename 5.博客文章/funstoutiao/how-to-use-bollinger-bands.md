@@ -1,7 +1,10 @@
 ---
 title: "布林通道应该如何使用?"
 post_status: publish
+post_date: 2023-10-27 14:32:04
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

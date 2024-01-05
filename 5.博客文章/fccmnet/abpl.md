@@ -1,7 +1,10 @@
 ---
 title: "在外汇平台上交易的成本是多少？"
 post_status: publish
+post_date: 2023-12-04 12:57:18
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

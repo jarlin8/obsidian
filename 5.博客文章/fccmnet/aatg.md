@@ -1,7 +1,10 @@
 ---
 title: "如果美联储加息你们会买黄金吗"
 post_status: publish
+post_date: 2023-07-12 19:46:12
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

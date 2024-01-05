@@ -1,7 +1,10 @@
 ---
 title: "GDP数据发布时，如何制定有效的交易策略"
 post_status: publish
+post_date: 2023-10-17 01:09:33
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

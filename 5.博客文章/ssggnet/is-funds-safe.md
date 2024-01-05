@@ -1,7 +1,10 @@
 ---
 title: 嘉盛集团交易账户上的资金安全吗?尤其是资金管理这方面？
 post_status: publish
+post_date: 2023-07-24 17:14:21
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - forex-com

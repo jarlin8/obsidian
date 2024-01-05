@@ -1,7 +1,10 @@
 ---
 title: "有人说交易就是在赌，交易和赌博的差异是什么?"
 post_status: publish
+post_date: 2023-10-23 01:20:40
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

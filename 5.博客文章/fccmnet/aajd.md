@@ -1,7 +1,10 @@
 ---
 title: "PTFX外汇平台合法吗"
 post_status: publish
+post_date: 2023-08-23 02:30:54
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

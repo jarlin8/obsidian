@@ -1,7 +1,10 @@
 ---
 title: "福特（F.US）：加速电动化转型，多维度出击全球市场"
 post_status: publish
+post_date: 2023-11-26 04:54:07
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "guide"

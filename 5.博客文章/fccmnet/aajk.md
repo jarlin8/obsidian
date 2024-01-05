@@ -1,7 +1,10 @@
 ---
 title: "在外汇平台亏损了怎么办"
 post_status: publish
+post_date: 2023-11-27 19:37:18
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

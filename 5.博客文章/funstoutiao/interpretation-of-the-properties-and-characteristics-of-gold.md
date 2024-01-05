@@ -1,7 +1,10 @@
 ---
 title: "求解读黄金的属性、特征，如何全面了解黄金?"
 post_status: publish
+post_date: 2023-07-09 22:42:21
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

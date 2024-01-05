@@ -1,7 +1,10 @@
 ---
 title: "外汇平台可以用哪些货币进行交易？"
 post_status: publish
+post_date: 2023-07-18 09:01:05
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "现货白银原油与股票期货外汇的分析方法一样吗"
 post_status: publish
+post_date: 2023-06-21 17:41:29
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

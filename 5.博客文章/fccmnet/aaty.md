@@ -1,7 +1,10 @@
 ---
 title: "美国非农数据对黄金投资有什么影响"
 post_status: publish
+post_date: 2023-07-15 05:10:36
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

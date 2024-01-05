@@ -1,7 +1,10 @@
 ---
 title: "艾略特波浪理论简述？"
 post_status: publish
+post_date: 2023-10-01 14:36:21
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "MT4的报警功能怎么使用有例子吗"
 post_status: publish
+post_date: 2023-08-31 20:34:43
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "能靠做外汇交易吃饭吗"
 post_status: publish
+post_date: 2023-10-31 07:31:51
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

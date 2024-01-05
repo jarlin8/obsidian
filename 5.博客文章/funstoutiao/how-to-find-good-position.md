@@ -1,7 +1,10 @@
 ---
 title: "如何有效的找好进场点位?"
 post_status: publish
+post_date: 2023-09-03 13:21:20
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

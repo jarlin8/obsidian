@@ -1,7 +1,10 @@
 ---
 title: "黄金投资控制风险有什么好方法"
 post_status: publish
+post_date: 2023-09-18 11:23:30
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

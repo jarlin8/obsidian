@@ -1,7 +1,10 @@
 ---
 title: "怎么用波浪理论的?"
 post_status: publish
+post_date: 2023-06-30 04:47:19
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

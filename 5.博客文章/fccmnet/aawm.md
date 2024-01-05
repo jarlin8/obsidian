@@ -1,7 +1,10 @@
 ---
 title: "黄金入门知识怎么学习"
 post_status: publish
+post_date: 2023-11-18 05:02:11
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

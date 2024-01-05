@@ -1,7 +1,10 @@
 ---
 title: "如何在投资市场中快速成长？初学者必读！"
 post_status: publish
+post_date: 2023-08-24 01:16:35
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

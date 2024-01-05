@@ -1,7 +1,10 @@
 ---
 title: "靠谱的老牌外汇平台有哪些？"
 post_status: publish
+post_date: 2023-09-29 15:37:44
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

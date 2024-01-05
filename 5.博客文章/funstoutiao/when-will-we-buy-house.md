@@ -1,7 +1,10 @@
 ---
 title: "什么时候出手买房？90后婚房刚需房买不买？"
 post_status: publish
+post_date: 2023-08-26 20:09:30
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

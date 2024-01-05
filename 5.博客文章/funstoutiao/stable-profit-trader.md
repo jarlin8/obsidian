@@ -1,7 +1,10 @@
 ---
 title: "为什么稳定盈利的汇友那么少？爆仓的、反复亏损的却很多？真的是技术分析原因吗?"
 post_status: publish
+post_date: 2023-09-14 06:38:21
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

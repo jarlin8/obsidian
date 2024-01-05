@@ -1,7 +1,10 @@
 ---
 title: "阿里巴巴-SW（09988.HK）：电商竞争加剧利润短期承压，新业务拓展助力公司核心竞争力"
 post_status: publish
+post_date: 2023-09-13 18:02:22
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "toutiao"

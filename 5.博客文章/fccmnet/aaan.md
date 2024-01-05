@@ -1,7 +1,10 @@
 ---
 title: "斐波那契数值跟波浪理论有什么联系"
 post_status: publish
+post_date: 2023-11-23 06:06:51
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

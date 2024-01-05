@@ -1,7 +1,10 @@
 ---
 title: "请问什么类型的平台才是大家心目中安全的平台?"
 post_status: publish
+post_date: 2023-11-13 13:14:04
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

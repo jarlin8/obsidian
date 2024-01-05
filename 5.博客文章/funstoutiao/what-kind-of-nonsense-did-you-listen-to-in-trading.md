@@ -1,7 +1,10 @@
 ---
 title: "交易中你听信了哪些鬼话?"
 post_status: publish
+post_date: 2023-09-29 22:09:19
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

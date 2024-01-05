@@ -1,7 +1,10 @@
 ---
 title: "广场协定——美元贬值（1985）"
 post_status: publish
+post_date: 2023-10-11 09:17:30
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forexbook"

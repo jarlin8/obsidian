@@ -1,7 +1,10 @@
 ---
 title: "新手做日内交易为何总是亏?"
 post_status: publish
+post_date: 2023-07-31 06:51:36
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

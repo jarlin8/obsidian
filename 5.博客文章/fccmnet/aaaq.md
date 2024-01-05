@@ -1,7 +1,10 @@
 ---
 title: "非农行情下常用的做单方法是什么"
 post_status: publish
+post_date: 2023-08-19 11:12:38
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

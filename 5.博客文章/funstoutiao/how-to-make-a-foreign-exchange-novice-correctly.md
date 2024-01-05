@@ -1,7 +1,10 @@
 ---
 title: "外汇新手如何正确做单？"
 post_status: publish
+post_date: 2023-06-19 09:55:40
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

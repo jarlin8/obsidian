@@ -1,7 +1,10 @@
 ---
 title: "做趋势交易时，均线止盈和移动止盈，请问哪个效果比较好?"
 post_status: publish
+post_date: 2023-11-23 16:58:55
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

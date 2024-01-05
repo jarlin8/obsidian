@@ -1,7 +1,10 @@
 ---
 title: "抄底原油黄金持续爆仓心态已经崩了，是该出局，还是振作继续下去？"
 post_status: publish
+post_date: 2023-08-31 07:55:52
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

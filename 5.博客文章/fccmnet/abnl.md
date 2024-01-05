@@ -1,7 +1,10 @@
 ---
 title: "AETOS平台怎么样，AETOS外汇可信吗？"
 post_status: publish
+post_date: 2023-08-21 18:12:50
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

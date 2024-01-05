@@ -1,7 +1,10 @@
 ---
 title: "MACD技术指标是不是很常用有"
 post_status: publish
+post_date: 2023-07-23 19:13:54
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

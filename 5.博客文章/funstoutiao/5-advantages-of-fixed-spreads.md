@@ -1,7 +1,10 @@
 ---
 title: "什么是固定点差？『固定点差的5大优点』"
 post_status: publish
+post_date: 2023-12-24 22:39:00
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "toutiao"

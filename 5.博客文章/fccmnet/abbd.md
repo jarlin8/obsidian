@@ -1,7 +1,10 @@
 ---
 title: "炒汇是运气重要还是心态重要"
 post_status: publish
+post_date: 2023-12-27 05:59:25
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

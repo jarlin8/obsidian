@@ -1,7 +1,10 @@
 ---
 title: "外汇投资入门需要些什么"
 post_status: publish
+post_date: 2023-09-12 19:04:18
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "外汇交易中的“羊群效应”是什么？"
 post_status: publish
+post_date: 2023-10-04 06:15:33
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

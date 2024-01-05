@@ -1,7 +1,10 @@
 ---
 title: "经纪商会全面退出中国？有这种可能吗?"
 post_status: publish
+post_date: 2023-11-01 05:45:55
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

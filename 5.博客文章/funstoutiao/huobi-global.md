@@ -1,7 +1,10 @@
 ---
 title: "Huobi Global火币网外汇平台开户测评"
 post_status: publish
+post_date: 2023-07-28 17:15:54
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "toutiao-basic"

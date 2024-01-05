@@ -1,7 +1,10 @@
 ---
 title: "上海黄金交易所td收盘价如何计算"
 post_status: publish
+post_date: 2023-11-09 01:05:31
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "做了五年的交易亏光了所有，在投资市场里到底有没有致富的希望?"
 post_status: publish
+post_date: 2023-11-03 03:14:12
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

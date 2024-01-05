@@ -1,7 +1,10 @@
 ---
 title: "成功的外汇交易都有什么原则"
 post_status: publish
+post_date: 2023-11-12 06:38:58
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

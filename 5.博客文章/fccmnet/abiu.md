@@ -1,7 +1,10 @@
 ---
 title: "KDJ指标为什么受欢迎"
 post_status: publish
+post_date: 2023-09-22 10:09:24
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

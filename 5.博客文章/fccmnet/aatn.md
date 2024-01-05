@@ -1,7 +1,10 @@
 ---
 title: "纽约黄金期货实时行情怎么样了"
 post_status: publish
+post_date: 2023-08-26 11:48:19
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

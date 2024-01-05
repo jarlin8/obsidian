@@ -1,7 +1,10 @@
 ---
 title: "MACD指标的几种形式分别是什么"
 post_status: publish
+post_date: 2023-08-06 13:52:03
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

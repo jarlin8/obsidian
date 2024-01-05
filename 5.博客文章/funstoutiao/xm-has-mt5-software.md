@@ -1,7 +1,10 @@
 ---
 title: "XM外汇有MT5软件吗？怎么样访问？平台"
 post_status: publish
+post_date: 2023-12-04 17:24:40
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

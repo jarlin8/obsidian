@@ -1,7 +1,10 @@
 ---
 title: "左侧交易和右侧交易能结合吗?"
 post_status: publish
+post_date: 2023-12-11 11:48:58
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

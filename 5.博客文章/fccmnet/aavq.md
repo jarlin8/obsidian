@@ -1,7 +1,10 @@
 ---
 title: "黄金投资如何避开交易风险"
 post_status: publish
+post_date: 2023-10-01 00:03:33
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

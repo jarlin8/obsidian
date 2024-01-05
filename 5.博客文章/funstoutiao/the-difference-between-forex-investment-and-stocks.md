@@ -1,7 +1,10 @@
 ---
 title: "外汇投资与股票的区别有哪些？"
 post_status: publish
+post_date: 2023-12-14 09:04:48
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

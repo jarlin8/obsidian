@@ -1,7 +1,10 @@
 ---
 title: "ATFX外汇平台炒外汇原油靠谱吗"
 post_status: publish
+post_date: 2023-10-09 07:57:19
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

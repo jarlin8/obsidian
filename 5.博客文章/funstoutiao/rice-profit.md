@@ -1,7 +1,10 @@
 ---
 title: "大神们知道交易怎么提高盈利率吗?"
 post_status: publish
+post_date: 2023-10-28 19:07:37
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

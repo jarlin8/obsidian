@@ -1,7 +1,10 @@
 ---
 title: "外汇平台上的交易是否受到监管？"
 post_status: publish
+post_date: 2023-10-26 01:13:58
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

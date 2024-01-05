@@ -1,7 +1,10 @@
 ---
 title: 嘉盛集团怎么样，对比其他平台，竞争优势在哪里？
 post_status: publish
+post_date: 2023-12-23 14:18:12
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - forex-com

@@ -1,7 +1,10 @@
 ---
 title: "作为交易员，你会选择STP平台、MM平台还是ECN平台?"
 post_status: publish
+post_date: 2023-09-16 13:01:50
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

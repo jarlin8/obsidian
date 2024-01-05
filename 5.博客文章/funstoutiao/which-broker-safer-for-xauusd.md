@@ -1,7 +1,10 @@
 ---
 title: "哪家原油外汇黄金投资平台安全"
 post_status: publish
+post_date: 2023-12-20 00:24:25
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

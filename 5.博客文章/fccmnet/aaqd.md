@@ -1,7 +1,10 @@
 ---
 title: "外汇保证金交易 能否使用马丁格尔策略 如何用才好"
 post_status: publish
+post_date: 2023-06-19 05:45:28
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

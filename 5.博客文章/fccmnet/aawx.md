@@ -1,7 +1,10 @@
 ---
 title: "黄金期货开户后要多少资金才可以进行交易"
 post_status: publish
+post_date: 2023-11-06 17:58:20
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

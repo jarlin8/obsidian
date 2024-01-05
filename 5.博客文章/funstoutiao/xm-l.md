@@ -1,7 +1,10 @@
 ---
 title: "XM有什么特别的地方"
 post_status: publish
+post_date: 2023-10-19 01:35:22
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

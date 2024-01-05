@@ -1,7 +1,10 @@
 ---
 title: "外汇能不能赚钱呢"
 post_status: publish
+post_date: 2023-11-01 11:14:37
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

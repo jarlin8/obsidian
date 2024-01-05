@@ -1,7 +1,10 @@
 ---
 title: "实物黄金投资有哪些好处"
 post_status: publish
+post_date: 2023-10-09 09:00:04
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

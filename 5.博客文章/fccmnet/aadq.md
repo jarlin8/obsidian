@@ -1,7 +1,10 @@
 ---
 title: "成功的业余外汇交易者需要什么"
 post_status: publish
+post_date: 2023-10-20 23:07:25
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

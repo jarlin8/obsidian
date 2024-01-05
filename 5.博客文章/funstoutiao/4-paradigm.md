@@ -1,7 +1,10 @@
 ---
 title: "第四范式：AI独角兽第四范式赴港递表"
 post_status: publish
+post_date: 2023-12-06 00:21:11
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "guide"

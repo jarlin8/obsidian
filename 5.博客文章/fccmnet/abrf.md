@@ -1,7 +1,10 @@
 ---
 title: "外汇交易一般用多少倍杠杆"
 post_status: publish
+post_date: 2023-07-08 23:26:38
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

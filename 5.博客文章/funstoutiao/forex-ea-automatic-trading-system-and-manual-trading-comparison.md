@@ -1,7 +1,10 @@
 ---
 title: "外汇EA自动交易系统与人工交易对比有优势吗？"
 post_status: publish
+post_date: 2023-10-10 04:07:52
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

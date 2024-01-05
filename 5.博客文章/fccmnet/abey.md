@@ -1,7 +1,10 @@
 ---
 title: "澳汇外汇平台是英国监管吗"
 post_status: publish
+post_date: 2023-11-22 00:17:34
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

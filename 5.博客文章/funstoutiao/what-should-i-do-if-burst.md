@@ -1,7 +1,10 @@
 ---
 title: "快爆仓了怎么办?"
 post_status: publish
+post_date: 2023-10-09 21:53:05
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

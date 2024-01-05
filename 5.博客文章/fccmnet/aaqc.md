@@ -1,7 +1,10 @@
 ---
 title: "外汇交易中的杠杆是怎么一回事"
 post_status: publish
+post_date: 2023-07-30 04:44:15
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

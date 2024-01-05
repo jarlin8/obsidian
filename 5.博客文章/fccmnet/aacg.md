@@ -1,7 +1,10 @@
 ---
 title: "一个普通人成为职业操盘手的几率有多大"
 post_status: publish
+post_date: 2023-09-17 03:17:49
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

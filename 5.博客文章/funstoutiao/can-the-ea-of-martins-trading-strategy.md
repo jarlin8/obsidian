@@ -1,7 +1,10 @@
 ---
 title: "马丁交易策略的EA是否能长期稳定盈利?"
 post_status: publish
+post_date: 2023-12-08 09:07:04
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

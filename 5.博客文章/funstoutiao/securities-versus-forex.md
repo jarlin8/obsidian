@@ -1,7 +1,10 @@
 ---
 title: "股票每年都能赚钱，而外汇交易则每年都亏钱，为啥呀？"
 post_status: publish
+post_date: 2023-09-02 02:18:17
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

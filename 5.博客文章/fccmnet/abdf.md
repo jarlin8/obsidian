@@ -1,7 +1,10 @@
 ---
 title: "不成功的投资者都暴露出哪些问题"
 post_status: publish
+post_date: 2023-08-07 04:03:24
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

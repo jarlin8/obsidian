@@ -1,7 +1,10 @@
 ---
 title: "一把辛酸泪啊，做交易五年了，还是亏，怎么办?"
 post_status: publish
+post_date: 2023-12-06 04:03:40
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

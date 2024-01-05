@@ -1,7 +1,10 @@
 ---
 title: "做交易什么样的系统才能精准定位支撑阻力和趋势?"
 post_status: publish
+post_date: 2023-07-03 00:04:57
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

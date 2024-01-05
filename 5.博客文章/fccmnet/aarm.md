@@ -1,7 +1,10 @@
 ---
 title: "现货黄金交易基础内容是什么"
 post_status: publish
+post_date: 2023-06-25 13:16:20
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

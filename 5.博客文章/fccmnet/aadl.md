@@ -1,7 +1,10 @@
 ---
 title: "成为外汇操盘手需要具备哪些技能"
 post_status: publish
+post_date: 2023-08-10 15:54:05
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

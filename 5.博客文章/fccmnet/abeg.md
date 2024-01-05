@@ -1,7 +1,10 @@
 ---
 title: "保证金交易资金管理的原则是什么"
 post_status: publish
+post_date: 2023-12-10 08:58:54
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

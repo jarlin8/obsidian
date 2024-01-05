@@ -1,7 +1,10 @@
 ---
 title: "人民币贬值是投入外汇理财的时机吗"
 post_status: publish
+post_date: 2023-10-18 10:48:11
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

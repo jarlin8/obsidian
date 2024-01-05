@@ -1,7 +1,10 @@
 ---
 title: "炒黄金需要多少钱"
 post_status: publish
+post_date: 2023-07-02 15:21:39
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "为什么一些人要去喊单？他要是靠交易能赚到钱，还用去喊单?"
 post_status: publish
+post_date: 2023-12-10 09:10:12
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

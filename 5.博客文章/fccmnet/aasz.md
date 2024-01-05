@@ -1,7 +1,10 @@
 ---
 title: "如何有效地规避黄金投资的风险"
 post_status: publish
+post_date: 2023-09-17 08:36:02
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

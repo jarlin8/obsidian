@@ -1,7 +1,10 @@
 ---
 title: "黄金走势图k线怎么看"
 post_status: publish
+post_date: 2023-08-10 19:49:29
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

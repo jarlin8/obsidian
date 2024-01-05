@@ -1,7 +1,10 @@
 ---
 title: "黄金投资观点有哪些合适的"
 post_status: publish
+post_date: 2023-07-10 07:02:12
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

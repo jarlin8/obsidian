@@ -1,7 +1,10 @@
 ---
 title: "什么是黄金储备"
 post_status: publish
+post_date: 2023-12-28 12:37:26
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

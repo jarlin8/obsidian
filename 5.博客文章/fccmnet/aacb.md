@@ -1,7 +1,10 @@
 ---
 title: "弹性系数与贸易逆差是什么"
 post_status: publish
+post_date: 2023-12-29 06:59:15
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

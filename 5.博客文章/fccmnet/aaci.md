@@ -1,7 +1,10 @@
 ---
 title: "存款准备金率是如何对冲外汇占款的货币投放量的"
 post_status: publish
+post_date: 2023-12-12 09:07:22
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

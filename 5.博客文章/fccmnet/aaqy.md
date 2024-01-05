@@ -1,7 +1,10 @@
 ---
 title: "银行能否存放实物黄金"
 post_status: publish
+post_date: 2023-12-04 08:52:15
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

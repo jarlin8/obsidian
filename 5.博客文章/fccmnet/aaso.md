@@ -1,7 +1,10 @@
 ---
 title: "什么叫纸黄金"
 post_status: publish
+post_date: 2023-11-14 04:55:25
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

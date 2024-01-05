@@ -1,7 +1,10 @@
 ---
 title: "炒外汇是比拼什么能力和技术的？"
 post_status: publish
+post_date: 2023-09-21 15:06:30
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

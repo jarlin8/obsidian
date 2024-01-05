@@ -1,7 +1,10 @@
 ---
 title: "参加工作做外汇交易，有出路吗"
 post_status: publish
+post_date: 2023-07-11 16:14:43
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

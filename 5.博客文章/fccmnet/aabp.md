@@ -1,7 +1,10 @@
 ---
 title: "短期外汇怎么看盘面有什么技巧吗"
 post_status: publish
+post_date: 2023-10-13 16:58:30
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

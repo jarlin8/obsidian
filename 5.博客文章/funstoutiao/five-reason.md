@@ -1,7 +1,10 @@
 ---
 title: "永远不要买垃圾股的5个原因#投资的头号法则"
 post_status: publish
+post_date: 2023-09-16 12:04:48
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forexbook"

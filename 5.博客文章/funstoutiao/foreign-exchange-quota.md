@@ -1,7 +1,10 @@
 ---
 title: "什么是外汇额度？"
 post_status: publish
+post_date: 2023-06-28 07:45:26
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

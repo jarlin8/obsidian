@@ -1,7 +1,10 @@
 ---
 title: "如何选择外汇交易平台"
 post_status: publish
+post_date: 2023-12-15 17:08:08
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "MACD指标实战技巧有哪些"
 post_status: publish
+post_date: 2023-11-24 00:21:29
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

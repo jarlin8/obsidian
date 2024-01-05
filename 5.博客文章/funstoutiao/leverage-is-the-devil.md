@@ -1,7 +1,10 @@
 ---
 title: "外汇交易中的杠杆是魔鬼吗？怎么克服杠杆风险？"
 post_status: publish
+post_date: 2023-06-20 01:35:40
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

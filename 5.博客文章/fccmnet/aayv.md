@@ -1,7 +1,10 @@
 ---
 title: "个人怎么投资黄金比较合适"
 post_status: publish
+post_date: 2023-08-22 03:20:13
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

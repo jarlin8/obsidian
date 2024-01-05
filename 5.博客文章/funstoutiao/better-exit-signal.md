@@ -1,7 +1,10 @@
 ---
 title: "有没有比较贴切行情的客观的出场信号?"
 post_status: publish
+post_date: 2023-09-08 05:39:26
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

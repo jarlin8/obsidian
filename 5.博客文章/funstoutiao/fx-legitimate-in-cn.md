@@ -1,7 +1,10 @@
 ---
 title: "炒外汇在中国合法吗"
 post_status: publish
+post_date: 2023-08-11 07:11:27
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

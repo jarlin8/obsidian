@@ -1,7 +1,10 @@
 ---
 title: "交易系统的构建该从哪些方面去考虑?"
 post_status: publish
+post_date: 2023-07-21 23:10:25
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

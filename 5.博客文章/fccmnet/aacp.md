@@ -1,7 +1,10 @@
 ---
 title: "从技术面看基本面的影响是可行的吗"
 post_status: publish
+post_date: 2023-06-23 16:38:23
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

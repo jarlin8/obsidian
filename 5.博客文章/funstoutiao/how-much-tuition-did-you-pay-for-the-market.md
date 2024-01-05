@@ -1,7 +1,10 @@
 ---
 title: "交易到现在，你为市场交了多少“学费”?"
 post_status: publish
+post_date: 2023-07-14 09:51:23
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

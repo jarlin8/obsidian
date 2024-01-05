@@ -1,7 +1,10 @@
 ---
 title: "你觉得在做交易这条路上你觉得最艰难的是什么?"
 post_status: publish
+post_date: 2023-10-24 19:46:14
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

@@ -1,7 +1,10 @@
 ---
 title: "你们还记得自己交易，第一次爆仓时的感受吗?"
 post_status: publish
+post_date: 2023-10-11 01:01:10
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

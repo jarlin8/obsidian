@@ -1,7 +1,10 @@
 ---
 title: "MT4挂单中有哪几种方式？怎么下挂单?"
 post_status: publish
+post_date: 2023-09-30 19:01:21
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

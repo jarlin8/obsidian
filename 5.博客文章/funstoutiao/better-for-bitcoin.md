@@ -1,7 +1,10 @@
 ---
 title: "比特币投资那个平台好"
 post_status: publish
+post_date: 2023-11-13 13:44:58
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

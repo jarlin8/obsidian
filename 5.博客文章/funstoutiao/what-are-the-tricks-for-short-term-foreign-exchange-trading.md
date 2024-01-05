@@ -1,7 +1,10 @@
 ---
 title: "外汇短线交易的绝招有哪些？"
 post_status: publish
+post_date: 2023-06-25 01:15:18
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

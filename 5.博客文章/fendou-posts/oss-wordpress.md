@@ -1,7 +1,10 @@
 ---
 title: 7 个有用的 wordpress 图片云储存方案
 post_status: publish
+post_date: 2023-12-18 10:20:00
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - everyday

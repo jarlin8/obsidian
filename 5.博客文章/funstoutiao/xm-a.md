@@ -1,7 +1,10 @@
 ---
 title: "XM初学者选哪个账户比较好"
 post_status: publish
+post_date: 2023-09-05 15:51:37
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -1,7 +1,10 @@
 ---
 title: "XM无手续费交易账户怎么开设"
 post_status: publish
+post_date: 2023-12-15 22:55:03
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

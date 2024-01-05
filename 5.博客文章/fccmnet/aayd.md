@@ -1,7 +1,10 @@
 ---
 title: "黄金ETF和现货黄金之间的区别是什么"
 post_status: publish
+post_date: 2023-08-22 11:53:41
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

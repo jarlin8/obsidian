@@ -1,7 +1,10 @@
 ---
 title: "大资金和小资金交易的区别有哪些?"
 post_status: publish
+post_date: 2023-07-31 04:27:08
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

@@ -1,7 +1,10 @@
 ---
 title: "艾略特波浪理论的5-3浪形态怎么理解？"
 post_status: publish
+post_date: 2023-09-12 04:02:27
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

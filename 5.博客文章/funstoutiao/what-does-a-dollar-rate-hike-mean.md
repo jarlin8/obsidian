@@ -1,7 +1,10 @@
 ---
 title: "美元加息意味什么？"
 post_status: publish
+post_date: 2023-12-28 00:25:56
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

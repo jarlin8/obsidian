@@ -1,7 +1,10 @@
 ---
 title: "怎样选择一个比较合适的交易平台呢?"
 post_status: publish
+post_date: 2023-08-16 16:09:35
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

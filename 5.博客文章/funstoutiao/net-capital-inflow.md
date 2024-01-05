@@ -1,7 +1,10 @@
 ---
 title: "国际资本净流入会使汇率上升吗？"
 post_status: publish
+post_date: 2023-10-26 19:49:22
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -1,7 +1,10 @@
 ---
 title: "布林通道指标基本定义是怎样的"
 post_status: publish
+post_date: 2023-12-26 08:23:16
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

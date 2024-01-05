@@ -1,7 +1,10 @@
 ---
 title: "黄金投资要注意哪些事项"
 post_status: publish
+post_date: 2023-10-14 10:11:59
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

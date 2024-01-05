@@ -1,7 +1,10 @@
 ---
 title: "为什么网上那么多分析师，天天说喊单，感觉跟着他们能发大财，其实你交了学费只要一跟单都是亏钱的?"
 post_status: publish
+post_date: 2023-07-06 18:10:48
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

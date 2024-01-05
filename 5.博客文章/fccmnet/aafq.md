@@ -1,7 +1,10 @@
 ---
 title: "新手入门外汇从什么开始认识"
 post_status: publish
+post_date: 2023-10-18 23:42:20
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "日本1925-1936年案例"
 post_status: publish
+post_date: 2023-09-08 15:38:40
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forexbook"

@@ -1,7 +1,10 @@
 ---
 title: "什么是外汇平台？"
 post_status: publish
+post_date: 2023-11-24 19:36:55
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "你觉得最重要的技术工具是什么？"
 post_status: publish
+post_date: 2023-12-22 04:22:43
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

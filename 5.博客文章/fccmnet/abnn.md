@@ -1,7 +1,10 @@
 ---
 title: "Secret Bitcoin mining facilities discovered in Bhutan's remote mountain kingdom"
 post_status: publish
+post_date: 2023-09-15 02:48:40
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "news"

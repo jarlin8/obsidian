@@ -1,7 +1,10 @@
 ---
 title: "HYCM兴业平台MT4交易安全可靠吗？"
 post_status: publish
+post_date: 2023-08-27 12:24:29
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

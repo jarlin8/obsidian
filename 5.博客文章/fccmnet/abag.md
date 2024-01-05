@@ -1,7 +1,10 @@
 ---
 title: "炒黄金减少亏损有什么方法"
 post_status: publish
+post_date: 2023-10-03 07:46:00
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

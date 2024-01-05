@@ -1,7 +1,10 @@
 ---
 title: "为什么生成式人工智能不能解决你的云计算支出问题？"
 post_status: publish
+post_date: 2023-07-23 07:48:28
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "toutiao"

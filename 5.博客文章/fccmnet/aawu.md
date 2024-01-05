@@ -1,7 +1,10 @@
 ---
 title: "黄金期货开户门槛和最低交易金额是多少"
 post_status: publish
+post_date: 2023-07-03 03:45:58
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

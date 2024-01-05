@@ -1,7 +1,10 @@
 ---
 title: "当发现自己的交易策略无法应对市场时，要如何完善自己的交易策略?"
 post_status: publish
+post_date: 2023-08-09 23:55:16
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

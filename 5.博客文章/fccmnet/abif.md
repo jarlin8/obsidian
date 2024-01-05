@@ -1,7 +1,10 @@
 ---
 title: "K线形态十字星分析要注意什么"
 post_status: publish
+post_date: 2023-06-24 01:13:36
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

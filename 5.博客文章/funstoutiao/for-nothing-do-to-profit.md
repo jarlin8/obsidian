@@ -1,7 +1,10 @@
 ---
 title: "做交易是想不劳而获还是这真的是你的理想?"
 post_status: publish
+post_date: 2023-06-25 11:29:12
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

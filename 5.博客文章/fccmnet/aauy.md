@@ -1,7 +1,10 @@
 ---
 title: "黄金投资指导要怎么做"
 post_status: publish
+post_date: 2023-08-10 14:03:21
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

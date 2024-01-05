@@ -1,7 +1,10 @@
 ---
 title: "国际黄金期货开户怎么开"
 post_status: publish
+post_date: 2023-10-05 00:56:43
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

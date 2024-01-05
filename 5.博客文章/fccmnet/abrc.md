@@ -1,7 +1,10 @@
 ---
 title: "国际外汇投资是骗局吗"
 post_status: publish
+post_date: 2023-09-06 08:39:00
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

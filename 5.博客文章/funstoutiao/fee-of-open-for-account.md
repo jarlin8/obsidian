@@ -1,7 +1,10 @@
 ---
 title: "外汇开户费用最低多少?"
 post_status: publish
+post_date: 2023-10-12 20:01:17
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

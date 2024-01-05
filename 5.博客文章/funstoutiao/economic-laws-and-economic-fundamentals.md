@@ -1,7 +1,10 @@
 ---
 title: "关于经济规律和经济基本面你们怎么看？"
 post_status: publish
+post_date: 2023-10-23 20:35:16
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

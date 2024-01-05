@@ -1,7 +1,10 @@
 ---
 title: "外汇交易常用的平台有哪些"
 post_status: publish
+post_date: 2023-10-12 22:38:08
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

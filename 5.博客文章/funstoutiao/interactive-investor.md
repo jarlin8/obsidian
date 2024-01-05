@@ -1,7 +1,10 @@
 ---
 title: "Interactive Investor外汇交易平台测评"
 post_status: publish
+post_date: 2023-12-16 05:35:47
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "toutiao-basic"

@@ -1,7 +1,10 @@
 ---
 title: "MT4价位警报怎么设置警报"
 post_status: publish
+post_date: 2023-09-16 21:48:04
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

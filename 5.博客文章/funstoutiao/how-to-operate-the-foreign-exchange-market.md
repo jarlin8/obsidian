@@ -1,7 +1,10 @@
 ---
 title: "西方国家是怎样进行外汇市场操作的？"
 post_status: publish
+post_date: 2023-11-26 18:52:58
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

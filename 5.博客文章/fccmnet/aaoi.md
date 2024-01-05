@@ -1,7 +1,10 @@
 ---
 title: "谁来科普一下外汇交易"
 post_status: publish
+post_date: 2023-11-18 04:58:17
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

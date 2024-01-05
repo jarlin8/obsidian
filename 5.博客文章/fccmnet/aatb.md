@@ -1,7 +1,10 @@
 ---
 title: "如何精确判断黄金支撑位和阻力位"
 post_status: publish
+post_date: 2023-12-29 06:05:01
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

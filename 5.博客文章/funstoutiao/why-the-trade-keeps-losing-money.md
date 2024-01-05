@@ -1,7 +1,10 @@
 ---
 title: "交易一直亏损的原因是什么?"
 post_status: publish
+post_date: 2023-12-13 03:14:31
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

@@ -1,7 +1,10 @@
 ---
 title: "英镑日元的操作技巧是怎么样的？"
 post_status: publish
+post_date: 2023-12-07 00:05:03
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

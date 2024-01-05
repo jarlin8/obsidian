@@ -1,7 +1,10 @@
 ---
 title: "持仓差的计算方法是什么 持仓差怎么计算"
 post_status: publish
+post_date: 2023-09-03 06:15:21
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

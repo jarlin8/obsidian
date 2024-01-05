@@ -1,7 +1,10 @@
 ---
 title: "UFX外汇交易平台开户测评"
 post_status: publish
+post_date: 2023-10-29 16:23:08
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "toutiao-basic"

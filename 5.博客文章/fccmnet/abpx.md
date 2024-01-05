@@ -1,7 +1,10 @@
 ---
 title: "教你7个在外汇交易中轻松战胜恐惧的方法！"
 post_status: publish
+post_date: 2023-12-29 05:05:54
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

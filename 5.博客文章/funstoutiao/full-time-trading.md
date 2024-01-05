@@ -1,7 +1,10 @@
 ---
 title: "昨天辞职，月底到期，想全职做交易，也不知道这条路能走多远?"
 post_status: publish
+post_date: 2023-10-02 15:31:25
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

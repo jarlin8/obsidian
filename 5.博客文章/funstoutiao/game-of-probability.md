@@ -1,7 +1,10 @@
 ---
 title: "为什么盈亏百分之50概率游戏，却有百分之90的人亏?"
 post_status: publish
+post_date: 2023-10-05 07:38:41
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

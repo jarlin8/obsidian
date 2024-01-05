@@ -1,7 +1,10 @@
 ---
 title: "KDJ指标中的随机指标怎么理解"
 post_status: publish
+post_date: 2023-06-24 22:13:41
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

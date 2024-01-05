@@ -1,7 +1,10 @@
 ---
 title: "黄金投资爆仓的原因是什么"
 post_status: publish
+post_date: 2023-06-23 07:23:00
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

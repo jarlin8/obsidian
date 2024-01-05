@@ -1,7 +1,10 @@
 ---
 title: "各位前辈请教一下什么叫做剥头皮交易?"
 post_status: publish
+post_date: 2023-11-17 05:31:21
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

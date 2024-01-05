@@ -1,7 +1,10 @@
 ---
 title: "ecn模式的外汇平台适合哪些类型的投资者？"
 post_status: publish
+post_date: 2023-08-24 00:21:31
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

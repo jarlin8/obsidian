@@ -1,7 +1,10 @@
 ---
 title: 用嘉盛集团外汇账户做交易有什么需要注意的？
 post_status: publish
+post_date: 2023-08-18 04:25:49
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - forex-com

@@ -1,7 +1,10 @@
 ---
 title: "银行换外汇为什么会亏"
 post_status: publish
+post_date: 2023-12-01 10:40:08
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

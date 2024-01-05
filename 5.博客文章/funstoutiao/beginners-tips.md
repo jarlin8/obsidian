@@ -1,7 +1,10 @@
 ---
 title: "老哥们有没有什么好的建议，让像我这种新手汇友少走一些弯路的"
 post_status: publish
+post_date: 2023-12-07 16:47:30
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

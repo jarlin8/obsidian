@@ -1,7 +1,10 @@
 ---
 title: "上海黄金期货交易所行情趋势如何"
 post_status: publish
+post_date: 2023-08-27 10:48:02
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

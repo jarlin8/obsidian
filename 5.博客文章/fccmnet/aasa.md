@@ -1,7 +1,10 @@
 ---
 title: "投资黄金白银应该做什么心理准备"
 post_status: publish
+post_date: 2023-12-23 10:22:39
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

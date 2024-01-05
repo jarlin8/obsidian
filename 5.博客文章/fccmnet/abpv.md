@@ -1,7 +1,10 @@
 ---
 title: "如何利用货币相关性进行交易？这很重要！但许多人忽视了它。"
 post_status: publish
+post_date: 2023-09-13 23:03:01
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

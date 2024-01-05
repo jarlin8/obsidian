@@ -1,7 +1,10 @@
 ---
 title: "你是从什么时候开始觉得交易并没有那么复杂的?"
 post_status: publish
+post_date: 2023-08-16 15:33:44
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

@@ -1,7 +1,10 @@
 ---
 title: 截断亏损让利润奔跑，这句话难道没有问题吗?
 post_status: publish
+post_date: 2023-09-10 04:49:42
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
     - ganhuo

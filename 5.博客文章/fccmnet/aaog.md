@@ -1,7 +1,10 @@
 ---
 title: "炒外汇的人只有10%能赚到钱 那我是否不应该炒外汇"
 post_status: publish
+post_date: 2023-11-04 20:23:49
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

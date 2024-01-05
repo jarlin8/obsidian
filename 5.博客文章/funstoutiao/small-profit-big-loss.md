@@ -1,7 +1,10 @@
 ---
 title: "各位汇友，怎么去解决小赚大亏的情况?"
 post_status: publish
+post_date: 2023-12-04 11:42:14
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

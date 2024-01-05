@@ -1,7 +1,10 @@
 ---
 title: "比特币暴涨了会影响外汇市场吗"
 post_status: publish
+post_date: 2023-07-06 17:27:13
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

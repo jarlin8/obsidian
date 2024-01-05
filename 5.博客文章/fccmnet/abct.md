@@ -1,7 +1,10 @@
 ---
 title: "操盘有哪些经验可以学习"
 post_status: publish
+post_date: 2023-12-20 01:18:22
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

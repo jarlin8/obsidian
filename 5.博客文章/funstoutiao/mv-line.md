@@ -1,7 +1,10 @@
 ---
 title: "如何使用移动平均线，怎么与K线分析结合比较好？"
 post_status: publish
+post_date: 2023-06-19 21:45:03
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

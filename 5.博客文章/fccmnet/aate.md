@@ -1,7 +1,10 @@
 ---
 title: "如何炒纸黄金可以规避风险"
 post_status: publish
+post_date: 2023-12-23 03:58:20
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

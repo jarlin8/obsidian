@@ -1,7 +1,10 @@
 ---
 title: "做外汇是怎么赚钱的"
 post_status: publish
+post_date: 2023-11-21 23:07:17
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

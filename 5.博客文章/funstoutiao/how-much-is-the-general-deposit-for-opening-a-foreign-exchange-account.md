@@ -1,7 +1,10 @@
 ---
 title: "炒外汇开户一般入金多少？"
 post_status: publish
+post_date: 2023-10-01 13:05:47
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

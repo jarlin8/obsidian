@@ -1,7 +1,10 @@
 ---
 title: "如何找出稳定的支撑阻力?"
 post_status: publish
+post_date: 2023-07-15 03:53:23
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

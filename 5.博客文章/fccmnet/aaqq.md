@@ -1,7 +1,10 @@
 ---
 title: "股票 期货 外汇交易赚钱的根本路径是什么"
 post_status: publish
+post_date: 2023-08-01 18:13:25
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

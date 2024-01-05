@@ -1,7 +1,10 @@
 ---
 title: "交易者如何实现财务自由?"
 post_status: publish
+post_date: 2023-06-23 21:23:29
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

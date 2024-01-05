@@ -1,7 +1,10 @@
 ---
 title: "波浪理论的基本观点是什么"
 post_status: publish
+post_date: 2023-10-26 20:03:32
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

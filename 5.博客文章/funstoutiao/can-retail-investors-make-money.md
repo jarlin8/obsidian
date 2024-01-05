@@ -1,7 +1,10 @@
 ---
 title: "散户模仿大机构的做单手法，能赚钱吗?"
 post_status: publish
+post_date: 2023-09-01 15:51:35
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

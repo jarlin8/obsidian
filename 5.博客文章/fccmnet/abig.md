@@ -1,7 +1,10 @@
 ---
 title: "k线形态分析方法有哪些"
 post_status: publish
+post_date: 2023-09-05 17:48:00
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

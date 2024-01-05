@@ -1,7 +1,10 @@
 ---
 title: "AO-动能指标是什么？动能指标还有其他的吗？"
 post_status: publish
+post_date: 2023-06-22 08:40:50
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

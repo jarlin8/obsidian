@@ -1,7 +1,10 @@
 ---
 title: "波浪理论短线应该怎么做"
 post_status: publish
+post_date: 2023-10-19 11:23:44
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

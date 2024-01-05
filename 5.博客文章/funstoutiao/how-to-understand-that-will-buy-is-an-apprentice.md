@@ -1,7 +1,10 @@
 ---
 title: "如何理解“会买是徒弟，会卖是师傅”这句话?"
 post_status: publish
+post_date: 2023-08-15 14:53:08
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

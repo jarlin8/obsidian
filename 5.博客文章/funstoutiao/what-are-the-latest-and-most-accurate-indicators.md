@@ -1,7 +1,10 @@
 ---
 title: "目前最新也较准的指标有哪些呢?"
 post_status: publish
+post_date: 2023-07-09 13:37:44
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

@@ -1,7 +1,10 @@
 ---
 title: "中国 3.2 万亿美元的外汇储备为什么不能用来援助其他国家"
 post_status: publish
+post_date: 2023-07-01 03:42:46
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "通过研究交易大赛冠军的交易记录真的能提升自己的交易水平吗?"
 post_status: publish
+post_date: 2023-07-02 23:33:03
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

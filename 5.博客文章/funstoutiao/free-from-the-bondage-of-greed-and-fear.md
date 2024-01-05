@@ -1,7 +1,10 @@
 ---
 title: "摆脱贪婪与恐惧的束缚：7招成为稳健理智的交易者"
 post_status: publish
+post_date: 2023-10-12 23:31:02
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "experience"

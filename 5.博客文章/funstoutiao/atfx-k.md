@@ -1,7 +1,10 @@
 ---
 title: "ATFX外汇平台正规受监管吗 吗"
 post_status: publish
+post_date: 2023-12-07 11:27:57
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

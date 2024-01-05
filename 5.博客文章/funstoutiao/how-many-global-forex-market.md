@@ -1,7 +1,10 @@
 ---
 title: "全球外汇交易市场有哪些？"
 post_status: publish
+post_date: 2023-11-18 15:02:39
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -1,7 +1,10 @@
 ---
 title: 用嘉盛集团开户炒外汇合法吗？
 post_status: publish
+post_date: 2023-12-25 09:44:11
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - forex-com

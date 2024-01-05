@@ -1,7 +1,10 @@
 ---
 title: "做黄金外汇平台选择在那个平台做呢"
 post_status: publish
+post_date: 2023-09-18 03:42:08
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -1,7 +1,10 @@
 ---
 title: "成为国际货币的好处有哪些"
 post_status: publish
+post_date: 2023-08-20 21:19:45
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

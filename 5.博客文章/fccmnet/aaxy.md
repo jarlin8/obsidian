@@ -1,7 +1,10 @@
 ---
 title: "黄金持仓盈亏与平仓盈亏有什么不同"
 post_status: publish
+post_date: 2023-09-14 02:52:01
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

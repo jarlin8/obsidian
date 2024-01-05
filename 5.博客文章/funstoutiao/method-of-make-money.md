@@ -1,7 +1,10 @@
 ---
 title: "赢利只是一个旅程,而非目的地 [交易经验]"
 post_status: publish
+post_date: 2023-07-08 23:09:47
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "experience"

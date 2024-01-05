@@ -1,7 +1,10 @@
 ---
 title: "为什么学了很多技术指标仍然做不好交易?"
 post_status: publish
+post_date: 2023-08-30 01:27:46
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

@@ -1,7 +1,10 @@
 ---
 title: "外汇日内交易看1h 还是4h 或者30m"
 post_status: publish
+post_date: 2023-12-18 14:59:07
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

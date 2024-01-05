@@ -1,7 +1,10 @@
 ---
 title: 用嘉盛集团外汇平台炒外汇美原油靠谱吗？
 post_status: publish
+post_date: 2023-09-16 11:20:21
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - forex-com

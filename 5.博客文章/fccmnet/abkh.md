@@ -1,7 +1,10 @@
 ---
 title: "FXTM受到哪些机构的监管"
 post_status: publish
+post_date: 2023-12-24 21:48:57
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

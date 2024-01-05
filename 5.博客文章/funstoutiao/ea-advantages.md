@@ -1,7 +1,10 @@
 ---
 title: "请问下利用EA交易有什么优势?"
 post_status: publish
+post_date: 2023-06-30 10:04:17
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

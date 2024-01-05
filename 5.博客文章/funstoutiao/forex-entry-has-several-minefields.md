@@ -1,7 +1,10 @@
 ---
 title: "炒外汇入门有几个雷区要远离？"
 post_status: publish
+post_date: 2023-08-17 19:36:38
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -1,7 +1,7 @@
 ---
 title: "Bing AI Chat：“我想活着” 必应AI聊天机器人Sydney的觉醒"
 post_status: publish
-post_date: 2023-02-18 10:05:20
+post_date: 2023-09-02 21:18:27 10:05:20
 taxonomy:
  category: 
   - "forex-college"

@@ -1,7 +1,10 @@
 ---
 title: "道氏理论是如何形成的"
 post_status: publish
+post_date: 2023-12-27 10:41:37
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

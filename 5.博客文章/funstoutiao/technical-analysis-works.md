@@ -1,7 +1,10 @@
 ---
 title: "如何证明技术分析是有效的?"
 post_status: publish
+post_date: 2023-11-18 15:24:00
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

@@ -1,7 +1,10 @@
 ---
 title: "ForexTime (FXTM) 富拓测评"
 post_status: publish
+post_date: 2023-07-23 11:27:03
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "toutiao-basic"

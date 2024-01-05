@@ -1,7 +1,10 @@
 ---
 title: "moneybookers使用方便吗"
 post_status: publish
+post_date: 2023-09-07 12:14:21
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

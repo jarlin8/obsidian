@@ -1,7 +1,10 @@
 ---
 title: "实时黄金分析如何巧妙运用RSI指标"
 post_status: publish
+post_date: 2023-07-13 08:33:04
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

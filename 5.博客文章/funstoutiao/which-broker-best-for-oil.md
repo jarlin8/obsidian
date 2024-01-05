@@ -1,7 +1,10 @@
 ---
 title: "原油投资那个平台好"
 post_status: publish
+post_date: 2023-10-17 11:22:08
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

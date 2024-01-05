@@ -1,7 +1,10 @@
 ---
 title: "炒黄金和炒股票哪个更容易"
 post_status: publish
+post_date: 2023-11-11 21:59:45
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

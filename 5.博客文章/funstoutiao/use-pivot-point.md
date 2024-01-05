@@ -1,7 +1,10 @@
 ---
 title: "进行外汇交易如何利用枢轴点？"
 post_status: publish
+post_date: 2023-08-15 03:31:30
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

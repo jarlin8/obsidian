@@ -1,7 +1,10 @@
 ---
 title: "初学者怎样炒外汇"
 post_status: publish
+post_date: 2023-08-18 14:09:59
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

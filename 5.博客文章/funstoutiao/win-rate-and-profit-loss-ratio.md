@@ -1,7 +1,10 @@
 ---
 title: "胜率和盈亏比，你更看重哪一个?"
 post_status: publish
+post_date: 2023-10-26 04:28:44
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

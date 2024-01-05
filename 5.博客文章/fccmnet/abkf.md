@@ -1,7 +1,10 @@
 ---
 title: "fxtm富拓外汇平台提供了哪些交易软件和工具"
 post_status: publish
+post_date: 2023-12-15 19:50:10
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

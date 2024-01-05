@@ -1,7 +1,10 @@
 ---
 title: 揭秘科技投资新利器：Gartner技术成熟度曲线助您识别潜力股
 post_status: publish
+post_date: 2023-09-13 07:34:05
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - toutiao

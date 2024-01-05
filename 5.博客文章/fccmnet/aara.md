@@ -1,7 +1,10 @@
 ---
 title: "新手怎么提高炒黄金的能力"
 post_status: publish
+post_date: 2023-11-13 02:33:49
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

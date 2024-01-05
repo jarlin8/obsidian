@@ -1,7 +1,10 @@
 ---
 title: "持仓盈亏是赚到的钱吗"
 post_status: publish
+post_date: 2023-10-15 12:48:08
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

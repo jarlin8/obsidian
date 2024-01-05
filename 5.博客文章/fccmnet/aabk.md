@@ -1,7 +1,10 @@
 ---
 title: "对待风险及利润的态度应该怎么区分"
 post_status: publish
+post_date: 2023-11-07 04:49:35
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

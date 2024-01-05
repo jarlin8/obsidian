@@ -1,7 +1,10 @@
 ---
 title: "现货黄金投资秘诀有哪些"
 post_status: publish
+post_date: 2023-08-02 14:28:19
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

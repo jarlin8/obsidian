@@ -1,7 +1,10 @@
 ---
 title: "外汇交易有哪些合法平台GTC外汇平台怎么样"
 post_status: publish
+post_date: 2023-08-23 18:34:13
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

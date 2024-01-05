@@ -1,7 +1,10 @@
 ---
 title: "外汇白标公司是干嘛的"
 post_status: publish
+post_date: 2023-10-03 09:09:17
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

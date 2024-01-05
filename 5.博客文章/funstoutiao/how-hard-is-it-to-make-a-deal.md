@@ -1,7 +1,10 @@
 ---
 title: "做交易到底难在哪里?"
 post_status: publish
+post_date: 2023-08-12 23:24:30
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

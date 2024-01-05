@@ -1,7 +1,10 @@
 ---
 title: "投资黄金ETF有何好处"
 post_status: publish
+post_date: 2023-11-18 19:05:46
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

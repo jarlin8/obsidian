@@ -1,7 +1,10 @@
 ---
 title: "当天挂牌汇率是什么意思"
 post_status: publish
+post_date: 2023-10-12 10:56:00
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

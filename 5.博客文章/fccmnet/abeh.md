@@ -1,7 +1,10 @@
 ---
 title: "保证金交易适合做长线交易还是短线交易"
 post_status: publish
+post_date: 2023-07-02 18:29:17
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

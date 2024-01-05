@@ -1,7 +1,10 @@
 ---
 title: "新手炒现货黄金有什么讲究"
 post_status: publish
+post_date: 2023-11-03 11:45:07
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

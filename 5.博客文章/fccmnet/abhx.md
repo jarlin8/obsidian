@@ -1,7 +1,10 @@
 ---
 title: "LIBOR利率对外汇交易有什么影响"
 post_status: publish
+post_date: 2023-07-16 20:08:45
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

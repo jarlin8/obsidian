@@ -1,7 +1,10 @@
 ---
 title: "程式交易员如何提高获利能力"
 post_status: publish
+post_date: 2023-12-13 20:28:45
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

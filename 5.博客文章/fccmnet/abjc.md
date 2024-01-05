@@ -1,7 +1,10 @@
 ---
 title: "ig外汇平台靠谱吗"
 post_status: publish
+post_date: 2023-09-01 07:03:00
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "中国为什么要对外汇进行管制"
 post_status: publish
+post_date: 2023-07-06 18:25:35
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

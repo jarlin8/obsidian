@@ -1,7 +1,10 @@
 ---
 title: "个人炒外汇怎样开户"
 post_status: publish
+post_date: 2023-10-07 22:11:04
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

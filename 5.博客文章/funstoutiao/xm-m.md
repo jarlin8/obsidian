@@ -1,7 +1,10 @@
 ---
 title: "XM是黑平台吗 XM是正规的外汇交易平台吗"
 post_status: publish
+post_date: 2023-12-30 23:09:23
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

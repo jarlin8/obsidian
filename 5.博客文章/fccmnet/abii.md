@@ -1,7 +1,10 @@
 ---
 title: "K线形态分析的反扑信号是什么"
 post_status: publish
+post_date: 2023-09-14 01:58:07
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "为什么世界上百分之二的人掌握了百分之八十的财富?"
 post_status: publish
+post_date: 2023-12-03 15:40:54
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

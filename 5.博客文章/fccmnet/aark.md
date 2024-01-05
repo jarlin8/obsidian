@@ -1,7 +1,10 @@
 ---
 title: "现货黄金平台哪个好"
 post_status: publish
+post_date: 2023-09-02 12:49:17
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

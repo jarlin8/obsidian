@@ -1,7 +1,10 @@
 ---
 title: "美元指数会影响大宗商品价格走势吗？"
 post_status: publish
+post_date: 2023-07-31 00:45:27
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

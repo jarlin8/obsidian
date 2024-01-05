@@ -1,7 +1,10 @@
 ---
 title: "KVB外汇风险控制怎么做"
 post_status: publish
+post_date: 2023-08-07 20:50:38
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

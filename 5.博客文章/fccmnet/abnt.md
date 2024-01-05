@@ -1,7 +1,10 @@
 ---
 title: "初学者如何在股票、期货、外汇和基金投资市场中快速成长？"
 post_status: publish
+post_date: 2023-12-19 22:49:29
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

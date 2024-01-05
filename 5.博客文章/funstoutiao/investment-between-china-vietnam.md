@@ -1,7 +1,10 @@
 ---
 title: "中国在越南投资迅猛，中美两国在东南亚角逐影响力"
 post_status: publish
+post_date: 2023-06-19 02:17:54
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "toutiao"

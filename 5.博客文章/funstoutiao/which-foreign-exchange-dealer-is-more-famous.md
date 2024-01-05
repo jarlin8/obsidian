@@ -1,7 +1,10 @@
 ---
 title: "外汇交易商哪家比较知名？"
 post_status: publish
+post_date: 2023-10-28 13:59:05
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

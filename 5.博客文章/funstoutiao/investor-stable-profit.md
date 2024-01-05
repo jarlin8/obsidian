@@ -1,7 +1,10 @@
 ---
 title: "3-5年以上达到稳定盈利的投资者，都采用什么交易系统达到稳定盈利的？"
 post_status: publish
+post_date: 2023-07-07 16:31:13
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

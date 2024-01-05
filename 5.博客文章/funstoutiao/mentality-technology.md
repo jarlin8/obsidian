@@ -1,7 +1,10 @@
 ---
 title: "为什么我在交易中把心态看待的比技术还重要，大家也有这种感觉吗?"
 post_status: publish
+post_date: 2023-09-18 16:34:17
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

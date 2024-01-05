@@ -1,7 +1,10 @@
 ---
 title: "黄金最基本的用途是什么"
 post_status: publish
+post_date: 2023-12-02 23:56:22
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

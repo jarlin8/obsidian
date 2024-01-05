@@ -1,7 +1,10 @@
 ---
 title: "外汇平台上是否允许使用自动化交易软件？"
 post_status: publish
+post_date: 2023-08-07 16:05:33
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

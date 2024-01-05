@@ -1,7 +1,10 @@
 ---
 title: "我们一般要怎么去看待市场的利好与利空的消息?"
 post_status: publish
+post_date: 2023-12-05 20:33:38
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

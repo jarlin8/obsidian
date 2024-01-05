@@ -1,7 +1,10 @@
 ---
 title: "黄金投资那个平台好"
 post_status: publish
+post_date: 2023-06-28 16:55:20
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -1,7 +1,10 @@
 ---
 title: "抵押贷款利率预测:利率下跌趋势渐显，房市即将迎来新变局"
 post_status: publish
+post_date: 2023-06-30 13:25:49
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "experience"

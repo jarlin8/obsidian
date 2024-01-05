@@ -1,7 +1,10 @@
 ---
 title: "外汇平台的风险管理是如何实现的？"
 post_status: publish
+post_date: 2023-07-13 15:43:31
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

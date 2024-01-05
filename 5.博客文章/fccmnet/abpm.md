@@ -1,7 +1,10 @@
 ---
 title: "外汇平台提供哪些种类的交易产品？"
 post_status: publish
+post_date: 2023-08-02 07:26:03
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

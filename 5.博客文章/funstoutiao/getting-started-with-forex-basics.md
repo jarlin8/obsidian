@@ -1,7 +1,10 @@
 ---
 title: "炒外汇入门基础知识，必须要学的知识有哪些"
 post_status: publish
+post_date: 2023-10-26 03:39:07
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -1,7 +1,10 @@
 ---
 title: "如何去选平台，跟单或喊单真的可以挣钱吗?"
 post_status: publish
+post_date: 2023-11-28 04:33:04
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

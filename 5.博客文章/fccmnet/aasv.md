@@ -1,7 +1,10 @@
 ---
 title: "上海黄金交易所开户需要多少钱"
 post_status: publish
+post_date: 2023-11-13 04:01:49
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

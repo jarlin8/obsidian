@@ -1,7 +1,10 @@
 ---
 title: "炒外汇如何区分汇率的涨与跌？"
 post_status: publish
+post_date: 2023-06-29 03:30:09
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -1,7 +1,10 @@
 ---
 title: "MT4上如何多个EA同时运行"
 post_status: publish
+post_date: 2023-09-16 06:37:47
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

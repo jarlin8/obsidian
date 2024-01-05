@@ -1,7 +1,10 @@
 ---
 title: "用技术指标指导交易总是无法长期盈利怎么办?"
 post_status: publish
+post_date: 2023-12-19 17:51:39
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

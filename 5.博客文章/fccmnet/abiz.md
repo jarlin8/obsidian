@@ -1,7 +1,10 @@
 ---
 title: "IMSFX艾汇平台开户流程是什么"
 post_status: publish
+post_date: 2023-12-05 16:00:41
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

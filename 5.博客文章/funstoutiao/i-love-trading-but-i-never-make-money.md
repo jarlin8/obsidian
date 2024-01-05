@@ -1,7 +1,10 @@
 ---
 title: "我热爱交易，但我从不赚钱，而且我没什么钱，怎么办？不想玩模拟盘?"
 post_status: publish
+post_date: 2023-07-23 13:21:32
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

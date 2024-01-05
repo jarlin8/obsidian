@@ -1,7 +1,10 @@
 ---
 title: "炒黄金止损有什么作用"
 post_status: publish
+post_date: 2023-07-11 00:59:07
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "炒汇新手生存的法则是什么"
 post_status: publish
+post_date: 2023-12-26 19:50:35
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

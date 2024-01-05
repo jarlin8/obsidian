@@ -1,7 +1,10 @@
 ---
 title: "FXTM富拓外汇的交易产品有点差吗具体点差是多少"
 post_status: publish
+post_date: 2023-09-22 22:31:00
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

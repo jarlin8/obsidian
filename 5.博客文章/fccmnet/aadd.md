@@ -1,7 +1,10 @@
 ---
 title: "持仓差与仓差是什么关系 是一个意思吗"
 post_status: publish
+post_date: 2023-06-18 06:44:29
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

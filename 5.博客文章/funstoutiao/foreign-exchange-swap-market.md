@@ -1,7 +1,10 @@
 ---
 title: "为什么要建立外汇调剂市场? 国家对这个市场是如何进行管理的?"
 post_status: publish
+post_date: 2023-11-17 06:34:52
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forexbook"

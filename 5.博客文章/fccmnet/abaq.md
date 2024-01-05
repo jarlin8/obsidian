@@ -1,7 +1,10 @@
 ---
 title: "炒黄金不亏钱是怎么做到的"
 post_status: publish
+post_date: 2023-10-12 12:43:23
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "波浪理论的缺陷是什么"
 post_status: publish
+post_date: 2023-12-25 22:50:39
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

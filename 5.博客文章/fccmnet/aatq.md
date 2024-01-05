@@ -1,7 +1,10 @@
 ---
 title: "纽约黄金期货价格是多少"
 post_status: publish
+post_date: 2023-06-25 23:10:53
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

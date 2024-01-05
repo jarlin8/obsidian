@@ -1,7 +1,10 @@
 ---
 title: "做好这几点，你才能成为市场的长期赢家"
 post_status: publish
+post_date: 2023-12-08 10:07:48
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "experience"

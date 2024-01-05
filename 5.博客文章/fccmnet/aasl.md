@@ -1,7 +1,10 @@
 ---
 title: "什么是黄金债券"
 post_status: publish
+post_date: 2023-07-30 11:45:08
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

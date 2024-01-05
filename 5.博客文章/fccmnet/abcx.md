@@ -1,7 +1,10 @@
 ---
 title: "财政政策调整对外汇走势的影响是怎样的"
 post_status: publish
+post_date: 2023-07-01 02:13:56
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

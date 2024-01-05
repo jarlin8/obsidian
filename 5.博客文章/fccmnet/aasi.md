@@ -1,7 +1,10 @@
 ---
 title: "石油和黄金的价格有哪些共同点"
 post_status: publish
+post_date: 2023-08-04 12:52:24
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

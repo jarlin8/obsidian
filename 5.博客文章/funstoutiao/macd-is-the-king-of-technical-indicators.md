@@ -1,7 +1,10 @@
 ---
 title: "都说MACD是技术指标之王，在实际应用中应该如何去应用?"
 post_status: publish
+post_date: 2023-12-04 05:35:59
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

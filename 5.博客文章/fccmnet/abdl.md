@@ -1,7 +1,10 @@
 ---
 title: "波浪理论技术分析学习怎么写总结"
 post_status: publish
+post_date: 2023-07-17 11:27:49
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "MT4交易策略怎么制定有模板吗"
 post_status: publish
+post_date: 2023-11-18 06:04:25
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

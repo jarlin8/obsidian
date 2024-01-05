@@ -1,7 +1,10 @@
 ---
 title: "Tradovate测评：一家提供免佣金期货交易的云平台，但监管和功能存疑"
 post_status: publish
+post_date: 2023-07-14 05:57:40
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "toutiao-basic"

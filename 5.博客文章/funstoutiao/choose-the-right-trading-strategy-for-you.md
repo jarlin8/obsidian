@@ -1,7 +1,10 @@
 ---
 title: "如何用一些简单而集中的指标来选择合适自己的交易策略？"
 post_status: publish
+post_date: 2023-08-03 05:14:49
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "experience"

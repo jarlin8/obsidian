@@ -1,7 +1,10 @@
 ---
 title: "俄罗斯2005-2011年案例"
 post_status: publish
+post_date: 2023-09-07 22:54:23
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forexbook"

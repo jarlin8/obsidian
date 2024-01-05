@@ -1,7 +1,10 @@
 ---
 title: "在岸人民币和离岸人民币区别是什么？"
 post_status: publish
+post_date: 2023-09-01 15:48:35
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

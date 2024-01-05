@@ -1,7 +1,10 @@
 ---
 title: "哪些期货市场对现货黄金影响比较大"
 post_status: publish
+post_date: 2023-10-17 23:20:16
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "XM出不了金怎么办"
 post_status: publish
+post_date: 2023-10-04 16:09:53
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

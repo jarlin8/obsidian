@@ -1,7 +1,10 @@
 ---
 title: "黄金的避险属性正在消失这个说法正确吗?"
 post_status: publish
+post_date: 2023-07-02 08:07:10
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

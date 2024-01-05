@@ -1,7 +1,10 @@
 ---
 title: "在中国如何进行炒外汇"
 post_status: publish
+post_date: 2023-08-20 00:54:07
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

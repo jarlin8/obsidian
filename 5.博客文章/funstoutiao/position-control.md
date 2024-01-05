@@ -1,7 +1,10 @@
 ---
 title: "在账户大幅因盈利时，如何做好仓位控制和情绪管理？"
 post_status: publish
+post_date: 2023-08-07 15:49:10
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

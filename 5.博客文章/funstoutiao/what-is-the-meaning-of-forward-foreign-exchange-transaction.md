@@ -1,7 +1,10 @@
 ---
 title: "远期外汇交易是什么意思，远期外汇交易哪些特点"
 post_status: publish
+post_date: 2023-07-28 17:21:58
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

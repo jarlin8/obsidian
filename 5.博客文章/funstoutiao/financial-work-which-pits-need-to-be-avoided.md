@@ -1,7 +1,10 @@
 ---
 title: "金融行业面试工作，需要避开哪些坑?"
 post_status: publish
+post_date: 2023-07-13 20:24:17
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

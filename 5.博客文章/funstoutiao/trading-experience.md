@@ -1,7 +1,10 @@
 ---
 title: "可以分享入行经验或交易心得吗?"
 post_status: publish
+post_date: 2023-11-13 06:27:15
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

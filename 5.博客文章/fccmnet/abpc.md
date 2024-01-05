@@ -1,7 +1,10 @@
 ---
 title: "外汇平台是如何赚钱的？"
 post_status: publish
+post_date: 2023-08-08 07:47:26
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

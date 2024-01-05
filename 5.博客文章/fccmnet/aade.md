@@ -1,7 +1,10 @@
 ---
 title: "持仓差计算结果的正负分别代表什么"
 post_status: publish
+post_date: 2023-08-12 23:40:36
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "ATFX怎么样？为什么选择ATFX交易外汇？"
 post_status: publish
+post_date: 2023-08-17 05:27:31
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

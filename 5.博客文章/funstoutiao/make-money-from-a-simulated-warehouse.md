@@ -1,7 +1,10 @@
 ---
 title: "模拟仓赚钱，真仓开始亏损，该怎么办?"
 post_status: publish
+post_date: 2023-12-24 11:43:20
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

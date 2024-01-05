@@ -1,7 +1,10 @@
 ---
 title: "交易人，哪些瞬间你感觉“真的是崩溃了”?"
 post_status: publish
+post_date: 2023-08-24 01:07:53
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

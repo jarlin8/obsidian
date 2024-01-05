@@ -1,7 +1,10 @@
 ---
 title: "99%的外汇交易者必犯的致命错误都有哪些？"
 post_status: publish
+post_date: 2023-08-15 05:16:00
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

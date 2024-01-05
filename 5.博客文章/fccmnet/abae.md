@@ -1,7 +1,10 @@
 ---
 title: "炒黄金亏损多还是赚的多"
 post_status: publish
+post_date: 2023-09-10 20:20:56
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

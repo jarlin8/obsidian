@@ -1,7 +1,10 @@
 ---
 title: "布雷顿森林体系为何最终崩溃呢"
 post_status: publish
+post_date: 2023-09-21 00:31:27
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

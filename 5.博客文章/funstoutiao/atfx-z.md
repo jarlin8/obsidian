@@ -1,7 +1,10 @@
 ---
 title: "ATFX网站域名为什么老是更换"
 post_status: publish
+post_date: 2023-11-19 18:30:56
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

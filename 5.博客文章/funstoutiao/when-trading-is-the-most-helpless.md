@@ -1,7 +1,10 @@
 ---
 title: "在交易最无助的时候，应该怎么办?"
 post_status: publish
+post_date: 2023-12-15 14:37:59
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

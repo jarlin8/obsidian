@@ -1,7 +1,10 @@
 ---
 title: "黄金投资入门的秘诀是什么"
 post_status: publish
+post_date: 2023-09-24 00:24:06
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

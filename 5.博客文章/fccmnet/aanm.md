@@ -1,7 +1,10 @@
 ---
 title: "做外汇要交多少学费"
 post_status: publish
+post_date: 2023-07-05 17:20:10
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

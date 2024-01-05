@@ -1,7 +1,10 @@
 ---
 title: "应该做波段还是趋势呢？怎么判断自己适合哪种行情?"
 post_status: publish
+post_date: 2023-12-22 18:41:15
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

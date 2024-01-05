@@ -1,7 +1,10 @@
 ---
 title: "上班族适合炒外汇吗？上班族怎么炒外汇？"
 post_status: publish
+post_date: 2023-08-16 01:54:28
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

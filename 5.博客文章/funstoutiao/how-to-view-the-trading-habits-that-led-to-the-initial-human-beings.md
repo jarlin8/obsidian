@@ -1,7 +1,10 @@
 ---
 title: "如何看待“导致人类初始的交易习性不是趋势交易，而是抄底摸高”这句话?"
 post_status: publish
+post_date: 2023-11-30 08:15:31
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

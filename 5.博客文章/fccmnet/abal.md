@@ -1,7 +1,10 @@
 ---
 title: "炒黄金杠杆多少比较合适"
 post_status: publish
+post_date: 2023-10-08 15:32:52
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

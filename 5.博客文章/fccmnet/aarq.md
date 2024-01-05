@@ -1,7 +1,10 @@
 ---
 title: "外汇黄金交易技巧新手如何快速掌握"
 post_status: publish
+post_date: 2023-11-25 13:16:14
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "Exness外汇杠杆和点差说明"
 post_status: publish
+post_date: 2023-10-26 14:01:54
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

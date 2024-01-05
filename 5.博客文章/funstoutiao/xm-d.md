@@ -1,7 +1,10 @@
 ---
 title: "XM外盘期货如何开户"
 post_status: publish
+post_date: 2023-09-25 00:18:19
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

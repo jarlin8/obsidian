@@ -1,7 +1,10 @@
 ---
 title: "塞浦路斯外汇差价合约交易平台ETFinance开户测评"
 post_status: publish
+post_date: 2023-12-24 06:08:56
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "toutiao-basic"

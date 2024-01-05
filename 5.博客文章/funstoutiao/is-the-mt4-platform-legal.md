@@ -1,7 +1,10 @@
 ---
 title: "MT4平台合法吗？MT4平台都是做什么的？"
 post_status: publish
+post_date: 2023-10-06 16:23:43
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -1,7 +1,10 @@
 ---
 title: "黄金投资入门需了解哪些？"
 post_status: publish
+post_date: 2023-08-01 01:01:10
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

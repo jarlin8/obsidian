@@ -1,7 +1,10 @@
 ---
 title: 嘉盛集团新客户开户交易有哪些赠金活动？
 post_status: publish
+post_date: 2023-12-17 21:27:46
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - bonus

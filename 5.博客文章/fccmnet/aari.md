@@ -1,7 +1,10 @@
 ---
 title: "现货黄金投资技巧有哪些有指点的吗"
 post_status: publish
+post_date: 2023-08-21 04:01:59
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

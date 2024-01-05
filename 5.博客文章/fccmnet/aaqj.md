@@ -1,7 +1,10 @@
 ---
 title: "外汇收益真的有那么高吗"
 post_status: publish
+post_date: 2023-08-26 16:52:15
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "ECN和STP要怎么区分开来？"
 post_status: publish
+post_date: 2023-10-02 10:06:33
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

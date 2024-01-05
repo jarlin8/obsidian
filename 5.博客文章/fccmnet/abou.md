@@ -1,7 +1,10 @@
 ---
 title: "在外汇平台上如何进行交易？"
 post_status: publish
+post_date: 2023-09-28 04:26:49
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

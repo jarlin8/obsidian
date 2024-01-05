@@ -1,7 +1,10 @@
 ---
 title: "外汇黄金开户在MT4上可以直接开户吗？"
 post_status: publish
+post_date: 2023-07-23 09:22:24
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

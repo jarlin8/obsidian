@@ -1,7 +1,10 @@
 ---
 title: "面对突发黑天鹅，我们应该如何应对交易中的风险?"
 post_status: publish
+post_date: 2023-10-19 22:27:39
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

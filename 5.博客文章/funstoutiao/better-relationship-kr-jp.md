@@ -1,7 +1,10 @@
 ---
 title: "尹锡悦的日韩友好之旅：一场卖国的闹剧"
 post_status: publish
+post_date: 2023-12-03 20:41:06
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "toutiao"

@@ -1,7 +1,10 @@
 ---
 title: "大家对交易的方向怎么判断?有没有什么具体的方法?"
 post_status: publish
+post_date: 2023-07-12 13:38:32
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

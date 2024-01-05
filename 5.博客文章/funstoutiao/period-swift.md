@@ -1,7 +1,10 @@
 ---
 title: "如何解决大周期与小周期的转换?"
 post_status: publish
+post_date: 2023-08-04 02:30:39
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

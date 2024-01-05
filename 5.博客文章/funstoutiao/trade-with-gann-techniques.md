@@ -1,7 +1,10 @@
 ---
 title: "如何综合运用江恩技术手段来进行交易"
 post_status: publish
+post_date: 2023-09-06 03:19:38
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forexbook"

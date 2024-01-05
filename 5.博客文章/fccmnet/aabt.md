@@ -1,7 +1,10 @@
 ---
 title: "顶级交易员都是怎么设定止损策略的"
 post_status: publish
+post_date: 2023-06-21 06:06:15
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

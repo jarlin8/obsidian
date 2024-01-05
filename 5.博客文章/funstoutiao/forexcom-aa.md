@@ -1,7 +1,10 @@
 ---
 title: "嘉盛集团点差是怎么计算的"
 post_status: publish
+post_date: 2023-11-25 00:31:02
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

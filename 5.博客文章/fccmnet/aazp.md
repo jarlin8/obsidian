@@ -1,7 +1,10 @@
 ---
 title: "炒黄金盈利方法多不多"
 post_status: publish
+post_date: 2023-08-02 08:52:03
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

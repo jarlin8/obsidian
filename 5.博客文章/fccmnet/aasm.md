@@ -1,7 +1,10 @@
 ---
 title: "黄金储备有什么意义"
 post_status: publish
+post_date: 2023-06-20 22:22:50
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

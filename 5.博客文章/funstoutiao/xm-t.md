@@ -1,7 +1,10 @@
 ---
 title: "XM外汇怎么开户"
 post_status: publish
+post_date: 2023-07-14 06:51:38
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -1,7 +1,10 @@
 ---
 title: "炒外汇者如何分析行情走势"
 post_status: publish
+post_date: 2023-09-04 00:09:51
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

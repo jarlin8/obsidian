@@ -1,7 +1,10 @@
 ---
 title: "什么是外汇EA智能交易"
 post_status: publish
+post_date: 2023-07-15 07:55:48
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "包络线指标ENVELOPES是什么"
 post_status: publish
+post_date: 2023-07-11 13:54:22
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

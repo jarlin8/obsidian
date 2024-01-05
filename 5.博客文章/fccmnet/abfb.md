@@ -1,7 +1,10 @@
 ---
 title: "澳大利亚有哪些数据会影货币价值"
 post_status: publish
+post_date: 2023-09-28 17:46:44
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

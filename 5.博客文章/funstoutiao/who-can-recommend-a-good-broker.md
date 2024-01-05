@@ -1,7 +1,10 @@
 ---
 title: "谁能推荐下好的交易平台？"
 post_status: publish
+post_date: 2023-12-29 13:14:18
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

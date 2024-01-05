@@ -1,7 +1,10 @@
 ---
 title: "黄金短线的六大交易法则是哪些"
 post_status: publish
+post_date: 2023-12-05 15:18:18
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

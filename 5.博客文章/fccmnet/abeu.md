@@ -1,7 +1,10 @@
 ---
 title: "巴克莱银行也是炒外汇的吗"
 post_status: publish
+post_date: 2023-06-26 14:29:14
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

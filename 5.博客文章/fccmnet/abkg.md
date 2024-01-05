@@ -1,7 +1,10 @@
 ---
 title: "fxtm富拓外汇平台的点差如何"
 post_status: publish
+post_date: 2023-10-20 06:10:34
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

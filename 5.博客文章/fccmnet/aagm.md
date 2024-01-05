@@ -1,7 +1,10 @@
 ---
 title: "关于海龟交易法则 外汇保证金交易 单位头寸的计算问题"
 post_status: publish
+post_date: 2023-09-04 10:51:18
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

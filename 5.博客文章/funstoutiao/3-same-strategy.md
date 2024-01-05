@@ -1,7 +1,10 @@
 ---
 title: "三种期望值相同的交易策略，你更喜欢哪种?"
 post_status: publish
+post_date: 2023-10-20 13:31:22
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

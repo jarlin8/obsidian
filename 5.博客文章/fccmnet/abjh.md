@@ -1,7 +1,10 @@
 ---
 title: "IFX交易平台入金有哪些方式"
 post_status: publish
+post_date: 2023-06-27 00:29:05
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

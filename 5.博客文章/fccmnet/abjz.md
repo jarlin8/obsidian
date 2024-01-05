@@ -1,7 +1,10 @@
 ---
 title: "gkfx杠杆比例可以自由调整吗"
 post_status: publish
+post_date: 2023-09-04 00:57:56
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

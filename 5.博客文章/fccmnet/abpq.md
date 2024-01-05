@@ -1,7 +1,10 @@
 ---
 title: "外汇平台的历史是什么？"
 post_status: publish
+post_date: 2023-09-01 20:18:36
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

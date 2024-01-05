@@ -1,7 +1,10 @@
 ---
 title: "查理·芒格去世对巴菲特和伯克希尔·哈撒韦公司有何影响？"
 post_status: publish
+post_date: 2023-09-08 18:36:06
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "toutiao"

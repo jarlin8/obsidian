@@ -1,7 +1,10 @@
 ---
 title: "K线形态十字星有哪些常见类型"
 post_status: publish
+post_date: 2023-11-22 12:00:46
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

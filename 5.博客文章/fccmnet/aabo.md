@@ -1,7 +1,10 @@
 ---
 title: "短线日内波段交易的入门要点是什么"
 post_status: publish
+post_date: 2023-09-06 16:50:12
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

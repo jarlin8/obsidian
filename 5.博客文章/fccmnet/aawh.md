@@ -1,7 +1,10 @@
 ---
 title: "黄金投资补仓有什么技巧"
 post_status: publish
+post_date: 2023-09-18 10:20:25
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

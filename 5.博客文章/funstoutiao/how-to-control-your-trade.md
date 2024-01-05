@@ -1,7 +1,10 @@
 ---
 title: "想知道交易牛人怎么控制住自己的交易的或者说练习了多久才控制住不随便下单?"
 post_status: publish
+post_date: 2023-10-20 20:59:32
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

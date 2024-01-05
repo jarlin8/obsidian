@@ -1,7 +1,10 @@
 ---
 title: "传统K线图为何不能描述真实的市场行为"
 post_status: publish
+post_date: 2023-07-24 09:12:36
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

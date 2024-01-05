@@ -1,7 +1,10 @@
 ---
 title: "斐波拉切回归线实战怎么做"
 post_status: publish
+post_date: 2023-10-07 22:09:42
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

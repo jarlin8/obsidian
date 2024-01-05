@@ -1,7 +1,10 @@
 ---
 title: "金融市场上有哪些是一般散户想不到但实际却很重要的知识?"
 post_status: publish
+post_date: 2023-07-13 07:40:15
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

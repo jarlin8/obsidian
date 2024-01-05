@@ -1,7 +1,10 @@
 ---
 title: "想做外汇个知名一点的正规平台"
 post_status: publish
+post_date: 2023-09-26 08:39:32
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

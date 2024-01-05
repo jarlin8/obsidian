@@ -1,7 +1,10 @@
 ---
 title: "XM外汇平台怎么样XM外汇平台可靠吗"
 post_status: publish
+post_date: 2023-12-20 21:47:06
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -1,7 +1,10 @@
 ---
 title: "XM外汇代理需要什么条件?"
 post_status: publish
+post_date: 2023-12-28 12:04:23
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

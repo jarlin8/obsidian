@@ -1,7 +1,10 @@
 ---
 title: "国际黄金价格会不会上涨"
 post_status: publish
+post_date: 2023-07-29 06:02:12
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

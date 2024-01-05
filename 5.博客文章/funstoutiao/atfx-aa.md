@@ -1,7 +1,10 @@
 ---
 title: "ATFX能提供多高的杠杆"
 post_status: publish
+post_date: 2023-07-08 03:11:00
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

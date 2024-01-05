@@ -1,7 +1,10 @@
 ---
 title: "你靠运气赚来的钱，也会靠你的实力输掉！"
 post_status: publish
+post_date: 2023-10-18 22:15:14
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "experience"

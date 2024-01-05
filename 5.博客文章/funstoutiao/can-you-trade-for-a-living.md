@@ -1,7 +1,10 @@
 ---
 title: "你能以做交易为生吗?"
 post_status: publish
+post_date: 2023-07-28 10:13:51
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

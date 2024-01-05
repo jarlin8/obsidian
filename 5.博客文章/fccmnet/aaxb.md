@@ -1,7 +1,10 @@
 ---
 title: "黄金期货交易规则是什么"
 post_status: publish
+post_date: 2023-12-15 16:28:21
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

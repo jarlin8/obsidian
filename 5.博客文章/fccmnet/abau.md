@@ -1,7 +1,10 @@
 ---
 title: "操作黄金为什么会亏损甚至爆仓"
 post_status: publish
+post_date: 2023-07-18 00:49:01
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

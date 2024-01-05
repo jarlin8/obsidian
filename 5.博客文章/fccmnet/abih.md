@@ -1,7 +1,10 @@
 ---
 title: "K线形态分析的三乌鸦是什么"
 post_status: publish
+post_date: 2023-07-28 19:26:33
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

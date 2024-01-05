@@ -1,7 +1,10 @@
 ---
 title: "公司外汇账户开户流程是怎样的"
 post_status: publish
+post_date: 2023-07-16 04:08:43
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

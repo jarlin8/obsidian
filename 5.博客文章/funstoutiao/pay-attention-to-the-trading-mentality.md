@@ -1,7 +1,10 @@
 ---
 title: "我发现很多交易员重视交易心态，但是我觉得重视的应该是技术，大家怎么看?"
 post_status: publish
+post_date: 2023-08-08 05:20:54
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

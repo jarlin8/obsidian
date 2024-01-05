@@ -1,7 +1,10 @@
 ---
 title: "炒外汇中什么原因导致了亏损"
 post_status: publish
+post_date: 2023-11-09 15:42:24
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

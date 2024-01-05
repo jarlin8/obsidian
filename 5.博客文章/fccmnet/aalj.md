@@ -1,7 +1,10 @@
 ---
 title: "国外知名外汇论坛有哪些"
 post_status: publish
+post_date: 2023-12-15 08:16:53
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

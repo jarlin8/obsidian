@@ -1,7 +1,10 @@
 ---
 title: "RSI指标背离和CCI指标的背离有不同吗"
 post_status: publish
+post_date: 2023-08-30 22:23:41
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

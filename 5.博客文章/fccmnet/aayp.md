@@ -1,7 +1,10 @@
 ---
 title: "国际黄金期货价格趋势怎么样"
 post_status: publish
+post_date: 2023-09-03 06:40:15
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

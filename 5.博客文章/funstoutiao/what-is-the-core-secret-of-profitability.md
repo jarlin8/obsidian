@@ -1,7 +1,10 @@
 ---
 title: "你交易盈利的核心秘诀是什么？能分享一下吗?"
 post_status: publish
+post_date: 2023-11-06 12:02:04
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

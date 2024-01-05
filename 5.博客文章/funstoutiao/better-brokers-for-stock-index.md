@@ -1,7 +1,10 @@
 ---
 title: "股指投资那个平台好"
 post_status: publish
+post_date: 2023-12-19 11:56:18
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

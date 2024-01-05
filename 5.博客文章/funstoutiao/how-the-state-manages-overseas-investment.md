@@ -1,7 +1,10 @@
 ---
 title: "国家对境外投资是如何进行外汇管理的?"
 post_status: publish
+post_date: 2023-07-14 09:32:32
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forexbook"

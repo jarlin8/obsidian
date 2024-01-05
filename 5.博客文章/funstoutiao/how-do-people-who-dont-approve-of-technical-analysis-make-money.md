@@ -1,7 +1,10 @@
 ---
 title: "不认可技术分析的人是靠什么赚钱的?"
 post_status: publish
+post_date: 2023-11-18 03:58:48
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

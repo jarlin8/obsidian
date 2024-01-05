@@ -1,7 +1,10 @@
 ---
 title: "如何利用支撑位和阻力位做交易?"
 post_status: publish
+post_date: 2023-08-01 18:14:56
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

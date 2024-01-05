@@ -1,7 +1,10 @@
 ---
 title: "炒黄金为什么要止损"
 post_status: publish
+post_date: 2023-10-10 18:11:22
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

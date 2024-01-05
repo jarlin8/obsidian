@@ -1,7 +1,10 @@
 ---
 title: "ECN和MM外汇交易平台的区别很大吗？"
 post_status: publish
+post_date: 2023-07-04 06:26:52
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

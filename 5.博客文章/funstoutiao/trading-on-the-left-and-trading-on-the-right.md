@@ -1,7 +1,10 @@
 ---
 title: "求高手指导，左侧交易和右侧交易的区别是什么?"
 post_status: publish
+post_date: 2023-10-22 21:58:58
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

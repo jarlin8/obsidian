@@ -1,7 +1,10 @@
 ---
 title: "为什么做交易的很多人都研究道家或佛家理论?"
 post_status: publish
+post_date: 2023-08-03 07:01:20
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

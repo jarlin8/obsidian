@@ -1,7 +1,10 @@
 ---
 title: "炒黄金期货的风险"
 post_status: publish
+post_date: 2023-09-02 23:34:18
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

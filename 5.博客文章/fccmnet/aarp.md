@@ -1,7 +1,10 @@
 ---
 title: "外汇和黄金都有哪些联系"
 post_status: publish
+post_date: 2023-11-04 03:00:46
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

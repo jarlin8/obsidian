@@ -1,7 +1,10 @@
 ---
 title: "外汇学习路径应该是怎么样的"
 post_status: publish
+post_date: 2023-07-30 20:14:11
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

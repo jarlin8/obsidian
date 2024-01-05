@@ -1,7 +1,10 @@
 ---
 title: "外汇开户途径有哪些？"
 post_status: publish
+post_date: 2023-06-29 12:08:59
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

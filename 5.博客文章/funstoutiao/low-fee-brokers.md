@@ -1,7 +1,10 @@
 ---
 title: "是否有交易成本低的平台"
 post_status: publish
+post_date: 2023-08-13 13:59:38
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

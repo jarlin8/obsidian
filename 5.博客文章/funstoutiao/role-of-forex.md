@@ -1,7 +1,10 @@
 ---
 title: "外汇储备有哪些作用？"
 post_status: publish
+post_date: 2023-07-02 19:31:46
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

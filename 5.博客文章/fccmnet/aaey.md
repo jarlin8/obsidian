@@ -1,7 +1,10 @@
 ---
 title: "FXTM富拓外汇平台和其他平台对比有什么优势"
 post_status: publish
+post_date: 2023-09-16 00:19:46
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

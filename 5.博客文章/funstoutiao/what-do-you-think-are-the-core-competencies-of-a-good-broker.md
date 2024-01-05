@@ -1,7 +1,10 @@
 ---
 title: "你认为一个好的经纪商的核心竞争力有哪些?"
 post_status: publish
+post_date: 2023-12-05 05:44:38
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

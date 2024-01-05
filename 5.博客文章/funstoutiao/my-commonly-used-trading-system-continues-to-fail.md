@@ -1,7 +1,10 @@
 ---
 title: "自己常用的交易系统持续失灵，怎么办?"
 post_status: publish
+post_date: 2023-06-22 09:13:25
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

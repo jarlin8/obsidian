@@ -1,7 +1,10 @@
 ---
 title: "哥伦比亚1995-2008年案例"
 post_status: publish
+post_date: 2023-11-19 20:19:35
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forexbook"

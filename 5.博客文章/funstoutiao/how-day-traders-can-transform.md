@@ -1,7 +1,10 @@
 ---
 title: "日内交易者如何转型波段长线?"
 post_status: publish
+post_date: 2023-08-11 04:53:23
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

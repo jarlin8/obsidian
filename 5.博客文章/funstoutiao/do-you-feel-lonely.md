@@ -1,7 +1,10 @@
 ---
 title: "做交易，你觉得孤独吗?"
 post_status: publish
+post_date: 2023-10-31 04:19:05
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

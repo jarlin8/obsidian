@@ -1,7 +1,10 @@
 ---
 title: "黄金投资常识有哪些比较简单"
 post_status: publish
+post_date: 2023-07-17 06:27:08
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

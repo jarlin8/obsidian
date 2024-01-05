@@ -1,7 +1,10 @@
 ---
 title: 高胜率黄金EA自动套利系统介绍
 post_status: publish
+post_date: 2023-12-23 06:31:14
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - ea

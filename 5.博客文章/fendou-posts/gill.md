@@ -1,7 +1,10 @@
 ---
 title: Git it write 支持的 yaml 格式和使用说明
 post_status: publish
+post_date: 2023-06-23 17:50:40
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - log

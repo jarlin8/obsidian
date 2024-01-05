@@ -1,7 +1,10 @@
 ---
 title: "黄金交易锁仓有风险吗"
 post_status: publish
+post_date: 2023-10-27 12:21:55
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

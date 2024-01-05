@@ -1,7 +1,10 @@
 ---
 title: "持仓盈亏和当日盈亏有什么区别？"
 post_status: publish
+post_date: 2023-08-30 00:54:09
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

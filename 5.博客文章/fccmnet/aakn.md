@@ -1,7 +1,10 @@
 ---
 title: "在外汇市场中 怎么去判断一款ea的好坏"
 post_status: publish
+post_date: 2023-08-27 08:43:57
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

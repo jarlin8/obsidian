@@ -1,7 +1,10 @@
 ---
 title: 嘉盛集团交易的手续费是什么费用，怎么收取？
 post_status: publish
+post_date: 2023-12-22 00:29:13
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - forex-com

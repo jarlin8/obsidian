@@ -1,7 +1,10 @@
 ---
 title: 嘉盛集团的交易账户的入金快吗？入金方式有哪些？
 post_status: publish
+post_date: 2023-09-08 00:20:40
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - forex-com

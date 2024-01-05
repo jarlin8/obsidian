@@ -1,7 +1,10 @@
 ---
 title: "forexclub福瑞斯的预测消息汇总"
 post_status: publish
+post_date: 2023-07-04 15:58:07
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

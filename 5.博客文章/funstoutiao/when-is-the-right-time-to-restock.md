@@ -1,7 +1,10 @@
 ---
 title: "进行外汇交易什么时候加仓比较合适？"
 post_status: publish
+post_date: 2023-10-02 15:07:53
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

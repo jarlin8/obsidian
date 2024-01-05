@@ -1,7 +1,10 @@
 ---
 title: "交易高手是如何炼成的?"
 post_status: publish
+post_date: 2023-08-04 23:40:03
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

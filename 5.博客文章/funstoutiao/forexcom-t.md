@@ -1,7 +1,10 @@
 ---
 title: "Forex.com嘉盛集团怎么样对比其他平台有竞争优势吗"
 post_status: publish
+post_date: 2023-08-31 11:59:28
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

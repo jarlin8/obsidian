@@ -1,7 +1,10 @@
 ---
 title: "为什么美元涨黄金白银就要跌？原因有哪些？"
 post_status: publish
+post_date: 2023-10-19 12:24:08
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

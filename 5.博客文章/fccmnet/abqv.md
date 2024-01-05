@@ -1,7 +1,10 @@
 ---
 title: "为什么可以利用外汇储备压低人民币汇率"
 post_status: publish
+post_date: 2023-07-10 05:00:31
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

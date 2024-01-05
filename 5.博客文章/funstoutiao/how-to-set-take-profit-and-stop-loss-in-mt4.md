@@ -1,7 +1,10 @@
 ---
 title: "MT4怎么设置止盈止损？怎么修改止盈止损"
 post_status: publish
+post_date: 2023-06-28 04:24:02
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

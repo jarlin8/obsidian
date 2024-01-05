@@ -1,7 +1,10 @@
 ---
 title: "银行网银中的外汇交易属于哪个外汇市场"
 post_status: publish
+post_date: 2023-09-27 19:27:13
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

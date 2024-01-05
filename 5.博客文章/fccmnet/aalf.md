@@ -1,7 +1,10 @@
 ---
 title: "为什么美国基本上不需要外汇储备 而中国和日本需要庞大的外汇储备"
 post_status: publish
+post_date: 2023-10-15 22:54:49
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

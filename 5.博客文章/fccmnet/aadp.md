@@ -1,7 +1,10 @@
 ---
 title: "成功投资外汇需要什么诀窍"
 post_status: publish
+post_date: 2023-10-06 09:00:36
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

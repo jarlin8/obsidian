@@ -1,7 +1,10 @@
 ---
 title: "贵金属td银行开户流程及条件有哪些?"
 post_status: publish
+post_date: 2023-08-13 11:08:13
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

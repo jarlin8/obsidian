@@ -1,7 +1,10 @@
 ---
 title: "ATFX如何采取有效措施保证客户资金安全？"
 post_status: publish
+post_date: 2023-08-28 14:24:51
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

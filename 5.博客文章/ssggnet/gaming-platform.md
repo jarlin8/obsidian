@@ -1,7 +1,10 @@
 ---
 title: 嘉盛集团是不是对赌平台？
 post_status: publish
+post_date: 2023-08-16 19:10:05
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - forex-com

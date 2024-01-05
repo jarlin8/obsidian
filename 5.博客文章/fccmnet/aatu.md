@@ -1,7 +1,10 @@
 ---
 title: "哪种黄金投资方式风险最高"
 post_status: publish
+post_date: 2023-07-25 12:22:08
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

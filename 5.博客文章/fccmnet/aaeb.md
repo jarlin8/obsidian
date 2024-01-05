@@ -1,7 +1,10 @@
 ---
 title: "炒外汇赚的是谁的钱我亏的钱又到哪去了"
 post_status: publish
+post_date: 2023-07-07 21:28:25
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "外汇平台如何保证客户资金的安全性？"
 post_status: publish
+post_date: 2023-08-27 17:12:52
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

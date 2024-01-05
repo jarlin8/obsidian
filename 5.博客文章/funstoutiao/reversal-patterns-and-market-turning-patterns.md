@@ -1,7 +1,10 @@
 ---
 title: "K线的反转型态与行情的转折型态，哪一种成功率较高?"
 post_status: publish
+post_date: 2023-09-14 13:32:53
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

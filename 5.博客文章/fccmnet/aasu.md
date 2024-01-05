@@ -1,7 +1,10 @@
 ---
 title: "上海黄金交易所是什么机构"
 post_status: publish
+post_date: 2023-12-13 12:31:38
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

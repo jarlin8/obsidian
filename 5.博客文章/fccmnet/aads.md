@@ -1,7 +1,10 @@
 ---
 title: "成功的外汇交易者怎么面对亏损"
 post_status: publish
+post_date: 2023-08-06 21:45:07
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

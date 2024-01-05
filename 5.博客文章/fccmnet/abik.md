@@ -1,7 +1,10 @@
 ---
 title: "K线形态的头肩底有什么作用"
 post_status: publish
+post_date: 2023-07-01 06:15:02
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

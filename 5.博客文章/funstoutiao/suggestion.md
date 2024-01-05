@@ -1,7 +1,10 @@
 ---
 title: "交易新手怎样学习交易？可以给些建议吗?"
 post_status: publish
+post_date: 2023-07-21 07:19:46
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

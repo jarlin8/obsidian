@@ -1,7 +1,10 @@
 ---
 title: "如何在提高胜率的同时来提高盈亏比?"
 post_status: publish
+post_date: 2023-08-16 13:08:39
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

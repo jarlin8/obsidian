@@ -1,7 +1,10 @@
 ---
 title: "炒黄金有什么基本常识"
 post_status: publish
+post_date: 2023-07-10 13:42:04
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

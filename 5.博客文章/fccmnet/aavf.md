@@ -1,7 +1,10 @@
 ---
 title: "黄金投资新手怎么看盘比较好"
 post_status: publish
+post_date: 2023-07-08 17:07:40
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

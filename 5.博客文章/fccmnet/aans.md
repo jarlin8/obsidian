@@ -1,7 +1,10 @@
 ---
 title: "外汇和股票哪个好 怎样炒外汇"
 post_status: publish
+post_date: 2023-11-07 14:23:11
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

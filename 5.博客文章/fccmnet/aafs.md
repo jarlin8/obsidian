@@ -1,7 +1,10 @@
 ---
 title: "如果现在想进入外汇行业 可靠吗"
 post_status: publish
+post_date: 2023-08-18 20:31:17
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

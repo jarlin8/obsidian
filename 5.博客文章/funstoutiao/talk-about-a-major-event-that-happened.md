@@ -1,7 +1,10 @@
 ---
 title: "说一件金融界发生过的大事，来证明你的交易资历。?"
 post_status: publish
+post_date: 2023-11-04 23:25:44
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

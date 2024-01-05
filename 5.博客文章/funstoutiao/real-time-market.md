@@ -1,7 +1,10 @@
 ---
 title: "对于实时行情，应该保持初衷还是应该随波逐流?"
 post_status: publish
+post_date: 2023-12-20 09:18:48
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

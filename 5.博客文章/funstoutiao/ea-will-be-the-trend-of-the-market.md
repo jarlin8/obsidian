@@ -1,7 +1,10 @@
 ---
 title: "你们觉得EA会作为市场的趋势吗?"
 post_status: publish
+post_date: 2023-10-28 01:11:19
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

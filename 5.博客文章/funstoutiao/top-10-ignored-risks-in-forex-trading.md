@@ -1,7 +1,10 @@
 ---
 title: "外汇交易中被忽视的十大风险分别是什么？"
 post_status: publish
+post_date: 2023-07-28 02:27:26
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

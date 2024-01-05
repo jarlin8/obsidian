@@ -1,7 +1,10 @@
 ---
 title: "是什么原因使你选择了做外汇 而不是在国内受众群体更庞大的股票市场"
 post_status: publish
+post_date: 2023-08-26 00:51:13
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "贵金属交易平台都有哪些？哪个比较权威？"
 post_status: publish
+post_date: 2023-10-26 22:45:43
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

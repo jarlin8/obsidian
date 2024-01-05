@@ -1,7 +1,10 @@
 ---
 title: "XM FXTM这两个平台哪个好"
 post_status: publish
+post_date: 2023-08-22 10:18:25
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -1,7 +1,10 @@
 ---
 title: "新手炒黄金有什么妙招？有高手指点吗？"
 post_status: publish
+post_date: 2023-07-27 08:12:16
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

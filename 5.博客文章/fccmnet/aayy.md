@@ -1,7 +1,10 @@
 ---
 title: "地缘政治对黄金价格的影响大吗"
 post_status: publish
+post_date: 2023-10-20 01:08:03
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

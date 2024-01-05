@@ -1,7 +1,10 @@
 ---
 title: "新人适合哪种周期的交易?"
 post_status: publish
+post_date: 2023-09-28 22:32:53
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

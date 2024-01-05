@@ -1,7 +1,10 @@
 ---
 title: "什么是外汇平台上的保证金？"
 post_status: publish
+post_date: 2023-10-20 02:20:49
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

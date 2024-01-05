@@ -1,7 +1,10 @@
 ---
 title: "长期来看，频繁操作和超短技巧是否能大概率提升总收益?"
 post_status: publish
+post_date: 2023-12-28 09:47:08
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

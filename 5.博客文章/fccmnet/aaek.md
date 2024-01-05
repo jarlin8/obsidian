@@ -1,7 +1,10 @@
 ---
 title: "炒外汇怎样正确的止损"
 post_status: publish
+post_date: 2023-08-02 23:42:42
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

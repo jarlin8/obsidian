@@ -1,7 +1,10 @@
 ---
 title: "初学者如何进行模拟炒汇才能进步"
 post_status: publish
+post_date: 2023-06-24 10:20:18
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

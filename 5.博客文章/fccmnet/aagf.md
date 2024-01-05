@@ -1,7 +1,10 @@
 ---
 title: "外汇储备为什么会加速该国通货膨胀"
 post_status: publish
+post_date: 2023-07-13 09:25:48
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

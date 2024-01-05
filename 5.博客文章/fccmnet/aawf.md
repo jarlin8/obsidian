@@ -1,7 +1,10 @@
 ---
 title: "黄金投资到底有什么经验技巧"
 post_status: publish
+post_date: 2023-12-05 23:13:00
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

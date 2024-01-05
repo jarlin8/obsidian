@@ -1,7 +1,10 @@
 ---
 title: "趋势跟踪在外汇里面是不是失效了"
 post_status: publish
+post_date: 2023-12-01 17:46:23
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

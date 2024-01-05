@@ -1,7 +1,10 @@
 ---
 title: "炒外汇怎样做才到稳定盈利"
 post_status: publish
+post_date: 2023-12-13 15:28:17
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

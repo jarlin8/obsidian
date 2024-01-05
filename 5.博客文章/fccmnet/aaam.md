@@ -1,7 +1,10 @@
 ---
 title: "风险控制的意识和计划对交易影响大吗"
 post_status: publish
+post_date: 2023-11-24 00:59:10
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

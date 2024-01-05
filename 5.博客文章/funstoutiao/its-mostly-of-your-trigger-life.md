@@ -1,7 +1,10 @@
 ---
 title: "你的交易之路顺利吗?"
 post_status: publish
+post_date: 2023-07-22 00:19:50
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

@@ -1,7 +1,10 @@
 ---
 title: "交易用日线图是不是太大了？用多大周期最好呢?"
 post_status: publish
+post_date: 2023-11-28 05:22:02
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

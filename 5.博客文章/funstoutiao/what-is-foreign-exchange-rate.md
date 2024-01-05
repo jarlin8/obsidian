@@ -1,7 +1,10 @@
 ---
 title: "什么叫外汇汇率? 汇率的标价有哪两种方法?"
 post_status: publish
+post_date: 2023-08-31 15:52:04
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forexbook"

@@ -1,7 +1,10 @@
 ---
 title: "一个完善的交易系统需要包括哪些部分?"
 post_status: publish
+post_date: 2023-10-17 22:45:34
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

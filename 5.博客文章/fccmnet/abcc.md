@@ -1,7 +1,10 @@
 ---
 title: "炒股的人可以炒外汇吗"
 post_status: publish
+post_date: 2023-10-24 20:04:57
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "黄金交易为何要分批建仓"
 post_status: publish
+post_date: 2023-10-20 18:24:14
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

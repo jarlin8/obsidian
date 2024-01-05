@@ -1,7 +1,10 @@
 ---
 title: "如何做好交易这件事?"
 post_status: publish
+post_date: 2023-12-12 05:07:51
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

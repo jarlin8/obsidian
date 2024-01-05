@@ -1,7 +1,10 @@
 ---
 title: "银行纸黄金怎么投资比较好"
 post_status: publish
+post_date: 2023-08-02 19:59:13
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

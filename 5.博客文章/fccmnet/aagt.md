@@ -1,7 +1,10 @@
 ---
 title: "做外汇即使用了EA也解决不了一直亏损的问题"
 post_status: publish
+post_date: 2023-08-07 16:35:54
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

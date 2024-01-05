@@ -1,7 +1,10 @@
 ---
 title: "ATFX的历史和发展经历了哪些阶段？"
 post_status: publish
+post_date: 2023-11-30 14:26:41
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

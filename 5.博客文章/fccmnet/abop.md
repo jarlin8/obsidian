@@ -1,7 +1,10 @@
 ---
 title: "在外汇平台上可以进行哪些类型的交易？"
 post_status: publish
+post_date: 2023-12-14 16:40:20
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

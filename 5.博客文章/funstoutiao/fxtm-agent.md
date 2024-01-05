@@ -1,7 +1,10 @@
 ---
 title: "FXTM富拓外汇平台怎么代理加盟？"
 post_status: publish
+post_date: 2023-12-14 15:16:08
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

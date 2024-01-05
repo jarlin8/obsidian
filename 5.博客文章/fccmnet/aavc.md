@@ -1,7 +1,10 @@
 ---
 title: "黄金投资盈利如何做"
 post_status: publish
+post_date: 2023-11-19 09:46:06
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

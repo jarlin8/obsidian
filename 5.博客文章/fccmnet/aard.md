@@ -1,7 +1,10 @@
 ---
 title: "新手炒黄金需要避免犯哪些错误"
 post_status: publish
+post_date: 2023-06-23 04:27:11
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

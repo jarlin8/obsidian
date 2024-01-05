@@ -1,7 +1,10 @@
 ---
 title: "影响伦敦金价格的因素有什么?"
 post_status: publish
+post_date: 2023-06-29 18:15:20
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

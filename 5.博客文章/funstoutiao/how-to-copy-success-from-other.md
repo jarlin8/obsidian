@@ -1,7 +1,10 @@
 ---
 title: "如何从别人的交易经验里复制成功?"
 post_status: publish
+post_date: 2023-07-27 03:17:37
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

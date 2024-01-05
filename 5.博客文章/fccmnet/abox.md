@@ -1,7 +1,10 @@
 ---
 title: "外汇平台的交易周期是多长？"
 post_status: publish
+post_date: 2023-08-21 21:27:46
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

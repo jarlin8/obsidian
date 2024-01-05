@@ -1,7 +1,10 @@
 ---
 title: "反转形态该如何识别"
 post_status: publish
+post_date: 2023-08-19 12:41:21
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

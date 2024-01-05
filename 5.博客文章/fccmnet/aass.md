@@ -1,7 +1,10 @@
 ---
 title: "上海黄金期货交易规则具体是什么"
 post_status: publish
+post_date: 2023-09-19 02:20:12
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "炒外汇怎么避免逆势加仓？"
 post_status: publish
+post_date: 2023-09-30 02:55:19
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

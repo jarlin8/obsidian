@@ -1,7 +1,10 @@
 ---
 title: "在外汇平台上如何进行分析和决策？"
 post_status: publish
+post_date: 2023-06-23 08:24:57
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

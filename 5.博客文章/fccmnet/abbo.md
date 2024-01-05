@@ -1,7 +1,10 @@
 ---
 title: "炒汇基本技术分析是怎么做的"
 post_status: publish
+post_date: 2023-12-21 20:30:41
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "个人想购买美元来存款和理财 是购汇还是购钞划算"
 post_status: publish
+post_date: 2023-11-13 06:15:17
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,7 +1,10 @@
 ---
 title: "如果让你回到做交易的第一天你要对自己说什么?"
 post_status: publish
+post_date: 2023-11-27 19:30:49
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

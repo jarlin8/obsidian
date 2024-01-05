@@ -1,7 +1,10 @@
 ---
 title: "请问大家外汇平台XM和富拓的最低入金是多少啊"
 post_status: publish
+post_date: 2023-12-13 07:02:43
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

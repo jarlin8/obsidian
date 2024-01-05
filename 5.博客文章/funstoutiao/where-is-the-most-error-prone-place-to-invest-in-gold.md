@@ -1,7 +1,10 @@
 ---
 title: "黄金投资最容易犯错的地方在哪里？"
 post_status: publish
+post_date: 2023-10-24 08:36:06
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

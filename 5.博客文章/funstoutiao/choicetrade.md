@@ -1,7 +1,10 @@
 ---
 title: "ChoiceTrade外汇交易平台测评"
 post_status: publish
+post_date: 2023-09-17 19:38:53
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "toutiao-basic"

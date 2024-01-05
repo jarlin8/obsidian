@@ -1,7 +1,10 @@
 ---
 title: "零售市场的流动性是怎么来的？"
 post_status: publish
+post_date: 2023-11-05 14:23:27
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

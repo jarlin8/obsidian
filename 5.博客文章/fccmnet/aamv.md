@@ -1,7 +1,10 @@
 ---
 title: "外汇超短线收益真的有那么高吗"
 post_status: publish
+post_date: 2023-09-20 06:27:28
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

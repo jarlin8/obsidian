@@ -1,7 +1,10 @@
 ---
 title: 外汇开户流程介绍，开外汇账户需要多少钱
 post_status: publish
+post_date: 2023-10-28 15:22:33
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
     - forex-answer

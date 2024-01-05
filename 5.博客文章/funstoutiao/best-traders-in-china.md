@@ -1,7 +1,10 @@
 ---
 title: "国内最牛的交易员都有那些人?"
 post_status: publish
+post_date: 2023-11-14 06:17:42
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

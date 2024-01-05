@@ -1,7 +1,10 @@
 ---
 title: "ATFX出不了金怎么办"
 post_status: publish
+post_date: 2023-09-05 21:09:12
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

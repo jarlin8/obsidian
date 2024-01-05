@@ -1,7 +1,10 @@
 ---
 title: "哪种黄金投资产品比较好做"
 post_status: publish
+post_date: 2023-09-16 21:20:03
 skip_file: no
+custom_fields: 
+  post-format: 
 taxonomy:
   category:
         - "faq"

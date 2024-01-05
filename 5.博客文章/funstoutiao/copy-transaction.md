@@ -1,7 +1,10 @@
 ---
 title: "国内外跟单网站里那么多优秀的交易员，跟随他们交易是不是稳赚不赔"
 post_status: publish
+post_date: 2023-10-31 01:58:15
 skip_file: no
+custom_fields: 
+  post-format: aside
 taxonomy:
   category:
         - "ganhuo"
