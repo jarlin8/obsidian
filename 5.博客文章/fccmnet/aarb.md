@@ -3,8 +3,6 @@ title: "新手如何炒黄金入门"
 post_status: publish
 post_date: 2023-07-30 10:55:12
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

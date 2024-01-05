@@ -3,8 +3,6 @@ title: "外汇投资影响英镑的基本面因素有哪些？"
 post_status: publish
 post_date: 2023-10-28 06:34:16
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

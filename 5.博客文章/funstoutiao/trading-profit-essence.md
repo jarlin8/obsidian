@@ -3,8 +3,6 @@ title: "交易盈利的本质是什么?"
 post_status: publish
 post_date: 2023-11-23 04:15:46
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

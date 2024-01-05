@@ -3,8 +3,6 @@ title: "阿根廷1998-2012年案例"
 post_status: publish
 post_date: 2023-07-17 21:04:55
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forexbook"

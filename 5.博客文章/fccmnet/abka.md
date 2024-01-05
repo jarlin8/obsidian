@@ -3,8 +3,6 @@ title: "GDP数据发布时，如何把握市场趋势"
 post_status: publish
 post_date: 2023-12-28 08:53:46
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "国际黄金反弹黄金股票会下跌吗"
 post_status: publish
 post_date: 2023-11-03 23:02:18
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

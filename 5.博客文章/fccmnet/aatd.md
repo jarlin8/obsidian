@@ -3,8 +3,6 @@ title: "如何分析黄金价格的影响因素"
 post_status: publish
 post_date: 2023-09-22 10:15:56
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "澳大利亚GDP数据怎样解读"
 post_status: publish
 post_date: 2023-07-23 18:47:23
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

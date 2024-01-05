@@ -3,8 +3,6 @@ title: "外汇汇率可作哪几种分类?"
 post_status: publish
 post_date: 2023-12-09 12:48:59
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forexbook"

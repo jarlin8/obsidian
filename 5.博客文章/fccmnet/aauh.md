@@ -3,8 +3,6 @@ title: "黄金长期来看对通胀作用怎么样"
 post_status: publish
 post_date: 2023-09-22 19:31:46
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

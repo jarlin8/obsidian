@@ -3,8 +3,6 @@ title: "外汇平台提供哪些付款方式？"
 post_status: publish
 post_date: 2023-07-09 06:40:33
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

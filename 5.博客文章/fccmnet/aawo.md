@@ -3,8 +3,6 @@ title: "黄金期货开户资金需要多少"
 post_status: publish
 post_date: 2023-08-04 12:19:40
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

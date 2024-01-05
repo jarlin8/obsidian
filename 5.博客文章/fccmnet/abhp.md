@@ -3,8 +3,6 @@ title: "MasterForex外汇平台开户需要什么资料"
 post_status: publish
 post_date: 2023-10-02 05:46:57
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

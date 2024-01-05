@@ -3,8 +3,6 @@ title: "外汇投资如何计算隔夜的仓息？"
 post_status: publish
 post_date: 2023-10-10 23:13:46
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

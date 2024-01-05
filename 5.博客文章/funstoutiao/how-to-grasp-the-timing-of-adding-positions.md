@@ -3,8 +3,6 @@ title: "外汇交易中如何把握加仓时机？"
 post_status: publish
 post_date: 2023-11-07 00:27:00
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

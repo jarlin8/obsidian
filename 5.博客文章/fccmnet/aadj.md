@@ -3,8 +3,6 @@ title: "成为专业交易者还需要什么因素"
 post_status: publish
 post_date: 2023-11-06 12:03:51
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

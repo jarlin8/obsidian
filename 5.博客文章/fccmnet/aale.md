@@ -3,8 +3,6 @@ title: "关于外汇技术分析的问题 诚心诚意向前辈请教。"
 post_status: publish
 post_date: 2023-08-20 12:21:16
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

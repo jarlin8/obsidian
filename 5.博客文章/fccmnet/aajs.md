@@ -3,8 +3,6 @@ title: "为什么很多人都认为做外汇是骗子"
 post_status: publish
 post_date: 2023-08-23 07:38:24
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

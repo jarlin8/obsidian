@@ -3,8 +3,6 @@ title: "XM外汇的出入金快吗 出入金有哪些方式"
 post_status: publish
 post_date: 2023-10-23 14:37:50
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

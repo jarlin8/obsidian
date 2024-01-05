@@ -3,8 +3,6 @@ title: "外汇交易中持有大量仓位时我们该如何理性思考？"
 post_status: publish
 post_date: 2023-09-21 01:39:16
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "experience"

@@ -3,8 +3,6 @@ title: "什么是马丁EA，能不能说一下马丁格尔策略的利与弊?"
 post_status: publish
 post_date: 2023-09-30 18:51:08
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

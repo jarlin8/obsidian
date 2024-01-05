@@ -3,8 +3,6 @@ title: "Forex.com嘉盛集团外汇实盘注册开户需要什么资料"
 post_status: publish
 post_date: 2023-12-05 03:48:10
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

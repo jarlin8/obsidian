@@ -3,8 +3,6 @@ title: "外汇开户官方跟代理商有什么区别"
 post_status: publish
 post_date: 2023-12-22 05:30:17
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

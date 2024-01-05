@@ -3,8 +3,6 @@ title: "做交易给你的生活带来了什么变化?"
 post_status: publish
 post_date: 2023-10-25 20:41:39
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

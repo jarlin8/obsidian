@@ -3,8 +3,6 @@ title: "黄金投资入门有什么要学的"
 post_status: publish
 post_date: 2023-06-25 11:35:59
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

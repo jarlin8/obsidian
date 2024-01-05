@@ -3,8 +3,6 @@ title: "外汇平台上的交易能否产生稳定的利润？"
 post_status: publish
 post_date: 2023-11-22 21:00:52
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

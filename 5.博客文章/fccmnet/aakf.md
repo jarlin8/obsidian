@@ -3,8 +3,6 @@ title: "美元加息 人民币贬值 外汇兑换开始收紧 黄金在这种情
 post_status: publish
 post_date: 2023-12-01 13:56:43
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

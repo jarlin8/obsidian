@@ -3,8 +3,6 @@ title: "投资黄金为什么总是亏损"
 post_status: publish
 post_date: 2023-09-28 18:09:24
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

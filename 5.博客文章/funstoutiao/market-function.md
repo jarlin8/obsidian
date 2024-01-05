@@ -3,8 +3,6 @@ title: "外汇市场的功能有哪些？有知道的吗？"
 post_status: publish
 post_date: 2023-11-06 18:12:03
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

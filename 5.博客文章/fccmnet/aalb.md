@@ -3,8 +3,6 @@ title: "国际大型对冲基金用的什么外汇平台"
 post_status: publish
 post_date: 2023-11-18 20:31:25
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "Pivot枢轴点经典应用有哪些？"
 post_status: publish
 post_date: 2023-12-10 17:45:09
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

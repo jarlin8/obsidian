@@ -3,8 +3,6 @@ title: "Forex.com嘉盛集团有什么特别的地方"
 post_status: publish
 post_date: 2023-10-03 18:52:04
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

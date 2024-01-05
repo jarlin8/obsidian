@@ -3,8 +3,6 @@ title: "ace爱信集团是合法的吗？"
 post_status: publish
 post_date: 2023-10-25 19:38:22
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "XM这个外汇平台如何适合长期投资吗"
 post_status: publish
 post_date: 2023-11-18 15:00:39
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

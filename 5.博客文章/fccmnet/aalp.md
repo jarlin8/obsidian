@@ -3,8 +3,6 @@ title: "如何看待外管局发布的《国家外汇管理局有关负责人就
 post_status: publish
 post_date: 2023-12-08 17:16:13
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

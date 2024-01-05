@@ -3,8 +3,6 @@ title: "如果大家都把每年5万美元的外汇额度兑换出来放在家�
 post_status: publish
 post_date: 2023-10-27 12:46:54
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "外汇止盈设置常用什么技术指标"
 post_status: publish
 post_date: 2023-07-24 20:00:11
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "企业红筹上市中可能遇到的外汇监管问题有哪些呢"
 post_status: publish
 post_date: 2023-12-07 21:39:00
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

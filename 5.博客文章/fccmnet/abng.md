@@ -3,8 +3,6 @@ title: "ATFX的主要客户群体有哪些特点？"
 post_status: publish
 post_date: 2023-09-16 20:39:58
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

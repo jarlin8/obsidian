@@ -3,8 +3,6 @@ title: "国内和国际上的原油 黄金白银还有外汇交易有什么不�
 post_status: publish
 post_date: 2023-09-05 22:13:54
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

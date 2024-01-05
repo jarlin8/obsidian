@@ -3,8 +3,6 @@ title: "债务危机我的应对原则"
 post_status: publish
 post_date: 2023-07-12 23:28:59
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forexbook"

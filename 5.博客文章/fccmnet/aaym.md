@@ -3,8 +3,6 @@ title: "国际黄金现货有什么优势"
 post_status: publish
 post_date: 2023-11-02 19:48:21
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

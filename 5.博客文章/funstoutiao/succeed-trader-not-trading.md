@@ -3,8 +3,6 @@ title: "为什么成功的交易员都不建议别人做交易?"
 post_status: publish
 post_date: 2023-09-03 00:28:24
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

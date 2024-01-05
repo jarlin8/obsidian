@@ -3,8 +3,6 @@ title: "国内的黄金股票和什么有关系吗"
 post_status: publish
 post_date: 2023-09-15 14:02:18
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

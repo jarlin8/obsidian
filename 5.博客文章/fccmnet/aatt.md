@@ -3,8 +3,6 @@ title: "国际黄金跟国内黄金有区别吗"
 post_status: publish
 post_date: 2023-11-24 11:33:05
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

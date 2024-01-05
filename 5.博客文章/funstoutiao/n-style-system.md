@@ -3,8 +3,6 @@ title: "外汇买卖N型交易系统剖析，交易高手支招"
 post_status: publish
 post_date: 2023-07-20 22:30:06
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

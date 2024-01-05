@@ -3,8 +3,6 @@ title: "信用卡 国外使用 每年超过5万美元 是否与个人每年5万�
 post_status: publish
 post_date: 2023-11-12 16:58:28
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

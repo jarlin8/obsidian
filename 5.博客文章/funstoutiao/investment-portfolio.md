@@ -3,8 +3,6 @@ title: "外汇交易最推荐的技术指标单品/组合有哪些?"
 post_status: publish
 post_date: 2023-07-20 10:55:27
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

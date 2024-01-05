@@ -3,8 +3,6 @@ title: "forex外汇嘉盛平台评测报告"
 post_status: publish
 post_date: 2023-09-25 23:34:00
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "平台无法出金该怎么办?"
 post_status: publish
 post_date: 2023-08-30 00:38:10
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

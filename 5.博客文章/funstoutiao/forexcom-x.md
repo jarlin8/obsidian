@@ -3,8 +3,6 @@ title: "Forex.com嘉盛集团是黑平台吗"
 post_status: publish
 post_date: 2023-10-04 10:53:38
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

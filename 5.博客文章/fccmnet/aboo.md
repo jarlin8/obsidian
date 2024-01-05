@@ -3,8 +3,6 @@ title: "外汇平台上的货币交易如何影响全球经济？"
 post_status: publish
 post_date: 2023-10-17 12:15:55
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

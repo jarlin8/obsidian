@@ -3,8 +3,6 @@ title: "ATFX外汇是不是对赌平台"
 post_status: publish
 post_date: 2023-10-18 00:09:24
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

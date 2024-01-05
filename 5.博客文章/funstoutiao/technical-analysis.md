@@ -3,8 +3,6 @@ title: "技术指标给出的交易信号与基本面的方向相反时，如何
 post_status: publish
 post_date: 2023-06-24 14:57:48
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

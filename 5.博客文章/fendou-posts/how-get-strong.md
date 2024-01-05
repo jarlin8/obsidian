@@ -1,10 +1,8 @@
 ---
 title: 怎样支撑一个人走过人生低谷和迷茫？
 post_status: publish
-post_date: 2023-08-29 02:20:52
 skip_file: no
-custom_fields: 
-  post-format: 
+post_date: 2023-12-29T04:10:00.000Z
 taxonomy:
   category:
         - everyday

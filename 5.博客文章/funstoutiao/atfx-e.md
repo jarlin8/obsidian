@@ -3,8 +3,6 @@ title: "ATFX外汇的出入金快吗 出入金有哪些方式"
 post_status: publish
 post_date: 2023-09-30 08:29:30
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -3,8 +3,6 @@ title: "炒汇新手交易的致命伤是什么"
 post_status: publish
 post_date: 2023-08-05 23:48:51
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

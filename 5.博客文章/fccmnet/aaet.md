@@ -3,8 +3,6 @@ title: "FXTM富拓有负面信息吗"
 post_status: publish
 post_date: 2023-10-28 05:55:26
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

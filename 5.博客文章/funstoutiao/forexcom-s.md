@@ -3,8 +3,6 @@ title: "Forex.com嘉盛集团平台投资大家觉得可行么"
 post_status: publish
 post_date: 2023-08-30 17:41:13
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

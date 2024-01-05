@@ -3,8 +3,6 @@ title: "看周线月线就能判断大趋势吗？"
 post_status: publish
 post_date: 2023-12-12 01:36:19
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

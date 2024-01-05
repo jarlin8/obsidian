@@ -3,8 +3,6 @@ title: "Tickmill VS IC Markets"
 post_status: publish
 post_date: 2023-11-02 22:19:02
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "reviews"

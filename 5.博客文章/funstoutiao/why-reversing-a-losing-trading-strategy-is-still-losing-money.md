@@ -3,8 +3,6 @@ title: "为什么把亏钱的交易策略反过来做还是在亏钱?"
 post_status: publish
 post_date: 2023-10-08 08:20:08
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

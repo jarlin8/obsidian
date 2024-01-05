@@ -3,8 +3,6 @@ title: "点差和隔夜利息哪个成本高"
 post_status: publish
 post_date: 2023-07-25 14:32:05
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

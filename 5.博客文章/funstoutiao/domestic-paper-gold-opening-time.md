@@ -3,8 +3,6 @@ title: "国内纸黄金开盘时间是几点，与国际一样吗?"
 post_status: publish
 post_date: 2023-06-25 00:56:00
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

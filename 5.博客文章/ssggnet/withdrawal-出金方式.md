@@ -1,10 +1,8 @@
 ---
 title: 嘉盛集团交易账户出金方式有哪些？费用怎么算？
 post_status: publish
-post_date: 2023-07-14 09:04:06
 skip_file: no
-custom_fields: 
-  post-format: aside
+post_date: 2022-05-26T10:53:00.000Z
 taxonomy:
   category:
         - forex-com

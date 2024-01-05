@@ -3,8 +3,6 @@ title: "爆仓是炒汇者的噩梦吗"
 post_status: publish
 post_date: 2023-10-09 23:32:17
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

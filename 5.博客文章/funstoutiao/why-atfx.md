@@ -3,8 +3,6 @@ title: "为什么这么多人做外汇时会选择ATFX"
 post_status: publish
 post_date: 2023-10-24 09:29:39
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

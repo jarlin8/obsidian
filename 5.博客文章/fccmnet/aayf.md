@@ -3,8 +3,6 @@ title: "黄金、美元、股市、债市、贵金属和大宗商品之间有哪
 post_status: publish
 post_date: 2023-11-26 04:52:46
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

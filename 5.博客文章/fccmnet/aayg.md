@@ -3,8 +3,6 @@ title: "黄金 暴跌是什么原因"
 post_status: publish
 post_date: 2023-07-02 22:39:19
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

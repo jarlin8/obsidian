@@ -3,8 +3,6 @@ title: "投资实物黄金和现货黄金哪个好"
 post_status: publish
 post_date: 2023-08-15 23:17:43
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

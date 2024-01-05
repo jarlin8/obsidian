@@ -3,8 +3,6 @@ title: "炒汇技巧如何巧用中期均线来操作"
 post_status: publish
 post_date: 2023-10-04 16:09:32
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

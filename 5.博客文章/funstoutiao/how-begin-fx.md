@@ -3,8 +3,6 @@ title: "新手做外汇交易怎么开始"
 post_status: publish
 post_date: 2023-10-12 02:02:51
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

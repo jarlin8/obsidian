@@ -3,8 +3,6 @@ title: "交易者在市场存活几率到底有多大？为何如此难?"
 post_status: publish
 post_date: 2023-07-11 11:50:40
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

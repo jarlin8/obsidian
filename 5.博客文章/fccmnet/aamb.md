@@ -3,8 +3,6 @@ title: "在外汇报价中 外汇牌价 外汇买入价外汇卖出价现钞买�
 post_status: publish
 post_date: 2023-11-04 18:26:55
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

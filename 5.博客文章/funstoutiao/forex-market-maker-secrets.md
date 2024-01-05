@@ -3,8 +3,6 @@ title: "外汇做市商（B-Book）的“秘密”是什么"
 post_status: publish
 post_date: 2023-11-22 04:38:18
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

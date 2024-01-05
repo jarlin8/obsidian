@@ -3,8 +3,6 @@ title: "差价合约（CFD）是什么意思"
 post_status: publish
 post_date: 2023-08-06 12:08:10
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "黄金走势图对黄金投资很重要吗"
 post_status: publish
 post_date: 2023-08-05 13:37:50
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

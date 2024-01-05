@@ -3,8 +3,6 @@ title: "哪个黄金交易平台合法正规安全"
 post_status: publish
 post_date: 2023-08-21 16:44:48
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

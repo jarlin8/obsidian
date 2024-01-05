@@ -3,8 +3,6 @@ title: "炒汇如何让资金翻倍"
 post_status: publish
 post_date: 2023-11-05 10:47:12
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

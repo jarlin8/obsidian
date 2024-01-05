@@ -3,8 +3,6 @@ title: "外汇交易者做交易开盘开仓都要注意哪些方面?"
 post_status: publish
 post_date: 2023-08-17 12:21:38
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

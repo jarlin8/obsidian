@@ -3,8 +3,6 @@ title: "斐波那契回调在外汇交易中如何应用"
 post_status: publish
 post_date: 2023-09-09 14:41:16
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

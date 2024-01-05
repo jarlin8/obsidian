@@ -3,8 +3,6 @@ title: "黄金投资短线赚钱技巧是什么"
 post_status: publish
 post_date: 2023-06-24 21:31:32
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

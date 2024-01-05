@@ -3,8 +3,6 @@ title: "在金融投资中，如何控制资金的回撤?"
 post_status: publish
 post_date: 2023-08-17 19:32:09
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

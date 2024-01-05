@@ -3,8 +3,6 @@ title: "工资收入2000多，炒外汇持续亏损两年可以辞职全职做�
 post_status: publish
 post_date: 2023-11-13 01:22:12
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

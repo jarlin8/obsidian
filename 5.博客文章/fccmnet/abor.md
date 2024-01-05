@@ -3,8 +3,6 @@ title: "外汇平台提供哪些支持服务？"
 post_status: publish
 post_date: 2023-10-22 09:25:44
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

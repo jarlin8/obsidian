@@ -3,8 +3,6 @@ title: "外汇交易达到稳定盈利需要些什么条件?"
 post_status: publish
 post_date: 2023-10-27 06:15:51
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

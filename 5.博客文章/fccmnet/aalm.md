@@ -3,8 +3,6 @@ title: "正规合法的外汇平台有哪些"
 post_status: publish
 post_date: 2023-07-17 15:36:50
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "瑞波币 (XRP) _有关瑞波和投资加密货币 XRP 的所有信息"
 post_status: publish
 post_date: 2023-07-06 02:09:56
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "guide"

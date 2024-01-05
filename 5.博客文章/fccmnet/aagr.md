@@ -3,8 +3,6 @@ title: "什么是外汇期权外汇期权是什么意思"
 post_status: publish
 post_date: 2023-09-07 23:36:34
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

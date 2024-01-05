@@ -3,8 +3,6 @@ title: "请教稳定盈利2年上的大师，组建交易系统后复盘多少�
 post_status: publish
 post_date: 2023-10-15 23:10:42
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

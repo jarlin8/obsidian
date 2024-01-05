@@ -3,8 +3,6 @@ title: "穿仓是什么意思外汇穿仓了怎么操作"
 post_status: publish
 post_date: 2023-08-16 23:26:30
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

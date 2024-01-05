@@ -3,8 +3,6 @@ title: "炒外汇有技巧就可以赚钱了吗？"
 post_status: publish
 post_date: 2023-09-16 00:09:23
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

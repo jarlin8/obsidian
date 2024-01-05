@@ -3,8 +3,6 @@ title: "交易反人性具体的体现形式是怎样的？交易者除了市场
 post_status: publish
 post_date: 2023-07-01 10:20:37
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

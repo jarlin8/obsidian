@@ -3,8 +3,6 @@ title: "炒汇新手如何赚钱"
 post_status: publish
 post_date: 2023-11-02 15:30:24
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "外汇交易系统中止损止盈点的设定有哪些技巧或者原则
 post_status: publish
 post_date: 2023-11-29 23:04:37
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

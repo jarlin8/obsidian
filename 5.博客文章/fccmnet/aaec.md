@@ -3,8 +3,6 @@ title: "炒外汇周K线的运用技巧是怎么样的"
 post_status: publish
 post_date: 2023-11-22 19:06:16
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

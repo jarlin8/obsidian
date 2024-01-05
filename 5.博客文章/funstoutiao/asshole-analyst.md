@@ -3,8 +3,6 @@ title: "外汇行业的老师，分析师，专家都是赚不了钱才天天吹
 post_status: publish
 post_date: 2023-10-02 18:33:16
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

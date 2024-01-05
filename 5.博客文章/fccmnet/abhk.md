@@ -3,8 +3,6 @@ title: "MetaTrader5为什么流行不起来呢"
 post_status: publish
 post_date: 2023-10-04 08:38:39
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

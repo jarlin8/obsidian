@@ -1,10 +1,8 @@
 ---
 title: 如何学习懂得更多，让别人觉得自己挺厉害？
 post_status: publish
-post_date: 2023-09-16 21:46:00
 skip_file: no
-custom_fields: 
-  post-format: 
+post_date: 2023-12-29T04:10:00.000Z
 taxonomy:
   category:
         - smartbook

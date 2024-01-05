@@ -3,8 +3,6 @@ title: "黄金投资看盘小技巧是什么"
 post_status: publish
 post_date: 2023-06-29 00:43:37
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

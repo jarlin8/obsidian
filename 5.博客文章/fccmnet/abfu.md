@@ -3,8 +3,6 @@ title: "XM外汇平台靠谱吗"
 post_status: publish
 post_date: 2023-12-28 20:34:14
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

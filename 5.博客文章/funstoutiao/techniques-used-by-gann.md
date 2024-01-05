@@ -3,8 +3,6 @@ title: "江恩用过鲜为人知的技术手段"
 post_status: publish
 post_date: 2023-07-31 19:13:03
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forexbook"

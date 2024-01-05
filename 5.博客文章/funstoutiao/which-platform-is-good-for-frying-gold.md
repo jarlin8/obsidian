@@ -3,8 +3,6 @@ title: "炒黄金哪个平台好？有什么选择的技巧"
 post_status: publish
 post_date: 2023-08-24 12:35:35
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

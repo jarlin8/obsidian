@@ -3,8 +3,6 @@ title: "炒外汇和股票真的可以赚很多钱"
 post_status: publish
 post_date: 2023-11-03 17:58:45
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

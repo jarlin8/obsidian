@@ -3,8 +3,6 @@ title: "财政政策因素是怎么分析的"
 post_status: publish
 post_date: 2023-07-18 09:50:23
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

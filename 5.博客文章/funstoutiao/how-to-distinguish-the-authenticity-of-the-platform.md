@@ -3,8 +3,6 @@ title: "怎么样辨别平台真伪，并且把亏损风险降到最低?"
 post_status: publish
 post_date: 2023-10-17 20:30:12
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

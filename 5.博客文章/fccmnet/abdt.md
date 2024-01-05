@@ -3,8 +3,6 @@ title: "波动最大的外汇货币对是哪个"
 post_status: publish
 post_date: 2023-12-22 13:32:58
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

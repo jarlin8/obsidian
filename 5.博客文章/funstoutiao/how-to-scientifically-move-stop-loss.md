@@ -3,8 +3,6 @@ title: "怎样科学的移动止损?"
 post_status: publish
 post_date: 2023-12-07 15:11:40
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

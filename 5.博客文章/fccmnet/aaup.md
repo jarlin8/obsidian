@@ -3,8 +3,6 @@ title: "黄金现货与黄金现货延期的区别有哪些"
 post_status: publish
 post_date: 2023-06-21 06:02:22
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

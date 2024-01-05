@@ -3,8 +3,6 @@ title: "外汇操盘手前景如何"
 post_status: publish
 post_date: 2023-09-19 09:03:14
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

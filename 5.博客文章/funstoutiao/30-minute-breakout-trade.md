@@ -3,8 +3,6 @@ title: "我是做30分钟突破交易的，现在不知道是突破价格后进�
 post_status: publish
 post_date: 2023-08-18 18:42:28
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

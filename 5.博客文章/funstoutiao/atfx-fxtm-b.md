@@ -3,8 +3,6 @@ title: "ATFX FXTM这两个平台哪个好"
 post_status: publish
 post_date: 2023-12-04 13:03:41
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

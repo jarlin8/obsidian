@@ -3,8 +3,6 @@ title: "中国外汇储备减少时 之前用于购买外汇而发行的人民�
 post_status: publish
 post_date: 2023-06-22 16:52:13
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

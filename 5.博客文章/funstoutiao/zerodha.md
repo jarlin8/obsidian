@@ -3,8 +3,6 @@ title: "Zerodha外汇经纪商测评"
 post_status: publish
 post_date: 2023-06-24 06:51:01
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "toutiao-basic"

@@ -3,8 +3,6 @@ title: "ATFX外汇保证金开户要多少钱"
 post_status: publish
 post_date: 2023-08-07 14:52:40
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -3,8 +3,6 @@ title: "黄金什么时候最便宜"
 post_status: publish
 post_date: 2023-12-22 10:43:44
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

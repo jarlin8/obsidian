@@ -3,8 +3,6 @@ title: "老牌正规黄金外汇平台有哪些？平台"
 post_status: publish
 post_date: 2023-12-11 23:41:13
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

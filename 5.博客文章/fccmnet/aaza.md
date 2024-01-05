@@ -3,8 +3,6 @@ title: "炒外汇黄金技巧最实用的有哪些"
 post_status: publish
 post_date: 2023-12-23 11:55:46
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

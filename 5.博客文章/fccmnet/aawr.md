@@ -3,8 +3,6 @@ title: "黄金期货开户平台有哪些"
 post_status: publish
 post_date: 2023-12-19 08:11:55
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

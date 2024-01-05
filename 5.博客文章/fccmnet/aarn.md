@@ -3,8 +3,6 @@ title: "为什么要顺势交易黄金"
 post_status: publish
 post_date: 2023-06-30 16:07:52
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "炒外汇开户去哪比较正规，银行吗？"
 post_status: publish
 post_date: 2023-09-03 13:29:11
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

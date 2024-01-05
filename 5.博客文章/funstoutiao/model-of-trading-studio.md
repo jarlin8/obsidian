@@ -3,8 +3,6 @@ title: "交易工作室常见的操作模式有哪些，他们通过哪些路子
 post_status: publish
 post_date: 2023-07-23 05:42:49
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

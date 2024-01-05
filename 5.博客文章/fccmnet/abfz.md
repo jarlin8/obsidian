@@ -3,8 +3,6 @@ title: "XM外汇的赠金亏损了要补还吗"
 post_status: publish
 post_date: 2023-09-23 15:02:55
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

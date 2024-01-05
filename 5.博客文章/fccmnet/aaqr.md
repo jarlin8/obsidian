@@ -3,8 +3,6 @@ title: "新手怎样学习外汇交易 有哪些建议"
 post_status: publish
 post_date: 2023-08-20 04:37:26
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

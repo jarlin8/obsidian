@@ -3,8 +3,6 @@ title: "ATFX点差是怎么计算的"
 post_status: publish
 post_date: 2023-09-27 19:37:35
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

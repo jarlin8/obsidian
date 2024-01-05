@@ -3,8 +3,6 @@ title: "如何看待中国巨额的外汇储备"
 post_status: publish
 post_date: 2023-11-27 19:53:05
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

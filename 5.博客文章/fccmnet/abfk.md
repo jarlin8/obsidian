@@ -3,8 +3,6 @@ title: "爱耳德射线指标ELDER-RAY是什么"
 post_status: publish
 post_date: 2023-08-28 12:25:04
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "IFX美股平台开户要求和步骤是什么"
 post_status: publish
 post_date: 2023-11-25 22:15:33
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

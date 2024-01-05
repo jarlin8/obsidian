@@ -3,8 +3,6 @@ title: "如何辩别有效突破?"
 post_status: publish
 post_date: 2023-10-25 17:53:01
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

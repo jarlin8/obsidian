@@ -3,8 +3,6 @@ title: "黄金实时行情有人给说一下吗"
 post_status: publish
 post_date: 2023-09-10 01:12:58
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

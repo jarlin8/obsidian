@@ -3,8 +3,6 @@ title: "目前自己在练习模拟盘，大概练习到什么程度就可以做
 post_status: publish
 post_date: 2023-08-25 15:16:24
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

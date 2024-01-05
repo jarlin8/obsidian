@@ -3,8 +3,6 @@ title: "黄金投资有什么好的策略"
 post_status: publish
 post_date: 2023-10-03 16:08:59
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "外汇交易仓位控制问题"
 post_status: publish
 post_date: 2023-07-27 09:23:00
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

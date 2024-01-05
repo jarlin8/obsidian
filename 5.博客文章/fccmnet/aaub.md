@@ -3,8 +3,6 @@ title: "金条和纸黄金的区别是什么"
 post_status: publish
 post_date: 2023-10-07 06:03:14
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "炒黄金怎么设置止盈"
 post_status: publish
 post_date: 2023-11-26 17:53:58
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

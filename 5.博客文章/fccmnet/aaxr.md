@@ -3,8 +3,6 @@ title: "黄金交易所开户需要哪些流程"
 post_status: publish
 post_date: 2023-08-30 05:01:12
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

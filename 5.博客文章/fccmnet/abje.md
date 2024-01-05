@@ -3,8 +3,6 @@ title: "ig外汇交易规则是什么"
 post_status: publish
 post_date: 2023-09-18 10:26:11
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

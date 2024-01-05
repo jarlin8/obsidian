@@ -3,8 +3,6 @@ title: "炒汇核心技术要领是什么"
 post_status: publish
 post_date: 2023-10-01 08:57:14
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

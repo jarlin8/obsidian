@@ -3,8 +3,6 @@ title: "外汇反向跟单赚钱吗 朋友说开了个公司 有10多个交易�
 post_status: publish
 post_date: 2023-07-13 11:14:26
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "最近爆了几次仓，所幸损失都不是很大，想问问各位，
 post_status: publish
 post_date: 2023-12-22 03:14:01
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

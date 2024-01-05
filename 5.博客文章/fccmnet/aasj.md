@@ -3,8 +3,6 @@ title: "石油和黄金的关系怎样"
 post_status: publish
 post_date: 2023-12-26 09:23:37
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

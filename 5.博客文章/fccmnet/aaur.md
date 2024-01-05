@@ -3,8 +3,6 @@ title: "黄金现货的价钱是怎么产生的"
 post_status: publish
 post_date: 2023-08-12 03:26:30
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

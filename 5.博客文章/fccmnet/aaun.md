@@ -3,8 +3,6 @@ title: "黄金行情接下来趋势怎样"
 post_status: publish
 post_date: 2023-07-27 17:13:45
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

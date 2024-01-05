@@ -3,8 +3,6 @@ title: "炒外汇怎么开户炒外汇合法吗"
 post_status: publish
 post_date: 2023-10-08 01:23:53
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

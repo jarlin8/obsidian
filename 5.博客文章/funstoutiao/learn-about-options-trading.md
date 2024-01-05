@@ -3,8 +3,6 @@ title: "您需要了解的期权交易"
 post_status: publish
 post_date: 2023-07-05 21:17:19
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "experience"

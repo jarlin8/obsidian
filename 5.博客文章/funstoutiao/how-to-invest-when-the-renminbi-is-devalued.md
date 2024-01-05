@@ -3,8 +3,6 @@ title: "人民币贬值如何投资，人民币贬值投资交易要注意什么
 post_status: publish
 post_date: 2023-09-11 07:00:35
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

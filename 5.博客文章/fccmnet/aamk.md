@@ -3,8 +3,6 @@ title: "现在的外汇真的难做吗"
 post_status: publish
 post_date: 2023-07-21 12:51:48
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

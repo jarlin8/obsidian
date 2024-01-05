@@ -3,8 +3,6 @@ title: "黄金投资是什么东西"
 post_status: publish
 post_date: 2023-10-30 09:28:11
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

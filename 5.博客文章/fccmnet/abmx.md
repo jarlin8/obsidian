@@ -3,8 +3,6 @@ title: "当你股票亏钱时，这5个方法帮你保持耐心和决心！"
 post_status: publish
 post_date: 2023-11-18 05:49:17
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

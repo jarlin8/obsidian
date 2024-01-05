@@ -3,8 +3,6 @@ title: "没到止损价位就扫损单子，为什么?"
 post_status: publish
 post_date: 2023-12-21 13:52:02
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

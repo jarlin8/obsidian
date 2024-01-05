@@ -3,8 +3,6 @@ title: "炒汇短线高手的经验是怎么样的"
 post_status: publish
 post_date: 2023-11-19 03:57:48
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

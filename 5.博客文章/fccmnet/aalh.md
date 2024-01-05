@@ -3,8 +3,6 @@ title: "期货和外汇哪个靠谱怎么对比"
 post_status: publish
 post_date: 2023-08-18 20:07:54
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

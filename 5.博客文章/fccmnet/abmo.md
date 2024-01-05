@@ -3,8 +3,6 @@ title: "制造业PMI指数和非制造业PMI指数哪个更重要？"
 post_status: publish
 post_date: 2023-07-30 17:46:11
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

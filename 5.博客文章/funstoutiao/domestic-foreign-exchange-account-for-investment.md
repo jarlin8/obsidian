@@ -3,8 +3,6 @@ title: "国内外汇开户做投资具体怎么操作？"
 post_status: publish
 post_date: 2023-10-25 13:47:25
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

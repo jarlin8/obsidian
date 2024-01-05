@@ -3,8 +3,6 @@ title: "KVB昆仑国际平台正规吗"
 post_status: publish
 post_date: 2023-06-18 11:39:59
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

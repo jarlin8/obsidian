@@ -3,8 +3,6 @@ title: "有没有什么精准平仓的方法?"
 post_status: publish
 post_date: 2023-09-16 03:06:22
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

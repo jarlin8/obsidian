@@ -3,8 +3,6 @@ title: "这几年好多人开始流行用缠论做交易了，缠论是否被过
 post_status: publish
 post_date: 2023-08-11 04:15:32
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

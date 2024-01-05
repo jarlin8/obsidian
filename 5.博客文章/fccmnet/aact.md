@@ -3,8 +3,6 @@ title: "除了亚洲外汇市场 还有哪几个外汇市场"
 post_status: publish
 post_date: 2023-12-11 00:08:40
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

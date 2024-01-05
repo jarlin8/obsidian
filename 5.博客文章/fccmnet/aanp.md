@@ -3,8 +3,6 @@ title: "怎么理解「外汇储备导致人民币货币增加」"
 post_status: publish
 post_date: 2023-10-30 07:34:14
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

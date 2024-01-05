@@ -3,8 +3,6 @@ title: "EA真的能赚钱？？？能长期稳定盈利嘛?"
 post_status: publish
 post_date: 2023-07-31 07:22:52
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

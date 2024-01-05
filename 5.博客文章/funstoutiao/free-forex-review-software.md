@@ -3,8 +3,6 @@ title: "哪里有免费的外汇复盘软件？"
 post_status: publish
 post_date: 2023-07-29 12:49:26
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

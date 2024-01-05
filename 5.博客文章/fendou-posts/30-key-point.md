@@ -1,10 +1,8 @@
 ---
 title: 新媒体人如何系统地做复盘和反思？
 post_status: publish
-post_date: 2023-06-30 01:02:36
 skip_file: no
-custom_fields: 
-  post-format: 
+post_date: 2023-12-29T04:10:00.000Z
 taxonomy:
   category:
         - everyday

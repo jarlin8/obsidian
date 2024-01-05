@@ -3,8 +3,6 @@ title: "外汇交易员为了了解基本面信息 通常从哪些渠道获取�
 post_status: publish
 post_date: 2023-09-02 01:53:39
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "zulutrade是正规平台吗"
 post_status: publish
 post_date: 2023-06-18 20:06:23
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

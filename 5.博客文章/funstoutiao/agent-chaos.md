@@ -3,8 +3,6 @@ title: "如何看待代理乱象?"
 post_status: publish
 post_date: 2023-11-28 21:04:30
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

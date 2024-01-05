@@ -3,8 +3,6 @@ title: "如何在外汇平台上操作投资才能赚钱？"
 post_status: publish
 post_date: 2023-12-29 19:59:09
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

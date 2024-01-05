@@ -3,8 +3,6 @@ title: "ATFX有哪些专业资深的分析师和专家团队？"
 post_status: publish
 post_date: 2023-11-25 07:43:50
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

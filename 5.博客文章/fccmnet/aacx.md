@@ -3,8 +3,6 @@ title: "出口押汇是什么意思跟进口押汇有区别吗"
 post_status: publish
 post_date: 2023-07-10 08:34:35
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

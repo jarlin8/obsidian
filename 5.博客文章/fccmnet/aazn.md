@@ -3,8 +3,6 @@ title: "炒黄金有哪个软件"
 post_status: publish
 post_date: 2023-09-30 09:03:35
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "不断的看外汇相关的书籍真的可以提高外汇交易的成功
 post_status: publish
 post_date: 2023-12-02 16:35:41
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

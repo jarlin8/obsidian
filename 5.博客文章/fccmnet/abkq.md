@@ -3,8 +3,6 @@ title: "ForexinControlEA回撤控制方法介绍"
 post_status: publish
 post_date: 2023-07-20 05:19:26
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

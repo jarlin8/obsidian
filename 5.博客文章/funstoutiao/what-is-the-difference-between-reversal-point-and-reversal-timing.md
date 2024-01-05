@@ -3,8 +3,6 @@ title: "反转点和反转时机的区别是什么?"
 post_status: publish
 post_date: 2023-06-19 10:38:02
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

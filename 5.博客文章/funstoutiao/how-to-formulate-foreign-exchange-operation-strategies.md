@@ -3,8 +3,6 @@ title: "外汇操作策略如何制定？"
 post_status: publish
 post_date: 2023-07-30 16:23:21
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

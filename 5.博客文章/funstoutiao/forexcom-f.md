@@ -3,8 +3,6 @@ title: "Forex.com嘉盛集团上资金是安全的尤其是资金管理这方面
 post_status: publish
 post_date: 2023-11-01 10:44:30
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

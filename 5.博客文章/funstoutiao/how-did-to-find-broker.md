@@ -3,8 +3,6 @@ title: "到底该如何选择外汇平台"
 post_status: publish
 post_date: 2023-11-28 15:24:51
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

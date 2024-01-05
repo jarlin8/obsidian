@@ -3,8 +3,6 @@ title: "什么是国际收支模式？国际收支是怎么样的？"
 post_status: publish
 post_date: 2023-09-03 23:38:04
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

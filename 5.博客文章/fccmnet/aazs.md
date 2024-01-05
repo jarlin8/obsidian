@@ -3,8 +3,6 @@ title: "炒黄金需要什么技术"
 post_status: publish
 post_date: 2023-08-04 20:23:25
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "全球外汇交易是统一的市场吗"
 post_status: publish
 post_date: 2023-10-10 08:38:48
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "买在高点，卖在低点，一止损就反转，一死扛就逆势走
 post_status: publish
 post_date: 2023-10-14 03:46:49
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

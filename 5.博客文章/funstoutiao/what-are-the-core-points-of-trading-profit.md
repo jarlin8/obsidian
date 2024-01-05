@@ -3,8 +3,6 @@ title: "除了趋势，是否还有其他的交易理念盈利可行性?"
 post_status: publish
 post_date: 2023-07-10 04:49:45
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

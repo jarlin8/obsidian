@@ -3,8 +3,6 @@ title: "人民币汇率与外汇储备什么关系"
 post_status: publish
 post_date: 2023-10-02 22:01:08
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

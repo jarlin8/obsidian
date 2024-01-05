@@ -3,8 +3,6 @@ title: "那些经典但MT4没有的交易指标，如顾比均线、维加斯通
 post_status: publish
 post_date: 2023-11-16 06:12:54
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

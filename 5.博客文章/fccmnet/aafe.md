@@ -3,8 +3,6 @@ title: "FXTM富拓这家平台怎么样"
 post_status: publish
 post_date: 2023-09-27 19:10:47
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

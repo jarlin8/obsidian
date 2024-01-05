@@ -3,8 +3,6 @@ title: "外汇大资金为何不在收市时砸盘"
 post_status: publish
 post_date: 2023-07-01 12:52:26
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

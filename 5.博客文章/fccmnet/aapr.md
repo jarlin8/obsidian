@@ -3,8 +3,6 @@ title: "未来想做外汇交易员 怎么开始"
 post_status: publish
 post_date: 2023-11-05 10:00:45
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

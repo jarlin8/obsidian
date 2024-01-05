@@ -3,8 +3,6 @@ title: "炒外汇入门必须要掌握的秘籍是什么？"
 post_status: publish
 post_date: 2023-11-21 17:15:31
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

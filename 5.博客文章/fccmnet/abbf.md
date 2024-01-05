@@ -3,8 +3,6 @@ title: "炒汇时盯盘的技巧和盯盘要素有哪些"
 post_status: publish
 post_date: 2023-09-01 15:08:32
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "XM外汇的最小交易手数是多少"
 post_status: publish
 post_date: 2023-07-31 16:35:51
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

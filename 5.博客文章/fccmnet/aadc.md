@@ -3,8 +3,6 @@ title: "持仓价格比成本价格低怎么办 怎么处理好"
 post_status: publish
 post_date: 2023-07-01 13:39:03
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

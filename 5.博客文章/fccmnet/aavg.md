@@ -3,8 +3,6 @@ title: "黄金投资下单技巧是什么"
 post_status: publish
 post_date: 2023-10-12 05:45:49
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

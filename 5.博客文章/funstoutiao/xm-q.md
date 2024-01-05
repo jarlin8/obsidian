@@ -3,8 +3,6 @@ title: "XM平台投资大家觉得可行么"
 post_status: publish
 post_date: 2023-06-23 18:14:52
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

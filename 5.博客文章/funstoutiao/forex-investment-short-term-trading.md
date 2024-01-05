@@ -3,8 +3,6 @@ title: "如何做好外汇投资短线交易，有什么技巧？"
 post_status: publish
 post_date: 2023-10-10 04:08:38
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

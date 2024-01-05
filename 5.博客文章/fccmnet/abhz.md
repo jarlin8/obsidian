@@ -3,8 +3,6 @@ title: "k线组合有没有比较复杂的走势"
 post_status: publish
 post_date: 2023-11-23 00:00:21
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

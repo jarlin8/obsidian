@@ -3,8 +3,6 @@ title: "如何看待目前国内的交易平台经营现状，合法性，盈利
 post_status: publish
 post_date: 2023-08-24 09:41:57
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

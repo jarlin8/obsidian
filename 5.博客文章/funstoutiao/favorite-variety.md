@@ -3,8 +3,6 @@ title: "统计一下各自最喜欢做的品种有哪些？为什么?"
 post_status: publish
 post_date: 2023-06-26 16:01:17
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

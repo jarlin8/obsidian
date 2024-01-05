@@ -1,10 +1,8 @@
 ---
 title: 嘉盛集团的无手续费交易账户怎么开设？
 post_status: publish
-post_date: 2023-12-09 01:42:26
 skip_file: no
-custom_fields: 
-  post-format: aside
+post_date: 2023-12-29T06:39:00.000Z
 taxonomy:
   category:
         - forex-com

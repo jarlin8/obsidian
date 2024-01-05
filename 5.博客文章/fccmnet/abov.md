@@ -3,8 +3,6 @@ title: "外汇平台上的止损和止盈是如何生效的？"
 post_status: publish
 post_date: 2023-10-18 07:17:56
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "给日内交易的一些建议,句句都是过来人的肺腑之言"
 post_status: publish
 post_date: 2023-09-04 11:22:02
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

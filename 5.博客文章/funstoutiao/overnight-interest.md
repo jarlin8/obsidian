@@ -3,8 +3,6 @@ title: "我想了解一下隔夜利息是怎么计算的?"
 post_status: publish
 post_date: 2023-09-12 17:39:33
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

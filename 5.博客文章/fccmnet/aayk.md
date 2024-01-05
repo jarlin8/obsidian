@@ -3,8 +3,6 @@ title: "国内炒纽约黄金期货有什么方法"
 post_status: publish
 post_date: 2023-09-30 00:41:56
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

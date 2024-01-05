@@ -3,8 +3,6 @@ title: "推荐几本炒外汇入门的书"
 post_status: publish
 post_date: 2023-07-20 18:32:51
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

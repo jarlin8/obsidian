@@ -3,8 +3,6 @@ title: "外汇实战技巧一各国货币现阶段国际地位与功能"
 post_status: publish
 post_date: 2023-06-28 09:57:22
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forexbook"

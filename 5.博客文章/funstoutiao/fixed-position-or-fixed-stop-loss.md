@@ -3,8 +3,6 @@ title: "固定仓位好还是固定止损好?"
 post_status: publish
 post_date: 2023-12-07 19:55:56
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

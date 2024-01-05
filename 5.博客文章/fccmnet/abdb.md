@@ -3,8 +3,6 @@ title: "布雷顿森林体系崩溃的原因是什么"
 post_status: publish
 post_date: 2023-07-07 09:54:28
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

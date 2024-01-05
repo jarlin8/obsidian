@@ -1,10 +1,8 @@
 ---
 title: 关于我们
 post_status: publish
-post_date: 2023-09-08 11:52:46
 skip_file: no
-custom_fields: 
-  post-format: 
+post_date: 2024-01-04T08:09:00.000Z
 taxonomy:
   category:
         - ea

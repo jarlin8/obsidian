@@ -3,8 +3,6 @@ title: "做外汇五年了 还是亏 怎么办"
 post_status: publish
 post_date: 2023-07-21 08:14:40
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "在外汇黄金交易中 何谓心态"
 post_status: publish
 post_date: 2023-11-11 02:17:12
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

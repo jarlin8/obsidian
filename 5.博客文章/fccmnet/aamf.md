@@ -3,8 +3,6 @@ title: "如何在中国进行外汇交易"
 post_status: publish
 post_date: 2023-12-03 00:49:59
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

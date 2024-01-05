@@ -3,8 +3,6 @@ title: "网上那些外汇维权真的假的"
 post_status: publish
 post_date: 2023-09-02 12:19:36
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

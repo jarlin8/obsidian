@@ -3,8 +3,6 @@ title: "如何做好交易员的女朋友?"
 post_status: publish
 post_date: 2023-10-13 12:15:11
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

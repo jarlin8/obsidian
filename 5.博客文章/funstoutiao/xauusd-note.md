@@ -3,8 +3,6 @@ title: "现货操作笔记@黄金10个点 原油2个点严格止损"
 post_status: publish
 post_date: 2023-10-19 05:04:59
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "toutiao"

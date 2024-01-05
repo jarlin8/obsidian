@@ -3,8 +3,6 @@ title: "汇市百分之九十以上的都在亏，为什么都不放弃?"
 post_status: publish
 post_date: 2023-12-13 20:04:06
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

@@ -3,8 +3,6 @@ title: "个人如何进入外汇市场 刚刚工作的小白如何在外汇中�
 post_status: publish
 post_date: 2023-08-17 03:09:50
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

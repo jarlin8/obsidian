@@ -3,8 +3,6 @@ title: "小资金正确应该是逆势重仓不不止损才能逆袭?"
 post_status: publish
 post_date: 2023-09-27 05:43:30
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

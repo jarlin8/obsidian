@@ -3,8 +3,6 @@ title: "什么叫套汇交易? 它有哪两种形式?"
 post_status: publish
 post_date: 2023-07-02 14:19:02
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forexbook"

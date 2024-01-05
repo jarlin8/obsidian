@@ -3,8 +3,6 @@ title: "HYCM兴业开户步骤"
 post_status: publish
 post_date: 2023-11-06 17:29:50
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

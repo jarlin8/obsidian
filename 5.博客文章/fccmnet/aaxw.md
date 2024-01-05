@@ -3,8 +3,6 @@ title: "黄金定投有哪些方式"
 post_status: publish
 post_date: 2023-07-09 12:27:33
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

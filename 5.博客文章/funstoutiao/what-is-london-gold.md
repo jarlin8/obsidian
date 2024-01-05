@@ -3,8 +3,6 @@ title: "伦敦金是什么？伦敦金交易时间是怎样的？"
 post_status: publish
 post_date: 2023-10-21 10:23:42
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

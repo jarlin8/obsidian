@@ -3,8 +3,6 @@ title: "ATFX支持哪些丰富多样的交易品种和市场？"
 post_status: publish
 post_date: 2023-10-04 18:09:10
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

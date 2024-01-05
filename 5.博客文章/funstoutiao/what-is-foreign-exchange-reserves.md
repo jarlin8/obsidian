@@ -3,8 +3,6 @@ title: "什么是外汇储备? 我国外汇储备的结构是怎样的?"
 post_status: publish
 post_date: 2023-09-16 07:50:37
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forexbook"

@@ -3,8 +3,6 @@ title: "炒黄金避免爆仓要怎么做"
 post_status: publish
 post_date: 2023-10-24 03:23:05
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "外汇平台可以提供哪些交易工具？"
 post_status: publish
 post_date: 2023-11-12 04:13:35
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

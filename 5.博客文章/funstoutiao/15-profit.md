@@ -3,8 +3,6 @@ title: "外汇市场的年收益能达到15%吗？"
 post_status: publish
 post_date: 2023-09-17 21:26:21
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

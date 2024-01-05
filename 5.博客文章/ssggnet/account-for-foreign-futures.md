@@ -1,10 +1,8 @@
 ---
 title: 手把手教你炒黄金外汇
 post_status: publish
-post_date: 2023-10-28 10:36:12
 skip_file: no
-custom_fields: 
-  post-format: aside
+post_date: 2022-05-26T10:52:00.000Z
 taxonomy:
   category:
         - forex-com

@@ -3,8 +3,6 @@ title: "ECN和STP的定义和特征是什么？"
 post_status: publish
 post_date: 2023-08-16 16:27:31
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

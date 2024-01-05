@@ -3,8 +3,6 @@ title: "ATFX对保证金有什么限制"
 post_status: publish
 post_date: 2023-12-18 03:36:16
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -3,8 +3,6 @@ title: "怎样才能称得上是一个合格的交易员?"
 post_status: publish
 post_date: 2023-10-28 21:17:18
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

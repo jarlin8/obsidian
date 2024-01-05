@@ -3,8 +3,6 @@ title: "ace爱信集团外汇是家什么平台，有监管的吗？"
 post_status: publish
 post_date: 2023-11-03 03:20:22
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

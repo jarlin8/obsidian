@@ -3,8 +3,6 @@ title: "如何设置止损点?"
 post_status: publish
 post_date: 2023-09-06 07:37:59
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

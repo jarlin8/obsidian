@@ -3,8 +3,6 @@ title: "炒黄金追单有什么技巧"
 post_status: publish
 post_date: 2023-07-22 03:47:00
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "ic markets平台怎么样，ic markets平台正规吗？"
 post_status: publish
 post_date: 2023-12-25 04:19:28
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

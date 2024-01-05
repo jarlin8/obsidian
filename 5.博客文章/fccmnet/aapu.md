@@ -3,8 +3,6 @@ title: "外汇储备是否可以在国内使用"
 post_status: publish
 post_date: 2023-10-05 18:11:13
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

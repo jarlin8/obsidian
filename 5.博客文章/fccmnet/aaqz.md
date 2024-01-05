@@ -3,8 +3,6 @@ title: "新手怎么投资黄金期货比较好"
 post_status: publish
 post_date: 2023-08-06 09:07:32
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

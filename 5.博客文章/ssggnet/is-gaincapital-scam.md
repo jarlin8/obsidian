@@ -1,10 +1,8 @@
 ---
 title: 嘉盛集团是骗子平台吗？嘉盛外汇是黑平台吗？
 post_status: publish
-post_date: 2023-09-11 16:22:07
 skip_file: no
-custom_fields: 
-  post-format: aside
+post_date: 2022-05-26T10:53:00.000Z
 taxonomy:
   category:
         - forex-com

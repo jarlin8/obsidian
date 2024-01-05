@@ -3,8 +3,6 @@ title: "个人炒外汇怎样开户"
 post_status: publish
 post_date: 2023-07-05 10:05:04
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

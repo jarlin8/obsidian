@@ -3,8 +3,6 @@ title: "上海黄金期货交易所基差是多少"
 post_status: publish
 post_date: 2023-09-28 18:14:56
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

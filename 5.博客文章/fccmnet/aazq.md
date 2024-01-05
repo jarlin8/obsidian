@@ -3,8 +3,6 @@ title: "炒黄金也会被强制平仓吗"
 post_status: publish
 post_date: 2023-07-05 07:16:00
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

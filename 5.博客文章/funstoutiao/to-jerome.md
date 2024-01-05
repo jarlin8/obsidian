@@ -3,8 +3,6 @@ title: "中国芯片巨头闻泰科技遭英国政府打压，子公司安世半
 post_status: publish
 post_date: 2023-11-16 04:51:42
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "guide"

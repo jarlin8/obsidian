@@ -3,8 +3,6 @@ title: "为什么很多人都说利用裸k做单的都是高手呢?"
 post_status: publish
 post_date: 2023-09-10 21:56:49
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

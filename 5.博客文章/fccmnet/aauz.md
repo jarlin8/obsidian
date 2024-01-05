@@ -3,8 +3,6 @@ title: "黄金投资怎么管理资金"
 post_status: publish
 post_date: 2023-08-26 10:41:26
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

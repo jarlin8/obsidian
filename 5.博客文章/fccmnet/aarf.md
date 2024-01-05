@@ -3,8 +3,6 @@ title: "现货黄金怎么规避风险"
 post_status: publish
 post_date: 2023-11-03 09:09:01
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

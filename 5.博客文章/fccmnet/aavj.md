@@ -3,8 +3,6 @@ title: "黄金投资市场分析怎么做"
 post_status: publish
 post_date: 2023-10-07 17:21:01
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

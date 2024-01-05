@@ -3,8 +3,6 @@ title: "外汇交易下单后行情与预期走势相反，快速止损出局还
 post_status: publish
 post_date: 2023-08-22 15:16:30
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

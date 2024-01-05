@@ -3,8 +3,6 @@ title: "利用均线指标分析市场，一般选择多少周期，哪个周期
 post_status: publish
 post_date: 2023-12-17 09:14:31
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

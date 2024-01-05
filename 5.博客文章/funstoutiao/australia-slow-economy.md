@@ -3,8 +3,6 @@ title: "澳洲经济放缓，消费者支出意外疲软"
 post_status: publish
 post_date: 2023-11-14 13:39:14
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "toutiao"

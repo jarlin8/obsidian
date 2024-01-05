@@ -3,8 +3,6 @@ title: "消息面是利多或者是利空为什么行情还会往相反方向走
 post_status: publish
 post_date: 2023-09-12 14:40:17
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

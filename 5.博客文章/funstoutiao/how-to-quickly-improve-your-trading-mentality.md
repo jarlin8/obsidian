@@ -3,8 +3,6 @@ title: "如何快速提升交易心态?"
 post_status: publish
 post_date: 2023-07-30 12:29:25
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

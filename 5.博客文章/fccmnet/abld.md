@@ -3,8 +3,6 @@ title: "Exness入金方式和最低金额"
 post_status: publish
 post_date: 2023-08-30 07:50:26
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

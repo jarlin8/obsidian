@@ -3,8 +3,6 @@ title: "黄金期货交易有什么风险"
 post_status: publish
 post_date: 2023-12-02 08:20:46
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

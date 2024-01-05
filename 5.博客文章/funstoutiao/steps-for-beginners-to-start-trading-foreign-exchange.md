@@ -3,8 +3,6 @@ title: "新手炒外汇入门的步骤是什么？"
 post_status: publish
 post_date: 2023-09-17 07:47:43
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -1,10 +1,8 @@
 ---
 title: 刚工作不久，收入不高如何进一步提升自己？
 post_status: publish
-post_date: 2023-07-01 04:24:46
 skip_file: no
-custom_fields: 
-  post-format: 
+post_date: 2023-12-29T04:10:00.000Z
 taxonomy:
   category:
         - project

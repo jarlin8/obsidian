@@ -3,8 +3,6 @@ title: "外汇和微交易到底是投资还是骗局"
 post_status: publish
 post_date: 2023-10-05 16:28:54
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

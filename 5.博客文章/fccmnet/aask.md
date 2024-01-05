@@ -3,8 +3,6 @@ title: "纸黄金有什么特点"
 post_status: publish
 post_date: 2023-10-06 12:23:55
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "一文讲透外汇交易的基本面分析"
 post_status: publish
 post_date: 2023-07-10 21:47:41
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

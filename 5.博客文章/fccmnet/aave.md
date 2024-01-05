@@ -3,8 +3,6 @@ title: "金融市场投资要注意什么"
 post_status: publish
 post_date: 2023-08-02 02:25:41
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

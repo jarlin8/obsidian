@@ -3,8 +3,6 @@ title: "富拓FXTM靠谱么"
 post_status: publish
 post_date: 2023-11-05 09:35:35
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "为什么有些人做外汇投资交易老是亏钱"
 post_status: publish
 post_date: 2023-12-13 14:03:39
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

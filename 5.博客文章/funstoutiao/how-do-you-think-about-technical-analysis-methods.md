@@ -3,8 +3,6 @@ title: "大家如何看待，技术分析方法一看就会，一做就废这个
 post_status: publish
 post_date: 2023-10-13 19:15:05
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

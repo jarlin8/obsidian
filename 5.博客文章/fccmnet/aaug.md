@@ -3,8 +3,6 @@ title: "黄金走势的变化主要是看什么"
 post_status: publish
 post_date: 2023-10-11 18:24:56
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

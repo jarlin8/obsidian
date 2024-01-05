@@ -3,8 +3,6 @@ title: "现货黄金入门怎么快速"
 post_status: publish
 post_date: 2023-09-29 03:00:23
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "如何看待各个交易商的赠金活动?"
 post_status: publish
 post_date: 2023-07-27 02:28:34
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

@@ -3,8 +3,6 @@ title: "作为交易员，你如何面对外界的质疑和否认?"
 post_status: publish
 post_date: 2023-09-27 07:03:09
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

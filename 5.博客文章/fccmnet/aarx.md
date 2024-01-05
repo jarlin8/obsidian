@@ -3,8 +3,6 @@ title: "投资黄金期货应该怎么降低风险"
 post_status: publish
 post_date: 2023-12-29 17:38:23
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

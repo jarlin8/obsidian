@@ -3,8 +3,6 @@ title: "趋势和形态是什么关系？为什么有人说形态是趋势之母
 post_status: publish
 post_date: 2023-10-04 12:38:35
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

@@ -3,8 +3,6 @@ title: "BestScalperEA是什么？它适合哪些交易者？"
 post_status: publish
 post_date: 2023-11-19 20:48:32
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

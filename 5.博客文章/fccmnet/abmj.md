@@ -3,8 +3,6 @@ title: "ATFX如何符合各国法律法规和监管机构的要求？"
 post_status: publish
 post_date: 2023-11-01 01:43:00
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

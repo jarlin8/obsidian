@@ -3,8 +3,6 @@ title: "交易时，对于亏损单应该如何处理?"
 post_status: publish
 post_date: 2023-08-21 07:44:41
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

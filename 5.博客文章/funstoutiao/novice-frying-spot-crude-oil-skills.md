@@ -3,8 +3,6 @@ title: "新手炒现货原油技巧有哪些？"
 post_status: publish
 post_date: 2023-08-12 06:03:22
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

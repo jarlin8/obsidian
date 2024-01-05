@@ -3,8 +3,6 @@ title: "土耳其1997-2003年案例"
 post_status: publish
 post_date: 2023-12-29 05:08:04
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forexbook"

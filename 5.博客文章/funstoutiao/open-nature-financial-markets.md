@@ -3,8 +3,6 @@ title: "金融市场什么时候才能在国内正式开放?"
 post_status: publish
 post_date: 2023-09-04 00:34:09
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

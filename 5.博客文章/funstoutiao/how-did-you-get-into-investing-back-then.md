@@ -3,8 +3,6 @@ title: "当年的你是怎么进入投资这条路的？直到今日你收获了
 post_status: publish
 post_date: 2023-07-13 01:13:21
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

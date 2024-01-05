@@ -3,8 +3,6 @@ title: "投资黄金为什么要关注非农数据"
 post_status: publish
 post_date: 2023-12-15 23:01:45
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

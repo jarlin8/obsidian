@@ -3,8 +3,6 @@ title: "黄金外汇交易平台哪个好，黄金外汇交易十大平台是哪
 post_status: publish
 post_date: 2023-09-25 00:45:12
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

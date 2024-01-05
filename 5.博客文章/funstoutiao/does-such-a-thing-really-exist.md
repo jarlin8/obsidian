@@ -3,8 +3,6 @@ title: "真的存在盘感这种东西吗?"
 post_status: publish
 post_date: 2023-08-17 10:29:56
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

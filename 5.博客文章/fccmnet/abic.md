@@ -3,8 +3,6 @@ title: "k线形态阴包阳是什么意思"
 post_status: publish
 post_date: 2023-10-10 13:18:39
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

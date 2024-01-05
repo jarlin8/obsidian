@@ -3,8 +3,6 @@ title: "炒外汇中的趋势线如何解读"
 post_status: publish
 post_date: 2023-09-20 22:17:00
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

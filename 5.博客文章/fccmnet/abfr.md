@@ -3,8 +3,6 @@ title: "阿尔法系数跟交易有关系吗"
 post_status: publish
 post_date: 2023-09-29 01:18:35
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

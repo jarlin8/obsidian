@@ -3,8 +3,6 @@ title: "欧元区是怎么运作的？现在欧元可以买入吗？"
 post_status: publish
 post_date: 2023-10-12 01:25:34
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

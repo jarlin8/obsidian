@@ -3,8 +3,6 @@ title: "俄罗斯的监管是不是很严格的"
 post_status: publish
 post_date: 2023-11-10 19:11:25
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

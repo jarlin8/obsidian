@@ -3,8 +3,6 @@ title: "交易看什么时间周期最好?"
 post_status: publish
 post_date: 2023-06-29 04:49:32
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

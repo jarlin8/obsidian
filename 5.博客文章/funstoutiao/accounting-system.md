@@ -3,8 +3,6 @@ title: "欧美股票市场的会计制度详解#投资的头号法则"
 post_status: publish
 post_date: 2023-09-05 07:48:48
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forexbook"

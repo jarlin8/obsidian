@@ -3,8 +3,6 @@ title: "外汇与外汇储备的区别是什么"
 post_status: publish
 post_date: 2023-10-12 13:17:50
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

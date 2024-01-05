@@ -3,8 +3,6 @@ title: "做外汇怎样解决心态问题"
 post_status: publish
 post_date: 2023-11-25 09:21:46
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

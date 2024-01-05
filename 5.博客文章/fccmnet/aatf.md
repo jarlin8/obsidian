@@ -3,8 +3,6 @@ title: "如何炒期货黄金是最合适的"
 post_status: publish
 post_date: 2023-11-15 23:31:40
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

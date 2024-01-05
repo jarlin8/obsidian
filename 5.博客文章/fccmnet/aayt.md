@@ -3,8 +3,6 @@ title: "贵金属和黄金哪个贵"
 post_status: publish
 post_date: 2023-06-28 11:36:43
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

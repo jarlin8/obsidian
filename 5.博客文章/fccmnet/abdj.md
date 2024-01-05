@@ -3,8 +3,6 @@ title: "剥头皮交易方式是不是最合适的"
 post_status: publish
 post_date: 2023-08-23 07:58:01
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

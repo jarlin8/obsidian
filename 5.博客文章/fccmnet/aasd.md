@@ -3,8 +3,6 @@ title: "世界四大黄金市场分别是什么"
 post_status: publish
 post_date: 2023-12-03 18:24:55
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

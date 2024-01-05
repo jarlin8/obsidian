@@ -3,8 +3,6 @@ title: "在哪个外汇交易平台炒外汇"
 post_status: publish
 post_date: 2023-08-28 22:27:38
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

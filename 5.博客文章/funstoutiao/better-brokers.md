@@ -3,8 +3,6 @@ title: "有没有好的外汇平台推荐"
 post_status: publish
 post_date: 2023-12-10 02:50:15
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

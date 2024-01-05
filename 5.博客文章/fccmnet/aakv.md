@@ -3,8 +3,6 @@ title: "外汇交易三角套利如何来做"
 post_status: publish
 post_date: 2023-07-04 13:17:48
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

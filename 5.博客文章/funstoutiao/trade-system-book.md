@@ -3,8 +3,6 @@ title: "大佬们创建自己的交易系统的时候都看过哪些书?"
 post_status: publish
 post_date: 2023-09-07 02:14:19
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

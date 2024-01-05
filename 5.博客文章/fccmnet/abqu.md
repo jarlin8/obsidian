@@ -3,8 +3,6 @@ title: "为什么中国禁止外汇保证金交易"
 post_status: publish
 post_date: 2023-07-04 12:25:36
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

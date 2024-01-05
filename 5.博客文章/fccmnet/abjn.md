@@ -3,8 +3,6 @@ title: "ICMarkets产品风险大吗"
 post_status: publish
 post_date: 2023-11-09 11:59:52
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

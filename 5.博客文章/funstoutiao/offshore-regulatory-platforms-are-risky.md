@@ -3,8 +3,6 @@ title: "离岸监管平台风险大，正规平台杠杆低，投资者该如何
 post_status: publish
 post_date: 2023-09-06 14:46:33
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

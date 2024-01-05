@@ -3,8 +3,6 @@ title: "八年职业外汇交易员来解答各种问题 应聘失败了 喝点�
 post_status: publish
 post_date: 2023-10-09 01:56:14
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

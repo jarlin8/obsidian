@@ -3,8 +3,6 @@ title: "外汇平台上是否存在隐藏费用？"
 post_status: publish
 post_date: 2023-10-18 05:51:01
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

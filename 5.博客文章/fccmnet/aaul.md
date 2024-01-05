@@ -3,8 +3,6 @@ title: "黄金延期交易的风险可以避免吗"
 post_status: publish
 post_date: 2023-10-25 22:39:04
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

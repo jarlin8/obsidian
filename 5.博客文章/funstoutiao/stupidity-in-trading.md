@@ -3,8 +3,6 @@ title: "交易中愚蠢的行为有哪些?"
 post_status: publish
 post_date: 2023-06-27 09:45:38
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

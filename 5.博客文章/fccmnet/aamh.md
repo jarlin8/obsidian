@@ -3,8 +3,6 @@ title: "还有人记得 第一次做外汇爆仓是什么感觉吗"
 post_status: publish
 post_date: 2023-10-01 10:45:48
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

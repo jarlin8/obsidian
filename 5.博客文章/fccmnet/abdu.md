@@ -3,8 +3,6 @@ title: "标准普尔信用评级是什么"
 post_status: publish
 post_date: 2023-07-21 00:00:39
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

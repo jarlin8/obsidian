@@ -3,8 +3,6 @@ title: "MT4和MT5交易平台有什么区别"
 post_status: publish
 post_date: 2023-06-19 00:01:51
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

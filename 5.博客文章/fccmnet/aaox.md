@@ -3,8 +3,6 @@ title: "国内投资外汇 应当怎样入门"
 post_status: publish
 post_date: 2023-12-03 02:09:18
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

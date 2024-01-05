@@ -3,8 +3,6 @@ title: "HYCM兴业最低投资标准是多少？"
 post_status: publish
 post_date: 2023-08-31 21:46:04
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -3,8 +3,6 @@ title: "炒汇新手该如何观察市场?"
 post_status: publish
 post_date: 2023-09-20 23:42:37
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

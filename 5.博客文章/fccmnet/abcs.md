@@ -3,8 +3,6 @@ title: "操盘手都是怎么交易的"
 post_status: publish
 post_date: 2023-07-31 08:13:27
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "OBOS指标技术分析的要点是什么？"
 post_status: publish
 post_date: 2023-11-25 23:57:17
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

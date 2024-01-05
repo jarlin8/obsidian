@@ -3,8 +3,6 @@ title: "MT4交易软件中获利显示方式怎么修改"
 post_status: publish
 post_date: 2023-11-23 15:53:19
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

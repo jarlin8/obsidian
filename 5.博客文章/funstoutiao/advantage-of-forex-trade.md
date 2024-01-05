@@ -3,8 +3,6 @@ title: "炒外汇的优点有哪些？"
 post_status: publish
 post_date: 2023-07-23 10:04:32
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

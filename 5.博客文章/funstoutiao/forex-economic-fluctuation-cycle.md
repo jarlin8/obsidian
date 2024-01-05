@@ -3,8 +3,6 @@ title: "外汇经济波动周期是什么意思？"
 post_status: publish
 post_date: 2023-12-03 02:04:30
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -3,8 +3,6 @@ title: "外汇黄金平均点差是多少？"
 post_status: publish
 post_date: 2023-12-17 21:12:55
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

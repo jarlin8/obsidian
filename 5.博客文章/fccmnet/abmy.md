@@ -3,8 +3,6 @@ title: "ATFX有哪些实用精彩的教育资源和培训服务？"
 post_status: publish
 post_date: 2023-08-14 04:45:02
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "股市亏了 想做外汇 比较适合新手的外汇平台有"
 post_status: publish
 post_date: 2023-09-29 09:39:13
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

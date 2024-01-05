@@ -3,8 +3,6 @@ title: "有没有不错的外汇EA策略或者开发团队"
 post_status: publish
 post_date: 2023-07-21 04:17:40
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

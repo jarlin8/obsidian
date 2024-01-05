@@ -3,8 +3,6 @@ title: "2000条-外汇交易基本术语大全"
 post_status: publish
 post_date: 2023-07-26 18:09:14
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

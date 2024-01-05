@@ -3,8 +3,6 @@ title: "嘉盛外汇怎么开户？开户很复杂吗？"
 post_status: publish
 post_date: 2023-07-29 04:41:30
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

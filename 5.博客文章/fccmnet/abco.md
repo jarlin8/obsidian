@@ -3,8 +3,6 @@ title: "常见的风险管理都是怎么形成的"
 post_status: publish
 post_date: 2023-08-24 21:47:05
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

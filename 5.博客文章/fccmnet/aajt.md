@@ -3,8 +3,6 @@ title: "新手学习外汇怎么做好"
 post_status: publish
 post_date: 2023-12-08 07:17:10
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

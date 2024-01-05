@@ -3,8 +3,6 @@ title: "1%风险准则是什么意思？可以赚钱吗？"
 post_status: publish
 post_date: 2023-09-06 11:16:22
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

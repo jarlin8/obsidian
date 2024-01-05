@@ -3,8 +3,6 @@ title: "掉期外汇买卖是什么能举个例子吗"
 post_status: publish
 post_date: 2023-12-22 02:30:26
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "如何防止外汇交易中的爆仓？"
 post_status: publish
 post_date: 2023-10-24 23:09:31
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

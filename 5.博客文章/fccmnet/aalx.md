@@ -3,8 +3,6 @@ title: "外汇交易中喊单老师是不是骗人的"
 post_status: publish
 post_date: 2023-11-23 18:50:16
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

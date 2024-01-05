@@ -3,8 +3,6 @@ title: "黄金交易注意事项有哪些"
 post_status: publish
 post_date: 2023-12-27 14:31:48
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

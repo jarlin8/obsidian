@@ -3,8 +3,6 @@ title: "ATFX外汇实盘注册开户需要什么资料"
 post_status: publish
 post_date: 2023-09-06 20:13:44
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

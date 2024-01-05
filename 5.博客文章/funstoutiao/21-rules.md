@@ -3,8 +3,6 @@ title: "江恩21条 - 交易必须遵守的铁律"
 post_status: publish
 post_date: 2023-07-20 10:49:51
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "experience"

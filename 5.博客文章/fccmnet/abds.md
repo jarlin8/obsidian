@@ -3,8 +3,6 @@ title: "波段交易的外汇操作是不是很难"
 post_status: publish
 post_date: 2023-10-06 00:38:08
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

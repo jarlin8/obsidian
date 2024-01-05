@@ -3,8 +3,6 @@ title: "常用图表指标的抛物线转向指标是怎么样的"
 post_status: publish
 post_date: 2023-08-21 22:50:24
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "正规外汇交易平台有哪些？外汇平台排行榜哪些比较知
 post_status: publish
 post_date: 2023-08-19 21:55:02
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

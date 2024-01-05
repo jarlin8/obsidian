@@ -3,8 +3,6 @@ title: "外汇交易一直亏 还会有未来吗"
 post_status: publish
 post_date: 2023-11-09 09:17:29
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "持仓盈亏和当日盈亏有什么区别"
 post_status: publish
 post_date: 2023-07-03 00:48:03
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

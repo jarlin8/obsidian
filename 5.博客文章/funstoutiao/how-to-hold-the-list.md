@@ -3,8 +3,6 @@ title: "看对行情拿不住单子很让人头大，如何能拿住单子?"
 post_status: publish
 post_date: 2023-08-18 14:13:56
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

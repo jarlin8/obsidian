@@ -3,8 +3,6 @@ title: "新手该如何提高自己的外汇交易水平？"
 post_status: publish
 post_date: 2023-07-18 01:06:35
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

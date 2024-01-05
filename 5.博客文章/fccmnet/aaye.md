@@ -3,8 +3,6 @@ title: "黄金ETF的交易有什么需要注意的吗"
 post_status: publish
 post_date: 2023-09-30 00:26:20
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

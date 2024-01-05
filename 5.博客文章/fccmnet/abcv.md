@@ -3,8 +3,6 @@ title: "采购经理人指数(PMI)是怎么样影响市场的"
 post_status: publish
 post_date: 2023-11-26 16:20:51
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "黄金期货交易时锁单的最大害处是什么"
 post_status: publish
 post_date: 2023-11-05 22:46:59
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

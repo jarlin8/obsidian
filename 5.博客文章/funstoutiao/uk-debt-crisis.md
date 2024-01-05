@@ -3,8 +3,6 @@ title: "英国1927-1936年案例"
 post_status: publish
 post_date: 2023-08-26 01:51:48
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forexbook"

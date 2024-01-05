@@ -3,8 +3,6 @@ title: "对外商投资企业的外汇管理有哪些具体内容?"
 post_status: publish
 post_date: 2023-06-28 05:33:16
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forexbook"

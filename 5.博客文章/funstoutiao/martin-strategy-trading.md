@@ -3,8 +3,6 @@ title: "如何用有限的资金做切实可行的马丁策略?"
 post_status: publish
 post_date: 2023-08-02 05:07:28
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

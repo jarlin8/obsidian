@@ -3,8 +3,6 @@ title: "个人炒外汇保证金违法吗"
 post_status: publish
 post_date: 2023-06-30 10:38:04
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "对冲交易和保值交易是一个意思吗"
 post_status: publish
 post_date: 2023-09-02 12:34:49
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

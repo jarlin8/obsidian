@@ -3,8 +3,6 @@ title: "道琼斯指数与美股指数的关系是什么"
 post_status: publish
 post_date: 2023-10-20 06:04:16
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

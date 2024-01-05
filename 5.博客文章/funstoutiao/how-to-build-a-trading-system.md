@@ -3,8 +3,6 @@ title: "自己如何建立交易系统?"
 post_status: publish
 post_date: 2023-11-06 00:54:22
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

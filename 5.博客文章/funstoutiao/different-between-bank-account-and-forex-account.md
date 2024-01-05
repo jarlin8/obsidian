@@ -3,8 +3,6 @@ title: "外汇开户银行开户和外汇公司开户有什么区别？"
 post_status: publish
 post_date: 2023-09-08 11:45:11
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -3,8 +3,6 @@ title: "黄金投资如何做空盈利"
 post_status: publish
 post_date: 2023-09-30 00:44:40
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

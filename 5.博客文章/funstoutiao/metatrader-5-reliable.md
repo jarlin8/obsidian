@@ -3,8 +3,6 @@ title: "MetaTrader 5使用靠谱吗？"
 post_status: publish
 post_date: 2023-10-05 00:32:16
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

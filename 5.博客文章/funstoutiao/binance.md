@@ -3,8 +3,6 @@ title: "全球最大的加密货币交易平台Binance币安2023年最新测评"
 post_status: publish
 post_date: 2023-12-19 00:45:43
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "toutiao-basic"

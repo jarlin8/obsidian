@@ -3,8 +3,6 @@ title: "外汇投资者平时都看哪些网站"
 post_status: publish
 post_date: 2023-09-20 12:49:09
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

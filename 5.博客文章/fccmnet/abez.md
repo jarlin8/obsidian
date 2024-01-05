@@ -3,8 +3,6 @@ title: "澳汇外汇可以交易哪些品种"
 post_status: publish
 post_date: 2023-10-30 18:20:24
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

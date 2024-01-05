@@ -3,8 +3,6 @@ title: "黄金投资中如何开仓如何持仓"
 post_status: publish
 post_date: 2023-09-29 05:17:48
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

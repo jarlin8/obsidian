@@ -1,10 +1,8 @@
 ---
 title: 用嘉盛集团的平台做股票外汇投资，可行么？
 post_status: publish
-post_date: 2023-10-01 07:13:38
 skip_file: no
-custom_fields: 
-  post-format: aside
+post_date: 2023-12-29T06:39:00.000Z
 taxonomy:
   category:
         - forex-com

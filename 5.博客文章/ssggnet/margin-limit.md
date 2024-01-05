@@ -1,10 +1,8 @@
 ---
 title: 嘉盛集团的400倍杠杆对保证金有什么限制？
 post_status: publish
-post_date: 2023-12-06 08:59:17
 skip_file: no
-custom_fields: 
-  post-format: aside
+post_date: 2022-05-26T10:53:00.000Z
 taxonomy:
   category:
         - forex-com

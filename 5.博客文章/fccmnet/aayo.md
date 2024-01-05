@@ -3,8 +3,6 @@ title: "国际黄金期货交易规则包括哪些"
 post_status: publish
 post_date: 2023-10-28 08:44:42
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

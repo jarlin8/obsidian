@@ -3,8 +3,6 @@ title: "一般外汇平台比如Oanda交易外汇 银行清算的具体流程是
 post_status: publish
 post_date: 2023-10-11 16:24:31
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

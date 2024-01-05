@@ -3,8 +3,6 @@ title: "外国客户向我公司账户支付美元 银行自动兑换成人民�
 post_status: publish
 post_date: 2023-12-01 02:33:22
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

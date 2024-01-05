@@ -3,8 +3,6 @@ title: "黄金投资的诀窍有哪些"
 post_status: publish
 post_date: 2023-11-04 11:34:01
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

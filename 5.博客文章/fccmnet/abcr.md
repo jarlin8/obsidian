@@ -3,8 +3,6 @@ title: "操作外汇严重亏损怎么办"
 post_status: publish
 post_date: 2023-07-31 01:09:55
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

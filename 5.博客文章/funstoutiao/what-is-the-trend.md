@@ -3,8 +3,6 @@ title: "都说顺势交易，那么趋势是由什么决定的呢?"
 post_status: publish
 post_date: 2023-12-29 06:07:22
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

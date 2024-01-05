@@ -3,8 +3,6 @@ title: "交易中有哪些客观规律？这些规律又该如何运用到交易
 post_status: publish
 post_date: 2023-11-07 06:15:58
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

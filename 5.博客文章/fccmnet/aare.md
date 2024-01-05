@@ -3,8 +3,6 @@ title: "小非农对黄金影响如何"
 post_status: publish
 post_date: 2023-07-23 17:49:53
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

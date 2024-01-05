@@ -3,8 +3,6 @@ title: "外汇市场上xauusd eurusd gbpusd等之间的变动有关联吗"
 post_status: publish
 post_date: 2023-10-04 11:15:15
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

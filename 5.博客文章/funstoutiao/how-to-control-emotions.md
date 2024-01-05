@@ -3,8 +3,6 @@ title: "交易者的心理-怎样控制情绪？"
 post_status: publish
 post_date: 2023-12-08 10:55:46
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

@@ -1,10 +1,8 @@
 ---
 title: 在哪里可以下载嘉盛集团的MT4交易软件？
 post_status: publish
-post_date: 2023-07-19 13:49:47
 skip_file: no
-custom_fields: 
-  post-format: aside
+post_date: 2022-05-26T10:53:00.000Z
 taxonomy:
   category:
         - forex-com

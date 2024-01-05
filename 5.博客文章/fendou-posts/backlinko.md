@@ -1,10 +1,8 @@
 ---
 title: Backlinko 的 7 种经典文案样式
 post_status: publish
-post_date: 2023-08-15 03:30:07
 skip_file: no
-custom_fields: 
-  post-format: 
+post_date: 2023-12-29T04:10:00.000Z
 taxonomy:
   category:
         - log

@@ -3,8 +3,6 @@ title: "Forex.com嘉盛集团外汇平台受正规受监管吗"
 post_status: publish
 post_date: 2023-12-29 01:46:10
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

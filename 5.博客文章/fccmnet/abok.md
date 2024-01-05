@@ -3,8 +3,6 @@ title: "5浪不能低于3浪吗？为什么？"
 post_status: publish
 post_date: 2023-07-12 14:14:16
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

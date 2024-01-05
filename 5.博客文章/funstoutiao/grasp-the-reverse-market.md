@@ -3,8 +3,6 @@ title: "我们是趋势明朗再介入，还是尽早的参与可能反转并等
 post_status: publish
 post_date: 2023-11-25 05:43:03
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

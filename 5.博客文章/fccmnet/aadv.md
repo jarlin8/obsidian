@@ -3,8 +3,6 @@ title: "炒外汇做短线还是长线好啊"
 post_status: publish
 post_date: 2023-08-08 22:12:13
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

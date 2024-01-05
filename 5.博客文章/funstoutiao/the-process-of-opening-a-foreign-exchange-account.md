@@ -3,8 +3,6 @@ title: "炒外汇开户流程是什么，开户需要注意什么？"
 post_status: publish
 post_date: 2023-12-26 16:44:56
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

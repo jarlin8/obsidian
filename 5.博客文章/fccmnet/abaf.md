@@ -3,8 +3,6 @@ title: "炒黄金亏了怎么办"
 post_status: publish
 post_date: 2023-09-15 13:48:25
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

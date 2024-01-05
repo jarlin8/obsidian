@@ -3,8 +3,6 @@ title: "爆仓是什么意思"
 post_status: publish
 post_date: 2023-10-19 10:53:32
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

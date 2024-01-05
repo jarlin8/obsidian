@@ -3,8 +3,6 @@ title: "Forex.com嘉盛集团这个外汇平台如何适合长期投资吗"
 post_status: publish
 post_date: 2023-12-16 02:22:27
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -1,10 +1,8 @@
 ---
 title: Content Egg Pro 自助配置文档
 post_status: publish
-post_date: 2023-12-04 22:45:24
 skip_file: no
-custom_fields: 
-  post-format: 
+post_date: 2023-12-29T04:10:00.000Z
 taxonomy:
   category:
         - everyday

@@ -3,8 +3,6 @@ title: "外汇新手在市场上要过几关才能成功呢？"
 post_status: publish
 post_date: 2023-11-11 01:34:38
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

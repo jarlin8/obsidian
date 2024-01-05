@@ -3,8 +3,6 @@ title: "炒黄金的心态重要吗"
 post_status: publish
 post_date: 2023-10-01 23:48:01
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

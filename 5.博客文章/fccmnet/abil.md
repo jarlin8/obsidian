@@ -3,8 +3,6 @@ title: "KVB外汇投资有什么优势"
 post_status: publish
 post_date: 2023-12-08 18:19:32
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

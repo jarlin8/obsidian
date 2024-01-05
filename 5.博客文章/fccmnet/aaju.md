@@ -3,8 +3,6 @@ title: "外汇如何套利"
 post_status: publish
 post_date: 2023-12-09 21:43:23
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

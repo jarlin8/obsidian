@@ -3,8 +3,6 @@ title: "Forex.com嘉盛集团资金出金受到限制过吗"
 post_status: publish
 post_date: 2023-07-28 03:03:20
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

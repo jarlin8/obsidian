@@ -3,8 +3,6 @@ title: "朋友圈外汇量化一次操作5—8倍盈利是真的还是假的"
 post_status: publish
 post_date: 2023-12-10 17:21:45
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

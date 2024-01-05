@@ -3,8 +3,6 @@ title: "人民币会贬值吗，人民币贬值怎么交易？"
 post_status: publish
 post_date: 2023-07-16 00:02:58
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

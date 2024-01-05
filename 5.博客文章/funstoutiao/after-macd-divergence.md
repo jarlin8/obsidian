@@ -3,8 +3,6 @@ title: "MACd背离后，用什么依据去找进场点?"
 post_status: publish
 post_date: 2023-12-25 21:48:59
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

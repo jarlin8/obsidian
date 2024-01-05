@@ -3,8 +3,6 @@ title: "Forex.com嘉盛集团真的有无限杠杆吗"
 post_status: publish
 post_date: 2023-10-13 04:16:13
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

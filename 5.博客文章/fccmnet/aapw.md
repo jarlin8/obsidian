@@ -3,8 +3,6 @@ title: "怎么看外汇准备金率调整为0%"
 post_status: publish
 post_date: 2023-11-24 18:12:49
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

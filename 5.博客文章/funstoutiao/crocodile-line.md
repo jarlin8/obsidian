@@ -3,8 +3,6 @@ title: "鳄鱼线指标好用吗?外汇交易干货"
 post_status: publish
 post_date: 2023-08-22 02:33:14
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

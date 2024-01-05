@@ -3,8 +3,6 @@ title: "黄金交易平台靠谱吗"
 post_status: publish
 post_date: 2023-12-15 10:39:03
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

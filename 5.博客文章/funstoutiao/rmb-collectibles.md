@@ -3,8 +3,6 @@ title: "新手应该选择哪些人民币收藏品种？"
 post_status: publish
 post_date: 2023-07-18 02:11:17
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -3,8 +3,6 @@ title: "问下价格走势方法，这个方法包括哪些步骤和内容?"
 post_status: publish
 post_date: 2023-08-09 15:14:36
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

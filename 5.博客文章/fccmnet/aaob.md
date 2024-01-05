@@ -3,8 +3,6 @@ title: "外汇占款减少是否足以导致国内基础货币供给下降"
 post_status: publish
 post_date: 2023-12-25 01:32:36
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "多空布林线在外汇技术分析中的运用是什么"
 post_status: publish
 post_date: 2023-11-22 19:34:33
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

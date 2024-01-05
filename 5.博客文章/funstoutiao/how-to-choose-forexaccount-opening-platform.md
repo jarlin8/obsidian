@@ -3,8 +3,6 @@ title: "外汇开户平台怎么选？外汇开户难吗？"
 post_status: publish
 post_date: 2023-08-07 17:02:45
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

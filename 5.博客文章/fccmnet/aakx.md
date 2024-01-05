@@ -3,8 +3,6 @@ title: "在玩外汇 哪个平台的点差最小"
 post_status: publish
 post_date: 2023-11-10 06:23:43
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

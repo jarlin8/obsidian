@@ -3,8 +3,6 @@ title: "做交易遇到瓶颈大家都是怎么突破的?"
 post_status: publish
 post_date: 2023-11-23 10:09:13
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

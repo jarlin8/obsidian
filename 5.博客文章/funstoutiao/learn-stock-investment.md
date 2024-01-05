@@ -3,8 +3,6 @@ title: "如何系统地学习股票投资并实现稳定盈利？"
 post_status: publish
 post_date: 2023-10-19 09:35:48
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "experience"

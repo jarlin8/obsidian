@@ -3,8 +3,6 @@ title: "如果中国外汇储备跌破 3 万亿美元 可能会带来哪些影�
 post_status: publish
 post_date: 2023-06-28 06:03:57
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

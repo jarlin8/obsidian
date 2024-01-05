@@ -1,10 +1,8 @@
 ---
 title: 嘉盛集团平台的强制平仓规则是怎样的？如何避免强制平仓？
 post_status: publish
-post_date: 2023-09-30 12:42:09
 skip_file: no
-custom_fields: 
-  post-format: aside
+post_date: 2022-05-26T10:52:00.000Z
 taxonomy:
   category:
         - forex-com

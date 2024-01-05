@@ -3,8 +3,6 @@ title: "纽约黄金期货价格趋势如何"
 post_status: publish
 post_date: 2023-06-19 13:41:51
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

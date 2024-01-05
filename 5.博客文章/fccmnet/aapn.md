@@ -3,8 +3,6 @@ title: "有人做交易 只用技术分析稳盈3年以上 每年赚80% 回撤�
 post_status: publish
 post_date: 2023-09-03 23:13:56
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

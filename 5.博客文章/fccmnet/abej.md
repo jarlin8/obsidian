@@ -3,8 +3,6 @@ title: "保证金交易的杠杆比例有多少种"
 post_status: publish
 post_date: 2023-09-02 07:15:19
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

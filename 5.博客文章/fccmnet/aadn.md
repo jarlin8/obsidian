@@ -3,8 +3,6 @@ title: "成为顶级外汇交易者的关键因素是什么"
 post_status: publish
 post_date: 2023-06-26 10:54:20
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

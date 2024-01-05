@@ -3,8 +3,6 @@ title: "黄金需求假象怎么回事"
 post_status: publish
 post_date: 2023-08-01 11:53:47
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

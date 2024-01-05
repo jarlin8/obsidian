@@ -3,8 +3,6 @@ title: "kdj在外汇中有什么应用技巧"
 post_status: publish
 post_date: 2023-10-02 11:06:18
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

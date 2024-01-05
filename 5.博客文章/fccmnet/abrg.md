@@ -3,8 +3,6 @@ title: "外汇交易买一手是多少钱"
 post_status: publish
 post_date: 2023-10-21 13:54:29
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

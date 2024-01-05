@@ -3,8 +3,6 @@ title: "请问趋势如何在前期判断出来。?"
 post_status: publish
 post_date: 2023-10-31 18:25:33
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

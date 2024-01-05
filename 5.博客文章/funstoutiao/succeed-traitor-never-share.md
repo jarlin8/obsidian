@@ -3,8 +3,6 @@ title: "为什么真正成功的交易者从不分享他们的方法或策略?"
 post_status: publish
 post_date: 2023-09-25 19:20:29
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

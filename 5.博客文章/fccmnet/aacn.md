@@ -3,8 +3,6 @@ title: "从哪些方面可以提升外汇操盘能力"
 post_status: publish
 post_date: 2023-10-07 22:52:13
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

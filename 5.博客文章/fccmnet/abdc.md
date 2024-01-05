@@ -3,8 +3,6 @@ title: "布雷顿森林货币体系对国际金融有何影响"
 post_status: publish
 post_date: 2023-11-19 13:42:18
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

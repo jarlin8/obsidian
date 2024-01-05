@@ -3,8 +3,6 @@ title: "还有什么靠谱点的外汇交易平台吗"
 post_status: publish
 post_date: 2023-10-09 02:53:05
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -3,8 +3,6 @@ title: "黄金布林带的使用方法有哪些？"
 post_status: publish
 post_date: 2023-11-04 03:50:18
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

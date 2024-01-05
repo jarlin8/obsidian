@@ -3,8 +3,6 @@ title: "外汇和黄金如何通过技术面判断趋势"
 post_status: publish
 post_date: 2023-10-28 22:58:24
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

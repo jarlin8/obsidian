@@ -3,8 +3,6 @@ title: "怎么看跌矩形和涨矩形?"
 post_status: publish
 post_date: 2023-08-11 22:17:54
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

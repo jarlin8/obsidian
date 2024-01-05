@@ -3,8 +3,6 @@ title: "亏损是常态，盈利是意外的原因是什么?"
 post_status: publish
 post_date: 2023-12-28 15:57:30
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

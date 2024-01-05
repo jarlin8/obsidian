@@ -3,8 +3,6 @@ title: "炒黄金每天都要平仓吗"
 post_status: publish
 post_date: 2023-08-15 08:17:42
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "MACD指标怎么使用有没有教程"
 post_status: publish
 post_date: 2023-08-21 23:38:13
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

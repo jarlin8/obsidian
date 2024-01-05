@@ -3,8 +3,6 @@ title: "有什么澳洲监管的外汇平台推荐的吗"
 post_status: publish
 post_date: 2023-12-30 21:38:10
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

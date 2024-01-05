@@ -3,8 +3,6 @@ title: "想要提高投资交易回报率，不妨先做好这5件事！"
 post_status: publish
 post_date: 2023-12-15 05:35:01
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "experience"

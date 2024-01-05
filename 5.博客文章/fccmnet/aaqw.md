@@ -3,8 +3,6 @@ title: "引起黄金期货价格波动的因素有哪些"
 post_status: publish
 post_date: 2023-09-08 08:47:16
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

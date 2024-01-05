@@ -3,8 +3,6 @@ title: "黄金 外汇 期货等哪种更适合投资 想利用晚上时间做投
 post_status: publish
 post_date: 2023-08-06 05:38:13
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

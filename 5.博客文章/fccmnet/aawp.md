@@ -3,8 +3,6 @@ title: "黄金期货开户有资金要求吗"
 post_status: publish
 post_date: 2023-09-03 06:50:33
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

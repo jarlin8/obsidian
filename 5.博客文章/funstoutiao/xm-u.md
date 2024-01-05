@@ -3,8 +3,6 @@ title: "XM外汇平台炒外汇原油靠谱吗"
 post_status: publish
 post_date: 2023-06-28 05:19:34
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

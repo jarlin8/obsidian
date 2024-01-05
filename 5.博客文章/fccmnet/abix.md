@@ -3,8 +3,6 @@ title: "KDJ和BOLL指标怎么结合使用准不准"
 post_status: publish
 post_date: 2023-07-20 16:27:07
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

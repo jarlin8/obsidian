@@ -3,8 +3,6 @@ title: "短线外汇布林带做单应该怎么做"
 post_status: publish
 post_date: 2023-10-11 04:03:44
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

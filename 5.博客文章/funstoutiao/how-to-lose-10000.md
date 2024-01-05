@@ -3,8 +3,6 @@ title: "假如给你一万美金你打算几次亏完?"
 post_status: publish
 post_date: 2023-07-27 10:05:00
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

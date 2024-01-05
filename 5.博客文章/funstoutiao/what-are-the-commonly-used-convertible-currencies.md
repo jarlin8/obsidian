@@ -3,8 +3,6 @@ title: "我国常用的是哪几种可兑换货币?"
 post_status: publish
 post_date: 2023-08-19 05:01:46
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forexbook"

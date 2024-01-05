@@ -3,8 +3,6 @@ title: "如何判断趋势交易的开始和结束？能系统介绍下吗?"
 post_status: publish
 post_date: 2023-12-11 01:20:13
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

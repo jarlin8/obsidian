@@ -3,8 +3,6 @@ title: "爆仓的主要原因有哪些"
 post_status: publish
 post_date: 2023-09-03 20:00:55
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "请教一下万致这个外汇平台怎么样"
 post_status: publish
 post_date: 2023-09-01 03:45:21
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "作为交易者，如何才能稳定盈利?"
 post_status: publish
 post_date: 2023-10-27 07:49:56
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

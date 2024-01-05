@@ -1,10 +1,8 @@
 ---
 title: 嘉盛集团的隔夜利息多少，和融资费用什么关系？
 post_status: publish
-post_date: 2023-09-03 16:46:53
 skip_file: no
-custom_fields: 
-  post-format: aside
+post_date: 2022-05-26T10:53:00.000Z
 taxonomy:
   category:
         - forex-com

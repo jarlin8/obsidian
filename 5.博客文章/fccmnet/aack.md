@@ -3,8 +3,6 @@ title: "从事职业交易需要具备什么条件"
 post_status: publish
 post_date: 2023-07-02 00:43:14
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

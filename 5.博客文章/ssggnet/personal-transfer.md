@@ -1,10 +1,8 @@
 ---
 title: 嘉盛集团账户出金怎么是个人外贸公司转账，不是平台出金显示呢？
 post_status: publish
-post_date: 2023-11-17 05:11:17
 skip_file: no
-custom_fields: 
-  post-format: aside
+post_date: 2023-12-29T06:39:00.000Z
 taxonomy:
   category:
         - forex-com

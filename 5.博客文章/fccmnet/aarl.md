@@ -3,8 +3,6 @@ title: "现货黄金交易平台有好的推荐吗"
 post_status: publish
 post_date: 2023-09-04 06:18:01
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

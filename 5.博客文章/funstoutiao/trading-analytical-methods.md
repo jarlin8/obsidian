@@ -3,8 +3,6 @@ title: "在交易中，交易方法和分析方法，哪个更重要?"
 post_status: publish
 post_date: 2023-07-27 20:13:22
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

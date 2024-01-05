@@ -3,8 +3,6 @@ title: "定期结汇怎么个定期法"
 post_status: publish
 post_date: 2023-07-12 20:12:35
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

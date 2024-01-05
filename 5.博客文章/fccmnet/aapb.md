@@ -3,8 +3,6 @@ title: "三万亿外汇储备属于每个人吗"
 post_status: publish
 post_date: 2023-12-28 17:00:55
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

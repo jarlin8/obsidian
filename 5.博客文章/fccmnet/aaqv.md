@@ -3,8 +3,6 @@ title: "影响黄金价格走势的因素有哪些"
 post_status: publish
 post_date: 2023-09-22 03:52:51
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

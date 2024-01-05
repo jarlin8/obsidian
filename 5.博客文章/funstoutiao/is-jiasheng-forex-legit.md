@@ -3,8 +3,6 @@ title: "嘉盛外汇是正规的吗，有哪些资质?"
 post_status: publish
 post_date: 2023-10-24 22:52:25
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

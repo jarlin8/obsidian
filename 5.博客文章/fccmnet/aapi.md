@@ -3,8 +3,6 @@ title: "怎么看待阿根廷减持人民币外汇储备"
 post_status: publish
 post_date: 2023-09-10 01:54:03
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

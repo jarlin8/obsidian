@@ -3,8 +3,6 @@ title: "如何提前判断趋势成立?"
 post_status: publish
 post_date: 2023-11-02 21:51:13
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

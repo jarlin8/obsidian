@@ -3,8 +3,6 @@ title: "黄金在国家经济中为何如此重要"
 post_status: publish
 post_date: 2023-11-09 11:24:36
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

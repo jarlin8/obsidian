@@ -3,8 +3,6 @@ title: "毕业后炒外汇失败亏钱觉得自己很失败应该怎么办"
 post_status: publish
 post_date: 2023-08-11 20:48:45
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

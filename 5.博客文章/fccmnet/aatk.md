@@ -3,8 +3,6 @@ title: "欧元怎么影响黄金价格"
 post_status: publish
 post_date: 2023-11-10 07:50:54
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

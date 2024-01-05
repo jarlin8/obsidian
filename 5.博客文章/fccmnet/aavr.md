@@ -3,8 +3,6 @@ title: "黄金投资能长期做吗"
 post_status: publish
 post_date: 2023-10-17 00:43:24
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

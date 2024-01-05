@@ -3,8 +3,6 @@ title: "纽约黄金期货交割日是什么时候"
 post_status: publish
 post_date: 2023-07-04 02:42:35
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

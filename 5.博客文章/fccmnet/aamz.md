@@ -3,8 +3,6 @@ title: "谁知道外汇靠不靠谱呀"
 post_status: publish
 post_date: 2023-10-06 18:07:10
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

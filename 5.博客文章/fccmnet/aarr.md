@@ -3,8 +3,6 @@ title: "投资纸黄金风险如何控制"
 post_status: publish
 post_date: 2023-08-08 14:25:53
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

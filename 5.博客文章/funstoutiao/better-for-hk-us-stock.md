@@ -3,8 +3,6 @@ title: "港美股投资那个平台好"
 post_status: publish
 post_date: 2023-10-23 13:28:23
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

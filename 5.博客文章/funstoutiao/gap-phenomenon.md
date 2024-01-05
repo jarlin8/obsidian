@@ -3,8 +3,6 @@ title: "出现跳空现象，如何判断会不会回补?"
 post_status: publish
 post_date: 2023-11-28 05:52:10
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

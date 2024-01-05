@@ -3,8 +3,6 @@ title: "交易的核心本质是什么？赚钱的关键是什么?"
 post_status: publish
 post_date: 2023-09-07 12:29:26
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

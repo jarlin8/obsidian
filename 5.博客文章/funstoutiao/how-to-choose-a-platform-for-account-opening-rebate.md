@@ -3,8 +3,6 @@ title: "外汇开户返佣怎么选择平台？"
 post_status: publish
 post_date: 2023-07-17 12:43:47
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

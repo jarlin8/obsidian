@@ -3,8 +3,6 @@ title: "黄金交易在什么平台比较安全"
 post_status: publish
 post_date: 2023-06-26 05:26:10
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

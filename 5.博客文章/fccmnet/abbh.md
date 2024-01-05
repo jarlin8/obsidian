@@ -3,8 +3,6 @@ title: "炒汇如何选择开户银行"
 post_status: publish
 post_date: 2023-07-15 22:24:39
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

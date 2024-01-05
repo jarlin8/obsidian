@@ -3,8 +3,6 @@ title: "购买港股如何开户和18家券商收费全方位对比"
 post_status: publish
 post_date: 2023-11-27 11:13:59
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "experience"

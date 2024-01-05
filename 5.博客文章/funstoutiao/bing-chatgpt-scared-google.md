@@ -3,8 +3,6 @@ title: "Bing和ChatGPT把谷歌吓到了，谷歌在人工智能上加倍下注�
 post_status: publish
 post_date: 2023-11-24 21:08:14
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "toutiao"

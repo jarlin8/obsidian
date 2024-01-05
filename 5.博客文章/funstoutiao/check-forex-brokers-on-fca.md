@@ -3,8 +3,6 @@ title: "如何在FCA上查询外汇经纪商的受监管状况？"
 post_status: publish
 post_date: 2023-09-26 04:53:44
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

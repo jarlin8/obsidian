@@ -3,8 +3,6 @@ title: "黄金投资理财有什么误区"
 post_status: publish
 post_date: 2023-12-08 20:00:06
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

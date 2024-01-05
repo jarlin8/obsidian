@@ -3,8 +3,6 @@ title: "个人结汇金额受5万元美元限额 如超过限额有哪些途径�
 post_status: publish
 post_date: 2023-12-13 23:35:46
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

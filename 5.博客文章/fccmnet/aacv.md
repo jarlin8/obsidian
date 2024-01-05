@@ -3,8 +3,6 @@ title: "初次入市者的炒汇者必知哪些知识"
 post_status: publish
 post_date: 2023-12-14 22:06:51
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

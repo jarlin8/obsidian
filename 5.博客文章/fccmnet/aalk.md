@@ -3,8 +3,6 @@ title: "请问大家都用什么外汇平台炒外汇福汇外汇好吗"
 post_status: publish
 post_date: 2023-09-13 06:50:35
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

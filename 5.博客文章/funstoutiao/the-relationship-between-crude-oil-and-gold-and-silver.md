@@ -3,8 +3,6 @@ title: "原油和黄金白银的关系是什么？"
 post_status: publish
 post_date: 2023-09-30 14:11:45
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

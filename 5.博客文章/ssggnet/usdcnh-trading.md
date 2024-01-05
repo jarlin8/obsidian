@@ -1,10 +1,8 @@
 ---
 title: 人民币汇率持续升值,这几个平台可以交易USDCNH
 post_status: publish
-post_date: 2023-08-25 16:39:09
 skip_file: no
-custom_fields: 
-  post-format: aside
+post_date: 2022-05-26T10:53:00.000Z
 taxonomy:
   category:
         - forex-com

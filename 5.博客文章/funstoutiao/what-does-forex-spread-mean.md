@@ -3,8 +3,6 @@ title: "外汇点差是什么意思？"
 post_status: publish
 post_date: 2023-12-05 13:41:18
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

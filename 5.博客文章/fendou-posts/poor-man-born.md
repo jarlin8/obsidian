@@ -1,10 +1,8 @@
 ---
 title: 一个人没有出息的九大根源！
 post_status: publish
-post_date: 2023-07-25 18:24:34
 skip_file: no
-custom_fields: 
-  post-format: 
+post_date: 2023-12-29T04:10:00.000Z
 taxonomy:
   category:
         - everyday

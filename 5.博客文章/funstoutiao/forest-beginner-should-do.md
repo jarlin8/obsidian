@@ -3,8 +3,6 @@ title: "新手入门交易该从哪里入手?"
 post_status: publish
 post_date: 2023-12-26 12:15:08
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

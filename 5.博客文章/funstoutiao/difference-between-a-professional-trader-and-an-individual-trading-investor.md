@@ -3,8 +3,6 @@ title: "职业交易员和个人交易投资者，在交易中有哪些区别?"
 post_status: publish
 post_date: 2023-08-14 06:50:52
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

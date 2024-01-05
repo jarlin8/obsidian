@@ -1,10 +1,8 @@
 ---
 title: 嘉盛集团的账户怎么做指数差价合约，费用如何收取？
 post_status: publish
-post_date: 2023-09-05 18:04:10
 skip_file: no
-custom_fields: 
-  post-format: aside
+post_date: 2022-05-26T10:52:00.000Z
 taxonomy:
   category:
         - forex-com

@@ -3,8 +3,6 @@ title: "除开交易员这个身份，你从事的是啥职业?"
 post_status: publish
 post_date: 2023-08-16 18:37:18
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

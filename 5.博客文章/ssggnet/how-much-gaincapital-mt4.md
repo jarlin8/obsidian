@@ -1,10 +1,8 @@
 ---
 title: 2024精准测评：嘉盛集团靠谱吗
 post_status: publish
-post_date: 2023-07-24 17:37:29
 skip_file: no
-custom_fields: 
-  post-format: aside
+post_date: 2022-05-26T10:53:00.000Z
 taxonomy:
   category:
         - forex-com

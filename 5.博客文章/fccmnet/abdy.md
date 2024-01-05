@@ -3,8 +3,6 @@ title: "比特币今后还能交易吗"
 post_status: publish
 post_date: 2023-12-04 13:36:46
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

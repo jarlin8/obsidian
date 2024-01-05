@@ -3,8 +3,6 @@ title: "汇率标价是怎么看的？汇率标价怎么表现？"
 post_status: publish
 post_date: 2023-08-05 01:46:42
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

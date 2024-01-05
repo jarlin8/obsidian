@@ -3,8 +3,6 @@ title: "上海黄金交易所怎么开户"
 post_status: publish
 post_date: 2023-10-17 11:51:05
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

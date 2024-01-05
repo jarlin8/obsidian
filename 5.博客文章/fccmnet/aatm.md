@@ -3,8 +3,6 @@ title: "欧元和黄金有关系吗"
 post_status: publish
 post_date: 2023-07-30 09:52:10
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

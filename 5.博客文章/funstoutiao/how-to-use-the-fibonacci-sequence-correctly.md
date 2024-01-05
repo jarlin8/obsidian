@@ -3,8 +3,6 @@ title: "如何正确的使用斐波那契数列?"
 post_status: publish
 post_date: 2023-12-05 02:50:21
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

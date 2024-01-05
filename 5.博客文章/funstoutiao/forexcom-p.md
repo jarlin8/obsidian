@@ -3,8 +3,6 @@ title: "Forex.com嘉盛集团外汇的出入金快吗"
 post_status: publish
 post_date: 2023-09-23 12:31:17
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

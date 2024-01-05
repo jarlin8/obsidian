@@ -3,8 +3,6 @@ title: "在外汇市场上买卖外汇到底是用什么支付的"
 post_status: publish
 post_date: 2023-07-30 15:40:35
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

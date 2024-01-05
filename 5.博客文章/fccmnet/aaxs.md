@@ -3,8 +3,6 @@ title: "黄金交易手续费高怎么办"
 post_status: publish
 post_date: 2023-11-16 08:13:32
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "MetaTrader5和MetaTrader4的区别是什么"
 post_status: publish
 post_date: 2023-07-09 17:14:05
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

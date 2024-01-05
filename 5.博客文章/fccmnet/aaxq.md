@@ -3,8 +3,6 @@ title: "黄金交易锁单了要怎么办"
 post_status: publish
 post_date: 2023-07-28 04:26:32
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

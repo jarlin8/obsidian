@@ -3,8 +3,6 @@ title: "CFTC持仓报告在交易中有什么用？"
 post_status: publish
 post_date: 2023-07-09 22:52:16
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

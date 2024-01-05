@@ -3,8 +3,6 @@ title: "外汇交易中镑日货币对据说是匹烈马 它都有哪些特点�
 post_status: publish
 post_date: 2023-12-07 02:32:33
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

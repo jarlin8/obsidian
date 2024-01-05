@@ -3,8 +3,6 @@ title: "非农数据是如何影响黄金价格的？"
 post_status: publish
 post_date: 2023-07-19 20:53:35
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

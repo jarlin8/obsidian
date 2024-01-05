@@ -3,8 +3,6 @@ title: "IG外汇平台开户需要什么条件"
 post_status: publish
 post_date: 2023-08-21 17:13:47
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

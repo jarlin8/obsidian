@@ -3,8 +3,6 @@ title: "有什么比较可靠的办法或者交易系统，可以让交易在五
 post_status: publish
 post_date: 2023-11-12 00:54:24
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

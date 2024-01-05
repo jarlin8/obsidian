@@ -3,8 +3,6 @@ title: "如果建一个100人的分析师群，我们按照少数服从多数的
 post_status: publish
 post_date: 2023-12-18 03:39:14
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

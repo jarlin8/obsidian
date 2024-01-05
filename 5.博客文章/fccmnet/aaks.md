@@ -3,8 +3,6 @@ title: "做外汇 风险到底有多大"
 post_status: publish
 post_date: 2023-10-13 01:54:59
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

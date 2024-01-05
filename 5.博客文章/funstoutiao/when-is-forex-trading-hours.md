@@ -3,8 +3,6 @@ title: "外汇交易时间是什么怎样的？"
 post_status: publish
 post_date: 2023-06-20 10:46:45
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

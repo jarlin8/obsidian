@@ -3,8 +3,6 @@ title: "新手外汇投资为何首选FXTM富拓平台"
 post_status: publish
 post_date: 2023-06-24 12:34:49
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

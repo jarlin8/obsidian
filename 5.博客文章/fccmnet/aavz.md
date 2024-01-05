@@ -3,8 +3,6 @@ title: "黄金投资方式的比较怎么样"
 post_status: publish
 post_date: 2023-11-15 00:08:38
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

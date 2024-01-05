@@ -3,8 +3,6 @@ title: "避险货币通常有哪几种"
 post_status: publish
 post_date: 2023-08-18 04:52:14
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

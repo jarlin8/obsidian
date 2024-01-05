@@ -3,8 +3,6 @@ title: "gkfx捷凯出入金是否方便快捷"
 post_status: publish
 post_date: 2023-08-24 11:44:41
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

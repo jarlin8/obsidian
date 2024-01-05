@@ -3,8 +3,6 @@ title: "外汇保证金短线交易确实有成功过的人吗"
 post_status: publish
 post_date: 2023-06-29 21:43:23
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

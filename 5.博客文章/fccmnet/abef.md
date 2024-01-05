@@ -3,8 +3,6 @@ title: "保值交易就是交易不会亏损的意思吗"
 post_status: publish
 post_date: 2023-12-15 17:47:18
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

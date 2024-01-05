@@ -3,8 +3,6 @@ title: "ATFX的mt5软件如何下载"
 post_status: publish
 post_date: 2023-08-28 06:39:58
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

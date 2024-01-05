@@ -3,8 +3,6 @@ title: "投资实物黄金需要准备什么"
 post_status: publish
 post_date: 2023-11-04 10:09:38
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

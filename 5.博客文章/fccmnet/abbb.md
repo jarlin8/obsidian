@@ -3,8 +3,6 @@ title: "炒汇新手常遇到的问题有哪些"
 post_status: publish
 post_date: 2023-10-24 09:48:44
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

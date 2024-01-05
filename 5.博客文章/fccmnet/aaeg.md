@@ -3,8 +3,6 @@ title: "炒外汇之前需要了解哪些东西"
 post_status: publish
 post_date: 2023-07-07 22:14:28
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

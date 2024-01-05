@@ -3,8 +3,6 @@ title: "为什么外汇PAMM账户是个不错的选择"
 post_status: publish
 post_date: 2023-10-28 05:34:43
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

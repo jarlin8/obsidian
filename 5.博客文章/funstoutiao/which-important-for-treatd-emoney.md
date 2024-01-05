@@ -3,8 +3,6 @@ title: "你们觉得做交易想赚钱，什么最重要?"
 post_status: publish
 post_date: 2023-12-29 19:18:44
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

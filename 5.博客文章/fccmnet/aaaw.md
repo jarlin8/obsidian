@@ -3,8 +3,6 @@ title: "方向性交易和非方向性交易是怎么样的"
 post_status: publish
 post_date: 2023-11-11 18:35:06
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

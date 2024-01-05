@@ -3,8 +3,6 @@ title: "如何构建自己的交易系统 [how to]"
 post_status: publish
 post_date: 2023-12-09 05:25:38
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "experience"

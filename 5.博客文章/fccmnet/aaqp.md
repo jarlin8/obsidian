@@ -3,8 +3,6 @@ title: "人民币为什么不能自由兑换外币 为什么要进行外汇管�
 post_status: publish
 post_date: 2023-08-24 00:34:09
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

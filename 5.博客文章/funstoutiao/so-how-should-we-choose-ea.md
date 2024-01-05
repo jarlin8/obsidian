@@ -3,8 +3,6 @@ title: "那请问我们该何选择EA?"
 post_status: publish
 post_date: 2023-08-22 08:33:42
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

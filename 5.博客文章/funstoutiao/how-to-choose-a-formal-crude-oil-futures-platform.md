@@ -3,8 +3,6 @@ title: "正规原油期货平台怎么选择？"
 post_status: publish
 post_date: 2023-08-16 13:52:05
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

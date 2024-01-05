@@ -3,8 +3,6 @@ title: "银行的资金头寸 外汇头寸到底是什么"
 post_status: publish
 post_date: 2023-11-02 03:17:42
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "炒黄金外汇有风险吗"
 post_status: publish
 post_date: 2023-12-07 15:08:25
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

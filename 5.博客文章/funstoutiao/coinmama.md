@@ -3,8 +3,6 @@ title: "Coinmama外汇交易平台开户测评"
 post_status: publish
 post_date: 2023-08-01 11:08:14
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "toutiao-basic"

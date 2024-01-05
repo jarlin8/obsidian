@@ -3,8 +3,6 @@ title: "外汇交易有哪些平台靠谱"
 post_status: publish
 post_date: 2023-12-01 20:00:38
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

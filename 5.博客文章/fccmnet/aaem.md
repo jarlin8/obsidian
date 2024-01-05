@@ -3,8 +3,6 @@ title: "FXTM富拓外汇平台点差高吗"
 post_status: publish
 post_date: 2023-08-20 22:58:20
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

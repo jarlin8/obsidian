@@ -3,8 +3,6 @@ title: "投资移民的那些钱是怎么汇到国外的国家每年不是有外
 post_status: publish
 post_date: 2023-10-21 22:12:35
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

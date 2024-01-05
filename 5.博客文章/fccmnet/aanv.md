@@ -3,8 +3,6 @@ title: "外汇交易 如何稳定盈利"
 post_status: publish
 post_date: 2023-06-22 00:52:05
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

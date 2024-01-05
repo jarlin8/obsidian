@@ -3,8 +3,6 @@ title: "黄金投资死叉是什么意思"
 post_status: publish
 post_date: 2023-07-24 10:52:47
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

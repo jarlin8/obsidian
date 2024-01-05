@@ -3,8 +3,6 @@ title: "炒汇最赚钱的方法有哪些?"
 post_status: publish
 post_date: 2023-09-06 00:26:48
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

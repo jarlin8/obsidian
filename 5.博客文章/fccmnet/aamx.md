@@ -3,8 +3,6 @@ title: "外汇真的能看到希望吗"
 post_status: publish
 post_date: 2023-07-13 17:51:02
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

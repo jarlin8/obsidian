@@ -3,8 +3,6 @@ title: "选平台的时候大家最在意什么?"
 post_status: publish
 post_date: 2023-10-20 15:36:44
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

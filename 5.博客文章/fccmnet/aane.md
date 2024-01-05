@@ -3,8 +3,6 @@ title: "外汇市场拥有巨大的交易规模 会对外汇交易带来哪些�
 post_status: publish
 post_date: 2023-08-26 01:15:27
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

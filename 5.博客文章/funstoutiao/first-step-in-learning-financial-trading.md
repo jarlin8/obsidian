@@ -3,8 +3,6 @@ title: "学习金融交易的第一步是什么?"
 post_status: publish
 post_date: 2023-12-08 05:31:39
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

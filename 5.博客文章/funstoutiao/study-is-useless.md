@@ -3,8 +3,6 @@ title: "最近几个月，觉得学习越多，反而会有所下降，有时会
 post_status: publish
 post_date: 2023-11-30 00:31:24
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

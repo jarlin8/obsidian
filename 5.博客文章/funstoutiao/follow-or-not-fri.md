@@ -3,8 +3,6 @@ title: "非农行情跟还是不跟?为什么?"
 post_status: publish
 post_date: 2023-11-17 20:51:38
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

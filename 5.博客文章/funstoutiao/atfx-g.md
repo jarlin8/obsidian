@@ -3,8 +3,6 @@ title: "ATFX上资金是安全的尤其是资金管理这方面"
 post_status: publish
 post_date: 2023-09-06 22:46:43
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

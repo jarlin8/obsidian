@@ -3,8 +3,6 @@ title: "国内有没有正规合法的外汇交易平台"
 post_status: publish
 post_date: 2023-09-06 19:26:51
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

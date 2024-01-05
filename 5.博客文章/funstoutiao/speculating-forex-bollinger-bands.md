@@ -3,8 +3,6 @@ title: "炒外汇布林线和什么搭着用好？"
 post_status: publish
 post_date: 2023-07-17 21:46:01
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -3,8 +3,6 @@ title: "23到35岁的人要如何投资实现资产增值？"
 post_status: publish
 post_date: 2023-08-16 03:38:22
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

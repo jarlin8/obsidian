@@ -3,8 +3,6 @@ title: "外汇到底能不能稳定盈利需要具备什么条件"
 post_status: publish
 post_date: 2023-10-01 12:47:50
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

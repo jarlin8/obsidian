@@ -3,8 +3,6 @@ title: "zulutrade都有哪些入金方式"
 post_status: publish
 post_date: 2023-08-16 16:57:57
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

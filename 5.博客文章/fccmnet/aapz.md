@@ -3,8 +3,6 @@ title: "炒外汇挣的是谁的钱"
 post_status: publish
 post_date: 2023-08-25 07:55:06
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

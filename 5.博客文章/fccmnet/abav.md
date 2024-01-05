@@ -3,8 +3,6 @@ title: "避免频繁操作黄金的亏损心理是怎样的"
 post_status: publish
 post_date: 2023-11-01 10:57:04
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

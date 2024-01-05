@@ -3,8 +3,6 @@ title: "外汇平台的交易流程是怎样的？"
 post_status: publish
 post_date: 2023-06-21 23:40:11
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -1,10 +1,8 @@
 ---
 title: 嘉盛集团外汇平台如何？适合长期投资吗？
 post_status: publish
-post_date: 2023-11-26 16:07:41
 skip_file: no
-custom_fields: 
-  post-format: aside
+post_date: 2022-05-26T10:52:00.000Z
 taxonomy:
   category:
         - forex-com

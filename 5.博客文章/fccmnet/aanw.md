@@ -3,8 +3,6 @@ title: "哪家外汇平台比较好"
 post_status: publish
 post_date: 2023-06-30 12:56:33
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

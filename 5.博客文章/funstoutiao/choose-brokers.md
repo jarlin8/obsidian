@@ -3,8 +3,6 @@ title: "我是新手，想了解一般投资者在选择代理商时，要注意
 post_status: publish
 post_date: 2023-11-12 09:20:28
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

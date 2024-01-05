@@ -3,8 +3,6 @@ title: "5000元可以进行简单的投资么 比如炒外汇"
 post_status: publish
 post_date: 2023-07-04 08:40:42
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

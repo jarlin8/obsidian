@@ -3,8 +3,6 @@ title: "黄金里面的一手是什么意思"
 post_status: publish
 post_date: 2023-10-03 08:55:18
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

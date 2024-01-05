@@ -3,8 +3,6 @@ title: "MT4交易产品对照表上有什么产品"
 post_status: publish
 post_date: 2023-10-14 21:06:48
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

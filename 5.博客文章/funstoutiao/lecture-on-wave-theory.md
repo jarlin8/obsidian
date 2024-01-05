@@ -3,8 +3,6 @@ title: "精讲艾略特波浪理论，实际应用与优缺点"
 post_status: publish
 post_date: 2023-09-03 10:54:18
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "experience"

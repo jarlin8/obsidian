@@ -3,8 +3,6 @@ title: "怎么知道一个外汇平台是否可靠"
 post_status: publish
 post_date: 2023-09-24 16:29:57
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

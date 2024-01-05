@@ -3,8 +3,6 @@ title: "常用的外汇技术分析方法有哪些"
 post_status: publish
 post_date: 2023-12-05 06:21:17
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

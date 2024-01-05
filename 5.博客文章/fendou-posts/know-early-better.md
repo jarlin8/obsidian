@@ -1,10 +1,8 @@
 ---
 title: 有哪些越早知道越好的人生经验？
 post_status: publish
-post_date: 2023-09-27 23:09:45
 skip_file: no
-custom_fields: 
-  post-format: 
+post_date: 2023-12-29T04:10:00.000Z
 taxonomy:
   category:
         - everyday

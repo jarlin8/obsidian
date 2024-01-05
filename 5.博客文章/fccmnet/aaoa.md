@@ -3,8 +3,6 @@ title: "什么是外汇 外汇保证金"
 post_status: publish
 post_date: 2023-10-07 06:15:53
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

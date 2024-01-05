@@ -3,8 +3,6 @@ title: "做交易散户多年是种怎样的体验?"
 post_status: publish
 post_date: 2023-12-12 11:06:31
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

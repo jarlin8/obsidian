@@ -3,8 +3,6 @@ title: "fxcm福汇对赌模式的风险提示"
 post_status: publish
 post_date: 2023-08-22 04:30:25
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

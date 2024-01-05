@@ -3,8 +3,6 @@ title: "冰岛2005-2016年案例"
 post_status: publish
 post_date: 2023-10-25 19:52:17
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forexbook"

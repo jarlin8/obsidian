@@ -3,8 +3,6 @@ title: "黄金交易开户注意事项有哪些，开户流程方便吗?"
 post_status: publish
 post_date: 2023-07-06 11:18:27
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

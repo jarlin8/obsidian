@@ -3,8 +3,6 @@ title: "外汇市场中持续盈利多久才能说明一个人的技术确实过
 post_status: publish
 post_date: 2023-12-08 13:32:45
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

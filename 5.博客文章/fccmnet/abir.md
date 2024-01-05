@@ -3,8 +3,6 @@ title: "KVB国际外汇市场稳定吗"
 post_status: publish
 post_date: 2023-08-02 19:08:43
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

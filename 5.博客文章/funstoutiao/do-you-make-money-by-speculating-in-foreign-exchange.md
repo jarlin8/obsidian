@@ -3,8 +3,6 @@ title: "炒外汇怎么样，炒外汇赚钱吗？"
 post_status: publish
 post_date: 2023-10-24 12:48:27
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -3,8 +3,6 @@ title: "外汇怎么交易 哪里可以做外汇交易"
 post_status: publish
 post_date: 2023-10-03 12:21:31
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

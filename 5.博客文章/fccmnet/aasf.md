@@ -3,8 +3,6 @@ title: "实物黄金如何交易"
 post_status: publish
 post_date: 2023-11-30 21:33:39
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

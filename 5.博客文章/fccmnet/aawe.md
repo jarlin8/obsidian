@@ -3,8 +3,6 @@ title: "黄金投资的好坏利弊在哪"
 post_status: publish
 post_date: 2023-08-25 17:14:10
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

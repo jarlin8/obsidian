@@ -3,8 +3,6 @@ title: "做外汇交易时，你的判断力从何而来?"
 post_status: publish
 post_date: 2023-11-04 00:50:19
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

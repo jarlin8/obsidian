@@ -3,8 +3,6 @@ title: "厄瓜多尔1995-2009年案例"
 post_status: publish
 post_date: 2023-10-05 12:54:26
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forexbook"

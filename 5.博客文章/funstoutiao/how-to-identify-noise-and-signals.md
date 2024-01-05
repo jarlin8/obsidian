@@ -3,8 +3,6 @@ title: "如何辨别交易场上的“噪音”与“信号”，提取出真正
 post_status: publish
 post_date: 2023-10-25 02:18:27
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

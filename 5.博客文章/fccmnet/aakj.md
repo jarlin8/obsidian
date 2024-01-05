@@ -3,8 +3,6 @@ title: "GMI外汇平台靠谱吗"
 post_status: publish
 post_date: 2023-07-27 11:29:24
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

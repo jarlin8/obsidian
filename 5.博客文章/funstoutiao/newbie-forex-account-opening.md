@@ -3,8 +3,6 @@ title: "买卖外汇如何开户，新手外汇开户要注意什么?"
 post_status: publish
 post_date: 2023-07-11 15:59:09
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

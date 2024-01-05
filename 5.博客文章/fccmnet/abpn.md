@@ -3,8 +3,6 @@ title: "外汇平台的最低入金门槛是多少？"
 post_status: publish
 post_date: 2023-08-04 23:05:31
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

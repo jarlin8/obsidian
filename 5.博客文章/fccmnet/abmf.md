@@ -3,8 +3,6 @@ title: "ATFX的愿景和使命是什么？有哪些核心价值？"
 post_status: publish
 post_date: 2023-11-12 11:46:17
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

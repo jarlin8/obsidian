@@ -3,8 +3,6 @@ title: "不同时间周期的外汇图表有什么优势"
 post_status: publish
 post_date: 2023-08-17 13:17:49
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

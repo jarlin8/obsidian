@@ -3,8 +3,6 @@ title: "如何根据财政赤字预测黄金走势"
 post_status: publish
 post_date: 2023-08-17 16:01:03
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

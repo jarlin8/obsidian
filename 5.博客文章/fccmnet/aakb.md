@@ -3,8 +3,6 @@ title: "外汇交易中怎样有效辨别行情是真突破 还是假突破"
 post_status: publish
 post_date: 2023-09-13 12:41:00
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

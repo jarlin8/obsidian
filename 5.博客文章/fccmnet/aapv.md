@@ -3,8 +3,6 @@ title: "外汇储备是如何获得的"
 post_status: publish
 post_date: 2023-12-17 21:34:57
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

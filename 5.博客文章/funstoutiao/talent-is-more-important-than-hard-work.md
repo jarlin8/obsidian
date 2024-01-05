@@ -3,8 +3,6 @@ title: "交易中天赋比勤奋更加重要吗?"
 post_status: publish
 post_date: 2023-08-07 00:38:32
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

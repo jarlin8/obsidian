@@ -3,8 +3,6 @@ title: "做外汇到底有多少人赚钱"
 post_status: publish
 post_date: 2023-06-21 01:54:27
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

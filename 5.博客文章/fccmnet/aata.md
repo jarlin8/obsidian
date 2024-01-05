@@ -3,8 +3,6 @@ title: "如何选择黄金交易平台"
 post_status: publish
 post_date: 2023-12-01 21:42:25
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

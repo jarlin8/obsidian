@@ -3,8 +3,6 @@ title: "如何理解“交易系统越简单越好”这句话?"
 post_status: publish
 post_date: 2023-11-04 14:05:25
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

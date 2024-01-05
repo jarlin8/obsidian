@@ -3,8 +3,6 @@ title: "请问 银行做远期外汇交易 银行的盈利点是什么"
 post_status: publish
 post_date: 2023-12-13 05:23:47
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

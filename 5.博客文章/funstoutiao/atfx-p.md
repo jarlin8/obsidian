@@ -3,8 +3,6 @@ title: "ATFX平台投资大家觉得可行么"
 post_status: publish
 post_date: 2023-10-09 00:34:35
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

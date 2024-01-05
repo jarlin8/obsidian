@@ -3,8 +3,6 @@ title: "超买超卖指标OBO是怎么运用的"
 post_status: publish
 post_date: 2023-09-15 21:26:06
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

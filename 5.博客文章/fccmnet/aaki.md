@@ -3,8 +3,6 @@ title: "外汇中常被影线扫 即使我方向判断对了 有时很难避免 
 post_status: publish
 post_date: 2023-08-22 01:39:21
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

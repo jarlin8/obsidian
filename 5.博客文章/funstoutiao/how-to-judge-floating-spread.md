@@ -3,8 +3,6 @@ title: "怎么判断一个交易平台是浮动点差是否正常?"
 post_status: publish
 post_date: 2023-08-16 10:40:31
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

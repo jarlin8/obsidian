@@ -3,8 +3,6 @@ title: "如何处理不同周期之间趋势相违背的问题?"
 post_status: publish
 post_date: 2023-12-26 21:32:47
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

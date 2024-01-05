@@ -3,8 +3,6 @@ title: "黄金投资中常用的看盘技巧有哪些"
 post_status: publish
 post_date: 2023-12-25 12:47:15
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

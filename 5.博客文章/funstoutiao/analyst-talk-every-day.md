@@ -3,8 +3,6 @@ title: "为什么网上那么多分析师，天天说喊单，感觉跟着他们
 post_status: publish
 post_date: 2023-07-06 18:10:48
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

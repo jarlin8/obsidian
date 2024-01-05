@@ -3,8 +3,6 @@ title: "民调看起来，特朗普占下风；赌盘看上去，特朗普居优
 post_status: publish
 post_date: 2023-10-12 11:19:18
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

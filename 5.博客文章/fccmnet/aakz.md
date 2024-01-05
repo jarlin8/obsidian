@@ -3,8 +3,6 @@ title: "外汇风险对冲有哪些具体操作"
 post_status: publish
 post_date: 2023-08-23 07:12:14
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

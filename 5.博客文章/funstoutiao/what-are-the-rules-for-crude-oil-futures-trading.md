@@ -3,8 +3,6 @@ title: "原油期货交易有什么规则吗？"
 post_status: publish
 post_date: 2023-11-02 22:20:07
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

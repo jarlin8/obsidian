@@ -1,10 +1,8 @@
 ---
 title: 费曼学习法实践
 post_status: publish
-post_date: 2023-11-30 18:44:17
 skip_file: no
-custom_fields: 
-  post-format: 
+post_date: 2023-12-29T04:10:00.000Z
 taxonomy:
   category:
         - log

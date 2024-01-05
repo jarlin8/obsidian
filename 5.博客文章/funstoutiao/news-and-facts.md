@@ -3,8 +3,6 @@ title: "如何理解“买消息卖事实”？如何处理类似的数据面?"
 post_status: publish
 post_date: 2023-07-26 15:55:51
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

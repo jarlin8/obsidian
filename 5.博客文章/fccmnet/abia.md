@@ -3,8 +3,6 @@ title: "k线应用技巧怎么学习"
 post_status: publish
 post_date: 2023-12-22 12:19:11
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "如何进行年线趋势分析"
 post_status: publish
 post_date: 2023-11-09 08:43:26
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

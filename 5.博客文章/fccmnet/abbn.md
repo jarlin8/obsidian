@@ -3,8 +3,6 @@ title: "炒汇技巧关于技术分析有哪些经验"
 post_status: publish
 post_date: 2023-07-11 01:01:17
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

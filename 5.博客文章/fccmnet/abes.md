@@ -3,8 +3,6 @@ title: "白标搭建的基本情况是怎么样的"
 post_status: publish
 post_date: 2023-08-04 07:07:45
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

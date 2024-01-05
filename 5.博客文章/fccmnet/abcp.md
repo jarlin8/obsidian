@@ -3,8 +3,6 @@ title: "产能利用率(CapacityUtilization)是什么指标"
 post_status: publish
 post_date: 2023-10-11 16:35:13
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

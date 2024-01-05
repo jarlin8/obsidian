@@ -3,8 +3,6 @@ title: "保证金交易前忽视准备工作会怎样"
 post_status: publish
 post_date: 2023-07-12 19:06:52
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

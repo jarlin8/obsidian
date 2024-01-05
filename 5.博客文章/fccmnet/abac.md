@@ -3,8 +3,6 @@ title: "炒黄金哪个平台好"
 post_status: publish
 post_date: 2023-07-24 09:25:58
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "你的交易系统是根据什么逻辑、常识、理论或哲学而建
 post_status: publish
 post_date: 2023-08-02 03:58:37
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

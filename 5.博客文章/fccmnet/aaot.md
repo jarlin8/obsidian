@@ -3,8 +3,6 @@ title: "求推荐关于外汇基本面的靠谱书籍"
 post_status: publish
 post_date: 2023-08-11 15:54:45
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

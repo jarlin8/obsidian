@@ -3,8 +3,6 @@ title: "看macd背离指标来做单准确率高吗?"
 post_status: publish
 post_date: 2023-09-22 11:02:25
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

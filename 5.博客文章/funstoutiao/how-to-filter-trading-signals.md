@@ -3,8 +3,6 @@ title: "在交易中，如何筛选交易信号?"
 post_status: publish
 post_date: 2023-11-25 02:37:52
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

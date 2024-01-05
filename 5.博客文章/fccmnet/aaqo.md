@@ -3,8 +3,6 @@ title: "中国神级的操盘手为什么不做外汇"
 post_status: publish
 post_date: 2023-08-10 19:53:31
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

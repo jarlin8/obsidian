@@ -3,8 +3,6 @@ title: "炒黄金新手应警惕哪些误区"
 post_status: publish
 post_date: 2023-10-11 17:30:46
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

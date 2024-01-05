@@ -3,8 +3,6 @@ title: "常见的k线形态组合有哪些"
 post_status: publish
 post_date: 2023-08-03 14:51:41
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

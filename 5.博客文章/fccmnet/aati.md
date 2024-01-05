@@ -3,8 +3,6 @@ title: "全球央行黄金储备为什么越来越多"
 post_status: publish
 post_date: 2023-06-25 03:37:37
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

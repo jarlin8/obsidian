@@ -3,8 +3,6 @@ title: "多空指标BBI是怎么运用的"
 post_status: publish
 post_date: 2023-10-25 22:04:37
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

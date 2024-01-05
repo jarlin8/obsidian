@@ -3,8 +3,6 @@ title: "KISS外汇交易系统是什么"
 post_status: publish
 post_date: 2023-11-15 13:45:14
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

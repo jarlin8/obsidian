@@ -3,8 +3,6 @@ title: "常见的底部反转K线形态有哪些"
 post_status: publish
 post_date: 2023-07-04 18:51:06
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

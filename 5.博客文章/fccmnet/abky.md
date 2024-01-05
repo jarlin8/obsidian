@@ -3,8 +3,6 @@ title: "ex外汇平台的优缺点对比"
 post_status: publish
 post_date: 2023-06-25 01:37:56
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

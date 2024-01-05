@@ -3,8 +3,6 @@ title: "抄底必知的K线形态有哪些"
 post_status: publish
 post_date: 2023-12-10 20:55:08
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

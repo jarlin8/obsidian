@@ -3,8 +3,6 @@ title: "干货！趋势交易者的4种回撤处理策略,好使！"
 post_status: publish
 post_date: 2023-08-21 20:04:28
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "experience"

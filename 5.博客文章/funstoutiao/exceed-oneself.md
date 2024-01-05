@@ -3,8 +3,6 @@ title: "杂七杂八学了一大堆，一交易就亏钱，不断否定自己，
 post_status: publish
 post_date: 2023-11-26 02:47:03
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

@@ -3,8 +3,6 @@ title: "伦敦金是什么？"
 post_status: publish
 post_date: 2023-08-29 07:04:50
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

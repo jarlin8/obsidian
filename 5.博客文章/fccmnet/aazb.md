@@ -3,8 +3,6 @@ title: "炒黄金做长线好不好"
 post_status: publish
 post_date: 2023-10-01 12:11:09
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "如何进行外汇交易，外汇交易注意事项有哪些"
 post_status: publish
 post_date: 2023-12-15 10:43:49
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -3,8 +3,6 @@ title: "adsmt4手机版安卓软件怎么用？"
 post_status: publish
 post_date: 2023-12-09 10:45:49
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

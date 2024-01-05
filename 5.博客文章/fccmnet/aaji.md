@@ -3,8 +3,6 @@ title: "关于外汇标价方法的定义 直接标价法到底是什么"
 post_status: publish
 post_date: 2023-08-18 20:56:45
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "国际黄金怎么操作，最新操作策略建议是什么?"
 post_status: publish
 post_date: 2023-06-27 13:25:58
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

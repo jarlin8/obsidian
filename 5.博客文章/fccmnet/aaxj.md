@@ -3,8 +3,6 @@ title: "黄金交易总结有哪些经验"
 post_status: publish
 post_date: 2023-10-19 07:33:52
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

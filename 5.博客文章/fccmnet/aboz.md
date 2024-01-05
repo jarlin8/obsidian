@@ -3,8 +3,6 @@ title: "如何在外汇平台上提高自己的交易技能？"
 post_status: publish
 post_date: 2023-06-18 10:25:23
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

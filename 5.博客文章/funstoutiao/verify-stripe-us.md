@@ -3,8 +3,6 @@ title: "市场波动的自然规律：艾略特波浪理论解析"
 post_status: publish
 post_date: 2023-07-28 12:28:08
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "experience"

@@ -3,8 +3,6 @@ title: "外汇平台是如何工作的？"
 post_status: publish
 post_date: 2023-07-21 19:18:52
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "黄金TD限仓制度是什么"
 post_status: publish
 post_date: 2023-09-06 23:08:53
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

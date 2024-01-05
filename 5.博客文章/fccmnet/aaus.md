@@ -3,8 +3,6 @@ title: "黄金为什么被称为天然货币"
 post_status: publish
 post_date: 2023-11-29 02:51:02
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

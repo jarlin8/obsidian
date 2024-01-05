@@ -3,8 +3,6 @@ title: "GDP数据发布时，如何避免投资风险"
 post_status: publish
 post_date: 2023-10-10 23:11:35
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

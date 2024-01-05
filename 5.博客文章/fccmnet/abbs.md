@@ -3,8 +3,6 @@ title: "炒汇短线投资的技巧会很复杂吗"
 post_status: publish
 post_date: 2023-10-07 13:01:14
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

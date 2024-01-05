@@ -3,8 +3,6 @@ title: "中国大概什么时候会开放外汇保证金交易"
 post_status: publish
 post_date: 2023-09-07 06:22:10
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

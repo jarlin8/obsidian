@@ -3,8 +3,6 @@ title: "黄金期货对冲是什么意思"
 post_status: publish
 post_date: 2023-11-19 05:24:32
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

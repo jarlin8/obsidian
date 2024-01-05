@@ -3,8 +3,6 @@ title: "国际黄金开户如何开户？难吗？"
 post_status: publish
 post_date: 2023-10-10 06:45:22
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

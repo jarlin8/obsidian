@@ -3,8 +3,6 @@ title: "投资黄金靠不靠谱"
 post_status: publish
 post_date: 2023-09-01 05:37:23
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

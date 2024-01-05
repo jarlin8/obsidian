@@ -3,8 +3,6 @@ title: "外汇平台KVB昆仑国际怎么样"
 post_status: publish
 post_date: 2023-10-20 12:52:18
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

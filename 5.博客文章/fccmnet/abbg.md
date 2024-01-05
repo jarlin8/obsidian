@@ -3,8 +3,6 @@ title: "炒汇如何寻找最佳入场点位"
 post_status: publish
 post_date: 2023-11-20 10:26:59
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

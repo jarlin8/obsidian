@@ -3,8 +3,6 @@ title: "当你处于“错误的交易”中时，你是如何处理的?"
 post_status: publish
 post_date: 2023-12-30 16:28:21
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

@@ -3,8 +3,6 @@ title: "外汇交易中最常见的三个错误！"
 post_status: publish
 post_date: 2023-12-12 02:54:01
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

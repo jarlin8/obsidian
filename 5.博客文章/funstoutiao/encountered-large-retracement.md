@@ -3,8 +3,6 @@ title: "自己的交易系统遇到大幅回撤怎么办?"
 post_status: publish
 post_date: 2023-07-02 17:10:10
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

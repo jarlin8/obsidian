@@ -3,8 +3,6 @@ title: "有哪些是你做交易之后才知道的事?"
 post_status: publish
 post_date: 2023-12-16 23:31:19
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

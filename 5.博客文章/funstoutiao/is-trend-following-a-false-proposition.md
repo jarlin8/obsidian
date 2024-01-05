@@ -3,8 +3,6 @@ title: "趋势跟踪是个伪命题吗？为什么在稳定盈利的人当中没
 post_status: publish
 post_date: 2023-07-29 17:25:02
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

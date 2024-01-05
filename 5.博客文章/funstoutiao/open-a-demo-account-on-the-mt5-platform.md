@@ -3,8 +3,6 @@ title: "如何在MT5平台上开设模拟账户？"
 post_status: publish
 post_date: 2023-10-11 08:14:41
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

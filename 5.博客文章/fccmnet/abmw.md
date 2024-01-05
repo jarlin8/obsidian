@@ -3,8 +3,6 @@ title: "止损点位和控制仓位的策略对于新手来说是否容易实施
 post_status: publish
 post_date: 2023-10-26 13:27:35
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

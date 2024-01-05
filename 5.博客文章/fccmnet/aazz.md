@@ -3,8 +3,6 @@ title: "炒黄金如何解套"
 post_status: publish
 post_date: 2023-09-07 14:41:10
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "中国为什么采用现行的外汇储备政策 有哪些更好的选�
 post_status: publish
 post_date: 2023-12-09 11:44:46
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

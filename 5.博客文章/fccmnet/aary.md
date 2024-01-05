@@ -3,8 +3,6 @@ title: "投资黄金期货的优点有哪些"
 post_status: publish
 post_date: 2023-06-23 17:17:05
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

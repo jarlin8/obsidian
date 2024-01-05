@@ -3,8 +3,6 @@ title: "黄金期货如何进行日内波段交易"
 post_status: publish
 post_date: 2023-07-17 02:48:32
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

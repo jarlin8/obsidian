@@ -3,8 +3,6 @@ title: "初创外汇平台需要注意哪几方面"
 post_status: publish
 post_date: 2023-10-09 02:32:49
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

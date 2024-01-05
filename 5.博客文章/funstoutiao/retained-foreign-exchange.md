@@ -3,8 +3,6 @@ title: "什么叫留成外汇? 对留成外汇原来是如何管理的?"
 post_status: publish
 post_date: 2023-09-17 04:06:46
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forexbook"

@@ -3,8 +3,6 @@ title: "为什么中国的外汇储备会越来越多"
 post_status: publish
 post_date: 2023-08-16 20:15:45
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

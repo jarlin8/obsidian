@@ -3,8 +3,6 @@ title: "是哪些因素决定外汇汇率"
 post_status: publish
 post_date: 2023-12-24 16:57:42
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

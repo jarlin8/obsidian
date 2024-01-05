@@ -3,8 +3,6 @@ title: "当技术面和基本面冲突时，你会怎么做?"
 post_status: publish
 post_date: 2023-08-24 10:20:23
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

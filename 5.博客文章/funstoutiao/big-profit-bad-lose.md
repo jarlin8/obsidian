@@ -3,8 +3,6 @@ title: "做外汇交易，你最多的时候赚了多少又付出了过哪些沉
 post_status: publish
 post_date: 2023-06-21 21:43:50
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

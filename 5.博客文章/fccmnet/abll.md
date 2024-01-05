@@ -3,8 +3,6 @@ title: "ecn模式的外汇平台都是正规的吗？"
 post_status: publish
 post_date: 2023-07-14 20:26:08
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

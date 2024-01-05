@@ -3,8 +3,6 @@ title: "外汇黄金贵金属交易平台靠谱吗？"
 post_status: publish
 post_date: 2023-12-02 14:34:45
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

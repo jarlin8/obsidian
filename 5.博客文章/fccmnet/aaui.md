@@ -3,8 +3,6 @@ title: "黄金斩仓是什么意思"
 post_status: publish
 post_date: 2023-09-19 13:25:46
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

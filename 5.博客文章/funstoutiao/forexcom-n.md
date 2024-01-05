@@ -3,8 +3,6 @@ title: "Forex.com嘉盛集团外汇怎么开户"
 post_status: publish
 post_date: 2023-07-08 05:28:00
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

@@ -3,8 +3,6 @@ title: "如果交易有段位，你是哪个段位?"
 post_status: publish
 post_date: 2023-09-06 14:10:06
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

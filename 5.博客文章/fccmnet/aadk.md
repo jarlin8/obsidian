@@ -3,8 +3,6 @@ title: "成为一名成功的外汇交易者需要什么技能"
 post_status: publish
 post_date: 2023-07-11 08:30:16
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"

@@ -3,8 +3,6 @@ title: "如何挑选正规的外汇平台"
 post_status: publish
 post_date: 2023-12-11 21:24:39
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "forex-answer"

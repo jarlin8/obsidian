@@ -3,8 +3,6 @@ title: "亏钱有哪几种原因?"
 post_status: publish
 post_date: 2023-07-22 01:01:59
 skip_file: no
-custom_fields: 
-  post-format: aside
 taxonomy:
   category:
         - "ganhuo"

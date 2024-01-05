@@ -3,8 +3,6 @@ title: "炒外汇正确的配置资金比例是多少"
 post_status: publish
 post_date: 2023-06-23 18:35:13
 skip_file: no
-custom_fields: 
-  post-format: 
 taxonomy:
   category:
         - "faq"
