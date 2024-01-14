@@ -1,33 +1,35 @@
 ---
-title: "EXNESS外汇真的是无限杠杆吗"
+title: EXNESS 外汇真的是无限杠杆吗
 post_status: publish
-post_date: "2020-08-20"
+skip_file: yes
+custom_fields:
+  rank_math_title: "%title% %sep% %sitename%"
 taxonomy:
- category: 
-  - "brokers-review"
+  category:
+        - brokers-review
+  post_tag:
+        - 水煮外汇
+post_excerpt: 
 ---
+![Image](https://cdn.fendou.la/welaowei8/2019/01/Exness.svg)
 
-![](https://cdn.fendou.la/welaowei8/2019/01/Exness.svg)
+## EXNESS 外汇保证金和杠杆
 
-[wpsm_woobox id="10311"]
-
-## EXNESS外汇保证金和杠杆
-
-在 **[Exness](https://www.ifttt.fun/go/exness-cn/)** 交易时可以选择适合自己的杠杆水平。
+在  [Exness](https://www.ifttt.fun/go/exness-cn/)  交易时可以选择适合自己的杠杆水平。
 
 保证金和杠杆的情况会针对您帐户中的净值水平、假期、周末和经济新闻做出动态反应，因此了解它们的工作原理非常重要。
 
-## EXNESS保证金、杠杆和净值之间的关系
+## EXNESS 保证金、杠杆和净值之间的关系
 
 现在，查您账户当前的净值水平，即可查看确切的[保证金要求](https://we.laowei8.com/question/exness-leverage)和最大可用杠杆。
 
-![](https://cdn.fendou.la/welaowei8/2020/07/ec679f786486720331bc126ccf9a101f-5.gif)
+![Image](https://cdn.fendou.la/welaowei8/2020/07/ec679f786486720331bc126ccf9a101f-5.gif)
 
-## 重大数据公布、周末和节假日**EXNESS杠杆**
+## 重大数据公布、周末和节假日**EXNESS 杠杆**
 
 为使您的风险敞口最小化，[保证金要求](https://we.laowei8.com/question/exness-leverage)和杠杆可能会在重大财经新闻发布和节假日前以及周末期间发生改变。
 
-### 重大数据公布『美国非农、EIA原油库存、利率决议』
+### 重大数据公布『美国非农、EIA 原油库存、利率决议』
 
 如在重磅财经新闻发布前 15 分钟至发布后 5 分钟期间内[开仓](https://baike.baidu.com/item/%E5%BB%BA%E4%BB%93/3070296)交易受影响品种，计算保证金要时最大可用杠杆为 1:200。
 
@@ -37,11 +39,11 @@ taxonomy:
 
 ### 节假日*『美国,英国，香港…圣诞节，复活节』
 
-和周末类似，部分节假日期间的[保证金要求](https://we.laowei8.com/question/exness-leverage)也可能会升高。但我们会把相关更新先发布在 “[Exness](https://www.ifttt.fun/go/exness-cn/) 新闻” 板块，再调整您的杠杆。
+和周末类似，部分节假日期间的[保证金要求](https://we.laowei8.com/question/exness-leverage)也可能会升高。但我们会把相关更新先发布在 “[Exness](https://www.ifttt.fun/go/exness-cn/)  新闻” 板块，再调整您的杠杆。
 
-## EXNESS常见问答FAQ
+## EXNESS 常见问答 FAQ
 
-### 保证金要求上调时，exness哪些账户类型会受到影响？
+### 保证金要求上调时，exness 哪些账户类型会受到影响？
 
 标准、裸点、先锋、零点和美分账户均会受到影响。保证金要求规则既适用于真实账户，也适用于模拟账户。
 
@@ -53,15 +55,15 @@ taxonomy:
 
 如果您在保证金上调期间关闭了一个对冲单，就会形成一个未对冲的头寸，该头寸将被视为新开立的头寸。因此，该头寸的保证金将根据上调的保证金要求计算，且将按比例分配至包含该对冲金融品种的未结交易中。
 
-### exness保证金要求在周末什么时候开始上调，什么时候结束？
+### exness 保证金要求在周末什么时候开始上调，什么时候结束？
 
 杠杆调整从北京时间星期六 03:00（汇市收盘前三小时）开始，到北京时间星期一 07:00（汇市开盘后两小时后）结束。此期间开立的新头寸在计算保障金时最大可用杠杆为 1:200。
 
-### 我用exness交易黄金，杠杆会在每日休市前改变吗？
+### 我用 exness 交易黄金，杠杆会在每日休市前改变吗？
 
 杠杆会发生改变。金属每日休市时间为格林尼治标准时间 22:00 — 23:00（北京时间 06:00 — 07:00）。在休市前 30 分钟内，即格林尼治标准时间 21:30 — 22:00（北京时间 05:30 — 06:00），最大可用杠杆将调整为 1:1000。
 
-### 为什么exness的保证金要求在新闻发布期间上调？
+### 为什么 exness 的保证金要求在新闻发布期间上调？
 
 重大新闻可能会导致市场剧烈波动，引发价格缺口。众所周知，在市场高波动性期间使用高杠杆是风险很高的做法，因为突发的市场变动可能会导致资金亏损。因此我们在新闻发布期间把最大杠杆限制在 1:200 的水平，如在此期间新开立的头寸包含受新闻发布影响的品种，其保证金要求将面临上调。
 
@@ -77,6 +79,6 @@ taxonomy:
 
 保证金上调规则在周末期间适用所有交易。周末期间，所有品种的最高杠杆都将调整为 1:200（小币种交易对、加密数字货币、能源、股票、指数、钯和铂金除外，这几个交易品种的保证金要求是固定的）。节假日稍有不同，因为只有部分品种和市场会受到保证金规则调整的影响。
 
-### EXNESS账户MetaTrader5上的最大杠杆是多少？
+### EXNESS 账户 MetaTrader5 上的最大杠杆是多少？
 
 MetaTrader 5 上所有账户类型的最大杠杆是 1:2000。
