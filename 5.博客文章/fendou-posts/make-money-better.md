@@ -48,7 +48,7 @@ URL 搜索适用于直接链接映射字段。如果您没有在上一步映射�
 
 * 利用产品链接获取永久固定推广链接
 
-```plain text
+```php
 <a href=[jd]https://item.jd.com/100032883020.html[/jd]>京东联盟链接</a>
 <a href=[jd]https://item.jd.com/10035709567913.html[/jd]>京东联盟链接</a>
 <a href=[jd]https://item.jd.com/10056338425042.html[/jd]>京东联盟链接</a>
@@ -76,7 +76,7 @@ URL 搜索适用于直接链接映射字段。如果您没有在上一步映射�
 
 **content-egg/application/admin/LicConfig.php** 92:107
 
-```plain text
+```php
 public function licFormat($value)
 {
 return true;
@@ -91,7 +91,7 @@ return true;
 
 **content-egg/application/components/LManager.php** 379
 
-```plain text
+```php
 public static function isNulled(){
 return false;​
 }
@@ -99,11 +99,11 @@ return false;​
 
 ### 3. 比价模板添加商家 logo ✔
 
-**content-egg/templates/block_price_comparison_card.php: 44**
+**content-egg/templates/block_price_comparison_card.php: 43**
 
 **使用自定义模板解决**：block_ComparePrice
 
-```plain text
+```php
 //原代码
 <?php echo esc_html(TemplateHelper::getMerhantName($item)); ?>
 //替换成
@@ -113,29 +113,66 @@ return false;​
 
 ### 4.top-list 列表添加商家 logo ✔
 
-**content-egg/templates/block_top_listing.php:55 行**
+**content-egg/templates/block_top_listing.php:65 行**
 
 **使用自定义模板解决**： block_TopListing
 
-```plain text
+```php
 //原代码
  <div class="cegg-no-top-margin cegg-list-logo-title">
  <a<?php TemplateHelper::printRel(); ?> target="_blank" href="<?php echo esc_url_raw($item['url']); ?>"><?php echo esc_html(TemplateHelper::truncate($item['title'], 100)); ?></a>
 </div>
 // 替换成
 <div class="cegg-no-top-margin cegg-list-logo-title">
- <img src="https://testingcf.jsdelivr.net/gh/jarlin8/OSS@main/icons/favicon/<?php echo esc_attr( $item['domain']); ?>.svg" height="18" width="18">
- <a<?php TemplateHelper::printRel(); ?> target="_blank" href="<?php echo esc_url_raw($item['url']); ?>"><?php echo esc_html(TemplateHelper::truncate($item['title'], 100)); ?></a>
- </div>
+	<img src="https://testingcf.jsdelivr.net/gh/jarlin8/OSS@main/icons/favicon/<?php echo esc_attr($item['domain']); ?>.svg" height="18" width="18">
+	<a<?php TemplateHelper::printRel(); ?> target="_blank" href="<?php echo esc_url_raw($item['url']); ?>"><?php echo esc_html(TemplateHelper::truncate($item['title'], 100)); ?></a>
+</div>
 ```
 
 ### 5.单个产品 list 展示 显示商家 logo ✖ 未解决
 
 **content-egg/application/templates/blocks/list_row.php**：20&7 后面添加图标代码就好
 
-```plain text
+```php
 <div class="cegg-no-top-margin cegg-list-logo-title">
 <img src="https://testingcf.jsdelivr.net/gh/jarlin8/OSS@main/icons/favicon/<?php echo esc_attr( $item['domain']); ?>.svg" height="18" width="18">
+## line7 after
+<div class="cegg-list-logo-title cegg-mt5 cegg-mb15 visible-xs text-center">
+	<img src="https://testingcf.jsdelivr.net/gh/jarlin8/OSS@main/icons/favicon/<?php echo esc_attr( $item['domain']); ?>.svg" height="18" width="18">
+    <a<?php TemplateHelper::printRel(); ?> target="_blank" href="<?php echo esc_url_raw($item['url']); ?>"><?php echo esc_html(TemplateHelper::truncate($item['title'], 100)); ?></a>
+</div>
+
+## line21 after
+<div class="col-md-5 col-sm-5 col-xs-12 cegg-desc-cell hidden-xs">
+        <div class="cegg-no-top-margin cegg-list-logo-title">
+			<img src="https://testingcf.jsdelivr.net/gh/jarlin8/OSS@main/icons/favicon/<?php echo esc_attr( $item['domain']); ?>.svg" height="18" width="18">
+            <a<?php TemplateHelper::printRel(); ?> target="_blank"
+                                                   href="<?php echo esc_url_raw($item['url']); ?>"><?php echo esc_html(TemplateHelper::truncate($item['title'], 100)); ?></a>
+        </div>
+
+    </div>
+
+## 出现报错`Warning: Invalid argument supplied for foreach() in /www/wwwroot/allmultisite/wp-content/plugins/content-egg/application/helpers/TemplateHelper.php on line 1319`
+
+public static function isModuleDataExist($items, $module_ids)
+{
+    if (!is_array($module_ids))
+        $module_ids = array($module_ids);
+
+    if (!is_array($items)) {
+        return false;
+    }
+
+    foreach ($module_ids as $module_id) {
+        foreach ($items as $item) {
+            if (isset($item['module_id']) && $item['module_id'] == $module_id)
+                return true;
+        }
+    }
+
+    return false;
+}
+
 ----
 <img src="https://laowei8.com/favicon/get.php?url=<?php echo esc_attr( $item['domain']); ?>" height="18" width="18">
 
@@ -144,7 +181,7 @@ fccm: 使用https://icon.horse/icon/
 
 ### 6.替换全部 favicon 的来源
 
-```plain text
+```php
 https://www.google.com/s2/favicons?domain=  >>  https://icon.horse/icon/
 <img src="https://fastly.jsdelivr.net/gh/jarlin8/OSS@main/icons/favicon/<?php echo esc_attr( $item['domain']); ?>.svg" height="18" width="18">
 ```
@@ -155,7 +192,7 @@ https://www.google.com/s2/favicons?domain=  >>  https://icon.horse/icon/
 
 **affiliate-egg/application/admin/LicConfig.php**:76
 
-```plain text
+```php
 public function licFormat($value)    {
 if (preg_match('/[^0-9a-zA-Z_~-]/', $value))
 return false;
@@ -177,7 +214,7 @@ return false;
 
 替换成
 
-```plain text
+```php
 public function licFormat($value)    {
 return true;
 }public function activatingLicense($value)    {
@@ -189,7 +226,7 @@ return true;
 
 **affiliate-egg/application/admin/LManager.php**:302
 
-```plain text
+```php
 public static function isNulled()​    {​
 $l = LicConfig::getInstance()->option('license_key');​​
 if (!$l && Plugin::isEnvato())​
@@ -203,21 +240,21 @@ return false;​}
 
 替换成
 
-```plain text
+```php
 public static function isNulled(){
 return false;​ }
 ```
 
 ## Linux 批量删除.DS_Store
 
-```plain text
+```php
 find . -name ".DS_Store" -print -delete
 find . -name "*.log" -print -delete
 ```
 
 ## 可获取网站 favicon 的链接（国内）
 
-```plain text
+```php
 https://f5.allesedv.com/16/google.com （部分网址无法获取）
 https://api.faviconkit.com/amazon.cn  (速度较慢，几乎全部可获取到)
 https://icon.horse/icon/alibaba.com (全 免费 较快 推荐)
@@ -227,7 +264,7 @@ https://icon.horse/icon/alibaba.com (全 免费 较快 推荐)
 
 win+R -> cmd -> `cd C:UsershankOneDrive - teleworm桌面img`
 
-```plain text
+```php
 del /a /f /s /q  "*.DS_Store"
 del /a /f /s /q  "*.editorconfig"
 del /a /f /s /q  "*.gitattributes"
@@ -354,7 +391,7 @@ vultr.com `ref=9197180-8H`
 
 ## flatsome 主题添加最后更新时间
 
-```plain text
+```php
 #: inc/structure/structure-posts.php:235
 msgctxt "post date"
 msgid "Posted on %s"
