@@ -102,11 +102,11 @@ post_excerpt:
 
 现在你已经掌握了杠杆如何放大你的利润和损失这一概念，但同时也会增加你的交易成本。需要注意的是，杠杆并不等同于保证金。杠杆是你账户总杠杆的倍数，其最大值取决于你的保证金需求。
 
-# 高杠杆的优缺点
+## 高杠杆的优缺点
 
 杠杆是交易中使用金额与所需保证金之间的比率。 它是您可以从可用资本数额进行交易的百分比或分数增长。 它允许交易者交易名义价值远高于他们拥有的资本。 例如，100:1的杠杆意味着您可以交易比您交易账户中的资本高100倍的名义价值。
 
-| <img src="https://testingcf.jsdelivr.net/gh/jarlin8/OSS@main/icons/customize/pros.svg" height="auto" width="28.8%"> | <img src="https://testingcf.jsdelivr.net/gh/jarlin8/OSS@main/icons/customize/cons.svg" height="auto" width="28.8%"> |
+| <img src="https://cdn.ifttt.fun/gh/jarlin8/OSS@main/icons/customize/pros.svg" height="auto" width="37.3%"> | <img src="https://cdn.ifttt.fun/gh/jarlin8/OSS@main/icons/customize/cons.svg" height="auto" width="28.8%"> |
 | :--- | :--- |
 | 高杠杆可以用较少的资金控制较大的交易头寸，从而提高收益率；可以在短时间内获得巨大的利润。 **例如，** 如果你有100美元的资金，使用1:500的杠杆率，你就可以控制相当于50000美元的交易头寸。如果你的交易获得2%的利润，你就可以赚到1000美元，相当于10倍的回报率。 | 高杠杆会增加风险，如果市场走势不利，可能会导致巨大的亏损；可能会引起贪婪和情绪化的交易行为。 **例如，** 如果你有100美元的资金，使用1:500的杠杆率，你就可以控制相当于50000美元的交易头寸。如果你的交易亏损2%，你就会损失1000美元，相当于把你的本金全部亏光。而且，如果你使用高杠杆率，你可能会被诱惑去追求更高的利润，而忽视了风险和市场分析。 |
 

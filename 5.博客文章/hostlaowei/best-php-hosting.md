@@ -13,7 +13,7 @@ taxonomy:
 
 ## # Bluehost.com
 
-[wpsm_woobox id="22"]
+[wpsm_woobox id=22]
 
 - Bluehost提供多个版本的PHP 5和PHP 7
 - 以PHP编写代码，支持MySQL和Ruby。
@@ -23,7 +23,7 @@ taxonomy:
 
 ## # A2Hosting.com
 
-[wpsm_woobox id="51"]
+[wpsm_woobox id=51]
 - 选择你的PHP版本，从4.4到7.4+。
 - 在cPanel中易于使用的PHP版本切换器。
 - 支持MySQL、MariaDB和phpMyAdmin。
@@ -32,7 +32,7 @@ taxonomy:
 
 ## # Hostinger.com
 
-[wpsm_woobox id="27"]
+[wpsm_woobox id=27]
 
 - 支持Laravel, Symfony, 和CodeIgniter。
 - PHP版本控制在5.2到7.4之间轻松切换。
@@ -42,7 +42,7 @@ taxonomy:
 
 ## # InMotionHosting.com
 
-[wpsm_woobox id="49"]
+[wpsm_woobox id=49]
 
 - PHP、MySQL、PostgreSQL、Ruby、Perl和Python。
 - PHP版本：5.2.17+和5.3.10+。
@@ -52,7 +52,7 @@ taxonomy:
 
 ## # HostGator.com
 
-[wpsm_woobox id="25"]
+[wpsm_woobox id=25]
 
 - CPanel中包含免费PHP配置插件。
 - 通过MultiPHP设置特定域名的PHP版本。
@@ -62,7 +62,7 @@ taxonomy:
 
 ## # SiteGround.com
 
-[wpsm_woobox id="26"]
+[wpsm_woobox id=26]
 
 - 从当前所有可用的PHP版本中选择
 - 广泛的PHP模块工作
@@ -72,15 +72,13 @@ taxonomy:
 
 ## # GoDaddy.com
 
-[wpsm_woobox id="57"]
+[wpsm_woobox id=57]
 
 - 适用于Linux或Windows的稳固的PHP主机
 - 1GB的额外MySQL存储空间或200MB的MS SQL存储空间。
 - 自定义的PHP.ini支持加上直接的数据库访问。
 - 按需资源和一键式域名设置。
 - 24/7安全监控和DDoS保护
-
-* * *
 
 ## 查找适合开发人员的最佳PHP主机方案
 
