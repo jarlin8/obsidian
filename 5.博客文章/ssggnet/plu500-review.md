@@ -26,7 +26,7 @@ Plus500 Ltd 通过其下属机构运营CFD 业务：
 
 * Plus500AU Pty Ltd 持有ASIC颁发的 AFSL（编号 417727）、新西兰FMA 颁发的FSP（编号486026），以及南非FSCA 颁发的授权金融服务提供商（编号47546）等牌照。 您不擁有標的資產或對標的資產不享有任何權利。請參閱網站上提供的披露檔。
 
-* Plus500SG Pte Ltd 获得MAS (#CMS100648-1) 和IE Singapore (#PLUS/CBL/2018)的许可。
+* Plus500SG Pte Ltd 获得MAS (#CMS100648-1) 。
 
 * Plus500SEY Ltd 由塞舌尔金融服务局（#SD039）授权并接受其监管。
 
