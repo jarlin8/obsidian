@@ -12,8 +12,6 @@ post_excerpt:
 ---
 ![Image](https://cdn.fendou.la/tuoss/forex-profile.png)
 
-[wpsm_comparison_table id=“5”]
-
 ## 嘉盛集团客户资金安全
 
 * 嘉盛依照开曼群岛证券投资商业法，受开曼群岛金融管理局监管
@@ -40,7 +38,7 @@ post_excerpt:
 
 FOREX.com嘉盛集团的母公司StoneX集团公司(StoneX Group Inc.)(NASDAQ: SNEX)是一家上市公司，符合企业管理、财务报告和信息披露的最高标准。
 
-### SNEX的重要财务数据（2020年第二季度）
+### SNEX的重要财务数据（2024年第二季度）
 
 * 总资产：$109亿美元
 

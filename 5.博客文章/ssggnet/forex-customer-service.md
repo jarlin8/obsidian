@@ -22,7 +22,7 @@ post_excerpt:
 
 1. 免费中文电话: **400-8428138**
 
-1. [电邮: cn.support@forex.com](mailto:%E7%94%B5%E9%82%AE:%20cn.support@forex.com)
+1. 电邮: cn.support@forex.com
 
 
 
@@ -35,3 +35,4 @@ post_excerpt:
 ![Image](https://cdn.fendou.la/tuoss/forexservice.png)
 
 嘉盛集团中文客服联系方式
+
