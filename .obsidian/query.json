@@ -1,0 +1,49 @@
+{
+  "queries": [
+    {
+      "id": 0,
+      "pinnedAt": "",
+      "createdAt": "2024/03/19 20:06:24",
+      "updatedAt": "2024/03/19 20:06:24",
+      "title": "未命名",
+      "querystring": "[]",
+      "userId": "Memos"
+    },
+    {
+      "id": 1,
+      "pinnedAt": "",
+      "createdAt": "2024/03/19 20:06:24",
+      "updatedAt": "2024/03/19 20:06:24",
+      "title": "未命名",
+      "querystring": "[]",
+      "userId": "Memos"
+    },
+    {
+      "id": 2,
+      "pinnedAt": "",
+      "createdAt": "2024/03/19 20:06:24",
+      "updatedAt": "2024/03/19 20:06:24",
+      "title": "未命名",
+      "querystring": "[]",
+      "userId": "Memos"
+    },
+    {
+      "id": 3,
+      "pinnedAt": "",
+      "createdAt": "2022/12/29 10:55:27",
+      "updatedAt": "2022/12/29 10:55:27",
+      "title": "🏷️杂记",
+      "querystring": "[{\"type\":\"TAG\",\"value\":{\"operator\":\"CONTAIN\",\"value\":\"杂记\"},\"relation\":\"AND\"}]",
+      "userId": "Memos"
+    },
+    {
+      "id": 4,
+      "pinnedAt": "",
+      "createdAt": "2023/12/01 11:01:56",
+      "updatedAt": "2023/12/01 11:01:56",
+      "title": "筛选新闻标签",
+      "querystring": "[{\"type\":\"TAG\",\"value\":{\"operator\":\"CONTAIN\",\"value\":\"新闻\"},\"relation\":\"AND\"}]",
+      "userId": "Memos"
+    }
+  ]
+}
