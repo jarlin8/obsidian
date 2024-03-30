@@ -14,22 +14,8 @@
               "type": "thino_view",
               "state": {}
             }
-          },
-          {
-            "id": "d1c312cd22e4241b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shuoshuo/13th-2024-03-30-zhou6.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shuoshuo/13th-2024-03-30-zhou6.md",
+                "file": "shuoshuo/52th-2023-01-01-zhou0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shuoshuo/13th-2024-03-30-zhou6.md",
+                "file": "shuoshuo/52th-2023-01-01-zhou0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shuoshuo/13th-2024-03-30-zhou6.md"
+                "file": "shuoshuo/52th-2023-01-01-zhou0.md"
               }
             }
           },
@@ -179,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "shuoshuo/13th-2024-03-30-zhou6.md",
+                "file": "shuoshuo/52th-2023-01-01-zhou0.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,16 +243,16 @@
       "templates:插入模板": false
     }
   },
-  "active": "d1c312cd22e4241b",
+  "active": "663130d3b27c96d7",
   "lastOpenFiles": [
     "shuoshuo/gingko-tree-fall.md",
-    "shuoshuo/2022-last-day.md",
-    "shuoshuo/car-designed-by-jobs.md",
     "shuoshuo/1.日记索引.md",
     "shuoshuo/13th-2024-03-30-zhou6.md",
+    "shuoshuo/52th-2023-01-01-zhou0.md",
+    "shuoshuo/car-designed-by-jobs.md",
+    "shuoshuo/2022-last-day.md",
     "shuoshuo/1th-2024-01-03-zhou3.md",
     "shuoshuo/52th-2022-12-31-zhou6.md",
-    "shuoshuo/52th-2023-01-01-zhou0.md",
     "2.金融/分析师与交易员.md",
     "5.博客文章/fccmnet",
     "5.博客文章/ssggnet",
