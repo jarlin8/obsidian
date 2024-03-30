@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "0b258d088be98f80",
+            "id": "d1c312cd22e4241b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -231,7 +231,7 @@
                   "repelStrength": 10,
                   "linkStrength": 0.5,
                   "linkDistance": 30,
-                  "scale": 0.27268604797210416,
+                  "scale": 0.6346286658527585,
                   "close": true
                 }
               }
@@ -257,10 +257,14 @@
       "templates:插入模板": false
     }
   },
-  "active": "0b258d088be98f80",
+  "active": "d1c312cd22e4241b",
   "lastOpenFiles": [
-    "shuoshuo/1th-2024-01-03-zhou3.md",
+    "shuoshuo/gingko-tree-fall.md",
+    "shuoshuo/2022-last-day.md",
+    "shuoshuo/car-designed-by-jobs.md",
+    "shuoshuo/1.日记索引.md",
     "shuoshuo/13th-2024-03-30-zhou6.md",
+    "shuoshuo/1th-2024-01-03-zhou3.md",
     "shuoshuo/52th-2022-12-31-zhou6.md",
     "shuoshuo/52th-2023-01-01-zhou0.md",
     "2.金融/分析师与交易员.md",
@@ -271,17 +275,13 @@
     "5.博客文章",
     "wechat-posts/1.公众号文章索引.md",
     "1.爱好/英语/1.AllEnglish.md",
-    "shuoshuo/1.日记索引.md",
     "shuoshuo/query.md",
-    "shuoshuo/gingko-tree-fall.md",
-    "shuoshuo/car-designed-by-jobs.md",
     "shuoshuo/48th-2023-12-03-zhou0.md",
     "shuoshuo/48th-2023-12-02-zhou6.md",
     "shuoshuo/48th-2023-12-01-zhou5.md",
     "shuoshuo/48th-2023-11-30-zhou4.md",
     "shuoshuo/34th-2020-08-20-zhou4.md",
     "shuoshuo/2th-2023-01-12-zhou4.md",
-    "shuoshuo/2022-last-day.md",
     "shuoshuo/1th-2023-01-08-zhou0.md",
     "shuoshuo/1th-2023-01-03-zhou2.md",
     "shuoshuo/1th-2023-01-02-zhou1.md",
