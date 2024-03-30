@@ -35,5 +35,6 @@
   "spellcheckLanguages": null,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "shortest",
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "trashOption": "system"
 }
