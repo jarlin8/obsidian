@@ -123,15 +123,6 @@
       "key": "F"
     }
   ],
-  "obsidian-git:pull": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "D"
-    }
-  ],
   "obsidian-git:commit": [
     {
       "modifiers": [
@@ -139,6 +130,15 @@
         "Shift"
       ],
       "key": "C"
+    }
+  ],
+  "obsidian-git:fetch": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "D"
     }
   ]
 }
