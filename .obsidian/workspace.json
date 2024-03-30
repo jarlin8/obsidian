@@ -91,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "shuoshuo/52th-2023-01-01-zhou0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "shuoshuo/52th-2023-01-01-zhou0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "shuoshuo/52th-2023-01-01-zhou0.md"
+              }
             }
           },
           {
@@ -161,6 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "shuoshuo/52th-2023-01-01-zhou0.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,6 +245,7 @@
   },
   "active": "663130d3b27c96d7",
   "lastOpenFiles": [
+    "2.金融/分析师与交易员.md",
     "shuoshuo/13th-2024-03-30-zhou6.md",
     "5.博客文章/fccmnet",
     "5.博客文章/ssggnet",
@@ -248,7 +254,6 @@
     "5.博客文章",
     "wechat-posts/1.公众号文章索引.md",
     "1.爱好/英语/1.AllEnglish.md",
-    "2.金融/分析师与交易员.md",
     "shuoshuo/1.日记索引.md",
     "shuoshuo/query.md",
     "shuoshuo/gingko-tree-fall.md",

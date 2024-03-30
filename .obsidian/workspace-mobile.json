@@ -1,29 +1,42 @@
 {
   "main": {
-    "id": "b1832c13feb18ed9",
+    "id": "25520636e27edddc",
     "type": "split",
     "children": [
       {
-        "id": "e3df46a712a29fc4",
+        "id": "e1282e11f9b549d7",
         "type": "tabs",
         "children": [
           {
-            "id": "17b0a85f03e078be",
+            "id": "dd1883129e45e35a",
             "type": "leaf",
             "state": {
-              "type": "memos_view",
+              "type": "thino_view",
               "state": {}
             }
           },
           {
-            "id": "58dd6fb702776828",
+            "id": "9a96685477477c7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/周四@2022-12-29.md",
+                "file": "shuoshuo/13th-2024-03-30-zhou6.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e4a2b90436c271c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shuoshuo/13th-2024-03-30-zhou6.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -34,11 +47,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d80e34f0ee32757e",
+    "id": "ee63c521db0b84c4",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "cb76bc82b1c1ed01",
+        "id": "1c184c35eeddb400",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -48,7 +61,7 @@
         }
       },
       {
-        "id": "15f03cf2a0d76ec3",
+        "id": "7d5d8ad11bb2a96a",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -63,7 +76,7 @@
         }
       },
       {
-        "id": "953554b11925019e",
+        "id": "17870c4a96b02826",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -74,10 +87,18 @@
         }
       },
       {
-        "id": "c8a2a73aebc7cdff",
+        "id": "4014bb8efbe06696",
         "type": "leaf",
         "state": {
           "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "bf8bf2b7f5bcb6fe",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
           "state": {}
         }
       }
@@ -85,16 +106,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "aac1fcaf28040b9c",
+    "id": "33e1f49fec726d29",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "ec23d1f2e2472931",
+        "id": "7525f67b2e5a5aba",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "日记/周四@2022-12-29.md",
+            "file": "shuoshuo/13th-2024-03-30-zhou6.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -106,46 +127,92 @@
         }
       },
       {
-        "id": "5344949dea053015",
+        "id": "7eb072cf0ca3f138",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "日记/周四@2022-12-29.md",
+            "file": "shuoshuo/13th-2024-03-30-zhou6.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "aad6f04178ab2a35",
+        "id": "b9210b1e14cc1083",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "日记/周四@2022-12-29.md"
+            "file": "shuoshuo/13th-2024-03-30-zhou6.md"
           }
-        }
-      },
-      {
-        "id": "96b94d788dbec89d",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
-  "active": "17b0a85f03e078be",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-memos:Thino": false
+    }
+  },
+  "active": "dd1883129e45e35a",
   "lastOpenFiles": [
-    "附件/卢曼卡片盒笔记法介绍.png",
-    "附件/Pasted Image 20221229104226.jpeg",
-    "附件/Pasted image 20221227203945.png",
-    "日记/1.日记索引.md",
-    "日记/周四@2022-12-29.md",
-    "日记/周三@2022-12-28.md",
-    "4.网课笔记/1.网课笔记索引.md"
+    "shuoshuo/13th-2024-03-30-zhou6.md",
+    "shuoshuo/1.日记索引.md",
+    "shuoshuo/query.md",
+    "wechat-posts/第一篇文章.md",
+    "wechat-posts/1.公众号文章索引.md",
+    "shuoshuo/2022-last-day.md",
+    "shuoshuo/gingko-tree-fall.md",
+    "shuoshuo/1th-2023-01-08-zhou0.md",
+    "shuoshuo/2th-2023-01-12-zhou4.md",
+    "shuoshuo/car-designed-by-jobs.md",
+    "shuoshuo/1th-2024-01-03-zhou3.md",
+    "shuoshuo/1th-2023-01-03-zhou2.md",
+    "shuoshuo/1th-2023-01-02-zhou1.md",
+    "shuoshuo/48th-2023-12-03-zhou0.md",
+    "shuoshuo/34th-2020-08-20-zhou4.md",
+    "shuoshuo/52th-2023-01-01-zhou0.md",
+    "shuoshuo/48th-2023-12-01-zhou5.md",
+    "shuoshuo/48th-2023-12-02-zhou6.md",
+    "shuoshuo/48th-2023-11-30-zhou4.md",
+    "shuoshuo/52th-2022-12-31-zhou6.md",
+    "shuoshuo",
+    "wechat-posts",
+    "5.博客文章/shuoshuo/1th-2024-01-03-zhou3.md",
+    "5.博客文章/4.FCCM索引.md",
+    "5.博客文章/fccmnet/currency-correlations.md",
+    "5.博客文章/fccmnet/six-tips-to-beat-fear.md",
+    "5.博客文章/3.复利说Funs索引.md",
+    "5.博客文章/funstoutiao/which-is-the-best-gold-foreign-exchange-trading-platform.md",
+    "5.博客文章/fendou-posts/log.txt",
+    "attachment/Pasted Image 20231203103737.jpeg",
+    "3.微信读书/历史",
+    "3.微信读书/经济理财",
+    "3.微信读书/个人成长",
+    "5.博客文章/hostlaowei",
+    "5.博客文章/wechat-posts",
+    "5_Blog/ssggnet",
+    "5_Blog/fccmnet",
+    "attachment/Pasted Image 20231201213220.jpeg",
+    "attachment/Pasted Image 20231201150236.jpeg",
+    "attachment/avatar图片.jpg",
+    "attachment/Pasted Image 20231201104755.jpeg",
+    "attachment/obsidian插件推荐.jpg",
+    "attachment/卢曼卡片盒笔记法介绍.png",
+    "attachment/Pasted image 20221227203945.png",
+    "attachment/卢曼卡片盒笔记发标注.png",
+    "附件/Pasted Image 20231201213220.jpeg",
+    "未命名.canvas",
+    "未命名 1.canvas"
   ]
 }
