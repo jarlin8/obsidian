@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "ca9e168d1f912241",
+            "id": "deee286a68ee17ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,7 +28,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,10 +257,10 @@
       "templates:插入模板": false
     }
   },
-  "active": "663130d3b27c96d7",
+  "active": "deee286a68ee17ec",
   "lastOpenFiles": [
-    "shuoshuo/52th-2023-01-01-zhou0.md",
     "shuoshuo/13th-2024-03-30-zhou6.md",
+    "shuoshuo/52th-2023-01-01-zhou0.md",
     "2.金融/分析师与交易员.md",
     "5.博客文章/fccmnet",
     "5.博客文章/ssggnet",
