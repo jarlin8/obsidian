@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#日记/1st",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,7 +217,7 @@
                   "repelStrength": 10,
                   "linkStrength": 0.5,
                   "linkDistance": 30,
-                  "scale": 1.47698625036824,
+                  "scale": 0.6346286658527585,
                   "close": true
                 }
               }
@@ -244,8 +243,11 @@
       "templates:插入模板": false
     }
   },
-  "active": "c6227c259ea25247",
+  "active": "663130d3b27c96d7",
   "lastOpenFiles": [
+    "2.金融/分析师与交易员.md",
+    "5.博客文章/2.Host评测索引.md",
+    "5.博客文章/1.开户通索引.md",
     "5.博客文章/shuoshuo/52th-2023-01-01-zhou0.md",
     "attachment/卢曼卡片盒笔记发标注.png",
     "attachment/卢曼卡片盒笔记法介绍.png",
@@ -255,10 +257,7 @@
     "attachment/Pasted Image 20231201213220.jpeg",
     "attachment/Pasted Image 20231203103737.jpeg",
     "5.博客文章/shuoshuo/1.日记索引.md",
-    "5.博客文章/1.开户通索引.md",
-    "2.金融/分析师与交易员.md",
     "1.爱好/历史/墨翟(墨子).md",
-    "5.博客文章/2.Host评测索引.md",
     "5.博客文章/3.复利说Funs索引.md",
     "5.博客文章/fendou-posts/1.posts-index.md",
     "3.微信读书/1.微信读书索引.md",
