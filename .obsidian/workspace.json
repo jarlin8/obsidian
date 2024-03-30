@@ -4,15 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "8481198dab64f85a",
+        "id": "9a9fbb9cc3cf119d",
         "type": "tabs",
         "children": [
           {
-            "id": "663130d3b27c96d7",
+            "id": "1b237c03b913f0b0",
             "type": "leaf",
             "state": {
-              "type": "thino_view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5.博客文章/1.开户通索引.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0708102cd8b3a61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.博客文章/2.Host评测索引.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f6aca2bb63a5e5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.博客文章/3.复利说Funs索引.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fb5687578a6a7f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.博客文章/4.FCCM索引.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -60,14 +104,6 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "bc2b0cca7cb54d41",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
@@ -83,13 +119,23 @@
       {
         "id": "b28682efcca4f42a",
         "type": "tabs",
+        "dimension": 48.26589595375722,
         "children": [
+          {
+            "id": "bc59c7e5f5c53572",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
           {
             "id": "d8ef849168c64b77",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5.博客文章/1.开户通索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5.博客文章/1.开户通索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,79 +170,79 @@
             }
           },
           {
-            "id": "e8ccc82e18780059",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
             "id": "57b0077ee4b76d34",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "bc59c7e5f5c53572",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
+      },
+      {
+        "id": "0962e4bb8fdb648a",
+        "type": "tabs",
+        "dimension": 51.73410404624278,
+        "children": [
+          {
+            "id": "e8ccc82e18780059",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5.博客文章/1.开户通索引.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-weread-plugin:同步微信读书笔记": false,
       "obsidian-memos:Thino": false,
+      "remotely-save:Remotely Save": false,
       "graph:查看关系图谱": false,
       "workspaces:管理工作区布局": false,
       "switcher:打开快速切换": false,
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
-      "remotely-save:Remotely Save": false,
       "templater-obsidian:Templater": false,
       "templates:插入模板": false
     }
   },
-  "active": "663130d3b27c96d7",
+  "active": "1b237c03b913f0b0",
   "lastOpenFiles": [
+    "5.博客文章/2.Host评测索引.md",
+    "5.博客文章/1.开户通索引.md",
+    "5.博客文章/3.复利说Funs索引.md",
+    "5.博客文章/shuoshuo/1.日记索引.md",
+    "5.博客文章/fendou-posts/1.posts-index.md",
     "3.微信读书/1.微信读书索引.md",
-    "3.微信读书/明朝那些事.md",
-    "1.爱好/历史/墨翟(墨子).md",
-    "2.金融/1.AllFinance.md",
+    "5.博客文章/wechat-posts/1.公众号文章索引.md",
+    "5.博客文章/shuoshuo/48th-2023-12-03-zhou0.md",
     "1.爱好/英语/1.AllEnglish.md",
+    "1.爱好/历史/墨翟(墨子).md",
+    "5.博客文章/4.FCCM索引.md",
+    "3.微信读书/明朝那些事.md",
+    "2.金融/1.AllFinance.md",
     "1.爱好/历史/1.AllHistory.md",
     "1.爱好/历史/唐朝人物.md",
     "1.爱好/code/2.AllCode.md",
     "1.爱好/code/Github.md",
     "1.爱好/code/Wordpress.md",
-    "5.博客文章/shuoshuo/1.日记索引.md",
     "5.博客文章/fendou-posts/feynman.md",
-    "5.博客文章/fendou-posts/1.posts-index.md",
     "5.博客文章/shuoshuo/1th-2024-01-03-zhou3.md",
     "2.金融/分析师与交易员.md",
     "4.网课笔记/1.网课笔记索引.md",
-    "5.博客文章/1.开户通索引.md",
-    "5.博客文章/3.复利说Funs索引.md",
-    "5.博客文章/2.Host评测索引.md",
-    "5.博客文章/4.FCCM索引.md",
     "5.博客文章/welaowei/atfx-forex-must-read.md",
     "5.博客文章/welaowei/bing-AI-chat-want-to-alive.md",
     "5.博客文章/ssggnet/xauusd-贵金属.md",
     "5.博客文章/ssggnet/bonus-activity.md",
-    "5.博客文章/ssggnet/0-1-advanced.md",
-    "5.博客文章/ssggnet/hard-or-not.md",
     "5.博客文章/fendou-posts/log.txt",
     "attachment/Pasted Image 20231203103737.jpeg",
     "3.微信读书/个人成长",

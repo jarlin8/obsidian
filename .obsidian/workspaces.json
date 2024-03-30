@@ -416,260 +416,6 @@
         "description": ""
       }
     },
-    "DeepL翻译": {
-      "main": {
-        "id": "ac5d607b40113ea1",
-        "type": "split",
-        "children": [
-          {
-            "id": "8481198dab64f85a",
-            "type": "tabs",
-            "dimension": 61.6504854368932,
-            "children": [
-              {
-                "id": "663130d3b27c96d7",
-                "type": "leaf",
-                "state": {
-                  "type": "custom-frames-deepl",
-                  "state": {}
-                }
-              }
-            ]
-          },
-          {
-            "id": "c660e2dac278e66c",
-            "type": "tabs",
-            "dimension": 38.349514563106794,
-            "children": [
-              {
-                "id": "83943b2fdb6666dd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1.爱好/英语/1.AllEnglish.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "b2ba770b2486cb70",
-        "type": "split",
-        "children": [
-          {
-            "id": "de370fb34faaa97b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5986c12b367d10c1",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "4451a254085f28d4",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "",
-                    "matchingCase": true,
-                    "explainSearch": false,
-                    "collapseAll": true,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "6318a938bd30729b",
-                "type": "leaf",
-                "state": {
-                  "type": "starred",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 200,
-        "collapsed": true
-      },
-      "right": {
-        "id": "32e94686b08819ed",
-        "type": "split",
-        "children": [
-          {
-            "id": "b28682efcca4f42a",
-            "type": "tabs",
-            "dimension": 50,
-            "children": [
-              {
-                "id": "d8ef849168c64b77",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "1.爱好/英语/1.AllEnglish.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": false
-                  }
-                }
-              },
-              {
-                "id": "4c4a9efa656e04f6",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "1.爱好/英语/1.AllEnglish.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": false
-                  }
-                }
-              },
-              {
-                "id": "969e048c64412a2d",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  }
-                }
-              },
-              {
-                "id": "e8ccc82e18780059",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "1.爱好/英语/1.AllEnglish.md"
-                  }
-                }
-              },
-              {
-                "id": "57b0077ee4b76d34",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ],
-            "currentTab": 3
-          },
-          {
-            "id": "0e1654d6ac871481",
-            "type": "tabs",
-            "dimension": 50,
-            "children": [
-              {
-                "id": "c6227c259ea25247",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "1.爱好/英语/1.AllEnglish.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": true,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": false,
-                      "colorGroups": [
-                        {
-                          "query": "path:2.金融",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14725458
-                          }
-                        },
-                        {
-                          "query": "path:1.爱好/历史",
-                          "color": {
-                            "a": 1,
-                            "rgb": 11657298
-                          }
-                        },
-                        {
-                          "query": "path:1.爱好/code",
-                          "color": {
-                            "a": 1,
-                            "rgb": 11657298
-                          }
-                        },
-                        {
-                          "query": "path:1.爱好/英语",
-                          "color": {
-                            "a": 1,
-                            "rgb": 5431378
-                          }
-                        }
-                      ],
-                      "collapse-display": false,
-                      "showArrow": true,
-                      "textFadeMultiplier": -2.6,
-                      "nodeSizeMultiplier": 1.30798611111111,
-                      "lineSizeMultiplier": 5,
-                      "collapse-forces": false,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 0.5,
-                      "linkDistance": 30,
-                      "scale": 1.47698625036824,
-                      "close": true
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 278.5,
-        "collapsed": true
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "obsidian-custom-frames:Open DeepL": false,
-          "graph:查看关系图谱": false,
-          "workspaces:管理工作区布局": false,
-          "switcher:打开快速切换": false,
-          "daily-notes:打开/创建今天的日记": false,
-          "command-palette:打开命令面板": false,
-          "random-note:开始漫游笔记": false,
-          "remotely-save:Remotely Save": false,
-          "templater-obsidian:Templater": false,
-          "templates:插入模板": false
-        }
-      },
-      "active": "83943b2fdb6666dd",
-      "workspaces-plus:settings-v1": {}
-    },
     "微信读书": {
       "main": {
         "id": "ac5d607b40113ea1",
@@ -1422,176 +1168,6 @@
       "active": "663130d3b27c96d7",
       "workspaces-plus:settings-v1": {}
     },
-    "MEMOS闪念笔记": {
-      "main": {
-        "id": "ac5d607b40113ea1",
-        "type": "split",
-        "children": [
-          {
-            "id": "8481198dab64f85a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "663130d3b27c96d7",
-                "type": "leaf",
-                "state": {
-                  "type": "memos_view",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "b2ba770b2486cb70",
-        "type": "split",
-        "children": [
-          {
-            "id": "de370fb34faaa97b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5986c12b367d10c1",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "4451a254085f28d4",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "",
-                    "matchingCase": true,
-                    "explainSearch": false,
-                    "collapseAll": true,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "6318a938bd30729b",
-                "type": "leaf",
-                "state": {
-                  "type": "starred",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 200,
-        "collapsed": true
-      },
-      "right": {
-        "id": "32e94686b08819ed",
-        "type": "split",
-        "children": [
-          {
-            "id": "b28682efcca4f42a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d8ef849168c64b77",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": false
-                  }
-                }
-              },
-              {
-                "id": "4c4a9efa656e04f6",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": false
-                  }
-                }
-              },
-              {
-                "id": "969e048c64412a2d",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  }
-                }
-              },
-              {
-                "id": "e8ccc82e18780059",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {}
-                }
-              },
-              {
-                "id": "57b0077ee4b76d34",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              },
-              {
-                "id": "bc59c7e5f5c53572",
-                "type": "leaf",
-                "state": {
-                  "type": "calendar",
-                  "state": {}
-                }
-              }
-            ],
-            "currentTab": 3
-          }
-        ],
-        "direction": "horizontal",
-        "width": 278.5,
-        "collapsed": true
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "canvas:Create new canvas": false,
-          "graph:查看关系图谱": false,
-          "workspaces:管理工作区布局": false,
-          "switcher:打开快速切换": false,
-          "daily-notes:打开/创建今天的日记": false,
-          "command-palette:打开命令面板": false,
-          "remotely-save:Remotely Save": false,
-          "templater-obsidian:Templater": false,
-          "templates:插入模板": false,
-          "obsidian-memos:Memos": false
-        }
-      },
-      "active": "663130d3b27c96d7",
-      "workspaces-plus:settings-v1": {
-        "explorerFoldState": [
-          "/",
-          "4.网课笔记"
-        ]
-      }
-    },
     "微信公众号写作": {
       "main": {
         "id": "ac5d607b40113ea1",
@@ -1883,7 +1459,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "5.博客文章/shuoshuo/1.日记索引.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "backlinks": false,
                     "source": false
                   }
@@ -1896,7 +1472,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "5.博客文章/fendou-posts/1.posts-index.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "backlinks": false,
                     "source": false
                   }
@@ -2061,7 +1637,8 @@
       },
       "left-ribbon": {
         "hiddenItems": {
-          "canvas:Create new canvas": false,
+          "obsidian-weread-plugin:同步微信读书笔记": false,
+          "obsidian-memos:Thino": false,
           "graph:查看关系图谱": false,
           "workspaces:管理工作区布局": false,
           "switcher:打开快速切换": false,
@@ -2069,14 +1646,13 @@
           "command-palette:打开命令面板": false,
           "remotely-save:Remotely Save": false,
           "templater-obsidian:Templater": false,
-          "templates:插入模板": false,
-          "obsidian-memos:Memos": false
+          "templates:插入模板": false
         }
       },
       "active": "24264b0c9cb5bf10",
+      "mtime": "2024-03-30T09:58:37+08:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
-          "/",
           "5.博客文章/shuoshuo"
         ]
       }
@@ -2142,8 +1718,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical"
@@ -2219,7 +1794,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "5.博客文章/3.复利说Funs索引.md",
+                    "file": "5.博客文章/1.开户通索引.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -2236,7 +1811,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "5.博客文章/3.复利说Funs索引.md",
+                    "file": "5.博客文章/1.开户通索引.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -2275,7 +1850,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "5.博客文章/3.复利说Funs索引.md"
+                    "file": "5.博客文章/1.开户通索引.md"
                   }
                 }
               }
@@ -2287,19 +1862,20 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "obsidian-weread-plugin:同步微信读书笔记": false,
+          "obsidian-memos:Thino": false,
           "remotely-save:Remotely Save": false,
-          "obsidian-weread-plugin:Weread": false,
           "graph:查看关系图谱": false,
           "workspaces:管理工作区布局": false,
           "switcher:打开快速切换": false,
           "daily-notes:打开/创建今天的日记": false,
           "command-palette:打开命令面板": false,
           "templater-obsidian:Templater": false,
-          "templates:插入模板": false,
-          "obsidian-memos:Memos": false
+          "templates:插入模板": false
         }
       },
-      "active": "3f6aca2bb63a5e5b",
+      "active": "1b237c03b913f0b0",
+      "mtime": "2024-03-30T09:59:32+08:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "5.博客文章"
@@ -2307,5 +1883,5 @@
       }
     }
   },
-  "active": "MEMOS闪念笔记"
+  "active": "WP网站编辑"
 }
