@@ -15,7 +15,7 @@
   "UseButtonToShowEditor": false,
   "FocusOnEditor": true,
   "OpenDailyMemosWithMemos": true,
-  "HideDoneTasks": false,
+  "HideDoneTasks": true,
   "ShowTaskLabel": true,
   "MobileAndDesktop": "All",
   "OpenMemosAutomatically": true,
@@ -45,7 +45,7 @@
     "MemoDefaultSingleFilePath": "basic.thino.md"
   },
   "MemoDailyTarget": 5,
-  "HeatmapColorScheme": "default",
+  "HeatmapColorScheme": "ice",
   "EnabledHttpApi": false,
   "HttpApiIpType": "localhost",
   "HttpApiPort": "43999",

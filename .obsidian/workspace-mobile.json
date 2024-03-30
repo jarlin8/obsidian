@@ -1,44 +1,18 @@
 {
   "main": {
-    "id": "25520636e27edddc",
+    "id": "5cf74b3f55d7f6d4",
     "type": "split",
     "children": [
       {
-        "id": "e1282e11f9b549d7",
+        "id": "f16b24bb0915ffa4",
         "type": "tabs",
         "children": [
           {
-            "id": "dd1883129e45e35a",
+            "id": "2a42f311e1fc7924",
             "type": "leaf",
             "state": {
-              "type": "thino_view",
+              "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "9a96685477477c7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shuoshuo/13th-2024-03-30-zhou6.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e4a2b90436c271c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shuoshuo/13th-2024-03-30-zhou6.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
             }
           }
         ]
@@ -47,11 +21,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ee63c521db0b84c4",
+    "id": "581233563efa8949",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "1c184c35eeddb400",
+        "id": "6388e4e97b1a1c7c",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -61,7 +35,7 @@
         }
       },
       {
-        "id": "7d5d8ad11bb2a96a",
+        "id": "6d8fbd45bdc6217e",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -76,7 +50,7 @@
         }
       },
       {
-        "id": "17870c4a96b02826",
+        "id": "075ad6c59cb9f0e2",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -87,15 +61,7 @@
         }
       },
       {
-        "id": "4014bb8efbe06696",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
-      },
-      {
-        "id": "bf8bf2b7f5bcb6fe",
+        "id": "948b6576dcb837e9",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -106,16 +72,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "33e1f49fec726d29",
+    "id": "6444f9be9d53bdd4",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "7525f67b2e5a5aba",
+        "id": "e1116533357fca9b",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "shuoshuo/13th-2024-03-30-zhou6.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,29 +92,26 @@
         }
       },
       {
-        "id": "7eb072cf0ca3f138",
+        "id": "6aede3d7d5b49c0e",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "shuoshuo/13th-2024-03-30-zhou6.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "b9210b1e14cc1083",
+        "id": "8e40b722110d4b20",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "shuoshuo/13th-2024-03-30-zhou6.md"
-          }
+          "state": {}
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,60 +121,55 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "templater-obsidian:Templater": false,
-      "remotely-save:Remotely Save": false,
-      "obsidian-memos:Thino": false
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "dd1883129e45e35a",
+  "active": "2a42f311e1fc7924",
   "lastOpenFiles": [
-    "shuoshuo/13th-2024-03-30-zhou6.md",
-    "shuoshuo/1.日记索引.md",
-    "shuoshuo/query.md",
-    "wechat-posts/第一篇文章.md",
-    "wechat-posts/1.公众号文章索引.md",
-    "shuoshuo/2022-last-day.md",
-    "shuoshuo/gingko-tree-fall.md",
-    "shuoshuo/1th-2023-01-08-zhou0.md",
-    "shuoshuo/2th-2023-01-12-zhou4.md",
-    "shuoshuo/car-designed-by-jobs.md",
-    "shuoshuo/1th-2024-01-03-zhou3.md",
-    "shuoshuo/1th-2023-01-03-zhou2.md",
-    "shuoshuo/1th-2023-01-02-zhou1.md",
-    "shuoshuo/48th-2023-12-03-zhou0.md",
-    "shuoshuo/34th-2020-08-20-zhou4.md",
-    "shuoshuo/52th-2023-01-01-zhou0.md",
-    "shuoshuo/48th-2023-12-01-zhou5.md",
-    "shuoshuo/48th-2023-12-02-zhou6.md",
-    "shuoshuo/48th-2023-11-30-zhou4.md",
-    "shuoshuo/52th-2022-12-31-zhou6.md",
-    "shuoshuo",
-    "wechat-posts",
-    "5.博客文章/shuoshuo/1th-2024-01-03-zhou3.md",
-    "5.博客文章/4.FCCM索引.md",
-    "5.博客文章/fccmnet/currency-correlations.md",
-    "5.博客文章/fccmnet/six-tips-to-beat-fear.md",
-    "5.博客文章/3.复利说Funs索引.md",
-    "5.博客文章/funstoutiao/which-is-the-best-gold-foreign-exchange-trading-platform.md",
-    "5.博客文章/fendou-posts/log.txt",
+    "模板/日记模板.md",
+    "模板/博客文章模板.md",
+    "模板/历史人物模板.md",
+    "模板/博客文章新建.md",
+    "2.金融/差价合约.md",
+    "1.爱好/历史/苏洵.md",
+    "1.爱好/历史/管仲.md",
+    "1.爱好/历史/李悝.md",
+    "1.爱好/历史/目夷.md",
+    "1.爱好/历史/朱棣.md",
+    "1.爱好/历史/微仲.md",
+    "模板/历史人物加链接.md",
+    "1.爱好/历史/吕雉.md",
+    "1.爱好/历史/商鞅.md",
+    "1.爱好/历史/刘邦.md",
+    "1.爱好/历史/齐桓公.md",
+    "1.爱好/历史/皇太极.md",
+    "1.爱好/历史/钟南山.md",
+    "1.爱好/历史/微子启.md",
+    "1.爱好/历史/宋襄公.md",
+    "1.爱好/历史/拓跋焘.md",
+    "1.爱好/历史/孔父嘉.md",
+    "1.爱好/历史/周成王.md",
+    "3.微信读书/思考致富.md",
+    "1.爱好/历史/吕不韦.md",
+    "1.爱好/历史/刘秉忠.md",
+    "attachment/avatar图片.jpg",
+    "attachment/卢曼卡片盒笔记发标注.png",
+    "attachment/卢曼卡片盒笔记法介绍.png",
+    "attachment/obsidian插件推荐.jpg",
+    "attachment/Pasted image 20221227203945.png",
+    "attachment/Pasted Image 20231201213220.jpeg",
     "attachment/Pasted Image 20231203103737.jpeg",
+    "attachment/Pasted Image 20231201150236.jpeg",
+    "attachment/Pasted Image 20231201104755.jpeg",
+    "1.爱好/历史",
+    "1.爱好/英语",
+    "1.爱好/code",
     "3.微信读书/历史",
     "3.微信读书/经济理财",
     "3.微信读书/个人成长",
-    "5.博客文章/hostlaowei",
-    "5.博客文章/wechat-posts",
-    "5_Blog/ssggnet",
-    "5_Blog/fccmnet",
-    "attachment/Pasted Image 20231201213220.jpeg",
-    "attachment/Pasted Image 20231201150236.jpeg",
-    "attachment/avatar图片.jpg",
-    "attachment/Pasted Image 20231201104755.jpeg",
-    "attachment/obsidian插件推荐.jpg",
-    "attachment/卢曼卡片盒笔记法介绍.png",
-    "attachment/Pasted image 20221227203945.png",
-    "attachment/卢曼卡片盒笔记发标注.png",
-    "附件/Pasted Image 20231201213220.jpeg",
-    "未命名.canvas",
-    "未命名 1.canvas"
+    "模板",
+    "1.爱好",
+    "2.金融",
+    "3.微信读书"
   ]
 }
