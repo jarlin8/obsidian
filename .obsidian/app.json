@@ -22,7 +22,7 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "attachment",
   "showFrontmatter": true,
-  "spellcheck": true,
+  "spellcheck": false,
   "showInlineTitle": false,
   "promptDelete": false,
   "pdfExportSettings": {
