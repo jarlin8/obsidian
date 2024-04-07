@@ -2,5 +2,5 @@
   "folder": "shuoshuo",
   "template": "模板/日记模板",
   "format": "w[th-]YYYY-MM-DD-[zhou]d",
-  "autorun": true
+  "autorun": false
 }

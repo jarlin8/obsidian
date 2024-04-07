@@ -1,4 +1,5 @@
 {
+  "FirstLoaded": false,
   "StartDate": "Sunday",
   "InsertAfter": "# Journal",
   "UserName": "MEMOS 😉",
@@ -9,6 +10,7 @@
   "ShareFooterStart": "{ThinoNum} Memos {UsedDay} Day",
   "ShareFooterEnd": "✍️ by {UserName}",
   "DefaultPrefix": "List",
+  "DefaultTimePrefix": "HH:mm",
   "UseDailyOrPeriodic": "Daily",
   "InsertDateFormat": "Tasks",
   "DefaultEditorLocation": "Top",
@@ -89,8 +91,19 @@
   "addTagWithNewline": false,
   "chatViewStyle": "default",
   "MomentsBackgroundImage": "https://images.pexels.com/photos/531767/pexels-photo-531767.jpeg",
-  "MomentsIcon": "https://images.pexels.com/photos/256514/pexels-photo-256514.jpeg",
-  "MomentsQuote": "Share your thino with the world",
+  "MomentsIcon": "https://testingcf.jsdelivr.net/gh/jarlin8/OSS@main/Gavatar/girl-avatar/5.png",
+  "MomentsQuote": "拥抱未来！",
   "DefaultThemeForThino": "classic",
-  "LastUpdatedVersion": "2.3.35"
+  "LastUpdatedVersion": "2.4.10",
+  "ShareToThinoWithText": false,
+  "ShareToThinoWithTextAppend": "",
+  "ShareToThinoWithTextPrepend": "",
+  "ShareToThinoWithTextNewline": "none",
+  "hidePinnedGroup": false,
+  "DifferentInsertTarget": false,
+  "InsertAfterForTask": "",
+  "ProcessContentTarget": "custom",
+  "InsertType": "custom",
+  "ShareAppendType": "preset",
+  "SharePrependType": "preset"
 }
