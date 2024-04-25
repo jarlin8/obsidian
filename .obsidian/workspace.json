@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eae77d83ffad735c",
+            "id": "663130d3b27c96d7",
             "type": "leaf",
             "state": {
               "type": "thino_view",
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shuoshuo/52th-2023-01-01-zhou0.md",
+                "file": "模板/日记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shuoshuo/52th-2023-01-01-zhou0.md",
+                "file": "模板/日记模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shuoshuo/52th-2023-01-01-zhou0.md"
+                "file": "模板/日记模板.md"
               }
             }
           },
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "shuoshuo/52th-2023-01-01-zhou0.md",
+                "file": "模板/日记模板.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +217,7 @@
                   "repelStrength": 10,
                   "linkStrength": 0.5,
                   "linkDistance": 30,
-                  "scale": 2.889265165370629,
+                  "scale": 0.6346286658527585,
                   "close": true
                 }
               }
@@ -232,18 +232,18 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-weread-plugin:同步微信读书笔记": false,
+      "obsidian-memos:Thino": false,
       "graph:查看关系图谱": false,
       "workspaces:管理工作区布局": false,
       "switcher:打开快速切换": false,
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
-      "templater-obsidian:Templater": false,
-      "templates:插入模板": false,
       "remotely-save:Remotely Save": false,
-      "obsidian-memos:Thino": false
+      "templater-obsidian:Templater": false,
+      "templates:插入模板": false
     }
   },
-  "active": "eae77d83ffad735c",
+  "active": "663130d3b27c96d7",
   "lastOpenFiles": [
     "shuoshuo/14th-2024-04-07-zhou0.md",
     "shuoshuo/52th-2023-01-01-zhou0.md",

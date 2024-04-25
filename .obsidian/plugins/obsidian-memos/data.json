@@ -19,6 +19,7 @@
   "OpenDailyMemosWithMemos": true,
   "HideDoneTasks": true,
   "ShowTaskLabel": true,
+  "AppendDateWhenTaskDone": false,
   "MobileAndDesktop": "All",
   "OpenMemosAutomatically": true,
   "ShowTime": true,
@@ -32,6 +33,8 @@
   "SetCustomMemoFooter": false,
   "DefaultLightBackgroundImage": "",
   "DefaultDarkBackgroundImage": "",
+  "DefaultLightBackgroundImageForClean": "",
+  "DefaultDarkBackgroundImageForClean": "",
   "DefaultMemoComposition": "{TIME} {CONTENT}",
   "CommentOnMemos": false,
   "CommentsInOriginalNotes": false,
@@ -58,18 +61,6 @@
       "value": "DAILY",
       "target": "ProcessEntriesBelow",
       "insert": "InsertAfter"
-    },
-    {
-      "value": "CANVAS",
-      "target": "MemoDefaultCanvasPath"
-    },
-    {
-      "value": "MULTI",
-      "target": "MemoDefaultMultiFilePath"
-    },
-    {
-      "value": "FILE",
-      "target": "MemoDefaultSingleFilePath"
     }
   ],
   "DeleteThinoDirectly": false,
@@ -94,7 +85,7 @@
   "MomentsIcon": "https://testingcf.jsdelivr.net/gh/jarlin8/OSS@main/Gavatar/girl-avatar/5.png",
   "MomentsQuote": "拥抱未来！",
   "DefaultThemeForThino": "classic",
-  "LastUpdatedVersion": "2.4.10",
+  "LastUpdatedVersion": "2.4.33",
   "ShareToThinoWithText": false,
   "ShareToThinoWithTextAppend": "",
   "ShareToThinoWithTextPrepend": "",
@@ -105,5 +96,18 @@
   "ProcessContentTarget": "custom",
   "InsertType": "custom",
   "ShareAppendType": "preset",
-  "SharePrependType": "preset"
+  "SharePrependType": "preset",
+  "SetFileNameAfterCreate": false,
+  "TagForFileTypeFiles": "thino/file",
+  "TagForMultiTypeFiles": "thino/multi",
+  "MinHeightForShare": "200px",
+  "ThinoMaxHeight": 0,
+  "ThinoCollapsedHeight": 100,
+  "OptimizeForCallout": true,
+  "AppendOrPrependTextViaServer": false,
+  "AppendViaServer": "",
+  "PrependViaServer": "",
+  "WithNewLineViaServer": "none",
+  "SupportSelectOtherView": false,
+  "WaitTemplaterToFinishParse": false
 }
