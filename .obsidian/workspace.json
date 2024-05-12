@@ -4,15 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "8481198dab64f85a",
+        "id": "e5e6af9c123347ad",
         "type": "tabs",
+        "dimension": 68.77022653721683,
         "children": [
           {
-            "id": "663130d3b27c96d7",
+            "id": "7c91f7a72c16bb54",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-pixabay图片",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7e7ae7843297249",
             "type": "leaf",
             "state": {
               "type": "thino_view",
               "state": {}
+            }
+          },
+          {
+            "id": "8ae44f676507393e",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google",
+              "state": {}
+            }
+          },
+          {
+            "id": "7768e781f323e168",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-md-微信公众号",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "bfcf015e254d33b9",
+        "type": "tabs",
+        "dimension": 31.22977346278317,
+        "children": [
+          {
+            "id": "a8d930814a4b73fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wechat-posts/1.公众号文章索引.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -62,7 +108,7 @@
             }
           },
           {
-            "id": "6a89a80725b4060e",
+            "id": "4c97bafc77783197",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -91,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模板/日记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +153,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模板/日记模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,9 +174,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "模板/日记模板.md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,7 +186,7 @@
             }
           },
           {
-            "id": "dce3c04a5db6ac5f",
+            "id": "0a12583f24cd7d14",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -152,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "0e1654d6ac871481",
@@ -165,7 +207,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "模板/日记模板.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +258,7 @@
                   "repelStrength": 10,
                   "linkStrength": 0.5,
                   "linkDistance": 30,
-                  "scale": 0.6346286658527585,
+                  "scale": 1.47698625036824,
                   "close": true
                 }
               }
@@ -227,7 +268,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,11 +285,12 @@
       "templates:插入模板": false
     }
   },
-  "active": "663130d3b27c96d7",
+  "active": "7768e781f323e168",
   "lastOpenFiles": [
+    "模板/日记模板.md",
+    "wechat-posts/1.公众号文章索引.md",
     "shuoshuo/14th-2024-04-07-zhou0.md",
     "shuoshuo/52th-2023-01-01-zhou0.md",
-    "模板/日记模板.md",
     "模板/博客文章模板.md",
     "模板/博客文章新建.md",
     "shuoshuo/13th-2024-03-30-zhou6.md",
@@ -263,7 +306,6 @@
     "5.博客文章/shuoshuo",
     "5.博客文章/funstoutiao",
     "5.博客文章",
-    "wechat-posts/1.公众号文章索引.md",
     "1.爱好/英语/1.AllEnglish.md",
     "shuoshuo/query.md",
     "shuoshuo/48th-2023-12-03-zhou0.md",
