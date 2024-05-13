@@ -17,14 +17,6 @@
             }
           },
           {
-            "id": "c7e7ae7843297249",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {}
-            }
-          },
-          {
             "id": "8ae44f676507393e",
             "type": "leaf",
             "state": {
@@ -41,7 +33,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "bfcf015e254d33b9",
@@ -108,7 +100,7 @@
             }
           },
           {
-            "id": "4c97bafc77783197",
+            "id": "5340a1a55e6adb72",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -137,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "wechat-posts/1.公众号文章索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "wechat-posts/1.公众号文章索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "wechat-posts/1.公众号文章索引.md"
+              }
             }
           },
           {
@@ -186,7 +182,7 @@
             }
           },
           {
-            "id": "0a12583f24cd7d14",
+            "id": "0a4313d3870d9e45",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -207,6 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "wechat-posts/1.公众号文章索引.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -285,7 +282,7 @@
       "templates:插入模板": false
     }
   },
-  "active": "7768e781f323e168",
+  "active": "a8d930814a4b73fc",
   "lastOpenFiles": [
     "模板/日记模板.md",
     "wechat-posts/1.公众号文章索引.md",
