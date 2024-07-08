@@ -31,9 +31,17 @@
               "type": "custom-frames-md-微信公众号",
               "state": {}
             }
+          },
+          {
+            "id": "843b7de793e98db8",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "bfcf015e254d33b9",
@@ -129,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "模板/日记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "模板/日记模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "模板/日记模板.md"
+              }
             }
           },
           {
@@ -199,6 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "模板/日记模板.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -277,7 +290,7 @@
       "templates:插入模板": false
     }
   },
-  "active": "7768e781f323e168",
+  "active": "843b7de793e98db8",
   "lastOpenFiles": [
     "wechat-posts/1.公众号文章索引.md",
     "模板/日记模板.md",
