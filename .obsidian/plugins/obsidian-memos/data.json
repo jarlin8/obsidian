@@ -85,7 +85,7 @@
   "MomentsIcon": "https://testingcf.jsdelivr.net/gh/jarlin8/OSS@main/Gavatar/girl-avatar/5.png",
   "MomentsQuote": "拥抱未来！",
   "DefaultThemeForThino": "classic",
-  "LastUpdatedVersion": "2.4.33",
+  "LastUpdatedVersion": "2.4.47",
   "ShareToThinoWithText": false,
   "ShareToThinoWithTextAppend": "",
   "ShareToThinoWithTextPrepend": "",
@@ -109,5 +109,10 @@
   "PrependViaServer": "",
   "WithNewLineViaServer": "none",
   "SupportSelectOtherView": false,
-  "WaitTemplaterToFinishParse": false
+  "WaitTemplaterToFinishParse": false,
+  "NavbarButton": false,
+  "AlwaysShowStatusText": false,
+  "FilterByMetadata": false,
+  "ShowSourcePath": false,
+  "ShowUpdateMessage": true
 }

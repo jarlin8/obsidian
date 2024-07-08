@@ -4,61 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e5e6af9c123347ad",
+        "id": "f3d6fad1a9fa2ce0",
         "type": "tabs",
-        "dimension": 68.77022653721683,
         "children": [
           {
-            "id": "7c91f7a72c16bb54",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-pixabay图片",
-              "state": {}
-            }
-          },
-          {
-            "id": "8ae44f676507393e",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-google",
-              "state": {}
-            }
-          },
-          {
-            "id": "7768e781f323e168",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-md-微信公众号",
-              "state": {}
-            }
-          },
-          {
-            "id": "843b7de793e98db8",
+            "id": "98d8d199689d5503",
             "type": "leaf",
             "state": {
               "type": "thino_view",
               "state": {}
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "bfcf015e254d33b9",
-        "type": "tabs",
-        "dimension": 31.22977346278317,
-        "children": [
-          {
-            "id": "a8d930814a4b73fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wechat-posts/1.公众号文章索引.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
             }
           }
         ]
@@ -108,7 +62,7 @@
             }
           },
           {
-            "id": "5340a1a55e6adb72",
+            "id": "6a89a80725b4060e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -190,7 +144,7 @@
             }
           },
           {
-            "id": "0a4313d3870d9e45",
+            "id": "dce3c04a5db6ac5f",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -198,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "0e1654d6ac871481",
@@ -263,7 +217,7 @@
                   "repelStrength": 10,
                   "linkStrength": 0.5,
                   "linkDistance": 30,
-                  "scale": 1.47698625036824,
+                  "scale": 0.6346286658527585,
                   "close": true
                 }
               }
@@ -273,8 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,10 +243,10 @@
       "templates:插入模板": false
     }
   },
-  "active": "843b7de793e98db8",
+  "active": "98d8d199689d5503",
   "lastOpenFiles": [
-    "wechat-posts/1.公众号文章索引.md",
     "模板/日记模板.md",
+    "wechat-posts/1.公众号文章索引.md",
     "shuoshuo/14th-2024-04-07-zhou0.md",
     "shuoshuo/52th-2023-01-01-zhou0.md",
     "模板/博客文章模板.md",
