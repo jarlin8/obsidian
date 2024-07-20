@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f3d6fad1a9fa2ce0",
+        "id": "c15280f42dead28c",
         "type": "tabs",
         "children": [
           {
-            "id": "98d8d199689d5503",
+            "id": "de88eaff50552e9e",
             "type": "leaf",
             "state": {
               "type": "thino_view",
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模板/历史人物模板.md",
+                "file": "模板/日记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模板/历史人物模板.md",
+                "file": "模板/日记模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模板/历史人物模板.md"
+                "file": "模板/日记模板.md"
               }
             }
           },
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "模板/历史人物模板.md",
+                "file": "模板/日记模板.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,6 +231,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "flashcards-obsidian:Generate flashcards": false,
       "obsidian-weread-plugin:同步微信读书笔记": false,
       "obsidian-memos:Thino": false,
       "graph:查看关系图谱": false,
@@ -243,7 +244,7 @@
       "templates:插入模板": false
     }
   },
-  "active": "98d8d199689d5503",
+  "active": "de88eaff50552e9e",
   "lastOpenFiles": [
     "模板/日记模板.md",
     "wechat-posts/1.公众号文章索引.md",
