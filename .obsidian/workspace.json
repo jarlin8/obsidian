@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模板/日记模板.md",
+                "file": "模板/历史人物模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模板/日记模板.md",
+                "file": "模板/历史人物模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模板/日记模板.md"
+                "file": "模板/历史人物模板.md"
               }
             }
           },
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "模板/日记模板.md",
+                "file": "模板/历史人物模板.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +217,7 @@
                   "repelStrength": 10,
                   "linkStrength": 0.5,
                   "linkDistance": 30,
-                  "scale": 0.6346286658527585,
+                  "scale": 3.437424908699232,
                   "close": true
                 }
               }
