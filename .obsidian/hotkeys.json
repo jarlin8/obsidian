@@ -131,14 +131,5 @@
       ],
       "key": "C"
     }
-  ],
-  "obsidian-git:fetch": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "D"
-    }
   ]
 }

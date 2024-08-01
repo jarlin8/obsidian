@@ -4,16 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "c0f8349d798b04f3",
+        "id": "8f0e3ac7f5c75a41",
         "type": "tabs",
+        "dimension": 50.89108910891089,
         "children": [
           {
-            "id": "08034416c4f3f117",
+            "id": "fc4879933fde0bdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.金融/分析师与交易员.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "group": "91c9ccecb15c05e1"
+          },
+          {
+            "id": "f75f124f4a5227cb",
             "type": "leaf",
             "state": {
               "type": "thino_view",
               "state": {}
             }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d9754b5a44becf6a",
+        "type": "tabs",
+        "dimension": 49.10891089108911,
+        "children": [
+          {
+            "id": "9a5104254576d384",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.金融/分析师与交易员.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "group": "91c9ccecb15c05e1"
           }
         ]
       }
@@ -62,7 +99,7 @@
             }
           },
           {
-            "id": "6a89a80725b4060e",
+            "id": "f151ae5924c3c9c3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 225.5,
     "collapsed": true
   },
   "right": {
@@ -83,7 +120,6 @@
       {
         "id": "b28682efcca4f42a",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "d8ef849168c64b77",
@@ -91,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模板/历史人物模板.md",
+                "file": "模板/日记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模板/历史人物模板.md",
+                "file": "模板/日记模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模板/历史人物模板.md"
+                "file": "模板/日记模板.md"
               }
             }
           },
@@ -144,7 +180,7 @@
             }
           },
           {
-            "id": "dce3c04a5db6ac5f",
+            "id": "6892dc2e45973598",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -152,82 +188,12 @@
             }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "0e1654d6ac871481",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "c6227c259ea25247",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "模板/历史人物模板.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": true,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "path:2.金融",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14725458
-                      }
-                    },
-                    {
-                      "query": "path:1.爱好/历史",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11657298
-                      }
-                    },
-                    {
-                      "query": "path:1.爱好/code",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11657298
-                      }
-                    },
-                    {
-                      "query": "path:1.爱好/英语",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5431378
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": -2.6,
-                  "nodeSizeMultiplier": 1.30798611111111,
-                  "lineSizeMultiplier": 5,
-                  "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 0.5,
-                  "linkDistance": 30,
-                  "scale": 0.02163179785264972,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 313.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,8 +210,10 @@
       "templates:插入模板": false
     }
   },
-  "active": "08034416c4f3f117",
+  "active": "f75f124f4a5227cb",
   "lastOpenFiles": [
+    "2.金融/分析师与交易员.md",
+    "模板/历史人物模板.md",
     "模板/日记模板.md",
     "shuoshuo/1.日记索引.md",
     "shuoshuo/52th-2023-01-01-zhou0.md",
@@ -253,7 +221,6 @@
     "shuoshuo/14th-2024-04-07-zhou0.md",
     "shuoshuo/30th-2024-07-26-zhou5.md",
     "wechat-posts/1.公众号文章索引.md",
-    "2.金融/分析师与交易员.md",
     "模板/博客文章模板.md",
     "模板/博客文章新建.md",
     "shuoshuo/gingko-tree-fall.md",
@@ -276,7 +243,6 @@
     "shuoshuo/2th-2023-01-12-zhou4.md",
     "shuoshuo/1th-2023-01-08-zhou0.md",
     "shuoshuo/1th-2023-01-03-zhou2.md",
-    "shuoshuo/1th-2023-01-02-zhou1.md",
     "shuoshuo",
     "wechat-posts",
     "attachment/卢曼卡片盒笔记发标注.png",
