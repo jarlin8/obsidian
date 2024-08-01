@@ -4,35 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "8481198dab64f85a",
+        "id": "c0f8349d798b04f3",
         "type": "tabs",
         "children": [
           {
-            "id": "24264b0c9cb5bf10",
+            "id": "08034416c4f3f117",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shuoshuo/1.日记索引.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e713b633ade4d960",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-readhub",
-              "state": {}
-            }
-          },
-          {
-            "id": "3ad1e465ed73436e",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-今日热点",
+              "type": "thino_view",
               "state": {}
             }
           }
@@ -81,6 +60,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "6a89a80725b4060e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -96,23 +83,15 @@
       {
         "id": "b28682efcca4f42a",
         "type": "tabs",
-        "dimension": 52.312138728323696,
+        "dimension": 50,
         "children": [
-          {
-            "id": "bc59c7e5f5c53572",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
           {
             "id": "d8ef849168c64b77",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shuoshuo/1.日记索引.md",
+                "file": "模板/历史人物模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shuoshuo/1.日记索引.md",
+                "file": "模板/历史人物模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,27 +126,100 @@
             }
           },
           {
+            "id": "e8ccc82e18780059",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "模板/历史人物模板.md"
+              }
+            }
+          },
+          {
             "id": "57b0077ee4b76d34",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "0962e4bb8fdb648a",
-        "type": "tabs",
-        "dimension": 47.687861271676304,
-        "children": [
+          },
           {
-            "id": "e8ccc82e18780059",
+            "id": "dce3c04a5db6ac5f",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "0e1654d6ac871481",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "c6227c259ea25247",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
               "state": {
-                "file": "shuoshuo/1.日记索引.md"
+                "file": "模板/历史人物模板.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:2.金融",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    },
+                    {
+                      "query": "path:1.爱好/历史",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11657298
+                      }
+                    },
+                    {
+                      "query": "path:1.爱好/code",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11657298
+                      }
+                    },
+                    {
+                      "query": "path:1.爱好/英语",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431378
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -2.6,
+                  "nodeSizeMultiplier": 1.30798611111111,
+                  "lineSizeMultiplier": 5,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 0.5,
+                  "linkDistance": 30,
+                  "scale": 0.6346286658527585,
+                  "close": true
+                }
               }
             }
           }
@@ -175,7 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,8 +244,9 @@
       "templates:插入模板": false
     }
   },
-  "active": "24264b0c9cb5bf10",
+  "active": "08034416c4f3f117",
   "lastOpenFiles": [
+    "模板/日记模板.md",
     "shuoshuo/1.日记索引.md",
     "shuoshuo/52th-2023-01-01-zhou0.md",
     "shuoshuo/13th-2024-03-30-zhou6.md",
@@ -201,7 +254,6 @@
     "shuoshuo/30th-2024-07-26-zhou5.md",
     "wechat-posts/1.公众号文章索引.md",
     "2.金融/分析师与交易员.md",
-    "模板/日记模板.md",
     "模板/博客文章模板.md",
     "模板/博客文章新建.md",
     "shuoshuo/gingko-tree-fall.md",

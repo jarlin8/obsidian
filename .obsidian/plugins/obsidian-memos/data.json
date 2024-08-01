@@ -85,7 +85,7 @@
   "MomentsIcon": "https://testingcf.jsdelivr.net/gh/jarlin8/OSS@main/Gavatar/girl-avatar/5.png",
   "MomentsQuote": "拥抱未来！",
   "DefaultThemeForThino": "classic",
-  "LastUpdatedVersion": "2.4.49",
+  "LastUpdatedVersion": "2.4.50",
   "ShareToThinoWithText": false,
   "ShareToThinoWithTextAppend": "",
   "ShareToThinoWithTextPrepend": "",
@@ -114,5 +114,6 @@
   "AlwaysShowStatusText": false,
   "FilterByMetadata": false,
   "ShowSourcePath": false,
-  "ShowUpdateMessage": true
+  "ShowUpdateMessage": true,
+  "SyncManually": false
 }
