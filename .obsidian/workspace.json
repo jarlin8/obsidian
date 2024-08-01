@@ -4,53 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8f0e3ac7f5c75a41",
+        "id": "8481198dab64f85a",
         "type": "tabs",
-        "dimension": 50.89108910891089,
         "children": [
           {
-            "id": "fc4879933fde0bdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.金融/分析师与交易员.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            },
-            "group": "91c9ccecb15c05e1"
-          },
-          {
-            "id": "f75f124f4a5227cb",
+            "id": "663130d3b27c96d7",
             "type": "leaf",
             "state": {
               "type": "thino_view",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "d9754b5a44becf6a",
-        "type": "tabs",
-        "dimension": 49.10891089108911,
-        "children": [
-          {
-            "id": "9a5104254576d384",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.金融/分析师与交易员.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            },
-            "group": "91c9ccecb15c05e1"
           }
         ]
       }
@@ -99,7 +62,7 @@
             }
           },
           {
-            "id": "f151ae5924c3c9c3",
+            "id": "6a89a80725b4060e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -120,6 +83,7 @@
       {
         "id": "b28682efcca4f42a",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "d8ef849168c64b77",
@@ -180,7 +144,7 @@
             }
           },
           {
-            "id": "6892dc2e45973598",
+            "id": "dce3c04a5db6ac5f",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -188,12 +152,82 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
+      },
+      {
+        "id": "0e1654d6ac871481",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "c6227c259ea25247",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "模板/日记模板.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:2.金融",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    },
+                    {
+                      "query": "path:1.爱好/历史",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11657298
+                      }
+                    },
+                    {
+                      "query": "path:1.爱好/code",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11657298
+                      }
+                    },
+                    {
+                      "query": "path:1.爱好/英语",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431378
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -2.6,
+                  "nodeSizeMultiplier": 1.30798611111111,
+                  "lineSizeMultiplier": 5,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 0.5,
+                  "linkDistance": 30,
+                  "scale": 0.6346286658527585,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 313.5,
-    "collapsed": true
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,11 +244,11 @@
       "templates:插入模板": false
     }
   },
-  "active": "f75f124f4a5227cb",
+  "active": "663130d3b27c96d7",
   "lastOpenFiles": [
+    "模板/日记模板.md",
     "2.金融/分析师与交易员.md",
     "模板/历史人物模板.md",
-    "模板/日记模板.md",
     "shuoshuo/1.日记索引.md",
     "shuoshuo/52th-2023-01-01-zhou0.md",
     "shuoshuo/13th-2024-03-30-zhou6.md",
