@@ -4,36 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e5e6af9c123347ad",
+        "id": "8481198dab64f85a",
         "type": "tabs",
-        "dimension": 70.9546925566343,
         "children": [
           {
-            "id": "b589d5d074c028b5",
+            "id": "663130d3b27c96d7",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-微信读书",
+              "type": "thino_view",
               "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "bfcf015e254d33b9",
-        "type": "tabs",
-        "dimension": 29.045307443365697,
-        "children": [
-          {
-            "id": "a8d930814a4b73fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.微信读书/1.微信读书索引.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
             }
           }
         ]
@@ -81,6 +60,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "6a89a80725b4060e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -104,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.微信读书/1.微信读书索引.md",
+                "file": "模板/日记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.微信读书/1.微信读书索引.md",
+                "file": "模板/日记模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.微信读书/1.微信读书索引.md"
+                "file": "模板/日记模板.md"
               }
             }
           },
@@ -155,9 +142,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "dce3c04a5db6ac5f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "0e1654d6ac871481",
@@ -170,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3.微信读书/1.微信读书索引.md",
+                "file": "模板/日记模板.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,7 +217,7 @@
                   "repelStrength": 10,
                   "linkStrength": 0.5,
                   "linkDistance": 30,
-                  "scale": 1.47698625036824,
+                  "scale": 0.6346286658527585,
                   "close": true
                 }
               }
@@ -232,8 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,15 +244,16 @@
       "templates:插入模板": false
     }
   },
-  "active": "a8d930814a4b73fc",
+  "active": "663130d3b27c96d7",
   "lastOpenFiles": [
+    "3.微信读书/1.微信读书索引.md",
+    "模板/日记模板.md",
     "wechat-posts/1.公众号文章索引.md",
     "1.爱好/历史/1.AllHistory.md",
     "1.爱好/历史/隋朝人物.md",
     "1.爱好/英语/1.AllEnglish.md",
     "shuoshuo/1.日记索引.md",
     "shuoshuo/31th-2024-08-02-zhou5.md",
-    "模板/日记模板.md",
     "2.金融/分析师与交易员.md",
     "模板/历史人物模板.md",
     "shuoshuo/52th-2023-01-01-zhou0.md",
@@ -282,7 +277,6 @@
     "shuoshuo/48th-2023-12-02-zhou6.md",
     "shuoshuo/48th-2023-12-01-zhou5.md",
     "shuoshuo/48th-2023-11-30-zhou4.md",
-    "shuoshuo/34th-2020-08-20-zhou4.md",
     "shuoshuo",
     "wechat-posts",
     "attachment/卢曼卡片盒笔记发标注.png",
