@@ -14,8 +14,22 @@
               "type": "thino_view",
               "state": {}
             }
+          },
+          {
+            "id": "1f0d3d5eec5bc1ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shuoshuo/31th-2024-08-02-zhou5.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模板/日记模板.md",
+                "file": "shuoshuo/31th-2024-08-02-zhou5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模板/日记模板.md",
+                "file": "shuoshuo/31th-2024-08-02-zhou5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模板/日记模板.md"
+                "file": "shuoshuo/31th-2024-08-02-zhou5.md"
               }
             }
           },
@@ -165,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "模板/日记模板.md",
+                "file": "shuoshuo/31th-2024-08-02-zhou5.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -244,10 +258,10 @@
       "templates:插入模板": false
     }
   },
-  "active": "663130d3b27c96d7",
+  "active": "1f0d3d5eec5bc1ed",
   "lastOpenFiles": [
-    "shuoshuo/31th-2024-08-02-zhou5.md",
     "模板/日记模板.md",
+    "shuoshuo/31th-2024-08-02-zhou5.md",
     "2.金融/分析师与交易员.md",
     "模板/历史人物模板.md",
     "shuoshuo/1.日记索引.md",
