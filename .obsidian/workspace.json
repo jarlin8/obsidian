@@ -231,6 +231,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-wordpress:发布到 WordPress": false,
       "flashcards-obsidian:Generate flashcards": false,
       "obsidian-weread-plugin:同步微信读书笔记": false,
       "obsidian-memos:Thino": false,
