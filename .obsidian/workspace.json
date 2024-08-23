@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8481198dab64f85a",
+        "id": "cd949077343d3229",
         "type": "tabs",
         "children": [
           {
-            "id": "663130d3b27c96d7",
+            "id": "aad0285f9c022a91",
             "type": "leaf",
             "state": {
               "type": "thino_view",
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模板/日记模板.md",
+                "file": "模板/历史人物模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模板/日记模板.md",
+                "file": "模板/历史人物模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模板/日记模板.md"
+                "file": "模板/历史人物模板.md"
               }
             }
           },
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "模板/日记模板.md",
+                "file": "模板/历史人物模板.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,7 +231,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-wordpress:发布到 WordPress": false,
       "flashcards-obsidian:Generate flashcards": false,
       "obsidian-weread-plugin:同步微信读书笔记": false,
       "obsidian-memos:Thino": false,
@@ -245,7 +244,7 @@
       "templates:插入模板": false
     }
   },
-  "active": "663130d3b27c96d7",
+  "active": "aad0285f9c022a91",
   "lastOpenFiles": [
     "模板/日记模板.md",
     "2.金融/分析师与交易员.md",
