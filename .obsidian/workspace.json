@@ -4,18 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "cd949077343d3229",
+        "id": "cf767fa65a432f35",
         "type": "tabs",
         "children": [
           {
-            "id": "aad0285f9c022a91",
+            "id": "9bde91856691a2ec",
             "type": "leaf",
             "state": {
               "type": "thino_view",
-              "state": {}
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
+          },
+          {
+            "id": "5d6ad63a069cb986",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shuoshuo/1th-2023-01-03-zhou2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1th-2023-01-03-zhou2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -34,8 +61,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -50,7 +80,9 @@
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -58,7 +90,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -66,15 +100,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "32e94686b08819ed",
@@ -91,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模板/日记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +133,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
             }
           },
           {
@@ -108,10 +144,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模板/日记模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "出链"
             }
           },
           {
@@ -121,8 +158,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -131,8 +172,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模板/日记模板.md"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           },
           {
@@ -140,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           },
           {
@@ -148,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -165,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "模板/日记模板.md",
+                "file": "shuoshuo/1th-2023-01-03-zhou2.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,7 +269,9 @@
                   "scale": 0.6346286658527585,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "1th-2023-01-03-zhou2 的关系图"
             }
           }
         ]
@@ -231,27 +282,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "flashcards-obsidian:Generate flashcards": false,
-      "obsidian-weread-plugin:同步微信读书笔记": false,
-      "obsidian-memos:Thino": false,
+      "bases:创建新数据库": false,
       "graph:查看关系图谱": false,
       "workspaces:管理工作区布局": false,
       "switcher:打开快速切换": false,
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
-      "remotely-save:Remotely Save": false,
+      "templates:插入模板": false,
+      "obsidian-memos:Thino": false,
       "templater-obsidian:Templater": false,
-      "templates:插入模板": false
+      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "remotely-save:Remotely Save": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aad0285f9c022a91",
+  "active": "5d6ad63a069cb986",
   "lastOpenFiles": [
+    "shuoshuo/1th-2023-01-02-zhou1.md",
+    "shuoshuo/car-designed-by-jobs.md",
+    "shuoshuo/1.日记索引.md",
     "模板/日记模板.md",
     "2.金融/分析师与交易员.md",
     "shuoshuo/31th-2024-08-02-zhou5.md",
     "shuoshuo/1th-2023-01-03-zhou2.md",
     "shuoshuo/13th-2024-03-30-zhou6.md",
-    "shuoshuo/1.日记索引.md",
     "3.微信读书/1.微信读书索引.md",
     "wechat-posts/1.公众号文章索引.md",
     "1.爱好/历史/1.AllHistory.md",
@@ -264,7 +319,6 @@
     "模板/博客文章模板.md",
     "模板/博客文章新建.md",
     "shuoshuo/gingko-tree-fall.md",
-    "shuoshuo/car-designed-by-jobs.md",
     "shuoshuo/2022-last-day.md",
     "shuoshuo/1th-2024-01-03-zhou3.md",
     "shuoshuo/52th-2022-12-31-zhou6.md",
@@ -276,7 +330,6 @@
     "shuoshuo/query.md",
     "shuoshuo/48th-2023-12-03-zhou0.md",
     "shuoshuo/48th-2023-12-02-zhou6.md",
-    "shuoshuo/48th-2023-12-01-zhou5.md",
     "shuoshuo",
     "wechat-posts",
     "attachment/卢曼卡片盒笔记发标注.png",

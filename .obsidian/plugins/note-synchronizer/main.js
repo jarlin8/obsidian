@@ -54358,3 +54358,5 @@ var AnkiSynchronizer = class extends import_obsidian7.Plugin {
     });
   }
 };
+
+/* nosourcemap */
