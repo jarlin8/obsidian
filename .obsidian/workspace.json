@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9bde91856691a2ec",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
-          },
-          {
             "id": "5d6ad63a069cb986",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shuoshuo/1th-2023-01-03-zhou2.md",
+                "file": "shuoshuo/2th-2023-01-12-zhou4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1th-2023-01-03-zhou2"
+              "title": "2th-2023-01-12-zhou4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "shuoshuo/1th-2023-01-03-zhou2.md",
+                "file": "shuoshuo/2th-2023-01-12-zhou4.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -266,12 +255,12 @@
                   "repelStrength": 10,
                   "linkStrength": 0.5,
                   "linkDistance": 30,
-                  "scale": 0.6346286658527585,
+                  "scale": 0.32287487668189857,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "1th-2023-01-03-zhou2 的关系图"
+              "title": "2th-2023-01-12-zhou4 的关系图"
             }
           }
         ]
@@ -299,13 +288,16 @@
   },
   "active": "5d6ad63a069cb986",
   "lastOpenFiles": [
+    "模板/日记模板.md",
+    "shuoshuo/2th-2023-01-12-zhou4.md",
+    "shuoshuo/34th-2020-08-20-zhou4.md",
+    "shuoshuo/1th-2023-01-08-zhou0.md",
+    "shuoshuo/1th-2023-01-03-zhou2.md",
     "shuoshuo/1th-2023-01-02-zhou1.md",
     "shuoshuo/car-designed-by-jobs.md",
     "shuoshuo/1.日记索引.md",
-    "模板/日记模板.md",
     "2.金融/分析师与交易员.md",
     "shuoshuo/31th-2024-08-02-zhou5.md",
-    "shuoshuo/1th-2023-01-03-zhou2.md",
     "shuoshuo/13th-2024-03-30-zhou6.md",
     "3.微信读书/1.微信读书索引.md",
     "wechat-posts/1.公众号文章索引.md",
@@ -327,9 +319,6 @@
     "5.博客文章/shuoshuo",
     "5.博客文章/funstoutiao",
     "5.博客文章",
-    "shuoshuo/query.md",
-    "shuoshuo/48th-2023-12-03-zhou0.md",
-    "shuoshuo/48th-2023-12-02-zhou6.md",
     "shuoshuo",
     "wechat-posts",
     "attachment/卢曼卡片盒笔记发标注.png",
