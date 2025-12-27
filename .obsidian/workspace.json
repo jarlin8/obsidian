@@ -50,7 +50,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -80,7 +80,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -274,15 +275,17 @@
   },
   "active": "cde0e87dd6578f1b",
   "lastOpenFiles": [
-    "shuoshuo/52th-2025-12-27-zhou6.md",
-    "shuoshuo/2th-2023-01-12-zhou4.md",
     "模板/日记模板.md",
+    "模板/未命名.base",
+    "模板/历史人物模板.md",
+    "shuoshuo/52th-2025-12-27-zhou6.md",
+    "shuoshuo/1.日记索引.md",
+    "shuoshuo/2th-2023-01-12-zhou4.md",
     "shuoshuo/34th-2020-08-20-zhou4.md",
     "shuoshuo/1th-2023-01-08-zhou0.md",
     "shuoshuo/1th-2023-01-03-zhou2.md",
     "shuoshuo/1th-2023-01-02-zhou1.md",
     "shuoshuo/car-designed-by-jobs.md",
-    "shuoshuo/1.日记索引.md",
     "2.金融/分析师与交易员.md",
     "shuoshuo/31th-2024-08-02-zhou5.md",
     "shuoshuo/13th-2024-03-30-zhou6.md",
@@ -291,7 +294,6 @@
     "1.爱好/历史/1.AllHistory.md",
     "1.爱好/历史/隋朝人物.md",
     "1.爱好/英语/1.AllEnglish.md",
-    "模板/历史人物模板.md",
     "shuoshuo/52th-2023-01-01-zhou0.md",
     "shuoshuo/14th-2024-04-07-zhou0.md",
     "shuoshuo/30th-2024-07-26-zhou5.md",
@@ -299,7 +301,6 @@
     "模板/博客文章新建.md",
     "shuoshuo/gingko-tree-fall.md",
     "shuoshuo/2022-last-day.md",
-    "shuoshuo/1th-2024-01-03-zhou3.md",
     "5.博客文章/fccmnet",
     "5.博客文章/ssggnet",
     "5.博客文章/shuoshuo",
@@ -316,7 +317,6 @@
     "attachment/Pasted Image 20231203103737.jpeg",
     "5.博客文章/fendou-posts/log.txt",
     "3.微信读书/个人成长",
-    "3.微信读书/经济理财",
     "ob/卢曼卡片盒笔记法介绍.png",
     "ob/卢曼卡片盒笔记发标注.png",
     "ob/obsidian插件推荐.jpg",
