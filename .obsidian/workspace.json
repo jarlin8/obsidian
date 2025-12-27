@@ -16,33 +16,8 @@
               "icon": "Memos",
               "title": "Thino"
             }
-          },
-          {
-            "id": "b09cdc52ce7bc5c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shuoshuo/52th-2025-12-27-zhou6.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "52th-2025-12-27-zhou6"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "shuoshuo/52th-2025-12-27-zhou6.md",
+                "file": "模板/日记模板.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -271,7 +246,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "52th-2025-12-27-zhou6 的关系图"
+              "title": "日记模板 的关系图"
             }
           }
         ]
@@ -297,10 +272,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b09cdc52ce7bc5c7",
+  "active": "cde0e87dd6578f1b",
   "lastOpenFiles": [
-    "模板/日记模板.md",
     "shuoshuo/52th-2025-12-27-zhou6.md",
+    "模板/日记模板.md",
     "shuoshuo/52th-2025-12-28-zhou0.md",
     "shuoshuo/52th-2025-12-26-zhou5.md",
     "shuoshuo/52th-2023-01-01-zhou0.md",
