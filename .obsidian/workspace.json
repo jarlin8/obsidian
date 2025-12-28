@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "模板/日记模板.md",
+                "file": "模板/WeChat-post模板.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -246,7 +246,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "日记模板 的关系图"
+              "title": "WeChat-post模板 的关系图"
             }
           }
         ]
@@ -274,6 +274,16 @@
   },
   "active": "cde0e87dd6578f1b",
   "lastOpenFiles": [
+    "wechat-posts/assets/第一篇文章/Pasted Image 20251228105543.jpeg",
+    "wechat-posts/assets/第一篇文章",
+    "wechat-posts/assets",
+    "shuoshuo/52nd-2025-12-28-Sun.md",
+    "attachment/52nd-2025-12-28-Sun/file-20251228184315152.png",
+    "attachment/52nd-2025-12-28-Sun/file-20251228184247740.mp4",
+    "attachment/52nd-2025-12-28-Sun/file-20251228184217214.mp3",
+    "attachment/52nd-2025-12-28-Sun/file-20251228140513288.jpeg",
+    "attachment/52nd-2025-12-28-Sun/file-20251228130022572.jpg",
+    "attachment/52nd-2025-12-28-Sun",
     "shuoshuo/52th-2025-12-27-zhou6.md",
     "模板/日记模板.md",
     "shuoshuo/52th-2025-12-28-zhou0.md",
@@ -299,15 +309,10 @@
     "shuoshuo/1th-2023-01-03-zhou2.md",
     "shuoshuo/car-designed-by-jobs.md",
     "2.金融/分析师与交易员.md",
-    "3.微信读书/1.微信读书索引.md",
-    "wechat-posts/1.公众号文章索引.md",
     "5.博客文章/fccmnet",
     "5.博客文章/ssggnet",
     "5.博客文章/shuoshuo",
     "5.博客文章/funstoutiao",
-    "5.博客文章",
-    "shuoshuo",
-    "wechat-posts",
     "attachment/卢曼卡片盒笔记发标注.png",
     "attachment/卢曼卡片盒笔记法介绍.png",
     "attachment/avatar图片.jpg",
@@ -315,11 +320,6 @@
     "attachment/Pasted Image 20231201150236.jpeg",
     "attachment/Pasted Image 20231201213220.jpeg",
     "attachment/Pasted Image 20231203103737.jpeg",
-    "5.博客文章/fendou-posts/log.txt",
-    "3.微信读书/个人成长",
-    "ob/卢曼卡片盒笔记法介绍.png",
-    "ob/卢曼卡片盒笔记发标注.png",
-    "ob/obsidian插件推荐.jpg",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
