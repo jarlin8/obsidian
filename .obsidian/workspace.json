@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "模板/WeChat-post模板.md",
+                "file": "wechat-posts/第一篇文章.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -246,7 +246,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "WeChat-post模板 的关系图"
+              "title": "第一篇文章 的关系图"
             }
           }
         ]
