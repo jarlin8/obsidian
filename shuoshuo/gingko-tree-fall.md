@@ -1,5 +1,7 @@
 ---
 title: 明天就是双11,2022年又度过90%了…
+tags:
+  - 日记/11月
 post_status: publish
 post_date: 2022-11-10 15:39:56
 ---

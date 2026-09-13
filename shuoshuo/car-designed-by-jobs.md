@@ -1,5 +1,7 @@
 ---
 title: 如果乔布斯造车......
+tags:
+  - 日记/10月
 post_status: publish
 post_date: 2022-10-30 10:35:07
 ---
